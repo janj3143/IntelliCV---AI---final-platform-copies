@@ -1,0 +1,95 @@
+# IntelliCV Core Platform Requirements
+# Essential dependencies for basic functionality
+# Install: pip install -r requirements_core.txt
+
+# ========================================
+# 🎯 CORE PLATFORM FRAMEWORK
+# ========================================
+
+# Primary UI Framework
+streamlit>=1.28.0
+
+# Essential Data Processing
+pandas>=2.1.0
+numpy>=1.24.0
+
+# Interactive Visualizations
+plotly>=5.17.0
+matplotlib>=3.7.0
+
+# System and File Operations
+psutil>=5.9.0
+pathlib2>=2.3.7
+
+# HTTP and Network
+requests>=2.31.0
+
+# Image Processing (Basic)
+Pillow>=10.0.0
+
+# Date and Time Utilities
+python-dateutil>=2.8.2
+
+# JSON and Data Serialization
+orjson>=3.9.0
+
+# Environment Configuration
+python-dotenv>=1.0.0
+
+# ========================================
+# 🗄️ DATABASE CORE
+# ========================================
+
+# Built-in database support (SQLite3 is built-in)
+# No additional requirements needed for basic SQLite usage
+
+# ========================================
+# 🔧 ESSENTIAL UTILITIES
+# ========================================
+
+# Configuration Management
+pydantic>=2.4.0
+pydantic-settings>=2.0.0
+
+# Logging
+loguru>=0.7.0
+
+# Progress Indicators
+tqdm>=4.66.0
+
+# Command Line Interface
+click>=8.1.0
+
+# ========================================
+# 📄 BASIC FILE PROCESSING
+# ========================================
+
+# Text Files and CSV (built-in support)
+# JSON processing (built-in)
+
+# Basic Excel Support
+openpyxl>=3.1.0
+
+# ========================================
+# 🎨 STREAMLIT ENHANCEMENTS
+# ========================================
+
+# Enhanced Streamlit Components
+streamlit-option-menu>=0.3.6
+streamlit-extras>=0.3.0
+
+# ========================================
+# 🔄 ASYNC SUPPORT
+# ========================================
+
+# Async utilities (when needed)
+asyncio-compat>=0.1.2
+
+# ========================================
+# NOTES
+# ========================================
+# This is the minimal set required for basic IntelliCV functionality
+# For advanced features, install additional requirement files:
+# - requirements_ai.txt (AI/ML features)
+# - requirements_web.txt (Web APIs and scraping)
+# - requirements_enterprise.txt (Advanced enterprise features)

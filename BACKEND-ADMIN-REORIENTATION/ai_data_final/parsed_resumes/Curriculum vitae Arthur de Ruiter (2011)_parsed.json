@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "file_name": "Curriculum vitae Arthur de Ruiter (2011).pdf",
+    "file_size": 109368,
+    "processing_date": "2025-10-09T16:20:51.553033",
+    "text_length": 4872,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "arthur.de.ruiter@zonnet.nl"
+    ],
+    "phones": [
+      "299 785 398",
+      "6 1003 0752"
+    ],
+    "names": [
+      "Arthur"
+    ],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [],
+  "job_titles": [
+    "Manager",
+    "Director"
+  ],
+  "text_sample": "Curriculum Vitae\nArthur de Ruiter\nPersonal information                                                                                                                                                                               \nName Arthur de Ruiter\nDate of birth, place February 15, 1970, Netherlands\nHome address Houtbaai 42 \n1448 SJ, Purmerend, Netherlands\nTelephone +31 (0) 299 785 398 (home), +31 (0) 6 1003 0752 (mobile)\nE-mail arthur.de.ruiter@zonnet.nl\nMarital status Married (two children)...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "finance": [
+      "Excel"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "manufacturing",
+    "industry_scores": {
+      "technology": 1,
+      "manufacturing": 3,
+      "education": 2
+    },
+    "confidence": 0.5
+  }
+}

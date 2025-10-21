@@ -1,0 +1,408 @@
+resume,match_count,resume_token_count,jd_token_count,precision,recall,f1_score
+15125 CV Guido Stein Jan 2020 short,6,7385,35,0.001,1.0,0.002
+15125 Guido Stein  - Updated CV 18-11-20,5,5095,35,0.001,1.0,0.002
+2024-04 CV Tijmen van den Bovenkamp,6,19512,35,0.0,1.0,0.001
+20250520_152049_Arthur Ellis - JVCV,5,22087,35,0.0,1.0,0.0
+20250521_143112_JV CV Simon Reitmaier Nov 2020,2,4651,35,0.0,1.0,0.001
+22389 Updated Doug Davies CV_Full History  References 10.11.20,5,12159,35,0.0,1.0,0.001
+24595 Profile - 2021-02-16 Latest,4,3221,35,0.001,1.0,0.002
+51867 Asad Ali_CV_Principal-Senior AIM Engineer,6,13471,35,0.0,1.0,0.001
+55015 Ian Bremner,6,13362,35,0.0,1.0,0.001
+60862 Profile (2) Pratik Waghela latest cv,4,2390,35,0.002,1.0,0.003
+60904Harry Waudby_19307595_cv-library,5,7288,35,0.001,1.0,0.001
+60905David Harrison_19792229_cv-library,7,7360,35,0.001,1.0,0.002
+60906Profile (69),4,2901,35,0.001,1.0,0.003
+60907James W CV,5,3233,35,0.002,1.0,0.003
+60908 Alex-Dimmick_16041747_cv-library,6,6390,35,0.001,1.0,0.002
+60909 Vikar Hussain_16226191_cv-library (1),6,11243,35,0.001,1.0,0.001
+60910Angela Motiwala_17735780_cv-library (1),3,2187,35,0.001,1.0,0.003
+60911David Bolland CV- September      2019,6,5384,35,0.001,1.0,0.002
+60912Karishma Natha CV updated,5,7502,35,0.001,1.0,0.001
+60914Working CV,5,9058,35,0.001,1.0,0.001
+60918ColinMcDonald CV 2019,2,1354,35,0.001,1.0,0.003
+60919 MiccioMarino_CV,6,21982,35,0.0,1.0,0.001
+60920CV John Elliott 06-11-19,5,1966,35,0.003,1.0,0.005
+60921Daniel Glickman_19614826_cv-library (1),4,2263,35,0.002,1.0,0.004
+60922Jessica-Sarah Parker_3885759_cv-library (1),12,117999,35,0.0,1.0,0.0
+60924CV_Bassim_Djebabri_2019 TMO (1),2,2200,35,0.001,1.0,0.002
+60941Nihazul's CV,4,1418,35,0.003,1.0,0.006
+60942 Giulio Guerrieri,8,25390,35,0.0,1.0,0.001
+60944CV - Bethany Mulliner,5,5924,35,0.001,1.0,0.002
+60945,5,6929,35,0.001,1.0,0.001
+60957 Peter Boergardts,4,1155,35,0.003,1.0,0.007
+60958Helena Webb_19457251_cv-library,5,8161,35,0.001,1.0,0.001
+60963cv-library_Catalin-Stoenescu (1),3,2570,35,0.001,1.0,0.002
+60965Profile (27),6,3091,35,0.002,1.0,0.004
+60966cv-library_Robert-McKeon,5,14446,35,0.0,1.0,0.001
+60967cv-library_Chris-Pye,6,10009,35,0.001,1.0,0.001
+60968cv-library_Shaun-Mckeefry,5,11041,35,0.0,1.0,0.001
+60970cv-library_Jacob-Fortescue,6,7517,35,0.001,1.0,0.002
+60971Erwann Lompech,5,8421,35,0.001,1.0,0.001
+60972liam-faulkner-cv,1,1127,35,0.001,1.0,0.002
+60973CV English,5,14185,35,0.0,1.0,0.001
+61268 Technical Sales Engineer - BeNeLux  Nordics,2,4659,35,0.0,1.0,0.001
+61269 - Yaroslav Tikhomirov,5,8345,35,0.001,1.0,0.001
+61270 - Felix Marks,4,4988,35,0.001,1.0,0.002
+61271 - Paul Evans,5,4930,35,0.001,1.0,0.002
+61272 - Alexander Vogt - Key Account Manager,7,6652,35,0.001,1.0,0.002
+61273 - Emanuel Ghebreyesus,2,4689,35,0.0,1.0,0.001
+61274 - Andrea Crosetti,5,5073,35,0.001,1.0,0.002
+61275 - Alexander Duncan,4,4878,35,0.001,1.0,0.002
+61276 - Allen Wilkes,5,5087,35,0.001,1.0,0.002
+61277 - Calum Auld,2,4780,35,0.0,1.0,0.001
+61279 - Andrew Poxon,4,5460,35,0.001,1.0,0.001
+61280 - John Golden,3,4677,35,0.001,1.0,0.001
+61282 - Business Development Manager,6,8296,35,0.001,1.0,0.001
+61283 - Sam Helliwell - Chemical Process  Project Engineer,6,8579,35,0.001,1.0,0.001
+61284 - Joanne Boyd-Kidd,5,5012,35,0.001,1.0,0.002
+61287 - Guy Slack mind map,2,2247,35,0.001,1.0,0.002
+61287,2,2247,35,0.001,1.0,0.002
+61297 - peter moore,5,2615,35,0.002,1.0,0.004
+61300 - Bernhard Landis,4,7501,35,0.001,1.0,0.001
+61301,3,4722,35,0.001,1.0,0.001
+61302 - Marc Sheldon,5,8431,35,0.001,1.0,0.001
+61303 - Utkarsh Singh Bais,5,8439,35,0.001,1.0,0.001
+61304 - Julien Vallee,6,8688,35,0.001,1.0,0.001
+61305 Pierre-Emmanuel Vincent,5,8047,35,0.001,1.0,0.001
+61306 - Frank Vaughan,5,8685,35,0.001,1.0,0.001
+61307 - Enterprise Sales Manager UKI (61307),5,8940,35,0.001,1.0,0.001
+61405 Karen Unruh,4,1147,35,0.003,1.0,0.007
+61406 Cassell Essell - Resume,6,6378,35,0.001,1.0,0.002
+61407 Judith Farkas,5,2394,35,0.002,1.0,0.004
+61482 Client copy - name on,4,4427,35,0.001,1.0,0.002
+Aadil Chaudhary update,5,2692,35,0.002,1.0,0.004
+ABDULLA YOUSEF MOHAMMED,4,7366,35,0.001,1.0,0.001
+Abdullah Al Zoud - Word,1,935,35,0.001,1.0,0.002
+Abeer Abu Diab,4,7755,35,0.001,1.0,0.001
+Adam Tither,5,7273,35,0.001,1.0,0.001
+Adrian-Garcia-Ramos Original CV,5,5627,35,0.001,1.0,0.002
+Air Products Cover Sheet - Jerome Ganachaud,3,4733,35,0.001,1.0,0.001
+Air Products Cover Sheet - Paul Glendinning,6,11262,35,0.001,1.0,0.001
+Alessandro Ricciu,5,7618,35,0.001,1.0,0.001
+Alex Cooke - update CV (linkedin),5,2352,35,0.002,1.0,0.004
+Alexandra Nasser_8828565_cv-library 61433,6,11024,35,0.001,1.0,0.001
+Ali Yazbek,5,9402,35,0.001,1.0,0.001
+Andrew Butterworth_Update 12765561_cv-library,3,2226,35,0.001,1.0,0.003
+Andrew Clouds update - linkedin,5,2747,35,0.002,1.0,0.004
+Andy Whittall,3,4504,35,0.001,1.0,0.001
+Angela Fairbanks Resume,5,4721,35,0.001,1.0,0.002
+Anil Singla resume_,12,9015,35,0.001,1.0,0.003
+Antonio_Aulicino_CV,5,8585,35,0.001,1.0,0.001
+Arthur Ellis - JVCV,5,22087,35,0.0,1.0,0.0
+Arthur Ellis,4,8414,35,0.0,1.0,0.001
+Asad Ali_Cover Letter,5,13096,35,0.0,1.0,0.001
+Aurelien Eymaron update linkedin,5,2668,35,0.002,1.0,0.004
+AW CV 2021,6,13198,35,0.0,1.0,0.001
+Ayman Abdalla - Professional Services_Consultant - Fortinet Original CV,6,15700,35,0.0,1.0,0.001
+Ayman Abdalla Mohamed Ali - Client Copy - Name on,2,4774,35,0.0,1.0,0.001
+Badreddine Necer,5,8314,35,0.001,1.0,0.001
+BASMA_GADDOUNA,5,4610,35,0.001,1.0,0.002
+Burhanuddeen Shibli,6,9558,35,0.001,1.0,0.001
+Calum Stewart - CV 61416,2,1594,35,0.001,1.0,0.003
+Cara Pyne Original CV,5,7529,35,0.001,1.0,0.001
+Caroline Western,3,4572,35,0.001,1.0,0.001
+Caroline Western_21416011_cv-library,5,7920,35,0.001,1.0,0.001
+Charlotte_Ramsier,5,7668,35,0.001,1.0,0.001
+Chris Badenhorst,5,9457,35,0.001,1.0,0.001
+Christian Díaz-Urrutia,3,7864,35,0.0,1.0,0.001
+Chul Bae,5,6676,35,0.001,1.0,0.001
+Clara_Gil,5,12349,35,0.0,1.0,0.001
+Client CV (Carbon Architecture) - Cara Pyne (DB),4,4695,35,0.001,1.0,0.002
+CLIENT CV - RBI and Integrity Specialist (58216),2,4665,35,0.0,1.0,0.001
+cover letter - IDSplc,7,17512,35,0.0,1.0,0.001
+Covering letter,1,983,35,0.001,1.0,0.002
+Craig Sproul Original CV,4,2656,35,0.002,1.0,0.003
+Cristian_Nunez Original Resume,3,3353,35,0.001,1.0,0.002
+CV (with Modules).docx Scott Montgomery,5,6640,35,0.001,1.0,0.002
+CV - Andy Loose - AP Director Engineering 2021,5,3064,35,0.002,1.0,0.003
+CV - Mark Gill,6,9408,35,0.001,1.0,0.001
+CV - S Davies (1),6,8543,35,0.001,1.0,0.001
+CV Andoni Plaza_2021_vJan (1) 61415,4,5347,35,0.001,1.0,0.001
+CV Basma Gaddouna-2024-E,6,6227,35,0.001,1.0,0.002
+CV Filippo Tatullo,4,2076,35,0.002,1.0,0.004
+CV Jonny Davies #1 - Copy (1),4,2207,35,0.002,1.0,0.004
+CV K PoloTolley - original,2,1416,35,0.001,1.0,0.003
+CV Orig  Wouter Spierenburg cv-english,5,2789,35,0.002,1.0,0.004
+CV ORIG Felix Marks CV 2020,3,2903,35,0.001,1.0,0.002
+CV Sharief - PS Consultant2020,7,20777,35,0.0,1.0,0.001
+CV Sophie Neumann Original CV,5,9104,35,0.001,1.0,0.001
+CV-A_Gozutok,5,17464,35,0.0,1.0,0.001
+cv-library_Hadi-Jawaid,4,2430,35,0.002,1.0,0.003
+cv-library_Ian-Peers,5,7142,35,0.001,1.0,0.001
+cv-library_Lewis-Cleverly,6,7006,35,0.001,1.0,0.002
+cv-library_Massimo-Reale,6,18487,35,0.0,1.0,0.001
+cv-library_Richard-Delve,4,2172,35,0.002,1.0,0.004
+cv-library_Sean-Jones,7,7407,35,0.001,1.0,0.002
+cv-library_Steven-Coyne,6,9724,35,0.001,1.0,0.001
+CV2021ASgard,5,5757,35,0.001,1.0,0.002
+CV_AndreasKern_Dec2024,5,4641,35,0.001,1.0,0.002
+CV_GMH_January 2021,2,2249,35,0.001,1.0,0.002
+CV_IG_2021_EN,5,19193,35,0.0,1.0,0.001
+CV_IK Kim_2021,1,1477,35,0.001,1.0,0.001
+CV_P.Grypiotis and PresentationLetter (Complete)_EN,6,8659,35,0.001,1.0,0.001
+CV_Paul Jeong_REV D_25 Apr 2020,1,1349,35,0.001,1.0,0.001
+CV_RME_2021 - 61431,8,23022,35,0.0,1.0,0.001
+CV_Susete Pereira,8,14738,35,0.001,1.0,0.001
+CV_Ugo Sottotetti + LI 22.03.21_en,6,16229,35,0.0,1.0,0.001
+Dami Aboyeji Update CV,6,2635,35,0.002,1.0,0.005
+Daniel Gaeta update linkedin,4,2453,35,0.002,1.0,0.003
+Daniele Palladino update,4,2416,35,0.002,1.0,0.003
+Dany Chabbouh,6,7959,35,0.001,1.0,0.002
+Daria_Nochevnik,6,7713,35,0.001,1.0,0.002
+Darren Hughes update - linkedin,6,2569,35,0.002,1.0,0.005
+David Robertson update - linkedin,5,2745,35,0.002,1.0,0.004
+DEKRA Profile Summary - Gill Kernick,2,4974,35,0.0,1.0,0.001
+Dewi Lewis update,5,2312,35,0.002,1.0,0.004
+Dr Mikael Khan update - linkedin,5,3242,35,0.002,1.0,0.003
+Ecem Ozinan - Update cv (linkedin),4,2707,35,0.001,1.0,0.003
+Eckart Ehlers,4,6452,35,0.001,1.0,0.001
+ERIC_MEHL,5,7052,35,0.001,1.0,0.001
+FAKHRELDIN MOHAMED,4,6374,35,0.001,1.0,0.001
+Fatima Mirza,5,8025,35,0.001,1.0,0.001
+Fatma Al Gargawi,5,8720,35,0.001,1.0,0.001
+Filippo_Alesi,5,7748,35,0.001,1.0,0.001
+Fiona Guinee update - linkedin,5,2440,35,0.002,1.0,0.004
+Firas Musleh,5,7638,35,0.001,1.0,0.001
+Fizza Sabir,3,6915,35,0.0,1.0,0.001
+Francesco_Ohazuruike,5,7710,35,0.001,1.0,0.001
+Frédéric ALARCON Original Resume,5,7607,35,0.001,1.0,0.001
+Gabriele Malcangio,5,7639,35,0.001,1.0,0.001
+GedizKorkmaz_CV_Eng 18Feb21,5,1665,35,0.003,1.0,0.006
+Gill Kernick - Client Copy - DB,2,4974,35,0.0,1.0,0.001
+Giuseppe Ferraro - Update linkedin,5,2816,35,0.002,1.0,0.004
+Giuseppe Pancione updated CV,5,2634,35,0.002,1.0,0.004
+Glen Hytoft - CV - 2023-12-07,1,1616,35,0.001,1.0,0.001
+gordonduncan-DB indef 61434,5,3593,35,0.001,1.0,0.003
+Graham_Dean,6,7623,35,0.001,1.0,0.002
+Habiba Eletr,5,9438,35,0.001,1.0,0.001
+Habiba Mahmoud Eletr,4,6716,35,0.001,1.0,0.001
+Hanna Kurkowska-Dzialach update,4,2725,35,0.001,1.0,0.003
+Hazeeq Azlan's Resume - Original,6,8797,35,0.001,1.0,0.001
+Hazeeq Muhaimien Mohammad Azlan - Client Copy,5,7372,35,0.001,1.0,0.001
+Helmi Rais update - linkedin,5,2576,35,0.002,1.0,0.004
+IK_Kim__김인겸___055623__-_Technical_Service_Engineer_reviewed_by_Merit__2019-_2020_Annual_Merit_2020_03_12,5,2712,35,0.002,1.0,0.004
+Iliona Stezowska update,6,2683,35,0.002,1.0,0.004
+Isaac Jefferson original CV,3,1027,35,0.003,1.0,0.006
+Jack Wardale_21421459_cv-library (1),4,2420,35,0.002,1.0,0.003
+James Ratcliffe - Cover Letter,4,4041,35,0.001,1.0,0.002
+James Ratcliffe - CV,5,8560,35,0.001,1.0,0.001
+James Ratcliffe - update CV,5,8578,35,0.001,1.0,0.001
+James Stott,4,6234,35,0.001,1.0,0.001
+Janny_Smegen,5,7737,35,0.001,1.0,0.001
+Javier Cayón-CV-Eng-2021-Original CV,5,11277,35,0.0,1.0,0.001
+Jean-Guy Clemenceau updated cv,5,2824,35,0.002,1.0,0.004
+Jeff Robson - Resume_,5,8653,35,0.001,1.0,0.001
+Jeroen_Weemaes,5,7594,35,0.001,1.0,0.001
+Jerome Ganachaud CV for distribution,4,2821,35,0.001,1.0,0.003
+Jerôme Ganachaud CV,3,4748,35,0.001,1.0,0.001
+Jesus Anselmo Ramos Escudero update - Linkedin,5,2985,35,0.002,1.0,0.003
+JISHNU R CV 2023 AUG GB,7,24041,35,0.0,1.0,0.001
+Joana_Andrade,5,7473,35,0.001,1.0,0.001
+Joanna Richart_21797667_cv-library - update,3,2896,35,0.001,1.0,0.002
+Jonathan _Lambert,5,7752,35,0.001,1.0,0.001
+Joretha Augostine update - Linkedin,4,2594,35,0.002,1.0,0.003
+Jose Carmelo Santana Perdomo,5,7545,35,0.001,1.0,0.001
+Juan Manuel González de la Presa English - Original CV,4,3171,35,0.001,1.0,0.003
+Junaid Shah - JVCV,5,21419,35,0.0,1.0,0.0
+Junaid Shah-Technical Sales and Service Manager,6,7866,35,0.001,1.0,0.002
+JV CV - Shahed Iqbal (59305),5,4396,35,0.001,1.0,0.002
+JV CV 60349,3,4514,35,0.001,1.0,0.001
+JV CV 61318,2,4161,35,0.0,1.0,0.001
+JV CV 61327,4,4357,35,0.001,1.0,0.002
+JV CV 61328,3,4197,35,0.001,1.0,0.001
+JV CV 61500,3,4200,35,0.001,1.0,0.001
+JV CV Pengyu Li,3,4526,35,0.001,1.0,0.001
+JV CV Simon Reitmaier Nov 2020,2,4651,35,0.0,1.0,0.001
+JVC - Joshua Hill,6,9055,35,0.001,1.0,0.001
+JVC - Lumu Allan Kigozi,6,9973,35,0.001,1.0,0.001
+JVC - TIMOTHY MCCHRYSTAL-CLEMENTS,5,9106,35,0.001,1.0,0.001
+JVCV - Andrew Marc Dearden,5,4721,35,0.001,1.0,0.002
+JVCV - BASMA GADDOUNA,5,4610,35,0.001,1.0,0.002
+JVCV - Roger Ingemey Kamp-Lintfort,5,4428,35,0.001,1.0,0.002
+JVCV 61457,3,4361,35,0.001,1.0,0.001
+JVCV Surendra Acharya,2,4680,35,0.0,1.0,0.001
+Kagiso Eric Mhlanga Original- update 2.3.21,5,7272,35,0.001,1.0,0.001
+KagisoMhlanga  (Gexcon Consulting Cover Letter),5,11452,35,0.0,1.0,0.001
+Karim El-Zayat,5,7741,35,0.001,1.0,0.001
+Kathy_Ememere,5,8003,35,0.001,1.0,0.001
+Kees Drost update - linkedin,5,4230,35,0.001,1.0,0.002
+Kevin Estevenon,5,7528,35,0.001,1.0,0.001
+Kirsty Boytler,4,5861,35,0.001,1.0,0.001
+Kisar Bittar,5,7588,35,0.001,1.0,0.001
+Kris Kearney,7,2477,35,0.003,1.0,0.006
+Krisztian Geza Balanyi - Original CV,4,2463,35,0.002,1.0,0.003
+Laxmi Vajravel_13110973_cv-library (1),4,4015,35,0.001,1.0,0.002
+Leigh Howarth Original CV,5,2008,35,0.002,1.0,0.005
+Letter to Air Products,1,907,35,0.001,1.0,0.002
+Lewis Beresford update,6,2239,35,0.003,1.0,0.005
+Liam Douglas update - Linkedin,6,2397,35,0.003,1.0,0.005
+Luca Haraini CV (1),2,1396,35,0.001,1.0,0.003
+Luciano Marco Valentini updated,6,2769,35,0.002,1.0,0.004
+Luigi Ferrami update linkedin,6,2799,35,0.002,1.0,0.004
+Luis Caballero Alcalde - Original CV,7,22214,35,0.0,1.0,0.001
+Luis Fuller Updated CV,6,2706,35,0.002,1.0,0.004
+Luke Nelson,5,4576,35,0.001,1.0,0.002
+Luke _Nelson _CV _11_05_24,4,1858,35,0.002,1.0,0.004
+Mai Saad Youssef Morsy,4,7502,35,0.001,1.0,0.001
+Marc _Tschopp,5,6250,35,0.001,1.0,0.002
+Mark Hawtin update CV - Linkedin,5,2959,35,0.002,1.0,0.003
+Martin Hefford,3,4658,35,0.001,1.0,0.001
+Matthew_LEACH_CV_3,5,9518,35,0.001,1.0,0.001
+Matthieu Gallet de Saint Aurin,5,8266,35,0.001,1.0,0.001
+Matthieu _Gallet _de _Saint _Aurin,5,8266,35,0.001,1.0,0.001
+Maxence Calmet,5,7504,35,0.001,1.0,0.001
+Mayur Upadhyay,5,7897,35,0.001,1.0,0.001
+Michael Stark - Cover Letter,5,4073,35,0.001,1.0,0.002
+Michael Stark - Original Resume,5,8856,35,0.001,1.0,0.001
+Michel _Wengler,6,7653,35,0.001,1.0,0.002
+Micheli_CV,8,21293,35,0.0,1.0,0.001
+Michelle Free - Original CV,3,3216,35,0.001,1.0,0.002
+Mohamed  Elganiny - Word,2,874,35,0.002,1.0,0.005
+Mohammed Almqayyad Resume 2,3,1893,35,0.002,1.0,0.003
+Mohammed Almqayyad,3,4656,35,0.001,1.0,0.001
+Mousa Alqarni_Catalysts Key Account Manager - Original CV,5,12113,35,0.0,1.0,0.001
+Muhammad _Aadil _Makani,5,7645,35,0.001,1.0,0.001
+Neill Parkinson - CV - April 2020,5,8556,35,0.001,1.0,0.001
+Nick Betts,3,4773,35,0.001,1.0,0.001
+Nico Cristofaro updated CV,5,2355,35,0.002,1.0,0.004
+Nina _Schaefer,6,7468,35,0.001,1.0,0.002
+Noora Al Hammadi,4,7283,35,0.001,1.0,0.001
+Omar Sabir updated cv,6,2586,35,0.002,1.0,0.005
+ORIG CV (61280) - John Golden (Linked In),6,3011,35,0.002,1.0,0.004
+ORIG CV (Linked In) - Julien Valee (61304),6,3478,35,0.002,1.0,0.003
+ORIG CV (linked In) - Paul Evans,3,3020,35,0.001,1.0,0.002
+ORIG CV - Andrea Crosetti 2020,9,10689,35,0.001,1.0,0.002
+ORIG CV - Daniel Jussen Aug 20 (61299),6,3035,35,0.002,1.0,0.004
+ORIG CV - Emmanouil (Manolis) Papadakis (61298),5,12844,35,0.0,1.0,0.001
+ORIG CV - Guy Slack CV August 2020  EEXT,5,3263,35,0.002,1.0,0.003
+ORIG CV - JACK WARDALE,4,2432,35,0.002,1.0,0.003
+ORIG CV - JEAN-BAPTISTE MARIAUX,5,2696,35,0.002,1.0,0.004
+ORIG CV - JOHN PENNINGTON 20,5,5188,35,0.001,1.0,0.002
+ORIG CV - Mark-Cosby 61286,5,5923,35,0.001,1.0,0.002
+ORIG CV - MICHAEL XAVIER PRAVIN,5,2221,35,0.002,1.0,0.004
+ORIG CV - Paul-Neil,5,2553,35,0.002,1.0,0.004
+ORIG CV - Pierre-Emmanuel Vincent (Nozomi) - 61305,8,21641,35,0.0,1.0,0.001
+Orig CV - Samuel-Helliwell (1),6,22863,35,0.0,1.0,0.001
+ORIG CV - Satwik Kar CV,7,30050,35,0.0,1.0,0.0
+ORIG CV - Yi-Guang Yao,9,50501,35,0.0,1.0,0.0
+ORIG CV Alexander Vogt_English,7,10001,35,0.001,1.0,0.001
+ORIG CV Alexander-Duncan-2020,6,13246,35,0.0,1.0,0.001
+ORIG CV Allen Wilkes 2020,5,11625,35,0.0,1.0,0.001
+ORIG CV Bernhard Landis 29 July 20 (2),6,20961,35,0.0,1.0,0.001
+ORIG CV Calum Auld CV 040620,6,10837,35,0.001,1.0,0.001
+ORIG CV Emanuel Ghebreyesus 2020,5,2978,35,0.002,1.0,0.003
+ORIG CV Joanne Boyd-Kidd 2020,5,11061,35,0.0,1.0,0.001
+ORIG CV JULIA BOYE,6,2753,35,0.002,1.0,0.004
+ORIG CV MarcSheldon_CV_Jan20,3,2794,35,0.001,1.0,0.002
+ORIG CV Nick Javes CV Jan 2020 (no customer names),4,1780,35,0.002,1.0,0.004
+ORIG CV Nick Power_Aug20_2.1,7,18352,35,0.0,1.0,0.001
+ORIG CV Richard fisher,5,5737,35,0.001,1.0,0.002
+ORIG CV Sascha Wagner (2),5,7247,35,0.001,1.0,0.001
+ORIG CV SIMONA GRANDITS,5,2539,35,0.002,1.0,0.004
+ORIG CV Utkarsh Singh Bais-CV,5,3716,35,0.001,1.0,0.003
+ORIG CV_Sept_2020_Frank Vaughan PDF,4,4302,35,0.001,1.0,0.002
+Original Cover letter IDS Jake Morrow,3,1917,35,0.002,1.0,0.003
+Original CV - Adam Mellick - Jan 2021 (2),3,1117,35,0.003,1.0,0.005
+Original CV - Andrew J Morrell Tech-Iosh Resume,5,4685,35,0.001,1.0,0.002
+Original CV - Ciaran McKettrick CV,4,1876,35,0.002,1.0,0.004
+Original CV - David Hughes,6,2401,35,0.002,1.0,0.005
+Original CV - Duncan Lindsay,6,2577,35,0.002,1.0,0.005
+Original CV - Experienced Product Manager (61297),6,8517,35,0.001,1.0,0.001
+Original CV - Gill Kernick CV Feb 2021 (4),6,9883,35,0.001,1.0,0.001
+Original CV - I.C.Edge - February 2021,3,1559,35,0.002,1.0,0.004
+Original CV - Jake Morrow CV,5,16625,35,0.0,1.0,0.001
+Original CV - Kagiso Eric Mhlanga (GC) (1),5,39225,35,0.0,1.0,0.0
+Original CV - Kuo Jian Wong CV,4,5570,35,0.001,1.0,0.001
+Original CV - Martin Hefford_18089670_cv-library,4,1912,35,0.002,1.0,0.004
+Original CV - Mohammed Almqayyad,3,2516,35,0.001,1.0,0.002
+Original CV - Nick Seabright-Lewis_7867628_cv-library,5,3732,35,0.001,1.0,0.003
+Original CV - Paul Tamburrini,3,3356,35,0.001,1.0,0.002
+Original CV - Sandeep Sharma,6,3228,35,0.002,1.0,0.004
+Original CV - Vish Hiremathad,6,6500,35,0.001,1.0,0.002
+Original CV 2021RVernon,5,4514,35,0.001,1.0,0.002
+ORIGINAL CV 220716_resume_Chul_Bae,5,3427,35,0.001,1.0,0.003
+ORIGINAL CV Abdulla Yousef M,5,12738,35,0.0,1.0,0.001
+Original CV AlbertBlanco,4,3561,35,0.001,1.0,0.002
+Original CV Becky Eskandari,4,1585,35,0.003,1.0,0.005
+Original CV Charles-Andronic Thirion,4,6157,35,0.001,1.0,0.001
+Original CV cv-library_Daniel-Cleverley,4,2215,35,0.002,1.0,0.004
+Original CV cv-library_Donald-Lawlan,7,11207,35,0.001,1.0,0.001
+Original CV cv-library_Jason-Lester,4,1832,35,0.002,1.0,0.004
+Original CV cv-library_Matthew-Birkinshaw,3,2099,35,0.001,1.0,0.003
+ORIGINAL CV Eisa(1),5,6846,35,0.001,1.0,0.001
+Original CV Helena González Blanes. En (1),5,13002,35,0.0,1.0,0.001
+ORIGINAL CV HR Manager HRBP - Fakhreldin(1),7,22590,35,0.0,1.0,0.001
+ORIGINAL CV Kashif Inayatullah CV - 21+ years  Exp in HRM,5,4518,35,0.001,1.0,0.002
+Original CV Presentazione - Ing. Spadarella_20200121 - EN,4,4521,35,0.001,1.0,0.002
+Original CV RJM 2021,2,1436,35,0.001,1.0,0.003
+ORIGINAL CV Soloviev_CV_PM_Feb_2022._Eng_ (1),6,32246,35,0.0,1.0,0.0
+original cv-library_Daniel-Thomas,3,2204,35,0.001,1.0,0.003
+original cv-library_Patrick-Maswaya,5,11197,35,0.0,1.0,0.001
+ORIGINAL cv-library_Scott-Moore,5,1992,35,0.003,1.0,0.005
+Original CV_for_Adrian_Pugh 2020,3,1582,35,0.002,1.0,0.004
+Original CV_Kieran Porter CV,4,3591,35,0.001,1.0,0.002
+ORIG_CV_Gesa_Rascher_Eggstein,5,12652,35,0.0,1.0,0.001
+Pablo Gil Navarro,5,4355,35,0.001,1.0,0.002
+Pablo_Gil_Navarro,5,7525,35,0.001,1.0,0.001
+PARTHA PRATIM BHUYAN - Word Version,1,1037,35,0.001,1.0,0.002
+Paul Edwards - update linkedin,4,2577,35,0.002,1.0,0.003
+Paul_GlendinningCV21feb,4,2997,35,0.001,1.0,0.003
+Pengyu Li,6,8272,35,0.001,1.0,0.001
+Peter Hohaus,4,6441,35,0.001,1.0,0.001
+PRAVEEN KR - Word,2,1139,35,0.002,1.0,0.004
+Pre-Interview Questionnaire (Asad),3,1939,35,0.002,1.0,0.003
+Profile (1),5,2425,35,0.002,1.0,0.004
+Profile (27),6,2516,35,0.002,1.0,0.005
+Profile (28),4,2172,35,0.002,1.0,0.004
+Rakesh_Kumar_Bali,4,4694,35,0.001,1.0,0.002
+Rammohan Mittapally update,4,2259,35,0.002,1.0,0.004
+Raphael Guinabert-Biehler,5,7545,35,0.001,1.0,0.001
+Renita Pinto,5,7444,35,0.001,1.0,0.001
+Resume_JorHow_Dec2020 - 61432,5,11475,35,0.0,1.0,0.001
+Reza Salimi cv 61404,5,9822,35,0.001,1.0,0.001
+Rima Zaidan - Copy,5,7668,35,0.001,1.0,0.001
+Robin Neta CV Update,4,2757,35,0.001,1.0,0.003
+ROGER_INGEMEY_CV_2023 ME,7,15315,35,0.0,1.0,0.001
+Roghaiyeh Safari 24112020 (1) (2) 61403,6,9459,35,0.001,1.0,0.001
+Rohit Resume_2021,2,1147,35,0.002,1.0,0.003
+Russell Theobald updated cv,4,2186,35,0.002,1.0,0.004
+Salah Mahdy - JVCV,5,5051,35,0.001,1.0,0.002
+Sam Mckeever Original CV,5,9888,35,0.001,1.0,0.001
+Samad_Amand,5,3534,35,0.001,1.0,0.003
+Sami Zakaria,5,7604,35,0.001,1.0,0.001
+Samir Besher,5,7754,35,0.001,1.0,0.001
+SAMMI SHAMMA updated CV,6,2742,35,0.002,1.0,0.004
+Sandro_Chiesa,8,20075,35,0.0,1.0,0.001
+Sean Ehlen Orginial,2,1619,35,0.001,1.0,0.002
+sean lord update 3-21,4,2037,35,0.002,1.0,0.004
+Serafin Zafra Garcia,5,7532,35,0.001,1.0,0.001
+Serhat Sen,4,7412,35,0.001,1.0,0.001
+Sharron King update,5,2585,35,0.002,1.0,0.004
+Siddhartha,6,17560,35,0.0,1.0,0.001
+Siew Fongs Resume,2,3232,35,0.001,1.0,0.001
+Simona Maassen,6,5739,35,0.001,1.0,0.002
+Simon_Reitmaier,6,18129,35,0.0,1.0,0.001
+SJ Pelham CV and Cover Letter - original,5,6184,35,0.001,1.0,0.002
+Stephen Warner Jones update - linkedin,5,2508,35,0.002,1.0,0.004
+Steven Kratsis linkedin update,6,2613,35,0.002,1.0,0.005
+Sylvain Querol,5,7466,35,0.001,1.0,0.001
+Tamer Fahmy Profile (2),5,2784,35,0.002,1.0,0.004
+Tawana Mafukidze Original CV,4,1521,35,0.003,1.0,0.005
+Taylor Livingston,5,7708,35,0.001,1.0,0.001
+Thomas Hill CV,5,8280,35,0.001,1.0,0.001
+Tolu_Sodeinde,6,8571,35,0.001,1.0,0.001
+Tracy Gundry CV.26.01.21,6,14466,35,0.0,1.0,0.001
+Trevor Maddison,5,2595,35,0.002,1.0,0.004
+Update 8.12.20 Krish Hook,5,2495,35,0.002,1.0,0.004
+Update Version Salah Resume BD Ammonia,6,34164,35,0.0,1.0,0.0
+Updated CV 60840 Profile (3),4,3221,35,0.001,1.0,0.002
+Updated Nov 2020 Salah Mahdy - JVCV,5,5242,35,0.001,1.0,0.002
+Valentina Beatovic-Dobmann,4,6391,35,0.001,1.0,0.001
+Walid Khmasi,5,6978,35,0.001,1.0,0.001
+William Siddle Update 21.4.21,5,2241,35,0.002,1.0,0.004
+William_Zatti,5,7624,35,0.001,1.0,0.001
+Yassin Fateh-Sound,4,7077,35,0.001,1.0,0.001
+Zaineh Bisharat,5,7538,35,0.001,1.0,0.001
+Zayn Kamal,5,7594,35,0.001,1.0,0.001
+ZGildin Resume,6,6173,35,0.001,1.0,0.002
+Zia Mir_cv-library - original cv,7,9173,35,0.001,1.0,0.002

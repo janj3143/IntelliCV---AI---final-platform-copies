@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "file_name": "CV March 2011.pdf",
+    "file_size": 80360,
+    "processing_date": "2025-10-09T16:20:53.677943",
+    "text_length": 5542,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [],
+    "phones": [],
+    "names": [
+      "Jonathan George Walker Nationality"
+    ],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Jacobs Engineering UK Ltd",
+    "Flare Systems",
+    "Bechtel Ltd",
+    "Genesis Oil and Gas Consultants Ltd",
+    "Carter Environmental Engineering Ltd",
+    "UK Technology",
+    "Nitrogen Systems",
+    "Freeman Process Systems Ltd",
+    "Freeman Process Systems"
+  ],
+  "job_titles": [
+    "Senior",
+    "Engineer",
+    "Consultant",
+    "manager",
+    "Manager",
+    "Lead",
+    "engineer"
+  ],
+  "text_sample": "March 2011 Jonathan Walker 1 of 4  Curriculum Vitae  Name : Jonathan George Walker Nationality : British Date of Birth : 20th February 1970 (Age 41) Place of Birth : Birmingham, England Marital Status : Married Dependants : None   Professional Summary  An experienced study manager and lead process engineer focused on oil and gas processing both onshore and offshore. Managing teams to deliver, Feasibility and Concept studies, Preliminary Engineering (Pre-FEED/FEED), Detailed Engineering (EPC), an...",
+  "skills_detected": {
+    "web_development": [
+      "React"
+    ],
+    "finance": [
+      "SAP"
+    ],
+    "soft_skills": [
+      "Leadership"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "manufacturing",
+    "industry_scores": {
+      "technology": 1,
+      "manufacturing": 3,
+      "education": 2,
+      "consulting": 1,
+      "sales": 1
+    },
+    "confidence": 0.5
+  }
+}

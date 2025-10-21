@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "file_name": "_ EU Curriculum Vitae - Giovanni Valsecchi.pdf",
+    "file_size": 81889,
+    "processing_date": "2025-10-09T16:21:11.300195",
+    "text_length": 5821,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "noivalsecchi@alice.it",
+      "valse59@gmail.com"
+    ],
+    "phones": [
+      "39 0372 456641",
+      "39 366 2838452"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [],
+  "job_titles": [
+    "ENGINEER",
+    "CONSULTANT",
+    "Principal",
+    "MANAGER"
+  ],
+  "text_sample": "Pag e1 - Curriculum vitae of  \nGiovanni Valsecchi   For more information go to  \nwww.cedefop.eu.int/transparency \nwww.europa.eu.int/comm/education/index_en.html \nwww.eurescv-search.com   \n   EU R O P E A N  \nC U R R I C U L U M  V I T A E  \nF O R M A T  \n \n \n \nPERSONAL INFORMATION  \n \nFirst name / Surname   GIOVANNI VALSECCHI  \nAddress   VIA MERCATELLO , 23   \n26100  – CREMONA \nITALY  \nTelephone   +39 0372 456641 - +39 366 2838452 \nFax    \nE-mail  noivalsecchi@alice.it  \nvalse59@gmail.com  \n \nNa...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "web_development": [
+      "HTML"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 2,
+      "finance": 1,
+      "manufacturing": 2,
+      "education": 2
+    },
+    "confidence": 0.2857142857142857
+  }
+}

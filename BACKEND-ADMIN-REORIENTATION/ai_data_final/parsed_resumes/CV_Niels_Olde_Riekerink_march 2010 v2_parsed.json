@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "file_name": "CV_Niels_Olde_Riekerink_march 2010 v2.docx",
+    "file_size": 23877,
+    "processing_date": "2025-10-09T16:20:58.002952",
+    "text_length": 5964,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "nielsor@gmail.com"
+    ],
+    "phones": [
+      "2000-2005",
+      "1998-2000",
+      "1992-1998",
+      "1986-1992"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Mobile Display Systems",
+    "Research conducted at Shell Research and Technology"
+  ],
+  "job_titles": [
+    "manager",
+    "Manager",
+    "Engineer",
+    "engineer"
+  ],
+  "text_sample": "N.H. Olde Riekerink (Niels)\nThe Netherlands\nE-mail: nielsor@gmail.com\nDate and place of birth: May 12th 1974, Nijmegen, The Netherlands\nNationality: Dutch\n\nSummary\n\nCurrent Occupation\nProduct development manager in an energetic young  company producing  high performance engineering plastics.  Responsible for development, testing, release and quality assurance of new polymer materials based on highly versatile  and unique thermoplastic SMA resin.\n\nPast experience\nProduct development and Project M...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "web_development": [
+      "HTML"
+    ],
+    "marketing": [
+      "SEM"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "manufacturing",
+    "industry_scores": {
+      "technology": 2,
+      "marketing": 1,
+      "manufacturing": 3,
+      "education": 1,
+      "consulting": 2
+    },
+    "confidence": 0.5
+  }
+}

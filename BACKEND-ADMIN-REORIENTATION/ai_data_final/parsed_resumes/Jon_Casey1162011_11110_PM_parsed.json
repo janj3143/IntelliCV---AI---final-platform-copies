@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "file_name": "Jon_Casey1162011_11110_PM.pdf",
+    "file_size": 25860,
+    "processing_date": "2025-10-09T16:21:03.459133",
+    "text_length": 5139,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "jon.casey81@hotmail.co.uk",
+      "michael.hewett@aecom.com",
+      "piersgough@hotmail.com"
+    ],
+    "phones": [
+      "01695 572150",
+      "07793 894518",
+      "01743 236335",
+      "0161 927 8420"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "B&K UK Ltd"
+  ],
+  "job_titles": [
+    "Engineer",
+    "Associate",
+    "Director"
+  ],
+  "text_sample": "Jon Casey \nDate of Birth: 19 Jul 1981 \n51 Burscough Road Tel: 01695 572150 \nOrmskirk Mob: 07793 894518 \nLancashire Email: jon.casey81@hotmail.co.uk \nL39 2XE \nEducation    & Qualifications   \nUniversity of Salford  - BSc (Hons) Acoustics, 1 st  Class (2001 – 2005) \nOrmskirk Grammar School  (1993 – 2000) \nPhysics A-Level – Grade A \nMathematics A-Level – Grade B \nChemistry A-Level – Grade B \nGeneral Studies A-Level – Grade A \nNine GCSE’s, grades A* to B \nCSCS Construction Skills  - Site Visitor (Oc...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "finance": [
+      "Excel",
+      "SAP"
+    ],
+    "soft_skills": [
+      "Problem Solving"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 2
+    },
+    "confidence": 0.2857142857142857
+  }
+}

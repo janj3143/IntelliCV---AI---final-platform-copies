@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "file_name": "CV Michel Groeneveld (June 2022).pdf",
+    "file_size": 223896,
+    "processing_date": "2025-10-09T16:20:53.833041",
+    "text_length": 5353,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "groeneveldmgj@hotmail.com"
+    ],
+    "phones": [
+      "6 34 683 100"
+    ],
+    "names": [
+      "Michel"
+    ],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [],
+  "job_titles": [
+    "Senior",
+    "manager",
+    "lead",
+    "Manager",
+    "Lead",
+    "senior"
+  ],
+  "text_sample": "  Page 1  \n   \nCURRICULUM VITAE  - MICHEL GROENEVELD  \n \n \n \nPERSONALIA:  \n \nName  Michel G.J. Groeneveld  \nAddress  Paradijssel park 31; 2904 PA Capelle a an den IJssel; The Netherlands  \nPhone  +31 (0)6 34 683 100  \nEmail  groeneveldmgj@hotmail.com  \nCivil status  Married, one son, one daughter  \n \n \nPROFESSIONAL TRACK RECORD:  \n \nFrom 2022 BARINGA PARTNERS  \n Senior M anager Energy & Resources  \n▪ Advising the Dutch Minis try of Ec onomic Affairs  on financial support models \nfor new build nu...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "education",
+    "industry_scores": {
+      "technology": 1,
+      "marketing": 1,
+      "education": 3,
+      "consulting": 2,
+      "sales": 1
+    },
+    "confidence": 0.5
+  }
+}

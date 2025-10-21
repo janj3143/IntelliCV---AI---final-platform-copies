@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "file_name": "Cv Muhammad Rabie.pdf",
+    "file_size": 140624,
+    "processing_date": "2025-10-09T16:20:53.980639",
+    "text_length": 5726,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "engineer_rabie@hotmail.com"
+    ],
+    "phones": [
+      "563445330"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Nalco Pakistan Pvt Ltd",
+    "An Ecolab Company"
+  ],
+  "job_titles": [
+    "manager",
+    "Engineer",
+    "Specialist",
+    "MANAGER"
+  ],
+  "text_sample": "CURRICULUM VITAE  \nMuhammad Rabie  \nPERSONAL INFORMATION  \n \nDATE OF BIRTH :  06/12/1984  \nCITIZENSHIP :   Pakistani  \nMARITAL STATUS :  Married  \nEMAIL :    engineer_rabie@hotmail.com  \nMOBILE NO :   +966 -563445330  \nCURRENT R ESIDENCE  Jeddah, Saudi Arabia  \n \nOBJECTIVE  \n \nA RESULT ORIENTED, HARD WO RKING , DYNAMIC, CUSTOMER FOCUSED TECHNICAL SALES \nPROFESSIONAL WHO WANTS TO EXCEL IN THE WORLD OF PROFESSIONAL CHALLENGES  IN FAST \nPACED MARKET  OF CHEMICAL SALES  IN THE CAPACITY OF  ACCOUNT  ...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "finance": [
+      "Excel"
+    ],
+    "soft_skills": [
+      "Leadership"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "manufacturing",
+    "industry_scores": {
+      "technology": 1,
+      "healthcare": 1,
+      "manufacturing": 2,
+      "education": 2,
+      "consulting": 2
+    },
+    "confidence": 0.3333333333333333
+  }
+}

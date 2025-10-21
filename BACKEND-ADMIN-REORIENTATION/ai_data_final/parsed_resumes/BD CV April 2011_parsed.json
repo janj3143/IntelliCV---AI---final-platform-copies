@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "file_name": "BD CV April 2011.docx",
+    "file_size": 110937,
+    "processing_date": "2025-10-09T16:20:50.217192",
+    "text_length": 2344,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [],
+    "phones": [],
+    "names": [
+      "Jonathan Walker"
+    ],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Flare Systems",
+    "Nitrogen Systems"
+  ],
+  "job_titles": [
+    "manager",
+    "engineer"
+  ],
+  "text_sample": "Curriculum Vitae\n\nName\t:\tJonathan Walker\nNationality\t:\tBritish\nDate of Birth\t:\t20th February 1970\t(Age 41)\n\n\nProfessional Summary\n\nCurrently developing oil & gas focus within business region including client presentations, proposal preparation, selection of personnel, budgeting, performance reporting, and setting of technical standards.\n\nDeveloping network of client and supplier contacts through membership of GPA Europe and EIC and attendance at key regional industry conferences.\n\nListing of bus...",
+  "skills_detected": {
+    "web_development": [
+      "React"
+    ],
+    "soft_skills": [
+      "Leadership"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "manufacturing",
+    "industry_scores": {
+      "manufacturing": 2,
+      "education": 1,
+      "consulting": 1
+    },
+    "confidence": 0.3333333333333333
+  }
+}

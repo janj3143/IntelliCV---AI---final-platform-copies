@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "file_name": "CV pdf LU-08.pdf",
+    "file_size": 75747,
+    "processing_date": "2025-10-09T16:20:54.002622",
+    "text_length": 8087,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "19633384159119@tim.it"
+    ],
+    "phones": [
+      "19633384159119"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [],
+  "job_titles": [],
+  "text_sample": "Curriculum\nS.p.A. Milano\nAree controllate: Europa e meadle east\nMilano\nDal 01 settembre 1998  - al 11 giugno 1999  - Contratto a tempo indeterminato.\nMilanoVitae \nResponsabile sezione elettrico-strumentale, preparazione preventivi specifiche acquisto strumenti, \nlay-out, schemi di cablaggio, assistenza montaggi, collaudo, avviamento. \nImpiegato tecnico. CCNL Commercio.Ingegnerizzazione, fornitura di riscaldatori, filtri e separatori bifase/trifase gas, impianti trattamento \ngas naturale, unità p...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "databases": [
+      "Redis"
+    ],
+    "finance": [
+      "SAP"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "education",
+    "industry_scores": {
+      "education": 1,
+      "consulting": 1,
+      "sales": 1
+    },
+    "confidence": 0.16666666666666666
+  }
+}

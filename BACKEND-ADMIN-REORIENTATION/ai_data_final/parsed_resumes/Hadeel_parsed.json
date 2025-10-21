@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "file_name": "Hadeel.pdf",
+    "file_size": 198781,
+    "processing_date": "2025-10-09T16:21:02.304663",
+    "text_length": 6913,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [],
+    "phones": [
+      "9715 07260723"
+    ],
+    "names": [
+      "Hadeel Abu Sharkh"
+    ],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Petrofac I nternational Ltd"
+  ],
+  "job_titles": [
+    "Engineer",
+    "lead",
+    "Manager",
+    "senior",
+    "specialist",
+    "engineer"
+  ],
+  "text_sample": " \n \nPage 1 of 3 CURRICULUM VITAE  \n \n \nName:      Hadeel Abu Sharkh    \n \n \nDesignation:     Engineer  I - Process  \n \n \nNationality:     Jordanian  \n \nGender :    Female  \n \nEducation:  Bachelor of Science in Chemical Engineering , 2010 \nMinor in Engineering Management  \nAmerican University of Shar jah, UAE  \n \n \n Contac t deta ils:  Email address : hadeel .abushark@gmail .com  \n Mob: +9715 07260723  \n \n \nSUMMARY : \n \n \nDriven and hard-working  engineer with continuous improvement minds et and ...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "marketing": [
+      "SEO"
+    ],
+    "finance": [
+      "Compliance"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "finance",
+    "industry_scores": {
+      "finance": 2,
+      "education": 1,
+      "consulting": 1
+    },
+    "confidence": 0.2857142857142857
+  }
+}

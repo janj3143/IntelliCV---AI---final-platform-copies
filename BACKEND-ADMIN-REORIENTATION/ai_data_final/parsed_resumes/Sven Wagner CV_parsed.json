@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "file_name": "Sven Wagner CV.pdf",
+    "file_size": 28494,
+    "processing_date": "2025-10-09T16:21:09.444385",
+    "text_length": 2940,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [],
+    "phones": [],
+    "names": [
+      "Sven Wagner"
+    ],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Industrial Turbomachinery UK Ltd",
+    "Translation & Localization Technology",
+    "So ftware & Solutions"
+  ],
+  "job_titles": [
+    "Lead",
+    "specialist",
+    "senior",
+    "principal"
+  ],
+  "text_sample": "Sven Wagner CV   \n 1  May-10 \n \nCurriculum Vitae for Sven Wagner \n \n \nPersonal details \nName Sven Wagner \nNationality German \nAge 26 \nDate of Birth 18.04.84 \nResidence Ulm, Germany \n \n \n \nProjects at Max ASP \nBusiness Development  for Max ASP  - Feb 2010 to present   \n- Lead generation / supporting go-to-market of Max ASP itself.  Building up a pipeline of \nqualified leads and prospect appointments with pote ntial new clients based on senior level \nbusiness decision-maker conversations and high ...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 1,
+      "marketing": 1,
+      "manufacturing": 1,
+      "education": 1,
+      "consulting": 2,
+      "sales": 2
+    },
+    "confidence": 0.3333333333333333
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "file_name": "Joe Hart1.docx",
+    "file_size": 100877,
+    "processing_date": "2025-10-09T16:21:03.169455",
+    "text_length": 2537,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [],
+    "phones": [],
+    "names": [
+      "Joseph Hart"
+    ],
+    "locations": [
+      "Crosby"
+    ],
+    "job_titles": []
+  },
+  "companies": [],
+  "job_titles": [
+    "junior"
+  ],
+  "text_sample": "Candidate Name\t\t\tJoseph Hart\n\nProfile\n\nAn ACCA Trainee Accounts Assistant, currently looking for a new role in the Liverpool area, having left their previous role due to redundancy, they are now keen on a new role within a firm of Accountants where they can continue their ACCA studies.\n\nLocation: \t\tCrosby\nSalary Indicator: \t£26,000\nNotice Period: \t\tImmediately Available\nDriving Licence:\tYes\n\nEducation:\t\tACCA – Currently studying to become a full qualified accountant with 9/13 \t\t\texams completed\n...",
+  "skills_detected": {
+    "finance": [
+      "Excel",
+      "QuickBooks",
+      "Compliance"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 2,
+      "finance": 2,
+      "consulting": 1
+    },
+    "confidence": 0.2857142857142857
+  }
+}

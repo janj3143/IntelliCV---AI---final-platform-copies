@@ -1,0 +1,254 @@
+{
+  "Manager": {
+    "title": "Manager",
+    "occurrences": 184,
+    "associated_companies": [],
+    "skills_mentioned": []
+  },
+  "Director": {
+    "title": "Director",
+    "occurrences": 57,
+    "associated_companies": [],
+    "skills_mentioned": []
+  },
+  "Engineer": {
+    "title": "Engineer",
+    "occurrences": 127,
+    "associated_companies": [],
+    "skills_mentioned": []
+  },
+  "ENGINEER": {
+    "title": "ENGINEER",
+    "occurrences": 9,
+    "associated_companies": [],
+    "skills_mentioned": []
+  },
+  "DEVELOPER": {
+    "title": "DEVELOPER",
+    "occurrences": 1,
+    "associated_companies": [],
+    "skills_mentioned": []
+  },
+  "SPECIALIST": {
+    "title": "SPECIALIST",
+    "occurrences": 5,
+    "associated_companies": [],
+    "skills_mentioned": []
+  },
+  "lead": {
+    "title": "lead",
+    "occurrences": 54,
+    "associated_companies": [],
+    "skills_mentioned": []
+  },
+  "director": {
+    "title": "director",
+    "occurrences": 10,
+    "associated_companies": [],
+    "skills_mentioned": []
+  },
+  "engineer": {
+    "title": "engineer",
+    "occurrences": 48,
+    "associated_companies": [],
+    "skills_mentioned": []
+  },
+  "Consultant": {
+    "title": "Consultant",
+    "occurrences": 34,
+    "associated_companies": [],
+    "skills_mentioned": []
+  },
+  "manager": {
+    "title": "manager",
+    "occurrences": 73,
+    "associated_companies": [],
+    "skills_mentioned": []
+  },
+  "consultant": {
+    "title": "consultant",
+    "occurrences": 32,
+    "associated_companies": [],
+    "skills_mentioned": []
+  },
+  "Chief": {
+    "title": "Chief",
+    "occurrences": 9,
+    "associated_companies": [],
+    "skills_mentioned": []
+  },
+  "Lead": {
+    "title": "Lead",
+    "occurrences": 47,
+    "associated_companies": [],
+    "skills_mentioned": []
+  },
+  "Associate": {
+    "title": "Associate",
+    "occurrences": 8,
+    "associated_companies": [],
+    "skills_mentioned": []
+  },
+  "Senior": {
+    "title": "Senior",
+    "occurrences": 67,
+    "associated_companies": [],
+    "skills_mentioned": []
+  },
+  "DIRECTOR": {
+    "title": "DIRECTOR",
+    "occurrences": 1,
+    "associated_companies": [],
+    "skills_mentioned": []
+  },
+  "associate": {
+    "title": "associate",
+    "occurrences": 2,
+    "associated_companies": [],
+    "skills_mentioned": []
+  },
+  "Principal": {
+    "title": "Principal",
+    "occurrences": 18,
+    "associated_companies": [],
+    "skills_mentioned": []
+  },
+  "specialist": {
+    "title": "specialist",
+    "occurrences": 23,
+    "associated_companies": [],
+    "skills_mentioned": []
+  },
+  "SENIOR": {
+    "title": "SENIOR",
+    "occurrences": 4,
+    "associated_companies": [],
+    "skills_mentioned": []
+  },
+  "MANAGER": {
+    "title": "MANAGER",
+    "occurrences": 12,
+    "associated_companies": [],
+    "skills_mentioned": []
+  },
+  "Specialist": {
+    "title": "Specialist",
+    "occurrences": 30,
+    "associated_companies": [],
+    "skills_mentioned": []
+  },
+  "Analyst": {
+    "title": "Analyst",
+    "occurrences": 5,
+    "associated_companies": [],
+    "skills_mentioned": []
+  },
+  "Junior": {
+    "title": "Junior",
+    "occurrences": 9,
+    "associated_companies": [],
+    "skills_mentioned": []
+  },
+  "senior": {
+    "title": "senior",
+    "occurrences": 22,
+    "associated_companies": [],
+    "skills_mentioned": []
+  },
+  "Coordinator": {
+    "title": "Coordinator",
+    "occurrences": 17,
+    "associated_companies": [],
+    "skills_mentioned": []
+  },
+  "analyst": {
+    "title": "analyst",
+    "occurrences": 3,
+    "associated_companies": [],
+    "skills_mentioned": []
+  },
+  "COORDINATOR": {
+    "title": "COORDINATOR",
+    "occurrences": 1,
+    "associated_companies": [],
+    "skills_mentioned": []
+  },
+  "Vice President": {
+    "title": "Vice President",
+    "occurrences": 8,
+    "associated_companies": [],
+    "skills_mentioned": []
+  },
+  "coordinator": {
+    "title": "coordinator",
+    "occurrences": 3,
+    "associated_companies": [],
+    "skills_mentioned": []
+  },
+  "VP": {
+    "title": "VP",
+    "occurrences": 7,
+    "associated_companies": [],
+    "skills_mentioned": []
+  },
+  "junior": {
+    "title": "junior",
+    "occurrences": 10,
+    "associated_companies": [],
+    "skills_mentioned": []
+  },
+  "LEAD": {
+    "title": "LEAD",
+    "occurrences": 1,
+    "associated_companies": [],
+    "skills_mentioned": []
+  },
+  "developer": {
+    "title": "developer",
+    "occurrences": 4,
+    "associated_companies": [],
+    "skills_mentioned": []
+  },
+  "chief": {
+    "title": "chief",
+    "occurrences": 2,
+    "associated_companies": [],
+    "skills_mentioned": []
+  },
+  "Developer": {
+    "title": "Developer",
+    "occurrences": 1,
+    "associated_companies": [],
+    "skills_mentioned": []
+  },
+  "principal": {
+    "title": "principal",
+    "occurrences": 3,
+    "associated_companies": [],
+    "skills_mentioned": []
+  },
+  "Designer": {
+    "title": "Designer",
+    "occurrences": 2,
+    "associated_companies": [],
+    "skills_mentioned": []
+  },
+  "PRINCIPAL": {
+    "title": "PRINCIPAL",
+    "occurrences": 1,
+    "associated_companies": [],
+    "skills_mentioned": []
+  },
+  "designer": {
+    "title": "designer",
+    "occurrences": 1,
+    "associated_companies": [],
+    "skills_mentioned": []
+  },
+  "CONSULTANT": {
+    "title": "CONSULTANT",
+    "occurrences": 1,
+    "associated_companies": [],
+    "skills_mentioned": []
+  }
+}

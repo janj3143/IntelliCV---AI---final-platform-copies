@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "file_name": "cv_zanco_english.pdf",
+    "file_size": 55584,
+    "processing_date": "2025-10-09T16:21:00.410735",
+    "text_length": 14261,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "mzanco@carraro.com",
+      "sy.tanukj@gmail.com"
+    ],
+    "phones": [
+      "0039 334",
+      "6687564 0039 334",
+      "6687564 0039 334",
+      "6687564 0039 334",
+      "6687564",
+      "0039 335 732",
+      "0039 335 732",
+      "0039 335 732",
+      "0039 335 732",
+      "2009 2009 2009",
+      "2008 2008 2008",
+      "2009 2009 2009",
+      "2007 2007 2007",
+      "2008 2008 2008",
+      "2005 2005 2005",
+      "2007 2007 2007",
+      "2004 2004 2004",
+      "2005 2005 2005",
+      "2002 2002 2002",
+      "2001 2001 2001",
+      "2001 2001 2001"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Carraro Group Company",
+    "Name of Company",
+    "Main activities and \nresponsibilities   Co"
+  ],
+  "job_titles": [
+    "consultant",
+    "Engineer",
+    "manager",
+    "lead",
+    "Manager",
+    "Principal",
+    "director",
+    "engineer"
+  ],
+  "text_sample": " \nPage 1 - Curriculum vitae of \n[ Zanco, Massimo ]   \n9 marzo 2011  \n   \nC U R R I C U L U M    V I T A E C U R R I C U L U M    V I T A E C U R R I C U L U M    V I T A E C U R R I C U L U M    V I T A E     \n \n \n \n \n \n \nPP PPERSONAL INFORMATION ERSONAL INFORMATION ERSONAL INFORMATION ERSONAL INFORMATION     \n \nName   MM MMASSIMO ASSIMO ASSIMO ASSIMO ZZ ZZANCO ANCO ANCO ANCO     \n \nAddresses   VV VVIA DELLA IA DELLA IA DELLA IA DELLA VV VVIGNA IGNA IGNA IGNA ,,,,    27 27 27 27     -- --    331...",
+  "skills_detected": {
+    "programming": [
+      "Go",
+      "Rust"
+    ],
+    "cloud": [
+      "AWS"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "manufacturing",
+    "industry_scores": {
+      "finance": 1,
+      "manufacturing": 3,
+      "education": 2,
+      "consulting": 2,
+      "sales": 1
+    },
+    "confidence": 0.5
+  }
+}

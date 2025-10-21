@@ -1,0 +1,151 @@
+{
+  "file_id": "file_ef6207ac14f8",
+  "source_path": "C:\\IntelliCV\\data\\JV CV 61328.docx",
+  "extracted_at": "2025-08-10T16:25:40.353642",
+  "text": "Candidate Name:\t61328\nPERSONAL DETAILS\nLocation: \t\tScotland\nQUALIFICATIONS\nBSc Hons Information Management Systems (2:1) – Glasgow Caledonian University (2003)\nProfessional:\nCertifications:\nGlobal Industrial Cyber Security Professional (GICSP) – July 2024\nISA/IEC 62443 Cybersecurity Fundamentals Specialist – December 2022\nISA/IEC 62443 Cybersecurity Risk Assessment Specialist – December 2022\nTraining:\nIEC/ISA 62443 IACS Cybersecurity Design & Implementation – April 2019\nIEC/ISA 62443 IACS Cybersecurity Operations & Maintenance – April 2019\nCAREER SUMMARY\n2014 to date Capgemini / Leidos / Lockheed Martin – Aberdeen\nPosition: Process Control Security Consultant\nSelected Projects:\nConoco Phillips UK – OT Compliance Project\nConocoPhillips UK (CoP) had a requirement to comply with ConocoPhillip Candidate Name:\t61328\nPERSONAL DETAILS\nLocation: \t\tScotland\nQUALIFICATIONS\nBSc Hons Information Management Systems (2:1) – Glasgow Caledonian University (2003)\nProfessional:\nCertifications:\nGlobal Industrial Cyber Security Professional (GICSP) – July 2024\nISA/IEC 62443 Cybersecurity Fundamentals Specialist – December 2022\nISA/IEC 62443 Cybersecurity Risk Assessment Specialist – December 2022\nTraining:\nIEC/ISA 62443 IACS Cybersecurity Design & Implementation – April 2019\nIEC/ISA 62443 IACS Cybersecurity Operations & Maintenance – April 2019\nCAREER SUMMARY\n2014 to date Capgemini / Leidos / Lockheed Martin – Aberdeen\nPosition: Process Control Security Consultant\nSelected Projects:\nConoco Phillips UK – OT Compliance Project\nConocoPhillips UK (CoP) had a requirement to comply with ConocoPhillips Global Engineering Standard and UK HSE standards across the Greater Britannia Assets (GBA) and JBlock assets. All assets were to be remediated and compliant by the end of 2018 in preparation for an internal audit April 2019. Steps carried out included:\nCarried out Review and cross reference the identified documentation\nAgreed and designed appropriate CoP UK documentation set\nPerformed verification of controls compliance against approved CoP UK documentation set and identified gaps\nPerformed agreed remediation activity aligned with CoP UK expectation\nNexen (CNOC) - ICMS Cyber Security Support project\nReviewed the UK Policy and Procedures and advise on content, structure, and gaps for meeting the global standard\nCreated new procedures based on gaps identified\nReview and update System Registers & Network Diagrams\nFacilitate HAZAN & Criticality Ranking based on systems identified during site visits\nTullow - Jubilee Shutdown\nConsultant delivering technical architecture review and full documentation set for the Jubilee FPSO in Ghana after completion GAP analysis on site. Tasks include:\nChange network design and configuration to suit a 3 Tier architecture as defined in ISA/IEC 62443\nDefine and implement firewall rules to ensure access is limited to authorised personnel and systems\nLock down the individual switch ports on all networks to unique MAC addresses to ensure that no unauthorised equipment can successfully connect to the network\nRemove systems from the network and relocate them in a control network DMZ where they can be accessed by the relevant personnel\nCreate new and review and update documentation\nPCN Security Sustainment Programme\nTechnical Lead with a team of 4 dedicated to supporting Chevron North Sea assets. Tasks include:\nSecurity policy, process, and procedure development\nAnnual, bi-annual and ad-hoc offshore and onshore visits\nSecurity architecture reviews\nVulnerability, compliance, and risk assessment\nPCN security awareness training, development, and delivery\nApplication whitelisting deployment, management, and support\nInventory management & network surveys\nGap analysis and remediation planning\nChevron’s Captain Enhanced Oil Recovery\nReviewing all vendor documentation for accuracy and compliance against the Chevron standards for PCN security\nChecking specification, selection, procurement & installation of security technologies such as firewalls, IDS, data diodes, white listing, etc.\nAdvisor on control system network architecture / topology design\nOther non-project related parts of the role include:\nActing as a mentor to other team members\nRepresenting the company at trade shows / conferences\n2013 – 2014 Chevron – Aberdeen\nPosition: PCN IRM Coordinator\nPrimary PCN IRM contact for CUE advising and directing on securing Process Control Networks comprised of PLC, SCADA, and HMI systems in adherence to CIRS policies standards and technical controls\nAssisting the business unit with meeting compliance requirements to meet corporate audit expectations\nProject management of the PCN compliance improvement projects within Chevron Upstream Europe and developing evergreen processes\nHeavily involved in coordinating and directing contract vendors in addition to guiding onsite operational personnel. Involvement in overseeing the compliance activities for PCN design, installation, commissioning, and maintenance\nExtensive technical and perso",
+  "emails": [],
+  "phones": [],
+  "names": [
+    "Global Engineering",
+    "Jubilee Shutdown",
+    "Criticality Ranking"
+  ],
+  "work_history": [],
+  "title": "",
+  "company": "",
+  "location": "",
+  "experience_years": 0,
+  "career_stage": "entry",
+  "industries": [
+    "general"
+  ],
+  "skills": [
+    "project management"
+  ],
+  "ai_scores": {
+    "experience_years": 0.0,
+    "title_progression": 0.5,
+    "company_prestige": 0.5,
+    "location_mobility": 0.5,
+    "skill_diversity": 0.1,
+    "network_strength": 0.3
+  },
+  "ai_final_score": 0.285,
+  "ai_processed_at": "2025-08-11T10:42:14.968212",
+  "similar_users": [
+    {
+      "user_id": "file_002a746786ae",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.285,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_00712ee6c7f2",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.285,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_027109a8b87b",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.285,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_02f7e7d2c8b1",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.285,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_04294f989b58",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.285,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_04616388d705",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.285,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_04ea4eda87b4",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.285,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_05d5423305d7",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.285,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_065fd472fa7a",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.285,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_06ae3a824a08",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.285,
+      "experience_years": 0
+    }
+  ],
+  "recommendations": {
+    "career_advancement": [
+      "Focus on building core technical skills",
+      "Seek mentorship from senior team members",
+      "Take on challenging projects to gain experience"
+    ],
+    "skill_development": [],
+    "company_targets": [
+      "Mid-size companies with growth potential",
+      "Startups in emerging industries",
+      "Companies known for employee development"
+    ],
+    "networking": []
+  }
+}

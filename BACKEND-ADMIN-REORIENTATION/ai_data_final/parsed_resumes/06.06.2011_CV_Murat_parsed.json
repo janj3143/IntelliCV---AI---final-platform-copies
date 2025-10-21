@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "file_name": "06.06.2011_CV_Murat.pdf",
+    "file_size": 359313,
+    "processing_date": "2025-10-09T16:20:47.681885",
+    "text_length": 28050,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "muratbayrak.tr@gmail.co"
+    ],
+    "phones": [
+      "90 532 653"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "European School of Management and Technology",
+    "Control Systems",
+    "Corrosion Control in Crude Oil Overhead Systems",
+    "MQD Hydro De sulfurization De waxing Process Technology",
+    "Bringing Technology",
+    "Unicracking Process Technology",
+    "Conde nsate Polishing and  Demineralized  Water \nSystems",
+    "Standard  for CycleMax and Atmospheric \nTechnology",
+    "European  School of Management and Technology"
+  ],
+  "job_titles": [
+    "Manager",
+    "Director",
+    "Engineer"
+  ],
+  "text_sample": "1/16 \n \nCURRICULUM VITAE  \n \n \n \nNAME   Murat Bayrak  \n \nCONTACT ADDRESS   Yahyakaptan M C -11 D : 32  \n  41650  \n  Izmit/Turkey  \n  Mobile. + 90 532 653 76 32  \n                                          E-mail muratbayrak.tr@gmail.co m \n \nNATIONALITY   Turkish  \n \nDATE OF BIRTH   25th November 1972  \n \nPLACE OF BIRTH   Berlin, Germany  \n \nEDUCATION   BS Degree in Chemical Engineering, Anadolu University.  \n  (September 1989 – July 1993)  \n   \n  Bach. Degree , Business Administration Faculty, An...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "web_development": [
+      "React"
+    ],
+    "marketing": [
+      "SEO",
+      "SEM"
+    ],
+    "finance": [
+      "Excel",
+      "SAP"
+    ],
+    "soft_skills": [
+      "Leadership"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "manufacturing",
+    "industry_scores": {
+      "technology": 2,
+      "healthcare": 1,
+      "finance": 2,
+      "manufacturing": 4,
+      "education": 1,
+      "consulting": 2
+    },
+    "confidence": 0.6666666666666666
+  }
+}

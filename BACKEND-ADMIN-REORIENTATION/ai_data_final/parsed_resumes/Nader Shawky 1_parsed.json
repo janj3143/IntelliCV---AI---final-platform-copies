@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "file_name": "Nader Shawky 1.pdf",
+    "file_size": 163623,
+    "processing_date": "2025-10-09T16:21:06.135241",
+    "text_length": 3222,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "nader.nagih@gmail.com"
+    ],
+    "phones": [
+      "971566377736"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Marketing Management Arab Academy for Science and Technology",
+    "Product Manager Sidhom & Co"
+  ],
+  "job_titles": [
+    "Manager"
+  ],
+  "text_sample": " Nader Nagih Shawky Said Business Development Manager Detail-oriented professional with excellent communication, interpersonal and creative thinking skills. Aiming to leverage my abilities to successfully fill the vacancy at your company. Frequently praised as hardworking by my peers. I can be relied upon to help your  company achieve its goals.   nader.nagih@gmail.com  WORK EXPERIENCE Business Development Manager GCC & Pakistan H.B Fuller 02/2020 – Present       Business Development Manager Dub...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "finance": [
+      "Excel"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 1,
+      "finance": 1,
+      "manufacturing": 1,
+      "consulting": 3,
+      "sales": 2
+    },
+    "confidence": 0.5
+  }
+}

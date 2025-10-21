@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "file_name": "Serdar Altuner CV 2024.pdf",
+    "file_size": 432484,
+    "processing_date": "2025-10-09T16:21:08.395264",
+    "text_length": 10109,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "serdaraltuner@gmail.com"
+    ],
+    "phones": [
+      "90) 532 776"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Institute of Science &Technology"
+  ],
+  "job_titles": [
+    "Manager",
+    "Senior",
+    "manager",
+    "Engineer"
+  ],
+  "text_sample": "Page 1 | 3 \n  Serdar Altuner, PhD \nSenior Sales Manager Profile Istanbul, TR • (+90) 532 776 4615\nserdaraltuner@gmail.com  • LinkedIn\n \n \nGoal-oriented and accomplished professional with extensive experience in executing strategic ideas/plans for account \nmanagement. Proven success in developing robust relationships with potential clients and establishing productive environment \nof continuous growth. Well-versed in identifying new opportunities and raising business profits/ revenues. Solid histo...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "finance": [
+      "Excel"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Communication",
+      "Problem Solving",
+      "Strategic Planning"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 1,
+      "healthcare": 1,
+      "finance": 1,
+      "manufacturing": 1,
+      "education": 1,
+      "consulting": 4,
+      "sales": 3
+    },
+    "confidence": 0.6666666666666666
+  }
+}

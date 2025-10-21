@@ -1,0 +1,212 @@
+{
+  "info": {
+    "name": "IntelliCV Admin Portal API",
+    "description": "Complete API collection for IntelliCV Admin Portal testing and development",
+    "version": "1.0.0",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "auth": {
+    "type": "bearer",
+    "bearer": [
+      {
+        "key": "token",
+        "value": "{{AUTH_TOKEN}}",
+        "type": "string"
+      }
+    ]
+  },
+  "variable": [
+    {
+      "key": "BASE_URL",
+      "value": "{{BASE_URL}}",
+      "type": "string"
+    },
+    {
+      "key": "API_VERSION",
+      "value": "v1",
+      "type": "string"
+    }
+  ],
+  "item": [
+    {
+      "name": "Authentication",
+      "item": [
+        {
+          "name": "Login",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"username\": \"admin\",\n  \"password\": \"admin123\"\n}"
+            },
+            "url": {
+              "raw": "{{BASE_URL}}/api/{{API_VERSION}}/auth/login",
+              "host": ["{{BASE_URL}}"],
+              "path": ["api", "{{API_VERSION}}", "auth", "login"]
+            }
+          },
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "exec": [
+                  "pm.test(\"Status code is 200\", function () {",
+                  "    pm.response.to.have.status(200);",
+                  "});",
+                  "",
+                  "pm.test(\"Response has token\", function () {",
+                  "    var jsonData = pm.response.json();",
+                  "    pm.expect(jsonData.token).to.not.be.undefined;",
+                  "    pm.environment.set(\"AUTH_TOKEN\", jsonData.token);",
+                  "});"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "Verify Token",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "Bearer {{AUTH_TOKEN}}"
+              }
+            ],
+            "url": {
+              "raw": "{{BASE_URL}}/api/{{API_VERSION}}/auth/verify",
+              "host": ["{{BASE_URL}}"],
+              "path": ["api", "{{API_VERSION}}", "auth", "verify"]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "System Status",
+      "item": [
+        {
+          "name": "Health Check",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{BASE_URL}}/api/{{API_VERSION}}/health",
+              "host": ["{{BASE_URL}}"],
+              "path": ["api", "{{API_VERSION}}", "health"]
+            }
+          }
+        },
+        {
+          "name": "System Metrics",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "Bearer {{AUTH_TOKEN}}"
+              }
+            ],
+            "url": {
+              "raw": "{{BASE_URL}}/api/{{API_VERSION}}/admin/metrics",
+              "host": ["{{BASE_URL}}"],
+              "path": ["api", "{{API_VERSION}}", "admin", "metrics"]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "AI Data Management",
+      "item": [
+        {
+          "name": "Get AI Data Status",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "Bearer {{AUTH_TOKEN}}"
+              }
+            ],
+            "url": {
+              "raw": "{{BASE_URL}}/api/{{API_VERSION}}/ai-data/status",
+              "host": ["{{BASE_URL}}"],
+              "path": ["api", "{{API_VERSION}}", "ai-data", "status"]
+            }
+          }
+        },
+        {
+          "name": "Process AI Data",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              },
+              {
+                "key": "Authorization",
+                "value": "Bearer {{AUTH_TOKEN}}"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"data_type\": \"resume\",\n  \"source\": \"upload\",\n  \"options\": {\n    \"extract_skills\": true,\n    \"analyze_sentiment\": true\n  }\n}"
+            },
+            "url": {
+              "raw": "{{BASE_URL}}/api/{{API_VERSION}}/ai-data/process",
+              "host": ["{{BASE_URL}}"],
+              "path": ["api", "{{API_VERSION}}", "ai-data", "process"]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Database Operations",
+      "item": [
+        {
+          "name": "Database Health",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "Bearer {{AUTH_TOKEN}}"
+              }
+            ],
+            "url": {
+              "raw": "{{BASE_URL}}/api/{{API_VERSION}}/db/health",
+              "host": ["{{BASE_URL}}"],
+              "path": ["api", "{{API_VERSION}}", "db", "health"]
+            }
+          }
+        },
+        {
+          "name": "Database Backup",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "Bearer {{AUTH_TOKEN}}"
+              }
+            ],
+            "url": {
+              "raw": "{{BASE_URL}}/api/{{API_VERSION}}/admin/backup",
+              "host": ["{{BASE_URL}}"],
+              "path": ["api", "{{API_VERSION}}", "admin", "backup"]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

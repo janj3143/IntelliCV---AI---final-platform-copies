@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "CV Sergey Mitrichev 2011 ENG.pdf",
+    "file_size": 79040,
+    "processing_date": "2025-10-09T16:20:55.397111",
+    "text_length": 4682,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [],
+    "phones": [
+      "123480",
+      "7 915 4783519"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "University of Chemical Technology",
+    "International College of Information Computer Systems",
+    "Hyperion Systems",
+    "Center for Logistics and Applied Economics of Moscow  \nUniversity  of  Chemical  Technology",
+    "Expert Systems",
+    "Chemical Technology"
+  ],
+  "job_titles": [
+    "developer",
+    "Consultant",
+    "Manager",
+    "Lead",
+    "engineer"
+  ],
+  "text_sample": " Sergey I. Mitrichev\nRussia, Moscow, 123480, Geroev-Panfilovtsev  St., 37-3-183\nMob. +7 915 4783519,   E-mail: sergey  @  mitrichev  .  ru  \nWORK EXPERIENCE\nMay 2008 – present TNK-BP. Technical Disciplines Group Lead.\nLead  role  in  development  of  12  technical  disciplines  in  the  company,  covering  \n10000+  specialists  Responsibilities  include  management  of  technical  disciplines  \ngroup (3 ppl), development of educational programs in technical areas and training  \nmethodology,  lea...",
+  "skills_detected": {
+    "programming": [
+      "Java",
+      "JavaScript",
+      "C++",
+      "PHP",
+      "Go"
+    ],
+    "web_development": [
+      "HTML"
+    ],
+    "databases": [
+      "MySQL"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 4,
+      "finance": 1,
+      "manufacturing": 1,
+      "education": 4,
+      "consulting": 1,
+      "sales": 1
+    },
+    "confidence": 0.5714285714285714
+  }
+}

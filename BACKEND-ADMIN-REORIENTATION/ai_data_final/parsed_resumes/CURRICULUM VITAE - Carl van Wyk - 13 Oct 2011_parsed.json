@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "file_name": "CURRICULUM VITAE - Carl van Wyk - 13 Oct 2011.pdf",
+    "file_size": 247848,
+    "processing_date": "2025-10-09T16:20:51.038773",
+    "text_length": 20071,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "cvanwyk66@yahoo.com"
+    ],
+    "phones": [
+      "6604065014089",
+      "084 533 8186",
+      "974-3336"
+    ],
+    "names": [
+      "Carl Frederick"
+    ],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Workgroup \nInstitute of \nAdvanced \nSoftware  \nTechnology",
+    "Petrol card  \nMedical aid  \nPension  \nCompany",
+    "PREVIOUS EMPLOYER  \nEmployer  Inventory Technologies",
+    "Bcomm Information \nTechnology",
+    "Type of firm  Industrial Information Systems",
+    "Asset Manag ement  Systems",
+    "Cheque  \nAnnual performance bonus  \nCar allowance  \nPetrol card  \nMedical aid  \nPension  \nLife Insurance  \nCompany",
+    "Cheque  \nC a r  a l l o w a n c e  \nPetrol card  \nEntertainment allowance \nCommission  \nMedical aid  \nReason for resignation  Company",
+    "PREVIOUS  EMPLOYER  \nEmployer  Kentz Integrated Solutions",
+    "Drive Technologies",
+    "Workgroup \nInstitute of \nAd van ced \nSoftware  \nTechnology",
+    "MILITARY SERVICE  \nOrganization  South African Medical Services",
+    "Type of firm  EPC Company",
+    "Adroit Advanced  Adr oit \nTechnologies",
+    "FUTURE CAREER PLANS  \nTo do be involved in strategic account development on a consulting basis integrating Automation and Drive \nSystems"
+  ],
+  "job_titles": [
+    "Analyst",
+    "Senior",
+    "Engineer",
+    "Consultant",
+    "Specialist",
+    "Manager"
+  ],
+  "text_sample": " CURRICULUM VITAE – C.F. van Wyk  \n Page 1 of 16 13 October  2011  C U R R I C U L U M  V I T A E  \nCarl van Wyk   CURRICULUM VITAE – C.F. van Wyk  \n Page 2 of 16 13 October  2011  CURRICULUM VITAE  ................................ ................................ ................................ ................................ ........  1 \nCarl van Wyk  ................................ ................................ ......... 1 \n1. PERSONAL DATA ................................ ................",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "finance": [
+      "Excel"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 3,
+      "healthcare": 1,
+      "marketing": 1,
+      "manufacturing": 2,
+      "education": 1,
+      "consulting": 2
+    },
+    "confidence": 0.42857142857142855
+  }
+}

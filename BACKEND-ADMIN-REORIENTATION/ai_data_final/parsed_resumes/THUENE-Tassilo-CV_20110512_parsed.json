@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "file_name": "THUENE-Tassilo-CV_20110512.pdf",
+    "file_size": 73363,
+    "processing_date": "2025-10-09T16:21:09.768730",
+    "text_length": 8208,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "tassilo@thuene.com"
+    ],
+    "phones": [
+      "2 193460",
+      "1985-1991"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Switzerland \nSiemens Switzerland Ltd",
+    "Hermes Ltd"
+  ],
+  "job_titles": [
+    "Manager",
+    "senior",
+    "Lead",
+    "manager"
+  ],
+  "text_sample": "Page 1 of 3 Curriculum Vitae \n \nTassilo Ruediger Artur Thuene \nAddress: Eichwaldstr. 17, 6300 Zug, Switzerland \nE-mail: tassilo@thuene.com   Mobile phone: +41 76 2 193460 \nDate of Birth: 29 th  of Dec. 1978   Nationality: German \n \n Work Experience: \nAs of May 2010            Strategy Manager                         Zug, Switzerland \nSiemens Switzerland Ltd. – Siemens Security Solutio ns International Headquarter \n\u0001 Defining, planning and managing a repositioning pr ogram for the HQ with over 50...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Communication",
+      "Strategic Planning"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "manufacturing",
+    "industry_scores": {
+      "technology": 2,
+      "finance": 2,
+      "marketing": 1,
+      "manufacturing": 4,
+      "education": 1,
+      "consulting": 2,
+      "sales": 1
+    },
+    "confidence": 0.6666666666666666
+  }
+}

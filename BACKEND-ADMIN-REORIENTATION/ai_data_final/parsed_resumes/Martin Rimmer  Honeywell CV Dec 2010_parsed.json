@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "file_name": "Martin Rimmer  Honeywell CV Dec 2010.pdf",
+    "file_size": 26493,
+    "processing_date": "2025-10-09T16:21:04.631682",
+    "text_length": 12081,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "rtin.3rimmers@btinternet.com"
+    ],
+    "phones": [],
+    "names": [],
+    "locations": [
+      "Germany ",
+      "Air Products Polymers GmbH KG, Cologne, Germany Apr"
+    ],
+    "job_titles": []
+  },
+  "companies": [
+    "Private Limited Company",
+    "National Starch & Chemical Ltd",
+    "Successfully lead negotiation team to take ov er Paints Polymers business of Wacker Polymer \nSystems",
+    "Wacker Ch emicals Ltd",
+    "Trafford Chemic als Ltd",
+    "Divisional Co",
+    "Webmaster Ltd"
+  ],
+  "job_titles": [
+    "Director",
+    "lead",
+    "Manager",
+    "Lead",
+    "senior"
+  ],
+  "text_sample": " \n \n \n Honeywell Candidate Curriculum Vitae  \n  \nI. General information\n \n \nRIMMER, MARTIN RICHARD  \n North Barn                                           British Citizen Carr House Farm                               Married with one daughter \nBroad Lane, Grappenhall                                        Born    8th May 1963 \nWarrington            Age  47 years \nWA4 3 ET  United Kingdom                                                                   Private Tel:          +44 1925 60 61 60 \nHo...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "finance": [
+      "Excel",
+      "SAP"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 1,
+      "finance": 2,
+      "manufacturing": 1,
+      "education": 2,
+      "consulting": 3,
+      "sales": 2
+    },
+    "confidence": 0.5
+  }
+}

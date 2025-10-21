@@ -1,0 +1,122 @@
+{
+  "last_updated": "2025-08-12",
+  "market_trends": {
+    "hot_skills_2025": [
+      {
+        "skill": "Artificial Intelligence",
+        "growth_rate": 45.2,
+        "salary_premium": 35000,
+        "job_openings": 125000
+      },
+      {
+        "skill": "Machine Learning",
+        "growth_rate": 42.8,
+        "salary_premium": 32000,
+        "job_openings": 98000
+      },
+      {
+        "skill": "Cloud Computing",
+        "growth_rate": 38.5,
+        "salary_premium": 28000,
+        "job_openings": 145000
+      },
+      {
+        "skill": "Cybersecurity",
+        "growth_rate": 35.1,
+        "salary_premium": 25000,
+        "job_openings": 87000
+      },
+      {
+        "skill": "Data Science",
+        "growth_rate": 31.4,
+        "salary_premium": 22000,
+        "job_openings": 76000
+      }
+    ],
+    "declining_skills": [
+      {
+        "skill": "Flash Development",
+        "decline_rate": -85.2,
+        "replacement_skills": ["React", "Angular", "Vue.js"]
+      },
+      {
+        "skill": "COBOL",
+        "decline_rate": -45.8,
+        "replacement_skills": ["Java", "Python", "C#"]
+      }
+    ]
+  },
+  "salary_intelligence": {
+    "global_averages": {
+      "software_engineer": {
+        "junior": 68000,
+        "mid": 89000,
+        "senior": 125000,
+        "lead": 145000
+      },
+      "data_scientist": {
+        "junior": 72000,
+        "mid": 98000,
+        "senior": 135000,
+        "lead": 160000
+      },
+      "product_manager": {
+        "junior": 75000,
+        "mid": 102000,
+        "senior": 140000,
+        "lead": 165000
+      },
+      "devops_engineer": {
+        "junior": 70000,
+        "mid": 92000,
+        "senior": 128000,
+        "lead": 150000
+      }
+    },
+    "skill_premiums": {
+      "ai_ml": 0.35,
+      "cloud_native": 0.28,
+      "blockchain": 0.25,
+      "cybersecurity": 0.23,
+      "leadership": 0.20
+    }
+  },
+  "industry_insights": {
+    "technology": {
+      "growth_rate": 12.5,
+      "avg_salary": 95000,
+      "top_skills": ["Python", "JavaScript", "Cloud", "AI", "DevOps"],
+      "hiring_trend": "increasing"
+    },
+    "finance": {
+      "growth_rate": 8.2,
+      "avg_salary": 87000,
+      "top_skills": ["Python", "R", "SQL", "Risk Management", "Compliance"],
+      "hiring_trend": "stable"
+    },
+    "healthcare": {
+      "growth_rate": 15.8,
+      "avg_salary": 78000,
+      "top_skills": ["Data Analysis", "Compliance", "Patient Care", "EMR", "Telemedicine"],
+      "hiring_trend": "increasing"
+    }
+  },
+  "career_paths": {
+    "data_scientist": {
+      "typical_progression": [
+        "Junior Data Analyst",
+        "Data Scientist",
+        "Senior Data Scientist", 
+        "Lead Data Scientist",
+        "Data Science Manager"
+      ],
+      "key_skills_by_level": {
+        "junior": ["Python", "SQL", "Statistics", "Excel"],
+        "mid": ["Machine Learning", "Deep Learning", "MLOps", "Cloud"],
+        "senior": ["Architecture", "Strategy", "Leadership", "Business Acumen"],
+        "lead": ["Team Management", "Product Strategy", "Executive Communication"]
+      },
+      "avg_time_between_levels": 18
+    }
+  }
+}

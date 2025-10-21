@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "file_name": "Andrea_Cigada.pdf",
+    "file_size": 55289,
+    "processing_date": "2025-10-09T16:20:49.432033",
+    "text_length": 6798,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "a.cigada@virgilio.it"
+    ],
+    "phones": [
+      "345 4314145",
+      "339 1175730",
+      "3454314145",
+      "3391175730",
+      "345 4314145",
+      "339 1175730"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Professional Experience  \n  Terex  Corporation",
+    "General Services"
+  ],
+  "job_titles": [
+    "manager",
+    "Manager",
+    "lead",
+    "Lead"
+  ],
+  "text_sample": "Page 1 - Curriculum vitae  \nAndrea CIGADA  For further information: (+39)  345 4314145, 339 1175730  \n Personal Data  \nName   ANDREA CIGADA  \nTelephone   Mobile (+39) 3454314145, (+39)3391175730  \nE-mail  a.cigada@virgilio.it  \nDate of birth   19 May 1968  \n \nResults -driven operations manager with an extensive track recor d improving profitability of manufacturing organizations and driving the \nchange to best practices.  \n Excellent communicator, able to manage human resources in problematic s...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "cloud": [
+      "AWS"
+    ],
+    "project_management": [
+      "Kanban"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "finance": [
+      "Excel"
+    ],
+    "soft_skills": [
+      "Team Management"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "manufacturing",
+    "industry_scores": {
+      "technology": 1,
+      "manufacturing": 4,
+      "education": 2
+    },
+    "confidence": 0.6666666666666666
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "file_name": "CV - Axel van der Graaf.pdf",
+    "file_size": 117956,
+    "processing_date": "2025-10-09T16:20:52.477001",
+    "text_length": 5428,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "er.graaf@gmail.com"
+    ],
+    "phones": [
+      "6 12501109"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [],
+  "job_titles": [
+    "Manager",
+    "Engineer",
+    "director"
+  ],
+  "text_sample": "Curriculum Vitae  \n \nPersonal\nAxel Simon van der Graaf  \nHazezegge 11  \n2318 ZH Leiden  \nThe Netherlands  \n \nPlace and date of birth: Oegstgeest, Netherlands,  March 18th, 1979  \nMarital status: married  \nNationality: Dutch  \nMobile phone : +31(0)6 12501109  \nE-mail: a.van.d er.graaf@gmail.com\n \nEmployment History  \n \nAako BV, Leusden (chemical distribution agent)          01/20 10 – present  \nSales & Marketing M anager, Personal Care, Hair Care and Sun Care Europe  \n New business development fo...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "education",
+    "industry_scores": {
+      "technology": 1,
+      "finance": 1,
+      "manufacturing": 1,
+      "education": 2,
+      "consulting": 2
+    },
+    "confidence": 0.3333333333333333
+  }
+}

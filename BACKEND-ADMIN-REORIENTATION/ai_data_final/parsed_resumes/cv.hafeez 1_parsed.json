@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "file_name": "cv.hafeez 1.pdf",
+    "file_size": 794651,
+    "processing_date": "2025-10-09T16:20:55.949856",
+    "text_length": 6167,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "hafez.rams@gmail.com"
+    ],
+    "phones": [
+      "971566446492"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Trichy Trading Company"
+  ],
+  "job_titles": [
+    "lead"
+  ],
+  "text_sample": " \nHAFEEZ  \nPOKKASSIRAKAT H Sharjah -Uae   \n+971566446492    \nhafez.rams@gmail.com    \n \n OBJECTIVE  \nResults -driven Automotive Refinishing Business Development Professional with \nadvanced expertise in the automotive industry and a track record of driving growth and \nsuccess. Leveraging exceptional business development skills, industry knowledge, and a \nstrategic mindset to identify new opportunities, forge valuable partnerships, and \ncontribute to the expansion and profitability of organization...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "finance": [
+      "Excel"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 2,
+      "finance": 2,
+      "marketing": 2,
+      "consulting": 3,
+      "sales": 3
+    },
+    "confidence": 0.5
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "file_name": "CV_CSep_2011.pdf",
+    "file_size": 204825,
+    "processing_date": "2025-10-09T16:20:57.396625",
+    "text_length": 3578,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [],
+    "phones": [
+      "0048-518 968",
+      "32 841 3663"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Gasification Technologies",
+    "Master of Chemical Technology"
+  ],
+  "job_titles": [
+    "manager",
+    "Lead",
+    "Engineer"
+  ],
+  "text_sample": "CURRICULUM VITAE  \n \n \nFamily name :    Cristian  Sęp \n \nDate and place of birth :  06.04.1975, Gdańsk  \n \nAdres s:    Colombier , Passage de la Fontaine 2, Switzerland  \n \nContact :    0048-518 968 608 (mobile ) \n     0041 -32 841 3663 (home)  \n \nMarital status :    married , 2 children  \n \n \nPROFESSIONAL EXPERIENCE  \n \nPetroplus Refinery Cressier , Switzerland   10.2011  – now  \n \nProcess Engineer   ▪ Process Engineering Team  \n \n \nBiproraf, Gdańsk      02.2011 – 08.2011  \n \nProcess Engineer  ...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "marketing": [
+      "SEM"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "healthcare": 1,
+      "manufacturing": 1,
+      "education": 1,
+      "consulting": 2
+    },
+    "confidence": 0.3333333333333333
+  }
+}

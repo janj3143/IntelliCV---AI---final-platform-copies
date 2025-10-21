@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "file_name": "Curriculum Vitae Thorsten Friedrich 26072011.pdf",
+    "file_size": 13561,
+    "processing_date": "2025-10-09T16:20:52.140531",
+    "text_length": 2379,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [],
+    "phones": [
+      "0628146925",
+      "2004-2007",
+      "1993-2001",
+      "2000-2001"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Korean Advanced Institute of Science and Technology"
+  ],
+  "job_titles": [
+    "analyst",
+    "consultant",
+    "coordinator",
+    "Coordinator"
+  ],
+  "text_sample": "Curriculum Vitae  \nThorsten Friedrich  \nJuly 26h 2011 \n \nAddress: Brederostraat 11 \nPlace: 2332 BA Leiden \nTelephone: 0628146925 Date of birth: 04-06-1974 \nPlace of birth: Gross Gerau (Germany)  \nCitizenship: Dutch \nWorking experience \n2010 – present: AkzoNobel, Decorative Paints Continental Europe \nGroup Leader Evaluation, Application & Knowledge \nProduct Stewardship & Knowledge Centre Continental Europe \nApplication tests, system evaluation and durability test for new product development, prod...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "marketing": [
+      "SEO"
+    ],
+    "finance": [
+      "SAP"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "education",
+    "industry_scores": {
+      "technology": 1,
+      "manufacturing": 1,
+      "education": 3,
+      "consulting": 2
+    },
+    "confidence": 0.5
+  }
+}

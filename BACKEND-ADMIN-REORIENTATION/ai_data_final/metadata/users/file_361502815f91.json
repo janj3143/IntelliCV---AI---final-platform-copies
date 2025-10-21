@@ -1,0 +1,151 @@
+{
+  "file_id": "file_361502815f91",
+  "source_path": "C:\\IntelliCV\\data\\# File corecv_matcher_advanced double check.txt",
+  "extracted_at": "2025-08-10T16:08:56.633109",
+  "text": "# File: core/cv_matcher_advanced.py\n\nimport os\nimport json\nimport re\nfrom pathlib import Path\nfrom sklearn.feature_extraction.text import TfidfVectorizer\nfrom sklearn.metrics.pairwise import cosine_similarity\n\n\ndef load_file(path):\n    try:\n        with open(path, \"r\", encoding=\"utf-8\") as f:\n            return f.read()\n    except FileNotFoundError:\n        return None\n\n\ndef clean_text(text):\n    text = re.sub(r\"\\s+\", \" \", text)\n    return text.strip().lower()\n\n\nif __name__ == \"__main__\":\n    resume_text = load_file(\"data/user_resume.txt\")\n    job_text = load_file(\"data/job_description.txt\")\n\n    result = {\n        \"mode\": \"cv_only\",\n        \"match_score\": None,\n        \"matched_keywords\": [],\n        \"note\": \"No job description provided. CV analyzed independently.\"\n    }\n\n    if resume_te # File: core/cv_matcher_advanced.py\n\nimport os\nimport json\nimport re\nfrom pathlib import Path\nfrom sklearn.feature_extraction.text import TfidfVectorizer\nfrom sklearn.metrics.pairwise import cosine_similarity\n\n\ndef load_file(path):\n    try:\n        with open(path, \"r\", encoding=\"utf-8\") as f:\n            return f.read()\n    except FileNotFoundError:\n        return None\n\n\ndef clean_text(text):\n    text = re.sub(r\"\\s+\", \" \", text)\n    return text.strip().lower()\n\n\nif __name__ == \"__main__\":\n    resume_text = load_file(\"data/user_resume.txt\")\n    job_text = load_file(\"data/job_description.txt\")\n\n    result = {\n        \"mode\": \"cv_only\",\n        \"match_score\": None,\n        \"matched_keywords\": [],\n        \"note\": \"No job description provided. CV analyzed independently.\"\n    }\n\n    if resume_text:\n        resume_text_cleaned = clean_text(resume_text)\n\n        if job_text:\n            job_text_cleaned = clean_text(job_text)\n            vectorizer = TfidfVectorizer(stop_words=\"english\")\n            vectors = vectorizer.fit_transform([resume_text_cleaned, job_text_cleaned])\n            score = cosine_similarity(vectors[0:1], vectors[1:2])[0][0] * 100\n\n            matched = set(word for word in job_text_cleaned.split() if word in resume_text_cleaned)\n            result = {\n                \"mode\": \"cv_to_job\",\n                \"match_score\": round(score, 2),\n                \"matched_keywords\": list(matched),\n                \"note\": \"Match score calculated against provided job description.\"\n            }\n\n    with open(\"output/match_analysis.json\", \"w\", encoding=\"utf-8\") as f:\n        json.dump(result, f, indent=2)\n\n    print(\"[MATCHER] Analysis complete.\")\n\nNew CV Matcher\n# File: core/cv_tuner_advanced.py\n\nimport json\nfrom pathlib import Path\nfrom spacy.lang.en import English\nfrom spacy.matcher import PhraseMatcher\n\nnlp = English()\nmatcher = PhraseMatcher(nlp.vocab)\n\n# Expanded keywords to suggest\nbuzzwords = [\n    \"kubernetes\", \"sql\", \"cloud\", \"python\", \"leadership\",\n    \"apis\", \"data\", \"infrastructure\", \"scalability\", \"automation\",\n    \"microservices\", \"machine learning\", \"digital transformation\",\n    \"carbon capture\", \"energy transition\", \"stakeholder engagement\",\n    \"technical marketing\", \"R&D\", \"technology licensing\"\n]\n\npatterns = [nlp.make_doc(text) for text in buzzwords]\nmatcher.add(\"BUZZWORDS\", patterns)\n\ncv_path = Path(\"data/user_resume.txt\")\nif not cv_path.exists():\n    print(\"⚠️ Resume not found.\")\n    exit()\n\ntext = cv_path.read_text(encoding=\"utf-8\")\ndoc = nlp(text.lower())\n\nfound_keywords = set([str(span).lower() for match_id, start, end in matcher(doc) for span in [doc[start:end]]])\nsuggestions = [w for w in buzzwords if w not in found_keywords]\n\nresult = {\n    \"found\": sorted(list(found_keywords)),\n    \"recommendations\": suggestions\n}\n\nPath(\"output/tuned_cv_recommendations.json\").write_text(json.dumps(result, indent=2))\nprint(\"✅ CV tuning completed.\")\n ",
+  "emails": [],
+  "phones": [],
+  "names": [],
+  "work_history": [],
+  "title": "",
+  "company": "",
+  "location": "",
+  "experience_years": 0,
+  "career_stage": "entry",
+  "industries": [
+    "general"
+  ],
+  "skills": [
+    "python",
+    "kubernetes",
+    "leadership",
+    "sql",
+    "machine learning"
+  ],
+  "ai_scores": {
+    "experience_years": 0.0,
+    "title_progression": 0.5,
+    "company_prestige": 0.5,
+    "location_mobility": 0.5,
+    "skill_diversity": 0.5,
+    "network_strength": 0.3
+  },
+  "ai_final_score": 0.345,
+  "ai_processed_at": "2025-08-11T10:42:07.916814",
+  "similar_users": [
+    {
+      "user_id": "file_09bf7bf5671f",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.345,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_34a216864877",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.345,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_862898d944ba",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.345,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_b690908b2109",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.345,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_1b1d9eec1c17",
+      "similarity_score": 0.985,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.33,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_240fc79a396e",
+      "similarity_score": 0.985,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.33,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_3006777ed531",
+      "similarity_score": 0.985,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.33,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_3832a6aaf03a",
+      "similarity_score": 0.985,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.33,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_53ff9d2856e7",
+      "similarity_score": 0.985,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.33,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_a1bc8291beb2",
+      "similarity_score": 0.985,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.33,
+      "experience_years": 0
+    }
+  ],
+  "recommendations": {
+    "career_advancement": [
+      "Focus on building core technical skills",
+      "Seek mentorship from senior team members",
+      "Take on challenging projects to gain experience"
+    ],
+    "skill_development": [],
+    "company_targets": [
+      "Mid-size companies with growth potential",
+      "Startups in emerging industries",
+      "Companies known for employee development"
+    ],
+    "networking": []
+  }
+}

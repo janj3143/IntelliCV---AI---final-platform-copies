@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "file_name": "CV (2).pdf",
+    "file_size": 36891,
+    "processing_date": "2025-10-09T16:20:52.338957",
+    "text_length": 2543,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "gokberk.kilic93@gmail.com"
+    ],
+    "phones": [
+      "905308263822",
+      "2018-2023",
+      "2013-2023",
+      "2008-2011"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [],
+  "job_titles": [
+    "MANAGER"
+  ],
+  "text_sample": "ZIYA GOKBERK\nKILIC\nCONTACT INFORMATION\ngokberk.kilic93@gmail.com\nKültür Mh. İ ETT Blokları Y olu Sk.\n12.Blok Dair e.10 Be ş ikta ş , İ stanbul,\nTurkey\n+905308263822\nAug 31, 1993\nSKILLS\nLANGUAGES\nTurkish  | Nativ e\nEnglish  | AdvancedEXPERIENCE\nREGION AL KEY A CCOUN T MANAGER\nTürk Henk el.Istanbul, T urkey|Jan 2023 -Present\nDeliv ering OSG and pr o\u0000tability tar gets\nLed cr oss-functional teams t o implement pr oduct launches\nProduct optimization t o achie ve winning por tfolio\nOrganizing tech-da ...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "soft_skills": [
+      "Strategic Planning"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "manufacturing",
+    "industry_scores": {
+      "manufacturing": 1
+    },
+    "confidence": 0.16666666666666666
+  }
+}

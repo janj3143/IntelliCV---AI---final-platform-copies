@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "file_name": "CV_Sergey_Mitrichev_2011_RUS.pdf",
+    "file_size": 67210,
+    "processing_date": "2025-10-09T16:21:00.096791",
+    "text_length": 4621,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "sergey@mitrichev.ru"
+    ],
+    "phones": [
+      "125480",
+      "7 (915) 4783519"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Aspen Technologies",
+    "Technologies Inc",
+    "Aspen Technologies Inc"
+  ],
+  "job_titles": [],
+  "text_sample": "Митричев Сергей Игоревич\nРоссия, Москва, 125480, ул. Героев-Панфиловцев, 37-3-183.\nТел.: +7 (915) 4783519. E-mail: sergey@mitrichev.ru\nОПЫТ РАБОТЫ\n04/2008 – н.в.ТНК-ВР.  Руководитель  группы  развития  технических  \nдисциплин.\nРуководство развитие организационного потенциала и обучением в 12  \nтехнических дисциплинах (10000+ специалистов в различных регионах),  \nруководство  группой  технического  обучения  (3  чел.)  и  организация  \nвнутренней экспертной поддержки, работа с подрядчиками с бюдж...",
+  "skills_detected": {
+    "finance": [
+      "SAP"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "unknown",
+    "industry_scores": {},
+    "confidence": 0
+  }
+}

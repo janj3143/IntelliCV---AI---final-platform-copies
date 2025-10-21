@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "file_name": "Rosalind Burgess Curriculum Vitae December 2010.pdf",
+    "file_size": 65493,
+    "processing_date": "2025-10-09T16:21:07.569112",
+    "text_length": 10205,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "rosalindburgess@googlemail.com"
+    ],
+    "phones": [
+      "01295 690457",
+      "07984 034778"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "US Danaher Corp",
+    "Norbar Ltd",
+    "Meridien Intl Credit Corp",
+    "Sales Co",
+    "Wood & Douglas Ltd",
+    "ELE International Ltd",
+    "Aldep International Ltd",
+    "Meridien Intl Cr edit Corp",
+    "Rollinson Co",
+    "Elpro Technologies"
+  ],
+  "job_titles": [
+    "designer",
+    "Director",
+    "Manager",
+    "consultant"
+  ],
+  "text_sample": " 1  \nOctober 2010 \nROSALIND MARY BURGESS \n \n                             Field View, 8 Rectory Close, Warmington, Banbury, Oxon OX17 1DL \n \nTel/Fax: 01295 690457 Mob: 07984 034778 \n \nE-mail: rosalindburgess@googlemail.com \n \nA high calibre sales and marketing professional wit h a successful track record in technical \nsales, developing and closing business opportunitie s in the UK and export markets.  A people \nperson with good analytical ability and over 20 yea rs’ experience of managing interna...",
+  "skills_detected": {
+    "programming": [
+      "Go",
+      "Rust"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "finance": [
+      "Excel"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "education",
+    "industry_scores": {
+      "technology": 2,
+      "education": 4,
+      "consulting": 3
+    },
+    "confidence": 0.6666666666666666
+  }
+}

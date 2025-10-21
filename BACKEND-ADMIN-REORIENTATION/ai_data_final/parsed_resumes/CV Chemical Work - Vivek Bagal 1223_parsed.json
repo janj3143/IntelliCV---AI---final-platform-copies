@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "file_name": "CV Chemical Work - Vivek Bagal 1223.pdf",
+    "file_size": 417239,
+    "processing_date": "2025-10-09T16:20:53.196728",
+    "text_length": 6645,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "vivekbagal89@hotmail.com",
+      "vivekbagal89@hotmail.com"
+    ],
+    "phones": [
+      "971 564489517",
+      "971 564489517"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Collaborated with Honeywell Process Solutions",
+    "Director of Services",
+    "A Honeywell Company"
+  ],
+  "job_titles": [
+    "Senior",
+    "Engineer",
+    "junior",
+    "Director",
+    "lead"
+  ],
+  "text_sample": "Vivek Bagal                \n          Abu Dhabi, United Arab Emirates \n               : +971 564489517 \n            : vivekbagal89@hotmail.com  \n \nSummary                                                                                                                                          \n \nChemical Engineer with eleven plus years of international experience in gas processing, refining and petrochemical industry, \nfamiliar with basic engineering design of unit, quality inspection of equipme...",
+  "skills_detected": {
+    "cloud": [
+      "AWS"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "finance": [
+      "Compliance"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 2,
+      "finance": 1,
+      "manufacturing": 2,
+      "education": 1,
+      "consulting": 2,
+      "sales": 1
+    },
+    "confidence": 0.2857142857142857
+  }
+}

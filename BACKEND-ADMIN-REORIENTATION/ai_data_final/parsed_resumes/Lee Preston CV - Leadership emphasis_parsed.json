@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "file_name": "Lee Preston CV - Leadership emphasis.docx",
+    "file_size": 29699,
+    "processing_date": "2025-10-09T16:21:04.113830",
+    "text_length": 10363,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "lee.preston@hotmail.co.uk"
+    ],
+    "phones": [
+      "01455) 615880"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Automatic Valve Systems Ltd",
+    "Automatic Valve Systems",
+    "Program and Testing of PLC Control Systems",
+    "Career History\nMETCO Services Ltd",
+    "Honeywell Control Systems Ltd",
+    "New business Sales and Account management of End Users and Systems",
+    "Honeywell Control Systems",
+    "Pera Innovation Ltd",
+    "Value Selling\t\t\t\t\tMercuri International\n\nValubase Selling \t\t\t\tHolden Corporation",
+    "Software Services",
+    "Testing of Stepper Motor Control Systems",
+    "Career History\nMETCO Services",
+    "Rockwell Automation Ltd",
+    "Business Manager Software Services \t\nHead of Software Services",
+    "Learning International\n\nSelling Information Technology",
+    "ABB Control Ltd"
+  ],
+  "job_titles": [
+    "Manager",
+    "Engineer",
+    "Consultant",
+    "Specialist"
+  ],
+  "text_sample": "Lee Preston\n2, Sandford Close,\nHinckley,\nLeicestershire,\nLE10 1JJ\nTel: (01455) 615880\nEmail: lee.preston@hotmail.co.uk\n\nProfile\nAn accomplished and results driven business leader, with over 20 years experience within the Utilities, Oil and Gas and Manufacturing sectors. Posses a proven track record of strategic leadership and operational management, which is complimented by a solid commercial background. An excellent communicator that demonstrates the ability to motivate at all levels.\n\n\nCareer ...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "finance": [
+      "Excel",
+      "Compliance"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 2,
+      "finance": 2,
+      "marketing": 1,
+      "manufacturing": 2,
+      "education": 2,
+      "consulting": 4,
+      "sales": 3
+    },
+    "confidence": 0.6666666666666666
+  }
+}

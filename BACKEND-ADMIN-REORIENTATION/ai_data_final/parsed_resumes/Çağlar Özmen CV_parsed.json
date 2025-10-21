@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "file_name": "Çağlar Özmen CV.pdf",
+    "file_size": 59661,
+    "processing_date": "2025-10-09T16:21:00.432645",
+    "text_length": 4834,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [],
+    "phones": [],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Bosch Car Services"
+  ],
+  "job_titles": [
+    "Manager",
+    "consultant",
+    "Consultant",
+    "Engineer"
+  ],
+  "text_sample": "   \nİletişim Bilgileri\nwww.linkedin.com/in/çağlar-\nözmen-9300b866  (LinkedIn)\nEn Önemli Yetenekler\nEkip Yönetimi\nEngineering\nDesigning\nLanguages\nİngilizce  (Professional Working)\nAlmanca  (Elementary)\nCertifications\nPersonnel Lifting Platform Technical\nTraining (Luzzara, Italy)\nTechnical Training Program (South\nKorea)\nMadeni Yağ Teknolojileri Eğitimi\n(Istanbul)\nSales Training 2015 (Istanbul,\nTurkey)\nService Training 2015 (Pfullendorf,\nGermany)\nHonors-Awards\nHonor Student\nHonor StudentÇağlar Özme...",
+  "skills_detected": {},
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 2,
+      "finance": 1,
+      "manufacturing": 1,
+      "education": 1,
+      "consulting": 1
+    },
+    "confidence": 0.2857142857142857
+  }
+}

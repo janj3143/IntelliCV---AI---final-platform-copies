@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "file_name": "110119 Curriculum Vitae Torsten Heiland.pdf",
+    "file_size": 60029,
+    "processing_date": "2025-10-09T16:20:48.115213",
+    "text_length": 8986,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "torsten.heiland@gmx.de"
+    ],
+    "phones": [
+      "00493672",
+      "488563",
+      "00493672",
+      "488685",
+      "2009-2010",
+      "2004-2008"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Johnson Controls Systems & Servi ce GmbH \n  Sales Engineer Building Management Systems",
+    "INVENSYS Eurotherm Deutschland G mbH \n  Key Account Manager Systems",
+    "Sales Engineer BMS \n \nJohnson Controls Systems",
+    "Direct Sales Building Management Systems",
+    "Key Account Manager Systems"
+  ],
+  "job_titles": [
+    "Engineer",
+    "Consultant",
+    "manager",
+    "lead",
+    "Manager",
+    "engineer"
+  ],
+  "text_sample": "CV Torsten Heiland, 19.01.2011  page 1\u0001 of 4\u0001 Curriculum Vitae      \n \nTorsten Heiland \nRudolf-Zinkel-Str. 8 \n07407 Rudolstadt-GERMANY \n \nPhone.: 00493672/ 488563 \nFax:       00493672/ 488685  \nE-Mail: torsten.heiland@gmx.de   \n   \n \nBorn on 19. June 1976 in Gera  \nMarried, 2 children \n \n \n \n \n \nUNIVERSITY: 07/1997 - 10/2000 Electrical Engineering \n  University of Cooperative Education,  \n  Business College Bautzen \n  Diplom Ingenieur (BA) \n \nEMPLOYMENT:  03/2008 – present INVENSYS Eurotherm Deu...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "cloud": [
+      "AWS"
+    ],
+    "finance": [
+      "Excel"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "sales",
+    "industry_scores": {
+      "technology": 2,
+      "healthcare": 2,
+      "finance": 1,
+      "manufacturing": 1,
+      "education": 1,
+      "consulting": 2,
+      "sales": 3
+    },
+    "confidence": 0.5
+  }
+}

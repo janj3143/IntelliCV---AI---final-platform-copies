@@ -1,0 +1,152 @@
+{
+  "file_id": "file_cf2da2b9e893",
+  "source_path": "C:\\IntelliCV\\data\\Pre Timeline Thread.txt",
+  "extracted_at": "2025-08-10T16:25:59.044272",
+  "text": "THREAD DATA 1 – Pre-Timeline Summary Extract\n\nThis document includes all relevant project planning, backend setup, dev alignment, technical troubleshooting, and high-level strategy threads that occurred prior to the formal timeline milestone \"Full IntelliCV Development Timeline (High Level)\".\n\nKey Activities Prior to Timeline Setup:\n\n1. 📦 Infrastructure & Environment\n   - Virtual environments setup: venv / env310\n   - Python version migrations: 3.13 → 3.10 due to SpaCy and NumPy compatibility\n   - `requirements.txt` restructuring: multiple versions reconciled into `requirements_cleaned.txt`\n   - Pip issues and dependency conflicts resolved (notably `pydantic` vs `spacy`)\n\n2. 🧠 AI/NLP Modules\n   - `cv_matcher.py` updated to `cv_matcher_advanced.py`\n   - `cv_tuner.py` enhanced with role buzz THREAD DATA 1 – Pre-Timeline Summary Extract\n\nThis document includes all relevant project planning, backend setup, dev alignment, technical troubleshooting, and high-level strategy threads that occurred prior to the formal timeline milestone \"Full IntelliCV Development Timeline (High Level)\".\n\nKey Activities Prior to Timeline Setup:\n\n1. 📦 Infrastructure & Environment\n   - Virtual environments setup: venv / env310\n   - Python version migrations: 3.13 → 3.10 due to SpaCy and NumPy compatibility\n   - `requirements.txt` restructuring: multiple versions reconciled into `requirements_cleaned.txt`\n   - Pip issues and dependency conflicts resolved (notably `pydantic` vs `spacy`)\n\n2. 🧠 AI/NLP Modules\n   - `cv_matcher.py` updated to `cv_matcher_advanced.py`\n   - `cv_tuner.py` enhanced with role buzzword mapping and tuning feedback logic\n   - Radar chart and spider logic decoupled for future user scoring overlays\n\n3. 💻 Frontend Streamlit Integration\n   - Streamlit dashboard scaffolded\n   - Resume `user_resume.txt` loader\n   - Dynamic analysis triggering backend modules\n   - Display of: Match Score, Radar Chart, Tuning Recs\n   - Integrated into `frontend/dashboard_app.py`\n\n4. 📄 Resume Ingestion & Testing\n   - Tested on Andreas Kern CV (standalone, no job description)\n   - Issue: mismatch in CV keywords and analysis logic resolved\n   - Architecture built to fall back on CV-only mode when no job provided\n\n5. 🔍 Job Description Matching\n   - Enhanced matching with cosine similarity using TF-IDF\n   - If `job_description.txt` exists → compare and return match % + overlap keywords\n   - If absent → note: \"No job provided. CV only analyzed\"\n\n6. 🔒 Security / Lint / GDPR\n   - Security architecture scaffolded\n   - Code linting tools: ruff, mypy, bandit, pre-commit integrated\n   - Compliance hooks for future opt-in logging, GDPR data traceability, cloudflare protections\n\n7. 📁 File Structure Alignment\n   - Reorganized filepaths:\n     - Backend: `backend/app/`, `backend/core/`, `backend/services/`\n     - Frontend: `frontend/dashboard_app.py`\n     - Data: `data/user_resume.txt`, `data/job_description.txt`\n     - Output: `output/match_analysis.json`, `output/tuned_cv_recommendations.json`, `output/role_fit_chart.png`\n\n8. 🚧 Testing + Debugging\n   - Real-time error handling added to backend scripts\n   - Dependency resolution scripting via `install_validate.py`\n   - Consistency enforced across `cv_matcher`, `cv_tuner`, and radar modules\n   \n9. 🗃️ Project Documentation Prep\n   - Planning to compile all phases (1–6.8) into a timeline-locked format\n   - Phase 6.8 marked as complete before GitHub push prep\n\nAll this activity precedes the point where a formalized development roadmap (timeline format) was introduced and locked into the project canvas.\n\n ",
+  "emails": [],
+  "phones": [],
+  "names": [
+    "Project Documentation",
+    "Radar Chart",
+    "Key Activities"
+  ],
+  "work_history": [],
+  "title": "",
+  "company": "",
+  "location": "",
+  "experience_years": 0,
+  "career_stage": "entry",
+  "industries": [
+    "general"
+  ],
+  "skills": [
+    "python",
+    "ai"
+  ],
+  "ai_scores": {
+    "experience_years": 0.0,
+    "title_progression": 0.5,
+    "company_prestige": 0.5,
+    "location_mobility": 0.5,
+    "skill_diversity": 0.2,
+    "network_strength": 0.3
+  },
+  "ai_final_score": 0.3,
+  "ai_processed_at": "2025-08-11T10:42:13.556948",
+  "similar_users": [
+    {
+      "user_id": "file_03a6b852a8c4",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.3,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_051097a5305f",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.3,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_0a18a97bcfd0",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.3,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_0beaec8ab0a1",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.3,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_0cab440865c1",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.3,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_0dfd8954822a",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.3,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_0ff523b92ee7",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.3,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_10d56f91128e",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.3,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_12590c739be9",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.3,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_12df452c4021",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.3,
+      "experience_years": 0
+    }
+  ],
+  "recommendations": {
+    "career_advancement": [
+      "Focus on building core technical skills",
+      "Seek mentorship from senior team members",
+      "Take on challenging projects to gain experience"
+    ],
+    "skill_development": [],
+    "company_targets": [
+      "Mid-size companies with growth potential",
+      "Startups in emerging industries",
+      "Companies known for employee development"
+    ],
+    "networking": []
+  }
+}

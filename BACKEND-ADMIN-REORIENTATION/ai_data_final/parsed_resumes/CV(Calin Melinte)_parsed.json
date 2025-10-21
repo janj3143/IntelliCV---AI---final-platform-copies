@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "file_name": "CV(Calin Melinte).pdf",
+    "file_size": 90810,
+    "processing_date": "2025-10-09T16:20:55.655535",
+    "text_length": 8982,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [],
+    "phones": [
+      "110355"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [],
+  "job_titles": [
+    "Lead",
+    "Principal",
+    "Engineer"
+  ],
+  "text_sample": " \n Curriculum vitae  \n \nPERSONAL INFORM ATION \nNam e Calin MELINTE \nAddress Frasinu lui Street, Blo ck 19, Apartment 21, 110355, Pitesti, Romania \nTelep hone +40.723 .270.590 \nE-mail calin .melinte@yah oo.com\nNatio nality Romanian \nDate and place of birth May 29th 1971, Cluj-Napoca c ity, Romania \n \nWORK EXPERIE NCE \n• Dates from  Dece mber 01,2008 to present \n• Nam e of em ployer OMV PETR OM Bucharest, ARPECHIM refin ery, Pitesti city \n• Type of b usiness or sector Integrated o il company, op e...",
+  "skills_detected": {
+    "programming": [
+      "Go",
+      "Rust"
+    ],
+    "web_development": [
+      "React"
+    ],
+    "finance": [
+      "Excel"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "education",
+    "industry_scores": {
+      "education": 1
+    },
+    "confidence": 0.16666666666666666
+  }
+}

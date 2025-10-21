@@ -1,0 +1,4937 @@
+{
+  "generated_at": "2025-08-11T10:59:37.551492",
+  "experience_distribution": {
+    "0-4": 582,
+    "10-14": 83,
+    "20-24": 49,
+    "5-9": 62,
+    "15-19": 57,
+    "25-29": 33,
+    "30+": 38
+  },
+  "title_level_analysis": {
+    "mid-level": {
+      "count": 2307,
+      "avg_experience": 9.95448634590377,
+      "min_experience": 0,
+      "max_experience": 49
+    },
+    "director": {
+      "count": 75,
+      "avg_experience": 11.506666666666666,
+      "min_experience": 0,
+      "max_experience": 49
+    },
+    "manager": {
+      "count": 273,
+      "avg_experience": 10.128205128205128,
+      "min_experience": 0,
+      "max_experience": 44
+    },
+    "senior": {
+      "count": 101,
+      "avg_experience": 9.623762376237623,
+      "min_experience": 0,
+      "max_experience": 35
+    },
+    "junior": {
+      "count": 12,
+      "avg_experience": 10.25,
+      "min_experience": 0,
+      "max_experience": 28
+    },
+    "executive": {
+      "count": 34,
+      "avg_experience": 9.382352941176471,
+      "min_experience": 0,
+      "max_experience": 44
+    }
+  },
+  "common_industry_transitions": [],
+  "location_mobility_analysis": {
+    "England, Company": {
+      "professional_count": 57,
+      "avg_experience": 6.719298245614035
+    },
+    "Legal, Insurance": {
+      "professional_count": 2,
+      "avg_experience": 4.0
+    },
+    "Ge": {
+      "professional_count": 9,
+      "avg_experience": 12.11111111111111
+    },
+    "April, September": {
+      "professional_count": 2,
+      "avg_experience": 11.0
+    },
+    "La": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Wind, Hydro": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Accsense, Inc": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Design, Safeguarding": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Hysys, Pipesim": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Philosophy, Safeguarding": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Council, Hydrogen": {
+      "professional_count": 2,
+      "avg_experience": 22.0
+    },
+    "Economics, Portugal": {
+      "professional_count": 2,
+      "avg_experience": 22.0
+    },
+    "Assistant, Desk": {
+      "professional_count": 1,
+      "avg_experience": 22.0
+    },
+    "Acetylene, Hydrogen": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Petersburg, Russia": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Tagil, Russia": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "January, Present": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Turkey, Middle": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Faculty, Electrical": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Design, Hydraulics": {
+      "professional_count": 1,
+      "avg_experience": 20.0
+    },
+    "Vessels, Pumps": {
+      "professional_count": 1,
+      "avg_experience": 20.0
+    },
+    "Chemistry, Petrochemistry": {
+      "professional_count": 1,
+      "avg_experience": 20.0
+    },
+    "UAE – Abu Dhabi\nQUALIFICATIONS\nMaste": {
+      "professional_count": 1,
+      "avg_experience": 11.0
+    },
+    "Head, Sub": {
+      "professional_count": 1,
+      "avg_experience": 11.0
+    },
+    "India, Middle": {
+      "professional_count": 2,
+      "avg_experience": 11.0
+    },
+    "Engines, Transmissions": {
+      "professional_count": 1,
+      "avg_experience": 8.0
+    },
+    "Works, Salesforce": {
+      "professional_count": 1,
+      "avg_experience": 8.0
+    },
+    "Office, Solid": {
+      "professional_count": 1,
+      "avg_experience": 8.0
+    },
+    "Care, Personal": {
+      "professional_count": 1,
+      "avg_experience": 15.0
+    },
+    "Manager, North": {
+      "professional_count": 1,
+      "avg_experience": 15.0
+    },
+    "Manager, Consumer": {
+      "professional_count": 1,
+      "avg_experience": 15.0
+    },
+    "Executive, Open": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Support, Research": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Present, Enterprise": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Berlin, Germany": {
+      "professional_count": 3,
+      "avg_experience": 22.333333333333332
+    },
+    "Germany, Berlin": {
+      "professional_count": 4,
+      "avg_experience": 10.25
+    },
+    "Record, Coordinate": {
+      "professional_count": 1,
+      "avg_experience": 11.0
+    },
+    "Maintenance, Perform": {
+      "professional_count": 2,
+      "avg_experience": 11.0
+    },
+    "No": {
+      "professional_count": 4,
+      "avg_experience": 13.5
+    },
+    "Bootle\nQUALIFICATIONS\nAdva": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Leeming, North": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Medical, Vantage": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Develop, Modify": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Ormskirk, England": {
+      "professional_count": 24,
+      "avg_experience": 4.625
+    },
+    "QUALIFICATIONS  \n \nMode": {
+      "professional_count": 1,
+      "avg_experience": 13.0
+    },
+    "Casting, Prototype": {
+      "professional_count": 1,
+      "avg_experience": 14.0
+    },
+    "Metal, Fabrication": {
+      "professional_count": 1,
+      "avg_experience": 14.0
+    },
+    "Manager, Home": {
+      "professional_count": 1,
+      "avg_experience": 14.0
+    },
+    "Drive, Matlock": {
+      "professional_count": 2,
+      "avg_experience": 9.5
+    },
+    "Road, Ormskirk": {
+      "professional_count": 10,
+      "avg_experience": 1.8
+    },
+    "Consultancy, Suite": {
+      "professional_count": 6,
+      "avg_experience": 0.0
+    },
+    "Lo": {
+      "professional_count": 3,
+      "avg_experience": 23.0
+    },
+    "Security, Cisco": {
+      "professional_count": 1,
+      "avg_experience": 13.0
+    },
+    "Engineer, Security": {
+      "professional_count": 1,
+      "avg_experience": 13.0
+    },
+    "Orgalim, European": {
+      "professional_count": 2,
+      "avg_experience": 0.0
+    },
+    "Recovery, Reform": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Manager, Climate": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "UAE - Dubai\nQUALIFICATIONS\nBachelo": {
+      "professional_count": 1,
+      "avg_experience": 4.0
+    },
+    "Mill, Raw": {
+      "professional_count": 1,
+      "avg_experience": 4.0
+    },
+    "Filtration, Chemical": {
+      "professional_count": 1,
+      "avg_experience": 4.0
+    },
+    "Group, Leica": {
+      "professional_count": 1,
+      "avg_experience": 28.0
+    },
+    "Doctor, Astrakhan": {
+      "professional_count": 1,
+      "avg_experience": 28.0
+    },
+    "Director, Head": {
+      "professional_count": 2,
+      "avg_experience": 20.0
+    },
+    "Almaty, October": {
+      "professional_count": 1,
+      "avg_experience": 12.0
+    },
+    "Symposium, Tokyo": {
+      "professional_count": 1,
+      "avg_experience": 12.0
+    },
+    "Management, Universidad": {
+      "professional_count": 1,
+      "avg_experience": 14.0
+    },
+    "Specialist, Heat": {
+      "professional_count": 1,
+      "avg_experience": 14.0
+    },
+    "Engineering, Mendel": {
+      "professional_count": 1,
+      "avg_experience": 14.0
+    },
+    "Bioedit, Mega": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Villas, Silk": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Jo, Diva": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "University, Istanbul": {
+      "professional_count": 3,
+      "avg_experience": 10.333333333333334
+    },
+    "Greece, Powder": {
+      "professional_count": 1,
+      "avg_experience": 20.0
+    },
+    "Representative, Coatings": {
+      "professional_count": 1,
+      "avg_experience": 20.0
+    },
+    "Kuwait, Oman": {
+      "professional_count": 3,
+      "avg_experience": 14.333333333333334
+    },
+    "Philippines, Australia": {
+      "professional_count": 1,
+      "avg_experience": 6.0
+    },
+    "Oman, Bahrain": {
+      "professional_count": 2,
+      "avg_experience": 13.0
+    },
+    "Hersham, Surrey": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Tax, Banking": {
+      "professional_count": 2,
+      "avg_experience": 7.0
+    },
+    "Word, Excel": {
+      "professional_count": 2,
+      "avg_experience": 7.0
+    },
+    "Synthes, Leeds": {
+      "professional_count": 1,
+      "avg_experience": 7.0
+    },
+    "Apprentice, Sep": {
+      "professional_count": 1,
+      "avg_experience": 7.0
+    },
+    "Laboratory, London": {
+      "professional_count": 1,
+      "avg_experience": 7.0
+    },
+    "Systems, Pipeline": {
+      "professional_count": 1,
+      "avg_experience": 20.0
+    },
+    "UAE\nQUALIFICATIONS\nB.E": {
+      "professional_count": 1,
+      "avg_experience": 20.0
+    },
+    "Arabic, English": {
+      "professional_count": 2,
+      "avg_experience": 19.5
+    },
+    "Ltd, Chesterfield": {
+      "professional_count": 2,
+      "avg_experience": 15.0
+    },
+    "Development, Mechanics": {
+      "professional_count": 2,
+      "avg_experience": 15.0
+    },
+    "Applications, Manufacturing": {
+      "professional_count": 1,
+      "avg_experience": 15.0
+    },
+    "Switzerland, Valais": {
+      "professional_count": 1,
+      "avg_experience": 7.0
+    },
+    "Switze": {
+      "professional_count": 4,
+      "avg_experience": 10.0
+    },
+    "Appearance, More": {
+      "professional_count": 1,
+      "avg_experience": 7.0
+    },
+    "Networks, Mike": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Consulting, Andy": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Belcan, Sarah": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Engineering, Jordan": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Industry, Energy": {
+      "professional_count": 2,
+      "avg_experience": 0.0
+    },
+    "Water, Military": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Manchester, United": {
+      "professional_count": 2,
+      "avg_experience": 9.0
+    },
+    "Maths, Science": {
+      "professional_count": 1,
+      "avg_experience": 18.0
+    },
+    "Diploma, Engineering": {
+      "professional_count": 1,
+      "avg_experience": 18.0
+    },
+    "Monroe, New": {
+      "professional_count": 1,
+      "avg_experience": 13.0
+    },
+    "Cleveland, Ohio": {
+      "professional_count": 2,
+      "avg_experience": 12.0
+    },
+    "Milwaukie, Wisconsin": {
+      "professional_count": 2,
+      "avg_experience": 12.0
+    },
+    "Bavaria, Germany": {
+      "professional_count": 1,
+      "avg_experience": 4.0
+    },
+    "Ghana, Bahrain": {
+      "professional_count": 1,
+      "avg_experience": 23.0
+    },
+    "Oracle, Kildrummy": {
+      "professional_count": 1,
+      "avg_experience": 23.0
+    },
+    "Ryde, England": {
+      "professional_count": 1,
+      "avg_experience": 14.0
+    },
+    "East, Africa": {
+      "professional_count": 6,
+      "avg_experience": 12.5
+    },
+    "Sales, Sales": {
+      "professional_count": 2,
+      "avg_experience": 7.0
+    },
+    "Skifahren, Golf": {
+      "professional_count": 1,
+      "avg_experience": 14.0
+    },
+    "Dahua, Hikvision": {
+      "professional_count": 1,
+      "avg_experience": 14.0
+    },
+    "Servervorbereitung, Inbetriebnahme": {
+      "professional_count": 1,
+      "avg_experience": 14.0
+    },
+    "Emirates, Bahrain": {
+      "professional_count": 2,
+      "avg_experience": 10.0
+    },
+    "Cairo, Egypt": {
+      "professional_count": 2,
+      "avg_experience": 5.0
+    },
+    "Limited, United": {
+      "professional_count": 1,
+      "avg_experience": 10.0
+    },
+    "Works, Mathematical": {
+      "professional_count": 2,
+      "avg_experience": 17.0
+    },
+    "Simulation, Mathematical": {
+      "professional_count": 2,
+      "avg_experience": 17.0
+    },
+    "Avenue, Little": {
+      "professional_count": 2,
+      "avg_experience": 17.0
+    },
+    "Arts, English": {
+      "professional_count": 3,
+      "avg_experience": 4.0
+    },
+    "Indonesia, Cambodia": {
+      "professional_count": 2,
+      "avg_experience": 3.0
+    },
+    "Myanmar, Taiwan": {
+      "professional_count": 2,
+      "avg_experience": 3.0
+    },
+    "Zealand, Sydney": {
+      "professional_count": 1,
+      "avg_experience": 30.0
+    },
+    "Empire, Mimikatz": {
+      "professional_count": 2,
+      "avg_experience": 28.5
+    },
+    "Antivirus, Proxies": {
+      "professional_count": 2,
+      "avg_experience": 28.5
+    },
+    "Sheet, Strategic": {
+      "professional_count": 1,
+      "avg_experience": 12.0
+    },
+    "Italy, Germany": {
+      "professional_count": 3,
+      "avg_experience": 5.0
+    },
+    "South Af": {
+      "professional_count": 1,
+      "avg_experience": 7.0
+    },
+    "Consultant, Processes": {
+      "professional_count": 1,
+      "avg_experience": 7.0
+    },
+    "English, Fully": {
+      "professional_count": 1,
+      "avg_experience": 7.0
+    },
+    "Corporation, Arar": {
+      "professional_count": 1,
+      "avg_experience": 15.0
+    },
+    "Diploma, Computer": {
+      "professional_count": 1,
+      "avg_experience": 15.0
+    },
+    "Design, Installation": {
+      "professional_count": 2,
+      "avg_experience": 7.5
+    },
+    "Lead, London": {
+      "professional_count": 1,
+      "avg_experience": 27.0
+    },
+    "Works, Microsoft": {
+      "professional_count": 1,
+      "avg_experience": 21.0
+    },
+    "West Yo": {
+      "professional_count": 1,
+      "avg_experience": 21.0
+    },
+    "Engineering, University": {
+      "professional_count": 4,
+      "avg_experience": 7.0
+    },
+    "Europe, Middle": {
+      "professional_count": 7,
+      "avg_experience": 7.428571428571429
+    },
+    "Madrid, Spain": {
+      "professional_count": 2,
+      "avg_experience": 13.0
+    },
+    "Race, Formula": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Erkrath, Germany": {
+      "professional_count": 1,
+      "avg_experience": 14.0
+    },
+    "India, Indonesia": {
+      "professional_count": 2,
+      "avg_experience": 14.0
+    },
+    "Austria, Ger": {
+      "professional_count": 1,
+      "avg_experience": 14.0
+    },
+    "Europe, China": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Government, Shell": {
+      "professional_count": 1,
+      "avg_experience": 16.0
+    },
+    "Director, Coryton": {
+      "professional_count": 2,
+      "avg_experience": 16.0
+    },
+    "Facility, Saudi": {
+      "professional_count": 1,
+      "avg_experience": 16.0
+    },
+    "Paris, France": {
+      "professional_count": 5,
+      "avg_experience": 9.4
+    },
+    "York, Buffalo": {
+      "professional_count": 1,
+      "avg_experience": 12.0
+    },
+    "UAE – Dubai\nQUALIFICATIONS\nMaste": {
+      "professional_count": 2,
+      "avg_experience": 10.5
+    },
+    "Box, Seoul": {
+      "professional_count": 1,
+      "avg_experience": 18.0
+    },
+    "Seoul, South": {
+      "professional_count": 3,
+      "avg_experience": 9.333333333333334
+    },
+    "Legal, Financial": {
+      "professional_count": 1,
+      "avg_experience": 18.0
+    },
+    "Relating, Discovering": {
+      "professional_count": 1,
+      "avg_experience": 24.0
+    },
+    "Science, Chemical": {
+      "professional_count": 1,
+      "avg_experience": 24.0
+    },
+    "Point, Access": {
+      "professional_count": 1,
+      "avg_experience": 24.0
+    },
+    "Cove": {
+      "professional_count": 1,
+      "avg_experience": 7.0
+    },
+    "Security, Aggregate": {
+      "professional_count": 1,
+      "avg_experience": 7.0
+    },
+    "Certifications, Certified": {
+      "professional_count": 1,
+      "avg_experience": 7.0
+    },
+    "Technician, Building": {
+      "professional_count": 1,
+      "avg_experience": 35.0
+    },
+    "Tradesman, Mechanical": {
+      "professional_count": 1,
+      "avg_experience": 35.0
+    },
+    "Tradesman, Building": {
+      "professional_count": 1,
+      "avg_experience": 35.0
+    },
+    "Dushanzi, Fushun": {
+      "professional_count": 3,
+      "avg_experience": 31.0
+    },
+    "Technologies, De": {
+      "professional_count": 3,
+      "avg_experience": 31.0
+    },
+    "English, Fluent": {
+      "professional_count": 4,
+      "avg_experience": 31.75
+    },
+    "Degree, Signal": {
+      "professional_count": 1,
+      "avg_experience": 28.0
+    },
+    "Pa": {
+      "professional_count": 1,
+      "avg_experience": 28.0
+    },
+    "Sc, Operations": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Designing, Manufacturing": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Salford, Manchester": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Sciences, Universit": {
+      "professional_count": 1,
+      "avg_experience": 19.0
+    },
+    "Dhabi, Amman": {
+      "professional_count": 1,
+      "avg_experience": 19.0
+    },
+    "Service, Single": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Ds, Process": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Stage, Multi": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Nelso": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Italian, English": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Aerospace, Pharmaceutical": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Gate, Forti": {
+      "professional_count": 1,
+      "avg_experience": 8.0
+    },
+    "Security, Symantec": {
+      "professional_count": 1,
+      "avg_experience": 8.0
+    },
+    "Prisma, Forti": {
+      "professional_count": 1,
+      "avg_experience": 8.0
+    },
+    "Partner, Group": {
+      "professional_count": 2,
+      "avg_experience": 3.0
+    },
+    "Germany, Austria": {
+      "professional_count": 3,
+      "avg_experience": 14.333333333333334
+    },
+    "Marketing, Medical": {
+      "professional_count": 1,
+      "avg_experience": 43.0
+    },
+    "Koble": {
+      "professional_count": 1,
+      "avg_experience": 43.0
+    },
+    "Pril, Dixan": {
+      "professional_count": 1,
+      "avg_experience": 17.0
+    },
+    "UAE - Dubai  \n \n \nEDUCATION  \n \nMSc Ma": {
+      "professional_count": 1,
+      "avg_experience": 17.0
+    },
+    "Marketing, Supply": {
+      "professional_count": 1,
+      "avg_experience": 17.0
+    },
+    "Utilities, Energy": {
+      "professional_count": 2,
+      "avg_experience": 24.5
+    },
+    "Power, Gov": {
+      "professional_count": 2,
+      "avg_experience": 24.5
+    },
+    "Managers, Lab": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "England, Scotland": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Balances, Industrial": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Chemistry, Commercialisation": {
+      "professional_count": 1,
+      "avg_experience": 8.0
+    },
+    "German, Intermediate": {
+      "professional_count": 1,
+      "avg_experience": 8.0
+    },
+    "Outlook, Teams": {
+      "professional_count": 1,
+      "avg_experience": 8.0
+    },
+    "School, Ramon": {
+      "professional_count": 1,
+      "avg_experience": 5.0
+    },
+    "Spai": {
+      "professional_count": 2,
+      "avg_experience": 17.5
+    },
+    "QUALIFICATIONS\nMode": {
+      "professional_count": 1,
+      "avg_experience": 13.0
+    },
+    "Partners, Employee": {
+      "professional_count": 1,
+      "avg_experience": 13.0
+    },
+    "Vurv, Concur": {
+      "professional_count": 1,
+      "avg_experience": 17.0
+    },
+    "Incorporated, Dubai": {
+      "professional_count": 1,
+      "avg_experience": 17.0
+    },
+    "Engineering, Liverpool": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Cressier, Chevron": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Sc, Engineering": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Point, Outlook": {
+      "professional_count": 1,
+      "avg_experience": 13.0
+    },
+    "Live": {
+      "professional_count": 1,
+      "avg_experience": 13.0
+    },
+    "Education, Training": {
+      "professional_count": 1,
+      "avg_experience": 13.0
+    },
+    "Intertek, Abu": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Egypt: Cai": {
+      "professional_count": 2,
+      "avg_experience": 0.0
+    },
+    "Strathclyde, Scotland": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Unit, Hydrogen": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Reformer, Gasoline": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Conversation, Documentation": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Road, Colston": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Construction, Commissioning": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Oil, Gas": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Group, Research": {
+      "professional_count": 1,
+      "avg_experience": 16.0
+    },
+    "Bioengineering, Newcastle": {
+      "professional_count": 1,
+      "avg_experience": 16.0
+    },
+    "Limited, National": {
+      "professional_count": 1,
+      "avg_experience": 16.0
+    },
+    "London, London": {
+      "professional_count": 2,
+      "avg_experience": 11.0
+    },
+    "Gas, Maritim": {
+      "professional_count": 1,
+      "avg_experience": 11.0
+    },
+    "Arabic, Hindi": {
+      "professional_count": 1,
+      "avg_experience": 2.0
+    },
+    "Petrochemicals, Client": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "School, Heriot": {
+      "professional_count": 1,
+      "avg_experience": 19.0
+    },
+    "Increment, Medical": {
+      "professional_count": 1,
+      "avg_experience": 19.0
+    },
+    "Academy, Egypt": {
+      "professional_count": 1,
+      "avg_experience": 19.0
+    },
+    "Defence, Security": {
+      "professional_count": 1,
+      "avg_experience": 11.0
+    },
+    "Studies, Aston": {
+      "professional_count": 1,
+      "avg_experience": 11.0
+    },
+    "Aerospace, Space": {
+      "professional_count": 1,
+      "avg_experience": 11.0
+    },
+    "Manager, Olefins": {
+      "professional_count": 1,
+      "avg_experience": 20.0
+    },
+    "Asia, Africa": {
+      "professional_count": 1,
+      "avg_experience": 20.0
+    },
+    "Manager, Lifecycle": {
+      "professional_count": 1,
+      "avg_experience": 20.0
+    },
+    "Topsoe, Kongens": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Lyngby, Denmark": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Dubai, Poland": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Engineering, Khalifa": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Performance, Hydrogen": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Refining, Abu": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Aurecon, Sydney": {
+      "professional_count": 1,
+      "avg_experience": 44.0
+    },
+    "Cisco, London": {
+      "professional_count": 1,
+      "avg_experience": 44.0
+    },
+    "Ma": {
+      "professional_count": 3,
+      "avg_experience": 19.333333333333332
+    },
+    "Documents, Workshop": {
+      "professional_count": 1,
+      "avg_experience": 11.0
+    },
+    "Stage, On": {
+      "professional_count": 1,
+      "avg_experience": 11.0
+    },
+    "Palestinian, Based": {
+      "professional_count": 2,
+      "avg_experience": 11.0
+    },
+    "Office, Openoffice": {
+      "professional_count": 1,
+      "avg_experience": 34.0
+    },
+    "Law, Faculty": {
+      "professional_count": 1,
+      "avg_experience": 34.0
+    },
+    "Windows, Linux": {
+      "professional_count": 1,
+      "avg_experience": 34.0
+    },
+    "Excel, Word": {
+      "professional_count": 2,
+      "avg_experience": 0.0
+    },
+    "Production, Solid": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Schwabe, Ley": {
+      "professional_count": 1,
+      "avg_experience": 6.0
+    },
+    "East, Europe": {
+      "professional_count": 1,
+      "avg_experience": 6.0
+    },
+    "Arts, Business": {
+      "professional_count": 2,
+      "avg_experience": 3.0
+    },
+    "Europe, Asia": {
+      "professional_count": 1,
+      "avg_experience": 3.0
+    },
+    "Pharma, Hydrogen": {
+      "professional_count": 1,
+      "avg_experience": 3.0
+    },
+    "Experience, What": {
+      "professional_count": 1,
+      "avg_experience": 3.0
+    },
+    "Job, Why": {
+      "professional_count": 1,
+      "avg_experience": 3.0
+    },
+    "French, Intermediate": {
+      "professional_count": 1,
+      "avg_experience": 12.0
+    },
+    "Riyadh, KSA\nQUALIFICATIONS\nBSc Compute": {
+      "professional_count": 1,
+      "avg_experience": 12.0
+    },
+    "Diploma, Microsoft": {
+      "professional_count": 1,
+      "avg_experience": 12.0
+    },
+    "Korean, Advanced": {
+      "professional_count": 2,
+      "avg_experience": 5.0
+    },
+    "Manager, Global": {
+      "professional_count": 1,
+      "avg_experience": 5.0
+    },
+    "Road, Beeston": {
+      "professional_count": 1,
+      "avg_experience": 25.0
+    },
+    "English, Grade": {
+      "professional_count": 1,
+      "avg_experience": 25.0
+    },
+    "Ltd, The": {
+      "professional_count": 1,
+      "avg_experience": 25.0
+    },
+    "University, Curzon": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "School, Kineton": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "System, Advanced": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Security, Abu": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Solutions, Manchester": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Egypt, Romania": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Oman, Israel": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Kynar, Rilsan": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Models, Dashboards": {
+      "professional_count": 1,
+      "avg_experience": 25.0
+    },
+    "Analyst, Sweden": {
+      "professional_count": 1,
+      "avg_experience": 25.0
+    },
+    "Inventory, Deep": {
+      "professional_count": 2,
+      "avg_experience": 12.5
+    },
+    "Isle of Wight, UK\nCAREER SUMMARY\nJa": {
+      "professional_count": 2,
+      "avg_experience": 24.0
+    },
+    "Europe, Information": {
+      "professional_count": 2,
+      "avg_experience": 24.0
+    },
+    "Canada, Europe": {
+      "professional_count": 3,
+      "avg_experience": 6.666666666666667
+    },
+    "Malaysia   \n \n \nQUALIFICATIONS  \n \nBSc. Chemical E": {
+      "professional_count": 1,
+      "avg_experience": 8.0
+    },
+    "Gas, Data": {
+      "professional_count": 3,
+      "avg_experience": 6.666666666666667
+    },
+    "Software, Saa": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Manufacturing, Facilities": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Morrisons, Sainsburys": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Avenue, Newton": {
+      "professional_count": 1,
+      "avg_experience": 8.0
+    },
+    "Director, Senior": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Town, South": {
+      "professional_count": 2,
+      "avg_experience": 8.0
+    },
+    "Arabia, Oman": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Sept, Nov": {
+      "professional_count": 1,
+      "avg_experience": 12.0
+    },
+    "Materials, University": {
+      "professional_count": 1,
+      "avg_experience": 12.0
+    },
+    "Grading, Adsorbents": {
+      "professional_count": 1,
+      "avg_experience": 12.0
+    },
+    "Word, Microsoft": {
+      "professional_count": 3,
+      "avg_experience": 3.3333333333333335
+    },
+    "Expats, June": {
+      "professional_count": 1,
+      "avg_experience": 14.0
+    },
+    "Emiratization, Saudization": {
+      "professional_count": 1,
+      "avg_experience": 14.0
+    },
+    "Surveys, Analysing": {
+      "professional_count": 1,
+      "avg_experience": 14.0
+    },
+    "Safety, Environmental": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Project, Unit": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Erbil, Iraq": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Clariant, Airbus": {
+      "professional_count": 1,
+      "avg_experience": 18.0
+    },
+    "Total, France": {
+      "professional_count": 1,
+      "avg_experience": 18.0
+    },
+    "Company, Alexandria": {
+      "professional_count": 1,
+      "avg_experience": 18.0
+    },
+    "UAE – Dubai  \n \n \nQUALIFICATIONS  \n \nISB P": {
+      "professional_count": 1,
+      "avg_experience": 26.0
+    },
+    "Manager, India": {
+      "professional_count": 2,
+      "avg_experience": 26.0
+    },
+    "Skills, Best": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Management, Leadership": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "International, Miller": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Europe, Lat": {
+      "professional_count": 2,
+      "avg_experience": 21.0
+    },
+    "Finjan, Postini": {
+      "professional_count": 1,
+      "avg_experience": 23.0
+    },
+    "University, Aberdeen": {
+      "professional_count": 3,
+      "avg_experience": 22.333333333333332
+    },
+    "Juniper, Bluecoat": {
+      "professional_count": 1,
+      "avg_experience": 23.0
+    },
+    "Cottage, Hill": {
+      "professional_count": 1,
+      "avg_experience": 8.0
+    },
+    "Buyer, Site": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Consolidation, Innovation": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Europe, Japan": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Sciences, Global": {
+      "professional_count": 1,
+      "avg_experience": 21.0
+    },
+    "University, Faculty": {
+      "professional_count": 2,
+      "avg_experience": 18.0
+    },
+    "Binghamton, Bachelor": {
+      "professional_count": 1,
+      "avg_experience": 21.0
+    },
+    "Founder, President": {
+      "professional_count": 1,
+      "avg_experience": 8.0
+    },
+    "UAE\nQUALIFICATIONS\nDiploma i": {
+      "professional_count": 1,
+      "avg_experience": 6.0
+    },
+    "Engineering, You": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Project, January": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Hired, January": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Turkey, Greece": {
+      "professional_count": 2,
+      "avg_experience": 19.5
+    },
+    "Degree, Chemical": {
+      "professional_count": 1,
+      "avg_experience": 28.0
+    },
+    "UAE - Dubai\nQUALIFICATIONS\nM.Sc. Deg": {
+      "professional_count": 1,
+      "avg_experience": 28.0
+    },
+    "Ltd, Dubai": {
+      "professional_count": 1,
+      "avg_experience": 23.0
+    },
+    "Alternatives, Participate": {
+      "professional_count": 1,
+      "avg_experience": 23.0
+    },
+    "Meragi, Surface": {
+      "professional_count": 1,
+      "avg_experience": 23.0
+    },
+    "Management, Production": {
+      "professional_count": 1,
+      "avg_experience": 4.0
+    },
+    "Canaria, Spain": {
+      "professional_count": 1,
+      "avg_experience": 4.0
+    },
+    "Office, Microsoft": {
+      "professional_count": 1,
+      "avg_experience": 4.0
+    },
+    "Rescue, He": {
+      "professional_count": 1,
+      "avg_experience": 24.0
+    },
+    "Budgeting, Production": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Padova, Italy": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Department, Diagnostic": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Management, Sales": {
+      "professional_count": 1,
+      "avg_experience": 30.0
+    },
+    "UK, Co": {
+      "professional_count": 1,
+      "avg_experience": 3.0
+    },
+    "Science, Computer": {
+      "professional_count": 1,
+      "avg_experience": 3.0
+    },
+    "Analyst, Global": {
+      "professional_count": 1,
+      "avg_experience": 3.0
+    },
+    "Thailand, Vietnampreparation": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Services, Paris": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Electric, Energy": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Logica, Adobe": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Separation, Economics": {
+      "professional_count": 1,
+      "avg_experience": 9.0
+    },
+    "Engineering, Clean": {
+      "professional_count": 1,
+      "avg_experience": 9.0
+    },
+    "Company, Employee": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Nexpose, Metasploit": {
+      "professional_count": 2,
+      "avg_experience": 8.5
+    },
+    "Review, Security": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Assessment, Security": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Fire, Energy": {
+      "professional_count": 1,
+      "avg_experience": 7.0
+    },
+    "Currently, Switzerland": {
+      "professional_count": 2,
+      "avg_experience": 10.0
+    },
+    "Controls, Security": {
+      "professional_count": 1,
+      "avg_experience": 7.0
+    },
+    "Egypt, Saudi": {
+      "professional_count": 1,
+      "avg_experience": 9.0
+    },
+    "Offshore, Upstream": {
+      "professional_count": 1,
+      "avg_experience": 20.0
+    },
+    "Flare, Hot": {
+      "professional_count": 1,
+      "avg_experience": 20.0
+    },
+    "Injection, Raw": {
+      "professional_count": 1,
+      "avg_experience": 20.0
+    },
+    "Fluent, Aspen": {
+      "professional_count": 1,
+      "avg_experience": 11.0
+    },
+    "Connectivity, Munich": {
+      "professional_count": 1,
+      "avg_experience": 11.0
+    },
+    "Computacenter, Atos": {
+      "professional_count": 2,
+      "avg_experience": 7.0
+    },
+    "Networks, Brookcourt": {
+      "professional_count": 2,
+      "avg_experience": 7.0
+    },
+    "Phoenix, Agile": {
+      "professional_count": 2,
+      "avg_experience": 7.0
+    },
+    "Venezuela, October": {
+      "professional_count": 1,
+      "avg_experience": 7.0
+    },
+    "Engineer, Universidad": {
+      "professional_count": 1,
+      "avg_experience": 7.0
+    },
+    "Engineer, Basic": {
+      "professional_count": 1,
+      "avg_experience": 25.0
+    },
+    "Basic, Microsoft": {
+      "professional_count": 1,
+      "avg_experience": 25.0
+    },
+    "School, Petaling": {
+      "professional_count": 1,
+      "avg_experience": 25.0
+    },
+    "Gebze, Kocaeli": {
+      "professional_count": 1,
+      "avg_experience": 26.0
+    },
+    "Organizations, Transportation": {
+      "professional_count": 1,
+      "avg_experience": 26.0
+    },
+    "Science, Chemistry": {
+      "professional_count": 1,
+      "avg_experience": 26.0
+    },
+    "Jun, Sep": {
+      "professional_count": 2,
+      "avg_experience": 2.5
+    },
+    "University, Dubai": {
+      "professional_count": 1,
+      "avg_experience": 12.0
+    },
+    "Hindi, French": {
+      "professional_count": 1,
+      "avg_experience": 12.0
+    },
+    "Engineers, Sub": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Europe, Far": {
+      "professional_count": 2,
+      "avg_experience": 3.5
+    },
+    "Spain, France": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Lane, Surbiton": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Poland, Germany": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Trust, Award": {
+      "professional_count": 1,
+      "avg_experience": 6.0
+    },
+    "Road, Juniper": {
+      "professional_count": 1,
+      "avg_experience": 6.0
+    },
+    "Education, University": {
+      "professional_count": 1,
+      "avg_experience": 6.0
+    },
+    "Lyondellbasell, Mitsui": {
+      "professional_count": 1,
+      "avg_experience": 33.0
+    },
+    "Work, Risk": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Completions, Petro": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Refinery, Oil": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Class, Australia": {
+      "professional_count": 1,
+      "avg_experience": 13.0
+    },
+    "Europe, Bruges": {
+      "professional_count": 1,
+      "avg_experience": 13.0
+    },
+    "Bank, Cambridge": {
+      "professional_count": 1,
+      "avg_experience": 13.0
+    },
+    "Sirs, Please": {
+      "professional_count": 1,
+      "avg_experience": 23.0
+    },
+    "Development, Regulatory": {
+      "professional_count": 1,
+      "avg_experience": 23.0
+    },
+    "Lesmo, March": {
+      "professional_count": 1,
+      "avg_experience": 23.0
+    },
+    "Kent, England": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Leadership, Continuous": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Guidance, Best": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Switzerland, France": {
+      "professional_count": 1,
+      "avg_experience": 35.0
+    },
+    "Management, Corporate": {
+      "professional_count": 1,
+      "avg_experience": 35.0
+    },
+    "Spain, Portugal": {
+      "professional_count": 3,
+      "avg_experience": 31.0
+    },
+    "Services, Simonstone": {
+      "professional_count": 1,
+      "avg_experience": 17.0
+    },
+    "Precision, Burnley": {
+      "professional_count": 1,
+      "avg_experience": 17.0
+    },
+    "Extra, Burnley": {
+      "professional_count": 1,
+      "avg_experience": 17.0
+    },
+    "Santiago, Chile": {
+      "professional_count": 2,
+      "avg_experience": 8.0
+    },
+    "Design, Synthesis": {
+      "professional_count": 3,
+      "avg_experience": 5.333333333333333
+    },
+    "Brussels, Belgium": {
+      "professional_count": 2,
+      "avg_experience": 5.0
+    },
+    "withi": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Area, United": {
+      "professional_count": 2,
+      "avg_experience": 4.0
+    },
+    "Ltd, Oldham": {
+      "professional_count": 1,
+      "avg_experience": 11.0
+    },
+    "Technologies, Chester": {
+      "professional_count": 1,
+      "avg_experience": 11.0
+    },
+    "Takeaway, Burnley": {
+      "professional_count": 1,
+      "avg_experience": 11.0
+    },
+    "Centre, Balance": {
+      "professional_count": 1,
+      "avg_experience": 31.0
+    },
+    "Manager, Aftersales": {
+      "professional_count": 1,
+      "avg_experience": 31.0
+    },
+    "Muscat, Oman": {
+      "professional_count": 1,
+      "avg_experience": 31.0
+    },
+    "Road, London": {
+      "professional_count": 2,
+      "avg_experience": 4.0
+    },
+    "Kar, Ph": {
+      "professional_count": 1,
+      "avg_experience": 8.0
+    },
+    "Assurance, Project": {
+      "professional_count": 1,
+      "avg_experience": 8.0
+    },
+    "Hyb": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Street, Salford": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Systems, Security": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Asset, Event": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Plaza, Newport": {
+      "professional_count": 1,
+      "avg_experience": 24.0
+    },
+    "Pharmaceuticals, Account": {
+      "professional_count": 1,
+      "avg_experience": 24.0
+    },
+    "Management, Customer": {
+      "professional_count": 1,
+      "avg_experience": 24.0
+    },
+    "Anglia, Ilford": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Test, Reliability": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Language, Religious": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Manager, Liverpool": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Support, Collaborated": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Manager, Training": {
+      "professional_count": 1,
+      "avg_experience": 23.0
+    },
+    "Executive, Perkin": {
+      "professional_count": 1,
+      "avg_experience": 23.0
+    },
+    "Elmer, Western": {
+      "professional_count": 1,
+      "avg_experience": 23.0
+    },
+    "Bahrain, Oman": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Limited, Jamnagar": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Limited, Mumbai": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Qatar, Kuwait": {
+      "professional_count": 1,
+      "avg_experience": 6.0
+    },
+    "Descriptions, Job": {
+      "professional_count": 1,
+      "avg_experience": 6.0
+    },
+    "UAE\nQUALIFICATIONS\nBusi": {
+      "professional_count": 1,
+      "avg_experience": 6.0
+    },
+    "Plastic, Cosmetics": {
+      "professional_count": 2,
+      "avg_experience": 9.0
+    },
+    "Gas, Chemistry": {
+      "professional_count": 2,
+      "avg_experience": 13.5
+    },
+    "Chain, Marketing": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Project, Engineer": {
+      "professional_count": 1,
+      "avg_experience": 20.0
+    },
+    "English, Spanish": {
+      "professional_count": 1,
+      "avg_experience": 20.0
+    },
+    "Bogota, Colombia": {
+      "professional_count": 1,
+      "avg_experience": 20.0
+    },
+    "English, Hindi": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Outlook, Word": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Point, Plan": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Gmbh, Emerging": {
+      "professional_count": 1,
+      "avg_experience": 11.0
+    },
+    "Dutch, Native": {
+      "professional_count": 1,
+      "avg_experience": 29.0
+    },
+    "Juniper, Brocade": {
+      "professional_count": 2,
+      "avg_experience": 29.0
+    },
+    "Cisco, Extreme": {
+      "professional_count": 2,
+      "avg_experience": 29.0
+    },
+    "Monster, Head": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Specialist, Government": {
+      "professional_count": 1,
+      "avg_experience": 17.0
+    },
+    "Cambridge, Sidney": {
+      "professional_count": 1,
+      "avg_experience": 12.0
+    },
+    "Design, Leisure": {
+      "professional_count": 1,
+      "avg_experience": 12.0
+    },
+    "Expansion, London": {
+      "professional_count": 1,
+      "avg_experience": 12.0
+    },
+    "Connects, Monroe": {
+      "professional_count": 1,
+      "avg_experience": 11.0
+    },
+    "Refinery, Marine": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Thorne, Daventry": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Solutions, Expro": {
+      "professional_count": 1,
+      "avg_experience": 7.0
+    },
+    "Professions, Close": {
+      "professional_count": 1,
+      "avg_experience": 7.0
+    },
+    "Systems, Word": {
+      "professional_count": 1,
+      "avg_experience": 7.0
+    },
+    "Management, Birmingham": {
+      "professional_count": 1,
+      "avg_experience": 27.0
+    },
+    "Telfo": {
+      "professional_count": 1,
+      "avg_experience": 27.0
+    },
+    "Manager, Plastic": {
+      "professional_count": 1,
+      "avg_experience": 27.0
+    },
+    "Cuddi": {
+      "professional_count": 1,
+      "avg_experience": 15.0
+    },
+    "Eng, Chemical": {
+      "professional_count": 1,
+      "avg_experience": 15.0
+    },
+    "Engineer, Aycliffe": {
+      "professional_count": 1,
+      "avg_experience": 15.0
+    },
+    "Manager, Middle": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Projects, Commercialisation": {
+      "professional_count": 2,
+      "avg_experience": 0.0
+    },
+    "Sasol, Manager": {
+      "professional_count": 2,
+      "avg_experience": 0.0
+    },
+    "Manager, Marketing": {
+      "professional_count": 2,
+      "avg_experience": 0.0
+    },
+    "Aberdeen, Scotland": {
+      "professional_count": 1,
+      "avg_experience": 11.0
+    },
+    "Specialist, December": {
+      "professional_count": 3,
+      "avg_experience": 7.666666666666667
+    },
+    "Abe": {
+      "professional_count": 1,
+      "avg_experience": 11.0
+    },
+    "Dubai, United": {
+      "professional_count": 4,
+      "avg_experience": 5.5
+    },
+    "Engineering, Oil": {
+      "professional_count": 1,
+      "avg_experience": 22.0
+    },
+    "University, College": {
+      "professional_count": 1,
+      "avg_experience": 21.0
+    },
+    "Engineering, Istanbul": {
+      "professional_count": 1,
+      "avg_experience": 21.0
+    },
+    "Lisesi, Istanbul": {
+      "professional_count": 1,
+      "avg_experience": 21.0
+    },
+    "School, Kent": {
+      "professional_count": 1,
+      "avg_experience": 8.0
+    },
+    "School, University": {
+      "professional_count": 4,
+      "avg_experience": 12.25
+    },
+    "France, Spain": {
+      "professional_count": 1,
+      "avg_experience": 18.0
+    },
+    "Google, Facebook": {
+      "professional_count": 1,
+      "avg_experience": 18.0
+    },
+    "UAE - Dubai  \n \n \nEDUCATION  \n \nBA (2006) - Bachelo": {
+      "professional_count": 1,
+      "avg_experience": 18.0
+    },
+    "Jordan, Syria": {
+      "professional_count": 1,
+      "avg_experience": 18.0
+    },
+    "Engineer, Network": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Park, Station": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Approach, Fleet": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "UK – ope": {
+      "professional_count": 2,
+      "avg_experience": 14.0
+    },
+    "Mar, Nov": {
+      "professional_count": 1,
+      "avg_experience": 14.0
+    },
+    "Tool, Audenshaw": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Engineering, Denton": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Precision, Mossley": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Saudi A": {
+      "professional_count": 1,
+      "avg_experience": 16.0
+    },
+    "Government, Growth": {
+      "professional_count": 1,
+      "avg_experience": 13.0
+    },
+    "Oxford, Leading": {
+      "professional_count": 1,
+      "avg_experience": 13.0
+    },
+    "Manager, Hydrogen": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Engineering, Mechanical": {
+      "professional_count": 1,
+      "avg_experience": 15.0
+    },
+    "Advisor, Global": {
+      "professional_count": 2,
+      "avg_experience": 6.0
+    },
+    "Advisor, The": {
+      "professional_count": 2,
+      "avg_experience": 6.0
+    },
+    "Development, Geneva": {
+      "professional_count": 1,
+      "avg_experience": 6.0
+    },
+    "Leader, Hardware": {
+      "professional_count": 1,
+      "avg_experience": 27.0
+    },
+    "France, Romania": {
+      "professional_count": 1,
+      "avg_experience": 27.0
+    },
+    "Cologne, Looks": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "President, Chief": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "President, Catalyst": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "President, Continuously": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Inhibitor, Jar": {
+      "professional_count": 1,
+      "avg_experience": 17.0
+    },
+    "Test, Gang": {
+      "professional_count": 1,
+      "avg_experience": 17.0
+    },
+    "Loader, Breaker": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Engines, Excavator": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Consultancy, Mainswood": {
+      "professional_count": 4,
+      "avg_experience": 0.0
+    },
+    "Lane, Lathom": {
+      "professional_count": 5,
+      "avg_experience": 6.0
+    },
+    "Project, Group": {
+      "professional_count": 1,
+      "avg_experience": 10.0
+    },
+    "Management, Vibration": {
+      "professional_count": 1,
+      "avg_experience": 10.0
+    },
+    "Manufacturing, Engineering": {
+      "professional_count": 1,
+      "avg_experience": 10.0
+    },
+    "Po": {
+      "professional_count": 1,
+      "avg_experience": 12.0
+    },
+    "Shanghai, China": {
+      "professional_count": 2,
+      "avg_experience": 0.0
+    },
+    "Circor, Cologne": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Mannheim, Germany": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Technology, Universi": {
+      "professional_count": 1,
+      "avg_experience": 3.0
+    },
+    "Automotive, Solid": {
+      "professional_count": 2,
+      "avg_experience": 3.0
+    },
+    "Uganda, Tanzania": {
+      "professional_count": 2,
+      "avg_experience": 3.5
+    },
+    "Yemen, Sudan": {
+      "professional_count": 2,
+      "avg_experience": 3.5
+    },
+    "Nairobi, Kenya": {
+      "professional_count": 2,
+      "avg_experience": 3.5
+    },
+    "Hilden, Germany": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Schwerte, Germany": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Nigeria, Cameroon": {
+      "professional_count": 1,
+      "avg_experience": 7.0
+    },
+    "Statistica, Matlab": {
+      "professional_count": 1,
+      "avg_experience": 32.0
+    },
+    "Fortran, Visual": {
+      "professional_count": 1,
+      "avg_experience": 32.0
+    },
+    "Lavera, France": {
+      "professional_count": 1,
+      "avg_experience": 32.0
+    },
+    "Team, New": {
+      "professional_count": 3,
+      "avg_experience": 0.0
+    },
+    "English, Arabic": {
+      "professional_count": 2,
+      "avg_experience": 0.0
+    },
+    "Sanofi, Carg": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Philippines, Panama": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Arkema, Aqualter": {
+      "professional_count": 2,
+      "avg_experience": 0.0
+    },
+    "Zeneca, Procter": {
+      "professional_count": 2,
+      "avg_experience": 34.5
+    },
+    "School, Department": {
+      "professional_count": 1,
+      "avg_experience": 25.0
+    },
+    "Street, Ormskirk": {
+      "professional_count": 9,
+      "avg_experience": 0.0
+    },
+    "Nav, Ax": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Upton, Wirral": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Cosmetics, Fashion": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Investigations, Zone": {
+      "professional_count": 1,
+      "avg_experience": 21.0
+    },
+    "Prevention, Distinction": {
+      "professional_count": 1,
+      "avg_experience": 21.0
+    },
+    "Engineer, September": {
+      "professional_count": 1,
+      "avg_experience": 21.0
+    },
+    "Engineer, Worley": {
+      "professional_count": 1,
+      "avg_experience": 7.0
+    },
+    "Transition, Hydrogen": {
+      "professional_count": 1,
+      "avg_experience": 7.0
+    },
+    "Location, Chemicals": {
+      "professional_count": 1,
+      "avg_experience": 7.0
+    },
+    "Science, University": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Diagrams, Heat": {
+      "professional_count": 1,
+      "avg_experience": 20.0
+    },
+    "University, Russia": {
+      "professional_count": 1,
+      "avg_experience": 20.0
+    },
+    "Diagrams, Process": {
+      "professional_count": 1,
+      "avg_experience": 20.0
+    },
+    "Excel, Think": {
+      "professional_count": 1,
+      "avg_experience": 9.0
+    },
+    "Japan, Europe": {
+      "professional_count": 1,
+      "avg_experience": 9.0
+    },
+    "Ingelheim, Suncor": {
+      "professional_count": 2,
+      "avg_experience": 10.0
+    },
+    "Simulation, Sim": {
+      "professional_count": 2,
+      "avg_experience": 10.0
+    },
+    "Spanish, Basic": {
+      "professional_count": 1,
+      "avg_experience": 20.0
+    },
+    "Wabtec, Virgin": {
+      "professional_count": 1,
+      "avg_experience": 30.0
+    },
+    "Engineering, Systems": {
+      "professional_count": 1,
+      "avg_experience": 30.0
+    },
+    "Science, Technology": {
+      "professional_count": 3,
+      "avg_experience": 10.0
+    },
+    "Pitt, Direct": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Menaitech, Zoho": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Planning, Recruitment": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "In, Social": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Mumbai, India": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Manchester, England": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Sales, Marketing": {
+      "professional_count": 4,
+      "avg_experience": 8.75
+    },
+    "Engagement, Communications": {
+      "professional_count": 1,
+      "avg_experience": 3.0
+    },
+    "Manager, Henkel": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Europe, India": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "University, Ankara": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Switzerland, Basel": {
+      "professional_count": 1,
+      "avg_experience": 39.0
+    },
+    "Manager, Reg": {
+      "professional_count": 1,
+      "avg_experience": 39.0
+    },
+    "Manager, Oncology": {
+      "professional_count": 1,
+      "avg_experience": 23.0
+    },
+    "Health, Edinburgh": {
+      "professional_count": 1,
+      "avg_experience": 23.0
+    },
+    "Science, English": {
+      "professional_count": 1,
+      "avg_experience": 23.0
+    },
+    "Be": {
+      "professional_count": 1,
+      "avg_experience": 3.0
+    },
+    "Member, Royal": {
+      "professional_count": 2,
+      "avg_experience": 1.5
+    },
+    "Belgium - B": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Directive, Energy": {
+      "professional_count": 2,
+      "avg_experience": 0.0
+    },
+    "Affairs, Energy": {
+      "professional_count": 2,
+      "avg_experience": 0.0
+    },
+    "Toolmaking, Machine": {
+      "professional_count": 1,
+      "avg_experience": 23.0
+    },
+    "Design, Product": {
+      "professional_count": 1,
+      "avg_experience": 23.0
+    },
+    "Design, Innovation": {
+      "professional_count": 1,
+      "avg_experience": 23.0
+    },
+    "Diagnostics, Lisbon": {
+      "professional_count": 1,
+      "avg_experience": 18.0
+    },
+    "Biochemistry, Microbial": {
+      "professional_count": 1,
+      "avg_experience": 18.0
+    },
+    "Specialist, Menarini": {
+      "professional_count": 1,
+      "avg_experience": 18.0
+    },
+    "Acquisition, Management": {
+      "professional_count": 1,
+      "avg_experience": 11.0
+    },
+    "Gas, Maritime": {
+      "professional_count": 1,
+      "avg_experience": 11.0
+    },
+    "Trust, Chelmsford": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Manager, Laboratory": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Harlow, United": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Vascutek, Glasgow": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Services, Manchester": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Glasgow, Scotland": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Programme, Safe": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Consultancy, Behavioural": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Macclesfield  \n \n \nQUALIFICATIONS  \n \nU": {
+      "professional_count": 1,
+      "avg_experience": 11.0
+    },
+    "Programme, The": {
+      "professional_count": 1,
+      "avg_experience": 17.0
+    },
+    "Mill, Saltaire": {
+      "professional_count": 1,
+      "avg_experience": 17.0
+    },
+    "Engineering, Glasgow": {
+      "professional_count": 1,
+      "avg_experience": 17.0
+    },
+    "Egypt, Libya": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Analysis, Design": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Mathematics, Biology": {
+      "professional_count": 1,
+      "avg_experience": 16.0
+    },
+    "Engineering, Chemical": {
+      "professional_count": 1,
+      "avg_experience": 16.0
+    },
+    "Technologies, Thermodynamics": {
+      "professional_count": 1,
+      "avg_experience": 16.0
+    },
+    "Italy, India": {
+      "professional_count": 1,
+      "avg_experience": 33.0
+    },
+    "Sales, Developments": {
+      "professional_count": 1,
+      "avg_experience": 33.0
+    },
+    "UAE – Dubai  \n \n \nQUALIFICATIONS  \n \n \nMaste": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Chemistry, Catalysis": {
+      "professional_count": 1,
+      "avg_experience": 22.0
+    },
+    "Scientist, Catalysts": {
+      "professional_count": 1,
+      "avg_experience": 22.0
+    },
+    "Natta, Chromium": {
+      "professional_count": 1,
+      "avg_experience": 22.0
+    },
+    "Oil, Qatar": {
+      "professional_count": 1,
+      "avg_experience": 14.0
+    },
+    "Group, Metro": {
+      "professional_count": 1,
+      "avg_experience": 14.0
+    },
+    "Safety, Complex": {
+      "professional_count": 1,
+      "avg_experience": 14.0
+    },
+    "Bahrain, Iraq": {
+      "professional_count": 1,
+      "avg_experience": 20.0
+    },
+    "Engineer, Member": {
+      "professional_count": 1,
+      "avg_experience": 7.0
+    },
+    "Environment, University": {
+      "professional_count": 1,
+      "avg_experience": 7.0
+    },
+    "West, Oldham": {
+      "professional_count": 1,
+      "avg_experience": 5.0
+    },
+    "Licensing, Engineering": {
+      "professional_count": 1,
+      "avg_experience": 24.0
+    },
+    "School, Pakistan": {
+      "professional_count": 1,
+      "avg_experience": 24.0
+    },
+    "College, Pakistan": {
+      "professional_count": 1,
+      "avg_experience": 24.0
+    },
+    "Keighley, West": {
+      "professional_count": 1,
+      "avg_experience": 15.0
+    },
+    "Development, Ecole": {
+      "professional_count": 1,
+      "avg_experience": 15.0
+    },
+    "Industrielle, Paris": {
+      "professional_count": 1,
+      "avg_experience": 15.0
+    },
+    "Program, Universidad": {
+      "professional_count": 1,
+      "avg_experience": 15.0
+    },
+    "Dollar, Dollar": {
+      "professional_count": 1,
+      "avg_experience": 4.0
+    },
+    "Representative, Dallas": {
+      "professional_count": 1,
+      "avg_experience": 4.0
+    },
+    "General, Family": {
+      "professional_count": 1,
+      "avg_experience": 4.0
+    },
+    "Travel, Transportation": {
+      "professional_count": 1,
+      "avg_experience": 22.0
+    },
+    "Senior, Global": {
+      "professional_count": 2,
+      "avg_experience": 19.5
+    },
+    "Specialist, Finance": {
+      "professional_count": 2,
+      "avg_experience": 19.5
+    },
+    "Manager, Clean": {
+      "professional_count": 2,
+      "avg_experience": 19.5
+    },
+    "Manager, Liquid": {
+      "professional_count": 1,
+      "avg_experience": 8.0
+    },
+    "Manager, Green": {
+      "professional_count": 1,
+      "avg_experience": 8.0
+    },
+    "Economist, Capital": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Economics, London": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Account, Compliance": {
+      "professional_count": 1,
+      "avg_experience": 30.0
+    },
+    "Kampagnenplanung, Produktentwicklung": {
+      "professional_count": 1,
+      "avg_experience": 30.0
+    },
+    "Englisch, Fliessend": {
+      "professional_count": 1,
+      "avg_experience": 30.0
+    },
+    "Madam, Director": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Khobar, Saudi": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Toulouse, France": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "France, Germany": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Sitges, Spain": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Yamanouchi, Meppel": {
+      "professional_count": 1,
+      "avg_experience": 39.0
+    },
+    "Jong, Dutch": {
+      "professional_count": 1,
+      "avg_experience": 39.0
+    },
+    "Hudde": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Honours, Mechanical": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "UAE \n \nQUALIFICATIONS  \n \nDiploma i": {
+      "professional_count": 1,
+      "avg_experience": 6.0
+    },
+    "Caracas, Venezuela": {
+      "professional_count": 1,
+      "avg_experience": 26.0
+    },
+    "Preston, Lancashire": {
+      "professional_count": 1,
+      "avg_experience": 4.0
+    },
+    "Orchard, Preston": {
+      "professional_count": 1,
+      "avg_experience": 4.0
+    },
+    "Food, Chemical": {
+      "professional_count": 1,
+      "avg_experience": 4.0
+    },
+    "East, Austral": {
+      "professional_count": 1,
+      "avg_experience": 7.0
+    },
+    "Consultants, Licensors": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Lab, Swansea": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Plc, Reading": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Zeneca, June": {
+      "professional_count": 1,
+      "avg_experience": 21.0
+    },
+    "Brewing, Institute": {
+      "professional_count": 1,
+      "avg_experience": 21.0
+    },
+    "Biotechnology, The": {
+      "professional_count": 1,
+      "avg_experience": 21.0
+    },
+    "Proposal, Request": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Analysis, Planning": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Verlaine, Metz": {
+      "professional_count": 1,
+      "avg_experience": 25.0
+    },
+    "Physical, Chemistry": {
+      "professional_count": 1,
+      "avg_experience": 25.0
+    },
+    "F": {
+      "professional_count": 5,
+      "avg_experience": 15.0
+    },
+    "Management, Accounting": {
+      "professional_count": 1,
+      "avg_experience": 13.0
+    },
+    "Taiwan, Australia": {
+      "professional_count": 1,
+      "avg_experience": 13.0
+    },
+    "School, London": {
+      "professional_count": 1,
+      "avg_experience": 13.0
+    },
+    "Coaching, London": {
+      "professional_count": 2,
+      "avg_experience": 13.0
+    },
+    "Iran, Egypt": {
+      "professional_count": 2,
+      "avg_experience": 13.0
+    },
+    "Kenya, Ghana": {
+      "professional_count": 2,
+      "avg_experience": 13.0
+    },
+    "Security, Alarm": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Generation, Water": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Chemicals, Petrochemicals": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Manager, Head": {
+      "professional_count": 1,
+      "avg_experience": 34.0
+    },
+    "Maide": {
+      "professional_count": 1,
+      "avg_experience": 34.0
+    },
+    "Commerce, Plastics": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Media, Social": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Contractor, Main": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "India, Italy": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Energy, Process": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Central, Local": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Government, Nuclear": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Maidenhead, Berkshire": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Captain, Captain": {
+      "professional_count": 1,
+      "avg_experience": 8.0
+    },
+    "Parbold, Wigan": {
+      "professional_count": 1,
+      "avg_experience": 8.0
+    },
+    "Thermodynamics, Environment": {
+      "professional_count": 1,
+      "avg_experience": 8.0
+    },
+    "Italy, Milan": {
+      "professional_count": 2,
+      "avg_experience": 18.5
+    },
+    "Busines, Yellow": {
+      "professional_count": 1,
+      "avg_experience": 18.0
+    },
+    "Vinci, Saur": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Roquette, Vapran": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Assessments, Haz": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Muller, Telford": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Muller, Hanworth": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Turkey, Israel": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Aleppo, Syria": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Syria, Dubai": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Department, Cairo": {
+      "professional_count": 1,
+      "avg_experience": 6.0
+    },
+    "Allowance, Car": {
+      "professional_count": 1,
+      "avg_experience": 6.0
+    },
+    "Held, Mod": {
+      "professional_count": 1,
+      "avg_experience": 38.0
+    },
+    "Lubricants, Detergents": {
+      "professional_count": 1,
+      "avg_experience": 6.0
+    },
+    "Tech, Petroleum": {
+      "professional_count": 1,
+      "avg_experience": 6.0
+    },
+    "Campus, Anna": {
+      "professional_count": 1,
+      "avg_experience": 6.0
+    },
+    "Engineer, Honeywell": {
+      "professional_count": 2,
+      "avg_experience": 9.5
+    },
+    "Limited, Haldia": {
+      "professional_count": 2,
+      "avg_experience": 9.5
+    },
+    "Maqabah, Manama": {
+      "professional_count": 1,
+      "avg_experience": 19.0
+    },
+    "Sales, Reg": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Faculty, Engineering": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Faculty, Chemical": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Karachi, Pakistan": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Pakistani, Age": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Warsaw, Poland": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Mar, Sept": {
+      "professional_count": 1,
+      "avg_experience": 19.0
+    },
+    "Project, Simon": {
+      "professional_count": 1,
+      "avg_experience": 19.0
+    },
+    "Ce": {
+      "professional_count": 1,
+      "avg_experience": 19.0
+    },
+    "Gymnasium, Belgrade": {
+      "professional_count": 1,
+      "avg_experience": 33.0
+    },
+    "Belgrade, Serbia": {
+      "professional_count": 1,
+      "avg_experience": 33.0
+    },
+    "Allianz, Bre": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Estate, Construction": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Strieder, Berlin": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Engineer, Affinity": {
+      "professional_count": 2,
+      "avg_experience": 19.0
+    },
+    "Lane, High": {
+      "professional_count": 2,
+      "avg_experience": 19.0
+    },
+    "Gardens, Gilletts": {
+      "professional_count": 2,
+      "avg_experience": 19.0
+    },
+    "Leader, Building": {
+      "professional_count": 1,
+      "avg_experience": 3.0
+    },
+    "Belgium, Poland": {
+      "professional_count": 1,
+      "avg_experience": 3.0
+    },
+    "Technology, India": {
+      "professional_count": 1,
+      "avg_experience": 22.0
+    },
+    "Oxy, Chevron": {
+      "professional_count": 1,
+      "avg_experience": 22.0
+    },
+    "Manager, Buyer": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "House, Southampton": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Southampto": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Knowledge, Experience": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Lake Cha": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Charles, United": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Suite, Salesforce": {
+      "professional_count": 1,
+      "avg_experience": 11.0
+    },
+    "Pressure, Temperature": {
+      "professional_count": 1,
+      "avg_experience": 11.0
+    },
+    "Drives, Power": {
+      "professional_count": 1,
+      "avg_experience": 11.0
+    },
+    "Radware, Senior": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Imperva, Senior": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Studies, Culture": {
+      "professional_count": 1,
+      "avg_experience": 3.0
+    },
+    "UAE – Dubai\nQUALIFICATIONS\nMA HRM Ma": {
+      "professional_count": 1,
+      "avg_experience": 3.0
+    },
+    "Managers, Site": {
+      "professional_count": 2,
+      "avg_experience": 0.0
+    },
+    "Gouda, The": {
+      "professional_count": 3,
+      "avg_experience": 16.333333333333332
+    },
+    "Strathclyde, Glasgow": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Spares, Servicing": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "School, Altrincham": {
+      "professional_count": 1,
+      "avg_experience": 14.0
+    },
+    "Environmental, Process": {
+      "professional_count": 1,
+      "avg_experience": 14.0
+    },
+    "Manager, Industrial": {
+      "professional_count": 1,
+      "avg_experience": 8.0
+    },
+    "Carnival, Tee": {
+      "professional_count": 1,
+      "avg_experience": 8.0
+    },
+    "Italia, Industrial": {
+      "professional_count": 2,
+      "avg_experience": 4.0
+    },
+    "Mahyar, Roemer": {
+      "professional_count": 1,
+      "avg_experience": 44.0
+    },
+    "Virology, Group": {
+      "professional_count": 1,
+      "avg_experience": 44.0
+    },
+    "Shedgum, Uthmaniyah": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Project, Luberef": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Project, Saudi": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Engineer, Exxon": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Inovyn, Runcorn": {
+      "professional_count": 1,
+      "avg_experience": 10.0
+    },
+    "East UK – ope": {
+      "professional_count": 1,
+      "avg_experience": 10.0
+    },
+    "Project, He": {
+      "professional_count": 1,
+      "avg_experience": 10.0
+    },
+    "Wirral, Merseyside": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Training, Thermo": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Genetics, University": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Automation, High": {
+      "professional_count": 1,
+      "avg_experience": 13.0
+    },
+    "Voltage, Protection": {
+      "professional_count": 1,
+      "avg_experience": 13.0
+    },
+    "Ds, Utility": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Heaters, Compressors": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Dermott, Fluor": {
+      "professional_count": 1,
+      "avg_experience": 14.0
+    },
+    "Academy, Montreal": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Engineering, Dissertation": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Renewables, Energy": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Manager, Apr": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Manager, Sept": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Radiation, Explosives": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Tech, France": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Waddock, Bids": {
+      "professional_count": 1,
+      "avg_experience": 12.0
+    },
+    "Office, Federal": {
+      "professional_count": 2,
+      "avg_experience": 3.5
+    },
+    "Industrie, Business": {
+      "professional_count": 2,
+      "avg_experience": 29.5
+    },
+    "Customers, Resilience": {
+      "professional_count": 1,
+      "avg_experience": 31.0
+    },
+    "Belgium - Ixelles  \n \n \nQUALIFICATIONS  \n \n2018 – 2019 Highe": {
+      "professional_count": 1,
+      "avg_experience": 31.0
+    },
+    "Economics, Erasmus": {
+      "professional_count": 1,
+      "avg_experience": 25.0
+    },
+    "Netherlands, Capelle": {
+      "professional_count": 1,
+      "avg_experience": 25.0
+    },
+    "Germany, France": {
+      "professional_count": 1,
+      "avg_experience": 25.0
+    },
+    "Germany, Belgium": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Britain, Belgium": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Senegal, Ghana": {
+      "professional_count": 1,
+      "avg_experience": 7.0
+    },
+    "France, Paris": {
+      "professional_count": 1,
+      "avg_experience": 7.0
+    },
+    "Kelly, So": {
+      "professional_count": 1,
+      "avg_experience": 31.0
+    },
+    "Lead, Sustainability": {
+      "professional_count": 1,
+      "avg_experience": 31.0
+    },
+    "Prescott, Deputy": {
+      "professional_count": 1,
+      "avg_experience": 31.0
+    },
+    "Analysis, Risk": {
+      "professional_count": 1,
+      "avg_experience": 6.0
+    },
+    "Offshore, Sales": {
+      "professional_count": 1,
+      "avg_experience": 6.0
+    },
+    "Management, Change": {
+      "professional_count": 1,
+      "avg_experience": 6.0
+    },
+    "Edmonton, Canada": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Imatinib, Pazopanib": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Biology, Martinsried": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Facebook, Twitter": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Law, Political": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Science, Policy": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Science, Ain": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Manager, Personal": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Bridge, Lancashire": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Park, Bamber": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Close, Knaresborough": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Technology, Opnet": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Science, Industry": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Management, Mobi": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Companies, Private": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Meetings, Trainings": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Schools, Rental": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Cad, Showcase": {
+      "professional_count": 1,
+      "avg_experience": 3.0
+    },
+    "Edge, Adobe": {
+      "professional_count": 1,
+      "avg_experience": 3.0
+    },
+    "Riyadh, Saudi": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Consultant, Professional": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Riyadh, Saudi A": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "German, English": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Sizing, Pump": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Characterization, Developed": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "List, Cause": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Solar, Waste": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Nuclear, Coal": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Power, Kuala": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Acid, Sodium": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Soda, Hydrochloric": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Chlorine, Caustic": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Shortlist, Maintenance": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Road, Blackburn": {
+      "professional_count": 1,
+      "avg_experience": 18.0
+    },
+    "Manager, Parr": {
+      "professional_count": 1,
+      "avg_experience": 18.0
+    },
+    "Hazledene, Billinge": {
+      "professional_count": 1,
+      "avg_experience": 18.0
+    },
+    "Environmental, Peerless": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Sizing, Equipment": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Sweetening, Carbon": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Delivery, Public": {
+      "professional_count": 1,
+      "avg_experience": 14.0
+    },
+    "Oil, Novo": {
+      "professional_count": 1,
+      "avg_experience": 14.0
+    },
+    "Safety, Culture": {
+      "professional_count": 1,
+      "avg_experience": 14.0
+    },
+    "Infrastructure, Transportation": {
+      "professional_count": 1,
+      "avg_experience": 5.0
+    },
+    "Automation, Smart": {
+      "professional_count": 1,
+      "avg_experience": 5.0
+    },
+    "Instat, Word": {
+      "professional_count": 1,
+      "avg_experience": 19.0
+    },
+    "Close, Sparkbrook": {
+      "professional_count": 1,
+      "avg_experience": 19.0
+    },
+    "Physics, English": {
+      "professional_count": 1,
+      "avg_experience": 19.0
+    },
+    "Chevron, Aberdeen": {
+      "professional_count": 1,
+      "avg_experience": 12.0
+    },
+    "Maintenance, April": {
+      "professional_count": 2,
+      "avg_experience": 6.0
+    },
+    "Group, Pluto": {
+      "professional_count": 1,
+      "avg_experience": 26.0
+    },
+    "UAE – Dubai\nQUALIFICATIONS\nMSc Busi": {
+      "professional_count": 1,
+      "avg_experience": 26.0
+    },
+    "Pritt, Pattex": {
+      "professional_count": 1,
+      "avg_experience": 26.0
+    },
+    "Engineering, Abu": {
+      "professional_count": 1,
+      "avg_experience": 11.0
+    },
+    "Compression, Dehydration": {
+      "professional_count": 1,
+      "avg_experience": 11.0
+    },
+    "Netherland, Italy": {
+      "professional_count": 1,
+      "avg_experience": 5.0
+    },
+    "Klesse, Montpellier": {
+      "professional_count": 1,
+      "avg_experience": 5.0
+    },
+    "Nuclear, Oil": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Tokyo, Department": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "English, Urdu": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "London, United": {
+      "professional_count": 2,
+      "avg_experience": 24.5
+    },
+    "Health, Safety": {
+      "professional_count": 1,
+      "avg_experience": 25.0
+    },
+    "Lubrication, Oil": {
+      "professional_count": 1,
+      "avg_experience": 25.0
+    },
+    "Area, Germany": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Umgebung, Deutschland": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Generation, Energy": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Storage, Water": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Lausanne, Switzerland": {
+      "professional_count": 1,
+      "avg_experience": 16.0
+    },
+    "Intelligence, Sales": {
+      "professional_count": 1,
+      "avg_experience": 16.0
+    },
+    "Vogt, Alexander": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Director, Chief": {
+      "professional_count": 2,
+      "avg_experience": 0.0
+    },
+    "Development, Private": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "London, Buckinghamshire": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Limited, Stoke": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Hannover, Germany": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Lanxess, Bayer": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Scanning, Sales": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Management, Technology": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Statoil, Brussels": {
+      "professional_count": 1,
+      "avg_experience": 5.0
+    },
+    "September, October": {
+      "professional_count": 1,
+      "avg_experience": 5.0
+    },
+    "Lithuania, Antwerp": {
+      "professional_count": 1,
+      "avg_experience": 5.0
+    },
+    "KL - Malaysia  \n \n \nQUALIFICATIONS  \n \nÉcole Natio": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Loctite, Teroson": {
+      "professional_count": 1,
+      "avg_experience": 18.0
+    },
+    "Loctite, Technomelt": {
+      "professional_count": 1,
+      "avg_experience": 18.0
+    },
+    "Management, General": {
+      "professional_count": 1,
+      "avg_experience": 18.0
+    },
+    "Systems, Computational": {
+      "professional_count": 1,
+      "avg_experience": 9.0
+    },
+    "Mathematics, Materials": {
+      "professional_count": 1,
+      "avg_experience": 9.0
+    },
+    "Road, Penketh": {
+      "professional_count": 1,
+      "avg_experience": 9.0
+    },
+    "Crossrail, Elizabeth": {
+      "professional_count": 1,
+      "avg_experience": 18.0
+    },
+    "Rail, Public": {
+      "professional_count": 1,
+      "avg_experience": 18.0
+    },
+    "Education, Jul": {
+      "professional_count": 1,
+      "avg_experience": 18.0
+    },
+    "Sincerely, Michael": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Expert, Project": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Intern, Climate": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Italy, Sustainable": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Management, Technical": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Paint, Paint": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Products, Training": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Lima, Peru": {
+      "professional_count": 1,
+      "avg_experience": 19.0
+    },
+    "Pasco, Peru": {
+      "professional_count": 1,
+      "avg_experience": 19.0
+    },
+    "Retainer, Maintenance": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Process, Operations": {
+      "professional_count": 1,
+      "avg_experience": 36.0
+    },
+    "Sincerely, Engr": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Affairs, European": {
+      "professional_count": 1,
+      "avg_experience": 28.0
+    },
+    "Digital, Trade": {
+      "professional_count": 1,
+      "avg_experience": 28.0
+    },
+    "Arithmetic, English": {
+      "professional_count": 1,
+      "avg_experience": 44.0
+    },
+    "Moray, Scotland": {
+      "professional_count": 1,
+      "avg_experience": 44.0
+    },
+    "German, French": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "School, Dubai": {
+      "professional_count": 1,
+      "avg_experience": 10.0
+    },
+    "Lubimax, Petrochem": {
+      "professional_count": 1,
+      "avg_experience": 10.0
+    },
+    "Lubricants, Millennium": {
+      "professional_count": 1,
+      "avg_experience": 10.0
+    },
+    "Rotterdam, The": {
+      "professional_count": 1,
+      "avg_experience": 49.0
+    },
+    "Netherlands, Germany": {
+      "professional_count": 1,
+      "avg_experience": 49.0
+    },
+    "Talian, Indonesia": {
+      "professional_count": 1,
+      "avg_experience": 10.0
+    },
+    "Manager, Manufacturing": {
+      "professional_count": 1,
+      "avg_experience": 10.0
+    },
+    "Service, Marine": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Ship, Maritime": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Engineers, Active": {
+      "professional_count": 1,
+      "avg_experience": 19.0
+    },
+    "Road, Manchester": {
+      "professional_count": 1,
+      "avg_experience": 19.0
+    },
+    "Sports, Active": {
+      "professional_count": 1,
+      "avg_experience": 19.0
+    },
+    "B": {
+      "professional_count": 1,
+      "avg_experience": 22.0
+    },
+    "Word, Access": {
+      "professional_count": 1,
+      "avg_experience": 22.0
+    },
+    "Excel, Power": {
+      "professional_count": 1,
+      "avg_experience": 22.0
+    },
+    "Africa, Italy": {
+      "professional_count": 1,
+      "avg_experience": 18.0
+    },
+    "UAE - Dubai  \n \n \nEDUCATION  \n \nUMST Bachelo": {
+      "professional_count": 1,
+      "avg_experience": 13.0
+    },
+    "Consultant, Freelance": {
+      "professional_count": 1,
+      "avg_experience": 13.0
+    },
+    "Bolton, Lancashire": {
+      "professional_count": 1,
+      "avg_experience": 10.0
+    },
+    "Group, Trading": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Reporting, Meetings": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Fze, Ruwais": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Technology, Inc": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Engineer, Quality": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Manager, Production": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Ltd, Mainswood": {
+      "professional_count": 2,
+      "avg_experience": 0.0
+    },
+    "Lead, Ornua": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Managers, Engineers": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "UAE – Dubai\nQUALIFICATIONS\nISB P": {
+      "professional_count": 1,
+      "avg_experience": 26.0
+    },
+    "Manager, Adhesives": {
+      "professional_count": 1,
+      "avg_experience": 26.0
+    },
+    "Rhodia, Technip": {
+      "professional_count": 1,
+      "avg_experience": 19.0
+    },
+    "Simulation, Energy": {
+      "professional_count": 1,
+      "avg_experience": 19.0
+    },
+    "Liebherr, Scania": {
+      "professional_count": 1,
+      "avg_experience": 27.0
+    },
+    "Consulting, Preparation": {
+      "professional_count": 1,
+      "avg_experience": 27.0
+    },
+    "Interflex, Baden": {
+      "professional_count": 1,
+      "avg_experience": 27.0
+    },
+    "Francisco, Seattle": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Marketing, Personal": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Medicine, Ky": {
+      "professional_count": 1,
+      "avg_experience": 24.0
+    },
+    "University, Japan": {
+      "professional_count": 1,
+      "avg_experience": 24.0
+    },
+    "Koblenz, Germany": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Germany, Schwabe": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Landis, Diploma": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Thailand, Nepal": {
+      "professional_count": 1,
+      "avg_experience": 17.0
+    },
+    "Italy, Singapore": {
+      "professional_count": 1,
+      "avg_experience": 17.0
+    },
+    "Engineering, Politecnico": {
+      "professional_count": 1,
+      "avg_experience": 17.0
+    },
+    "Roche, Basel": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Scientific, Munich": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Switzerland, Departm": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Committee, Children": {
+      "professional_count": 1,
+      "avg_experience": 21.0
+    },
+    "Strategy, Supply": {
+      "professional_count": 1,
+      "avg_experience": 21.0
+    },
+    "Chateaubriand, Rennes": {
+      "professional_count": 1,
+      "avg_experience": 19.0
+    },
+    "Platform, Le": {
+      "professional_count": 1,
+      "avg_experience": 19.0
+    },
+    "Rotterdam, Rotterdam": {
+      "professional_count": 1,
+      "avg_experience": 19.0
+    },
+    "Management, Incident": {
+      "professional_count": 1,
+      "avg_experience": 17.0
+    },
+    "Melbou": {
+      "professional_count": 1,
+      "avg_experience": 17.0
+    },
+    "Advisor, Department": {
+      "professional_count": 1,
+      "avg_experience": 7.0
+    },
+    "Close, Hersham": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Albemarle, Singapore": {
+      "professional_count": 1,
+      "avg_experience": 14.0
+    },
+    "Si": {
+      "professional_count": 1,
+      "avg_experience": 14.0
+    },
+    "Industries, Roha": {
+      "professional_count": 1,
+      "avg_experience": 10.0
+    },
+    "Maharashtra, India": {
+      "professional_count": 1,
+      "avg_experience": 10.0
+    },
+    "Auditor, Lean": {
+      "professional_count": 1,
+      "avg_experience": 10.0
+    },
+    "Southampton, England": {
+      "professional_count": 1,
+      "avg_experience": 21.0
+    },
+    "Rockwell, Siemens": {
+      "professional_count": 1,
+      "avg_experience": 21.0
+    },
+    "Area, India": {
+      "professional_count": 1,
+      "avg_experience": 21.0
+    },
+    "Groningen, Groningen": {
+      "professional_count": 1,
+      "avg_experience": 40.0
+    },
+    "Nethe": {
+      "professional_count": 1,
+      "avg_experience": 40.0
+    },
+    "Corbion, Purac": {
+      "professional_count": 1,
+      "avg_experience": 40.0
+    },
+    "Basel, Hall": {
+      "professional_count": 1,
+      "avg_experience": 26.0
+    },
+    "Honeywell, Switzerland": {
+      "professional_count": 1,
+      "avg_experience": 26.0
+    },
+    "Migros, Raiffeisen": {
+      "professional_count": 1,
+      "avg_experience": 26.0
+    },
+    "Engineer, Engineering": {
+      "professional_count": 1,
+      "avg_experience": 31.0
+    },
+    "Coordinator, Project": {
+      "professional_count": 1,
+      "avg_experience": 31.0
+    },
+    "Engineering, Universidad": {
+      "professional_count": 1,
+      "avg_experience": 31.0
+    },
+    "Thinking, Execution": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Dhabi, United": {
+      "professional_count": 2,
+      "avg_experience": 5.5
+    },
+    "Director, Global": {
+      "professional_count": 1,
+      "avg_experience": 22.0
+    },
+    "Design, Manufacturing": {
+      "professional_count": 1,
+      "avg_experience": 22.0
+    },
+    "Paper, Converting": {
+      "professional_count": 1,
+      "avg_experience": 22.0
+    },
+    "Engineer, Polytech": {
+      "professional_count": 1,
+      "avg_experience": 36.0
+    },
+    "Manager, Technical": {
+      "professional_count": 1,
+      "avg_experience": 36.0
+    },
+    "Mexico, Portugal": {
+      "professional_count": 1,
+      "avg_experience": 36.0
+    },
+    "Chemicals, Energy": {
+      "professional_count": 1,
+      "avg_experience": 31.0
+    },
+    "Camb": {
+      "professional_count": 1,
+      "avg_experience": 31.0
+    },
+    "Python, Sketch": {
+      "professional_count": 1,
+      "avg_experience": 20.0
+    },
+    "Marchande, Ecole": {
+      "professional_count": 1,
+      "avg_experience": 20.0
+    },
+    "Plant, Hot": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Agriculture, Aquaculture": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Stoves, Granulated": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Vitae, Maria": {
+      "professional_count": 1,
+      "avg_experience": 22.0
+    },
+    "Health, Advanced": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Technician, Lucite": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "International, Stockton": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Heinkel, Thomas": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Placement, Mhairi": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "America, Middle": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "East, Russia": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Project, Planisware": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Director, Areas": {
+      "professional_count": 1,
+      "avg_experience": 14.0
+    },
+    "Refining, Oil": {
+      "professional_count": 1,
+      "avg_experience": 14.0
+    },
+    "Services, Milan": {
+      "professional_count": 1,
+      "avg_experience": 14.0
+    },
+    "City, Stockton": {
+      "professional_count": 1,
+      "avg_experience": 15.0
+    },
+    "Place, Aberdeen": {
+      "professional_count": 1,
+      "avg_experience": 15.0
+    },
+    "Management, Marketing": {
+      "professional_count": 1,
+      "avg_experience": 29.0
+    },
+    "Director, Saud": {
+      "professional_count": 1,
+      "avg_experience": 28.0
+    },
+    "Manager, Project": {
+      "professional_count": 2,
+      "avg_experience": 18.0
+    },
+    "Director, Integrated": {
+      "professional_count": 1,
+      "avg_experience": 28.0
+    },
+    "Protection, Loughborough": {
+      "professional_count": 1,
+      "avg_experience": 30.0
+    },
+    "Shell, Petronas": {
+      "professional_count": 1,
+      "avg_experience": 30.0
+    },
+    "Headingly, Chapel": {
+      "professional_count": 1,
+      "avg_experience": 23.0
+    },
+    "Oliver, Director": {
+      "professional_count": 1,
+      "avg_experience": 23.0
+    },
+    "University, Leeds": {
+      "professional_count": 1,
+      "avg_experience": 23.0
+    },
+    "House, Aviator": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Port, Cheshire": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Refinery, Ellesmere": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Operations, Transport": {
+      "professional_count": 1,
+      "avg_experience": 10.0
+    },
+    "Aspen, Auto": {
+      "professional_count": 1,
+      "avg_experience": 10.0
+    },
+    "Bradford, Advanced": {
+      "professional_count": 1,
+      "avg_experience": 10.0
+    },
+    "Warfare, Specialist": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Cruise, Bulk": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Analytics, Consultancy": {
+      "professional_count": 1,
+      "avg_experience": 4.0
+    },
+    "House, Jordans": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Meath, Ireland": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Solidworks, Solid": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Hungary, Balkan": {
+      "professional_count": 1,
+      "avg_experience": 28.0
+    },
+    "Republic, Slovakia": {
+      "professional_count": 1,
+      "avg_experience": 28.0
+    },
+    "Rs, System": {
+      "professional_count": 1,
+      "avg_experience": 15.0
+    },
+    "Switzerland, Mont": {
+      "professional_count": 1,
+      "avg_experience": 15.0
+    },
+    "Electric, Power": {
+      "professional_count": 1,
+      "avg_experience": 25.0
+    },
+    "Honeywell, Honey": {
+      "professional_count": 1,
+      "avg_experience": 25.0
+    },
+    "Manager, Vietnam": {
+      "professional_count": 1,
+      "avg_experience": 25.0
+    },
+    "Improvement, Change": {
+      "professional_count": 1,
+      "avg_experience": 13.0
+    },
+    "Pumps, Relief": {
+      "professional_count": 1,
+      "avg_experience": 13.0
+    },
+    "Bolton, England": {
+      "professional_count": 1,
+      "avg_experience": 11.0
+    },
+    "Yeosu, South": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Caltex, South": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Service, Quality": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Park, Ecuador": {
+      "professional_count": 1,
+      "avg_experience": 24.0
+    },
+    "University, Hamilton": {
+      "professional_count": 1,
+      "avg_experience": 24.0
+    },
+    "Faculty, University": {
+      "professional_count": 1,
+      "avg_experience": 24.0
+    },
+    "Ltd, Leeds": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Services, Leeds": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Quality, Service": {
+      "professional_count": 1,
+      "avg_experience": 10.0
+    },
+    "Royd, Almondbury": {
+      "professional_count": 1,
+      "avg_experience": 10.0
+    },
+    "Cell, Polymer": {
+      "professional_count": 1,
+      "avg_experience": 28.0
+    },
+    "Reformer, Burner": {
+      "professional_count": 1,
+      "avg_experience": 28.0
+    },
+    "Ko": {
+      "professional_count": 1,
+      "avg_experience": 28.0
+    },
+    "Railway, Carriage": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Mechanics, Structural": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Warehouse, Production": {
+      "professional_count": 1,
+      "avg_experience": 13.0
+    },
+    "Europe, London": {
+      "professional_count": 1,
+      "avg_experience": 13.0
+    },
+    "Paulo, Brazil": {
+      "professional_count": 1,
+      "avg_experience": 13.0
+    },
+    "University, India": {
+      "professional_count": 1,
+      "avg_experience": 17.0
+    },
+    "Administration, Mangalore": {
+      "professional_count": 1,
+      "avg_experience": 17.0
+    },
+    "College, Mangalore": {
+      "professional_count": 1,
+      "avg_experience": 17.0
+    },
+    "Solutions, Regional": {
+      "professional_count": 1,
+      "avg_experience": 25.0
+    },
+    "Orders, Sales": {
+      "professional_count": 1,
+      "avg_experience": 25.0
+    },
+    "Bilbao – SPAIN   Date of bi": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Cardiology, Gastroenterology": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Rheumatology, Hematology": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Hospitals, Private": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Genetics, De": {
+      "professional_count": 1,
+      "avg_experience": 11.0
+    },
+    "Biomedicine, University": {
+      "professional_count": 1,
+      "avg_experience": 11.0
+    },
+    "Science, Cellular": {
+      "professional_count": 1,
+      "avg_experience": 11.0
+    },
+    "Leatherhead, England": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Energy, Independent": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Proposal, Shaybah": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Manager, Public": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Sport, Legal": {
+      "professional_count": 1,
+      "avg_experience": 13.0
+    },
+    "Navy, Bright": {
+      "professional_count": 1,
+      "avg_experience": 13.0
+    },
+    "Avado, September": {
+      "professional_count": 1,
+      "avg_experience": 13.0
+    },
+    "Chart, Tuning": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Score, Radar": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Chemicals, Production": {
+      "professional_count": 1,
+      "avg_experience": 8.0
+    },
+    "Hughes, Upstream": {
+      "professional_count": 1,
+      "avg_experience": 8.0
+    },
+    "Dubai, Skycourts": {
+      "professional_count": 1,
+      "avg_experience": 8.0
+    },
+    "Plc, Internal": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "International, Senior": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Regulator, Safety": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Faithfully, James": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Houston, Bethesda": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Management, Fire": {
+      "professional_count": 2,
+      "avg_experience": 0.0
+    },
+    "Isomerization, Sulfolane": {
+      "professional_count": 1,
+      "avg_experience": 15.0
+    },
+    "Contractors, Process": {
+      "professional_count": 1,
+      "avg_experience": 15.0
+    },
+    "Amines, Adsorbent": {
+      "professional_count": 1,
+      "avg_experience": 15.0
+    },
+    "Warrington, Cheshire": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Sincerely, Kagiso": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Fluent, Microsoft": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Lille, France": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Area, France": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Harrison, Hamburg": {
+      "professional_count": 1,
+      "avg_experience": 14.0
+    },
+    "Akademie, Hamburg": {
+      "professional_count": 1,
+      "avg_experience": 14.0
+    },
+    "Consulting, Hamburg": {
+      "professional_count": 1,
+      "avg_experience": 14.0
+    },
+    "Solutions, Managed": {
+      "professional_count": 1,
+      "avg_experience": 14.0
+    },
+    "Manama, Kingdom": {
+      "professional_count": 1,
+      "avg_experience": 18.0
+    },
+    "International, Middle": {
+      "professional_count": 1,
+      "avg_experience": 18.0
+    },
+    "Hydrogen, Ammonia": {
+      "professional_count": 1,
+      "avg_experience": 18.0
+    },
+    "Heiman, Licensing": {
+      "professional_count": 1,
+      "avg_experience": 20.0
+    },
+    "Separation, Adsoprtion": {
+      "professional_count": 1,
+      "avg_experience": 20.0
+    },
+    "Waver, Belgium": {
+      "professional_count": 1,
+      "avg_experience": 20.0
+    },
+    "Engineering, Structural": {
+      "professional_count": 1,
+      "avg_experience": 8.0
+    },
+    "USA \n \n \nQUALIFICATIONS  \n \n Maste": {
+      "professional_count": 1,
+      "avg_experience": 8.0
+    },
+    "Geospatial, California": {
+      "professional_count": 1,
+      "avg_experience": 8.0
+    },
+    "Plans, Lead": {
+      "professional_count": 1,
+      "avg_experience": 5.0
+    },
+    "Retails, Lubricants": {
+      "professional_count": 1,
+      "avg_experience": 5.0
+    },
+    "Technical, Marketing": {
+      "professional_count": 1,
+      "avg_experience": 5.0
+    },
+    "Cologne, Germany": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Coimbatore, India": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Scientist, Blackpool": {
+      "professional_count": 1,
+      "avg_experience": 19.0
+    },
+    "Sebia, Menarini": {
+      "professional_count": 1,
+      "avg_experience": 19.0
+    },
+    "Siemens, Beckman": {
+      "professional_count": 1,
+      "avg_experience": 19.0
+    },
+    "Project, Technip": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Manger, Project": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Specialist, Decem": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Trust, Yodel": {
+      "professional_count": 1,
+      "avg_experience": 32.0
+    },
+    "Directors, Programme": {
+      "professional_count": 1,
+      "avg_experience": 32.0
+    },
+    "Zeneca, Imperial": {
+      "professional_count": 1,
+      "avg_experience": 32.0
+    },
+    "Grid, Ministry": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Civil, Mechanical": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Avonmouth, Bristol": {
+      "professional_count": 2,
+      "avg_experience": 5.5
+    },
+    "Company, Germany": {
+      "professional_count": 2,
+      "avg_experience": 5.5
+    },
+    "Technology, Delft": {
+      "professional_count": 2,
+      "avg_experience": 5.5
+    },
+    "Management, Business": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Nuke, Dreamweaver": {
+      "professional_count": 1,
+      "avg_experience": 31.0
+    },
+    "Oracle, Delphi": {
+      "professional_count": 1,
+      "avg_experience": 31.0
+    },
+    "Semicon, Coating": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Director, Sign": {
+      "professional_count": 1,
+      "avg_experience": 41.0
+    },
+    "Mozambique, Africa": {
+      "professional_count": 1,
+      "avg_experience": 41.0
+    },
+    "Manager, Original": {
+      "professional_count": 1,
+      "avg_experience": 41.0
+    },
+    "Autichem, Thornton": {
+      "professional_count": 1,
+      "avg_experience": 10.0
+    },
+    "Ince, Chester": {
+      "professional_count": 1,
+      "avg_experience": 10.0
+    },
+    "Park, Chester": {
+      "professional_count": 1,
+      "avg_experience": 10.0
+    },
+    "Stone, Staffordshire": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Cs, Drives": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Documentation, Manuals": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "South West - B": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Environmental, Social": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Service, Logistics": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Filters, Spare": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Limited, Filtration": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Solutions, Bollfilter": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Scientist, Ph": {
+      "professional_count": 1,
+      "avg_experience": 19.0
+    },
+    "Close, Radcliffe": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Sc, Electrical": {
+      "professional_count": 1,
+      "avg_experience": 10.0
+    },
+    "Contractors, Operations": {
+      "professional_count": 1,
+      "avg_experience": 10.0
+    },
+    "Hill, Romford": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Railway, Old": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Depot, London": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Geography, Art": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Music, Playing": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Maths, English": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Bern, Beer": {
+      "professional_count": 1,
+      "avg_experience": 19.0
+    },
+    "University, Izmir": {
+      "professional_count": 1,
+      "avg_experience": 29.0
+    },
+    "University, Gothenburg": {
+      "professional_count": 1,
+      "avg_experience": 29.0
+    },
+    "Biogazelle, Zwijnaarde": {
+      "professional_count": 1,
+      "avg_experience": 29.0
+    },
+    "Monitoring, Maintenance": {
+      "professional_count": 1,
+      "avg_experience": 20.0
+    },
+    "Consultant, Self": {
+      "professional_count": 1,
+      "avg_experience": 20.0
+    },
+    "Lumpur, Malaysia": {
+      "professional_count": 1,
+      "avg_experience": 20.0
+    },
+    "Prevention, Risk": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Equipment, Sales": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Gathering, Separation": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Engineer, Sep": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Program, Business": {
+      "professional_count": 1,
+      "avg_experience": 29.0
+    },
+    "Springs, Sydney": {
+      "professional_count": 1,
+      "avg_experience": 29.0
+    },
+    "Sedgefield, County": {
+      "professional_count": 1,
+      "avg_experience": 29.0
+    },
+    "Director, Finance": {
+      "professional_count": 1,
+      "avg_experience": 17.0
+    },
+    "Bu": {
+      "professional_count": 1,
+      "avg_experience": 14.0
+    },
+    "Muller, Droitwich": {
+      "professional_count": 1,
+      "avg_experience": 14.0
+    },
+    "Bury, Manc": {
+      "professional_count": 1,
+      "avg_experience": 14.0
+    },
+    "Group, Mercedes": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Sales, Westcon": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Road, Coventry": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Policy, Imperial": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Council, New": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Director, Energy": {
+      "professional_count": 1,
+      "avg_experience": 26.0
+    },
+    "Healthcare, Defence": {
+      "professional_count": 1,
+      "avg_experience": 26.0
+    },
+    "Sciences, Sciences": {
+      "professional_count": 1,
+      "avg_experience": 26.0
+    },
+    "Venette, France": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Moskvina, Marketing": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "USA - Texas  \n \n \nQUALIFICATIONS  \n \nM-Tech Deg": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Engineering, National": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Hydrogenation, Pre": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Sydney, Australia": {
+      "professional_count": 1,
+      "avg_experience": 24.0
+    },
+    "East, Australia": {
+      "professional_count": 1,
+      "avg_experience": 24.0
+    },
+    "Piironen, List": {
+      "professional_count": 1,
+      "avg_experience": 10.0
+    },
+    "Auer, Adnan": {
+      "professional_count": 1,
+      "avg_experience": 10.0
+    },
+    "Kettunen, Lubes": {
+      "professional_count": 1,
+      "avg_experience": 10.0
+    },
+    "Levels, Business": {
+      "professional_count": 1,
+      "avg_experience": 11.0
+    },
+    "Energy, New": {
+      "professional_count": 1,
+      "avg_experience": 11.0
+    },
+    "Pressure, Flow": {
+      "professional_count": 1,
+      "avg_experience": 11.0
+    },
+    "Corporation, Japan": {
+      "professional_count": 1,
+      "avg_experience": 24.0
+    },
+    "Pelham, Ph": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Compliance, Digital": {
+      "professional_count": 1,
+      "avg_experience": 33.0
+    },
+    "Executive, Public": {
+      "professional_count": 1,
+      "avg_experience": 33.0
+    },
+    "Testing, Single": {
+      "professional_count": 1,
+      "avg_experience": 33.0
+    },
+    "Engineering, Design": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Draining, Depressurization": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Compressors, Filters": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Transfer, Clean": {
+      "professional_count": 1,
+      "avg_experience": 20.0
+    },
+    "Engineer, Utilities": {
+      "professional_count": 1,
+      "avg_experience": 20.0
+    },
+    "Management, Project": {
+      "professional_count": 1,
+      "avg_experience": 20.0
+    },
+    "Spa, Salerano": {
+      "professional_count": 1,
+      "avg_experience": 19.0
+    },
+    "Place, Consett": {
+      "professional_count": 1,
+      "avg_experience": 8.0
+    },
+    "Safety, Health": {
+      "professional_count": 1,
+      "avg_experience": 8.0
+    },
+    "Navy, Avado": {
+      "professional_count": 1,
+      "avg_experience": 13.0
+    },
+    "Road, Houghton": {
+      "professional_count": 1,
+      "avg_experience": 13.0
+    },
+    "Engineering, Upper": {
+      "professional_count": 1,
+      "avg_experience": 13.0
+    },
+    "Sheffield, Aerospace": {
+      "professional_count": 1,
+      "avg_experience": 8.0
+    },
+    "Physics, Further": {
+      "professional_count": 1,
+      "avg_experience": 8.0
+    },
+    "Crewe, Cheshire": {
+      "professional_count": 1,
+      "avg_experience": 8.0
+    },
+    "Thessaloniki, Greece": {
+      "professional_count": 1,
+      "avg_experience": 10.0
+    },
+    "Avenue, Sapcote": {
+      "professional_count": 1,
+      "avg_experience": 10.0
+    },
+    "Specialist, Product": {
+      "professional_count": 1,
+      "avg_experience": 10.0
+    },
+    "Marketing, Business": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Inventor, Catia": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Basic, Auto": {
+      "professional_count": 1,
+      "avg_experience": 0.0
+    },
+    "Italy, I": {
+      "professional_count": 1,
+      "avg_experience": 20.0
+    },
+    "Design, Project": {
+      "professional_count": 1,
+      "avg_experience": 20.0
+    },
+    "Engineering, Architecture": {
+      "professional_count": 1,
+      "avg_experience": 20.0
+    },
+    "Engineering, Electrical": {
+      "professional_count": 1,
+      "avg_experience": 15.0
+    },
+    "University, Karnataka": {
+      "professional_count": 1,
+      "avg_experience": 15.0
+    },
+    "Controls, Scada": {
+      "professional_count": 1,
+      "avg_experience": 15.0
+    },
+    "Defence, Oil": {
+      "professional_count": 1,
+      "avg_experience": 8.0
+    },
+    "Enagement, Lead": {
+      "professional_count": 1,
+      "avg_experience": 8.0
+    },
+    "Resources, Energy": {
+      "professional_count": 1,
+      "avg_experience": 8.0
+    }
+  }
+}

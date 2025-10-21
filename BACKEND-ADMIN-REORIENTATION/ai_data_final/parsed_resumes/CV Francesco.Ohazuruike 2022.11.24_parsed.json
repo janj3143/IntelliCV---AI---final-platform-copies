@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "file_name": "CV Francesco.Ohazuruike 2022.11.24.docx",
+    "file_size": 40033,
+    "processing_date": "2025-10-09T16:20:53.561916",
+    "text_length": 8140,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "oha.francesco@hotmail.it"
+    ],
+    "phones": [
+      "8844870",
+      "2007-2008"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [],
+  "job_titles": [
+    "manager",
+    "Lead",
+    "Engineer"
+  ],
+  "text_sample": "Francesco Ohazuruike\nVia Solferino 79, 20816 Ceriano Laghetto (MB) IT\nCell: 349.8844870 - email: oha.francesco@hotmail.it\nBUSINESS PROFILE \nI have extensive experience, gained in different working environment Oil & Gas, Chemistry, FMGC, and Industrial equipment. I have strong marked result orientation, logical and analytical skills. I am tenacious, flexible, able to work independently, prioritize and deliver result quickly, humble, and able to communicate at all organizational levels. My skills ...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "web_development": [
+      "React"
+    ],
+    "project_management": [
+      "Kanban"
+    ],
+    "finance": [
+      "SAP"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "manufacturing",
+    "industry_scores": {
+      "technology": 2,
+      "finance": 2,
+      "manufacturing": 5,
+      "consulting": 2,
+      "sales": 1
+    },
+    "confidence": 0.8333333333333334
+  }
+}

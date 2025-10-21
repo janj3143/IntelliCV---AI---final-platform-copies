@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "file_name": "MCS CV 2024.pdf",
+    "file_size": 100431,
+    "processing_date": "2025-10-09T16:21:04.703988",
+    "text_length": 3877,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "CERTIFICATIONSmuzaffercansurucumcsurucu@gmail.com"
+    ],
+    "phones": [
+      "+90 530 977 5598"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [],
+  "job_titles": [
+    "Manager",
+    "Engineer"
+  ],
+  "text_sample": "PROFESSIONAL EXPERIENCE EDUCATION\nCERTIFICATIONSmuzaffercansurucumcsurucu@gmail.com+90 530 977 5598\nM. CAN SÜRÜCÜ\nStrategic and results-oriented Sales and Business Development Manager with a proven track record in steering cross-functional\nteams and driving revenue growth. Proven success in implementing market access strategies, fostering key account relationships,\nand consistently exceeding sales targets in various markets.\nams OSRAM | February 2018 - Present\nDirected Automotive Aftermarket Dis...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "finance": [
+      "Excel",
+      "SAP"
+    ],
+    "soft_skills": [
+      "Leadership"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "marketing",
+    "industry_scores": {
+      "technology": 1,
+      "finance": 1,
+      "marketing": 2,
+      "consulting": 1,
+      "sales": 2
+    },
+    "confidence": 0.3333333333333333
+  }
+}

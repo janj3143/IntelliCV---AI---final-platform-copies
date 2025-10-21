@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "file_name": "20110622_Robert Heikens_CV Format.pdf",
+    "file_size": 111569,
+    "processing_date": "2025-10-09T16:20:48.356149",
+    "text_length": 4998,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "R.Heikens@kabelfoon.net"
+    ],
+    "phones": [
+      "0174540027",
+      "0646375813",
+      "1 2001-2005",
+      "2 1999-2001",
+      "4 1996-1999",
+      "2010-2011"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Interim Directeur TSE Rollo UK Ltd"
+  ],
+  "job_titles": [
+    "Manager",
+    "manager",
+    "Engineer",
+    "engineer"
+  ],
+  "text_sample": " \n \n \nBlz. 1 - Curriculum vitae van R.J.S Heikens \n                   \n    \n \nC U R R I C U L U M  V I T A E  \n \n \n \n   \nPERSOONSGEGEVENS  \n \nNaam   Robert Heikens \nPrivé adres   Zwaluw 3, 2678 XC, De Lier \nTelefoon   0174540027 \nMobiel   0646375813 \nE-mail   R.Heikens@kabelfoon.net  \nNationaliteit   Nederlandse \nGeboortedatum   13-02-1968 \nGeboorteplaats   Den Haag \nGeslacht   Man \nBurgerlijke staat   Getrouwd \n \n \n \nOPLEIDINGEN  \n \n• Jaar afronding / opleiding   1996 / TH Technische Bedrijfsku...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 1,
+      "education": 1
+    },
+    "confidence": 0.14285714285714285
+  }
+}

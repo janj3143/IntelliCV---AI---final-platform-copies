@@ -1,0 +1,13 @@
+{
+  "ats_keywords": [
+    "software development", "programming", "coding", "debugging", "testing",
+    "agile", "scrum", "devops", "cloud computing", "database", "api",
+    "machine learning", "artificial intelligence", "data analysis"
+  ],
+  "skill_categories": {
+    "Programming Languages": ["python", "java", "c++", "javascript", "typescript", "go", "ruby", "php"],
+    "Cloud Platforms": ["aws", "azure", "gcp", "cloud"],
+    "DevOps Tools": ["docker", "kubernetes", "jenkins", "git", "ci/cd"],
+    "Soft Skills": ["leadership", "communication", "teamwork", "problem-solving", "adaptability", "creativity"]
+  }
+}

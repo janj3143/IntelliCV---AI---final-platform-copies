@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "file_name": "Dilek Sivri CV_2024.pdf",
+    "file_size": 240053,
+    "processing_date": "2025-10-09T16:21:00.651022",
+    "text_length": 7292,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "dlksyrv@hotmail.com"
+    ],
+    "phones": [
+      "0530 877",
+      "2012-2014",
+      "2005-2010",
+      "2001-2005"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Elastic Bonding \nHenkel Adhesive Technologies",
+    "Henkel Adhesive Technologies",
+    "Distribution Essentials \nHenkel Adhesive Technologies",
+    "Business Administration and Technology",
+    "Price Management \nHenkel Adhesive Technologies",
+    "EEMEA Technical Training II \nHenkel Adhesive Technologies",
+    "Professional Account Management                \nHenkel Adhesive Technologies",
+    "Responsible for both commercial and technical sales in Henkel Adhesive Technologies",
+    "Exterior Solutions",
+    "Professional Sales II \nHenkel Adhesive Technologies"
+  ],
+  "job_titles": [
+    "coordinator",
+    "Engineer",
+    "lead",
+    "Specialist",
+    "Manager",
+    "Lead"
+  ],
+  "text_sample": " \n \nDİLEK SİVRİ \nTatlisu Mh. Sanli Cd. No:50 Dream Towers Sitesi B Blok Kat:10 D:41, PK.34774  \nUmraniye / Istanbul \n0530 877 57 63 • dlksyrv@hotmail.com  \nBirthday:   11.02.1988 / Istanbul \n \n \n \n \nCareer Objective: \n \nHighly motivated and goal-oriented young professional committed to pursuing a long term career in Sales and \nBusiness Management. I believe my experience, personal traits, skills and competencies like integrity, adaptability to \nchange, agility, curiosity, quick learner, easy to ...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 1,
+      "finance": 1,
+      "manufacturing": 1,
+      "consulting": 3,
+      "sales": 1
+    },
+    "confidence": 0.5
+  }
+}

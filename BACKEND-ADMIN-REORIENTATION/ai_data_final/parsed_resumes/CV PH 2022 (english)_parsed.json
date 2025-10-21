@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "file_name": "CV PH 2022 (english).pdf",
+    "file_size": 175023,
+    "processing_date": "2025-10-09T16:20:54.197926",
+    "text_length": 8595,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [],
+    "phones": [
+      "177 707 6899"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Waller & Co"
+  ],
+  "job_titles": [
+    "manager",
+    "Manager",
+    "Chief",
+    "Senior"
+  ],
+  "text_sample": "CV \nPeter Hohaus  \n \n \n \nPersonal information  \nDate of birth   19 June 1970  \nMarital status   married, two sons  \nAddress   Taunusstr. 1, 14193 Berlin  \nTelephone   + 49 (0) 177 707 6899  \n \nProfile  \n• Stakeholder manager with nation al and international experience.  \n \n• Broad network in politics, business and associations based on several years of \nwork in Berlin and Brussels.  \n \n• Expertise in the energy industry, energy policy and energy law with a focus on \nthe German , European and Int...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "finance": [
+      "Risk Management"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 2,
+      "finance": 1,
+      "consulting": 3,
+      "sales": 1
+    },
+    "confidence": 0.5
+  }
+}

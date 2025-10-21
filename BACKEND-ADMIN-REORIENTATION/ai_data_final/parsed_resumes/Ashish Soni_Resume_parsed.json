@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "file_name": "Ashish Soni_Resume.pdf",
+    "file_size": 208952,
+    "processing_date": "2025-10-09T16:20:50.079605",
+    "text_length": 9670,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "ashishkumarsony@gmail.com"
+    ],
+    "phones": [
+      "561247325",
+      "2012-2015",
+      "2006-2012",
+      "440018"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Pro ject Engineer ing Services",
+    "Historians of Honeywell and PI Technologies"
+  ],
+  "job_titles": [
+    "consultant",
+    "Senior",
+    "Engineer",
+    "lead",
+    "Manager",
+    "Lead",
+    "specialist",
+    "engineer"
+  ],
+  "text_sample": " ADNOC Classification: Internal  \nASHISH SONI  \n Al Ruwais, Abu Dhabi: 12322 │ ashishkumarsony@gmail.com │Mob: 00971-561247325 \n                                                                                                \n \nOBJECTIVE:  Young, hardworking, result orientated  individual seeking to obtain a stable position in an organization which \nwill utilize and expand my skills , expertise,  and experiences.  \n \nEXPERIENCE SUMMARY:  \n Over 1 8+ years of Chemical Engineering Experience in re...",
+  "skills_detected": {
+    "web_development": [
+      "React"
+    ],
+    "finance": [
+      "SAP"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "manufacturing",
+    "industry_scores": {
+      "technology": 1,
+      "finance": 1,
+      "manufacturing": 2,
+      "education": 1,
+      "consulting": 2,
+      "sales": 1
+    },
+    "confidence": 0.3333333333333333
+  }
+}

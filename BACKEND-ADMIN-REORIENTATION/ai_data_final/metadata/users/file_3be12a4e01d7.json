@@ -1,0 +1,151 @@
+{
+  "file_id": "file_3be12a4e01d7",
+  "source_path": "C:\\IntelliCV\\data\\sample_job.txt",
+  "extracted_at": "2025-08-10T16:26:12.253784",
+  "text": "\n**Job Spec Extract: Sasol – Manager, Marketing Projects, Commercialisation and Sustainability**\n\n**Title:** Manager Marketing Projects Commercialisation and Sustainability  \n**Business Unit:** Energy Business  \n**Location:** Global (focus on strategic markets)\n\n**Role Summary:**\nResponsible for shaping and executing Sasol's commercialisation strategy for sustainability-aligned energy products. The role involves identifying, developing, and executing market-aligned product portfolios, with special emphasis on commercial pathways, partnerships, and project support to drive innovation across clean energy and decarbonisation.\n\n**Key Responsibilities:**\n- Identify commercialisation opportunities in decarbonisation, hydrogen, biofuels, and clean chemicals\n- Develop commercial go-to-market strat \n**Job Spec Extract: Sasol – Manager, Marketing Projects, Commercialisation and Sustainability**\n\n**Title:** Manager Marketing Projects Commercialisation and Sustainability  \n**Business Unit:** Energy Business  \n**Location:** Global (focus on strategic markets)\n\n**Role Summary:**\nResponsible for shaping and executing Sasol's commercialisation strategy for sustainability-aligned energy products. The role involves identifying, developing, and executing market-aligned product portfolios, with special emphasis on commercial pathways, partnerships, and project support to drive innovation across clean energy and decarbonisation.\n\n**Key Responsibilities:**\n- Identify commercialisation opportunities in decarbonisation, hydrogen, biofuels, and clean chemicals\n- Develop commercial go-to-market strategies with external partners\n- Oversee business case development and feasibility for new product launches\n- Manage cross-functional projects from concept to scale\n- Align marketing and R&D to customer requirements for new tech\n- Report to senior leadership and external stakeholders on sustainability impact\n\n**Technical/Domain Skills:**\n- Decarbonisation technology market insight\n- Carbon credits and clean fuel standards\n- Strategic marketing and business development\n- Energy value chain & infrastructure familiarity\n- Lifecycle assessment knowledge\n\n**Qualifications:**\n- BSc/MSc in Engineering or Business\n- 8–10+ years in energy/clean tech marketing roles\n- Experience in large-scale partnerships or new ventures\n\n**Soft Skills:**\n- Executive-level stakeholder management\n- Innovation-focused problem-solving\n- Communication of complex technical narratives\n- Global commercial strategy execution\n\n**Indicators of Success:**\n- Number of product launches\n- Revenue and carbon footprint KPIs\n- Strategic partner activation\n- Market share growth in new segments\n\n\n ",
+  "emails": [],
+  "phones": [],
+  "names": [
+    "Marketing Projects",
+    "Domain Skills",
+    "Soft Skills"
+  ],
+  "work_history": [],
+  "title": "",
+  "company": "",
+  "location": "",
+  "experience_years": 0,
+  "career_stage": "entry",
+  "industries": [
+    "general"
+  ],
+  "skills": [
+    "leadership"
+  ],
+  "ai_scores": {
+    "experience_years": 0.0,
+    "title_progression": 0.5,
+    "company_prestige": 0.5,
+    "location_mobility": 0.5,
+    "skill_diversity": 0.1,
+    "network_strength": 0.3
+  },
+  "ai_final_score": 0.285,
+  "ai_processed_at": "2025-08-11T10:42:08.166010",
+  "similar_users": [
+    {
+      "user_id": "file_002a746786ae",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.285,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_00712ee6c7f2",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.285,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_027109a8b87b",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.285,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_02f7e7d2c8b1",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.285,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_04294f989b58",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.285,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_04616388d705",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.285,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_04ea4eda87b4",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.285,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_05d5423305d7",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.285,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_065fd472fa7a",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.285,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_06ae3a824a08",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.285,
+      "experience_years": 0
+    }
+  ],
+  "recommendations": {
+    "career_advancement": [
+      "Focus on building core technical skills",
+      "Seek mentorship from senior team members",
+      "Take on challenging projects to gain experience"
+    ],
+    "skill_development": [],
+    "company_targets": [
+      "Mid-size companies with growth potential",
+      "Startups in emerging industries",
+      "Companies known for employee development"
+    ],
+    "networking": []
+  }
+}

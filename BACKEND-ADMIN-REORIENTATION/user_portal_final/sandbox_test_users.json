@@ -1,0 +1,52 @@
+{
+  "test@intellicv.ai": {
+    "name": "Test User",
+    "password_hash": "e2c56ba39d429f377fdbfc953afa565047906f5244578fabb1853493e39355bd",
+    "salt": "909b68eaab73b4cb2a73fff3c95ee33617fe8f5420ed89a999efb16b4474851f",
+    "email_verified": true,
+    "created_date": "2025-10-04T14:37:52.114731",
+    "subscription_tier": "premium",
+    "two_factor_enabled": false,
+    "test_account": true,
+    "gdpr_consent": {
+      "data_processing": true,
+      "marketing": false,
+      "analytics": true,
+      "consent_date": "2025-10-04T14:37:52.114731"
+    }
+  },
+  "admin@intellicv.ai": {
+    "name": "Admin Test User",
+    "password_hash": "52ae0e74f510dbe6a81d351eb793c44b4de00ce0632bd0ee84a737c6b4fc548c",
+    "salt": "e6f44532d4281c8b446027cb8d8eb3b8fc5321b0c03338b32919c6c9967a2144",
+    "email_verified": true,
+    "created_date": "2025-10-04T14:37:52.114731",
+    "subscription_tier": "enterprise",
+    "two_factor_enabled": true,
+    "is_admin": true,
+    "test_account": true,
+    "gdpr_consent": {
+      "data_processing": true,
+      "marketing": true,
+      "analytics": true,
+      "consent_date": "2025-10-04T14:37:52.114731"
+    }
+  },
+  "demo@intellicv.ai": {
+    "name": "Demo User",
+    "password_hash": "215c6e7effe1dc12761dcb4087237392319191a838e0246ee16e3dc24e836b02",
+    "salt": "f0cc8e38d76879ffcc4260d0c1475a6652cac1652ffb9a62f777b40e22ea3f99",
+    "email_verified": true,
+    "created_date": "2025-10-04T14:37:52.114731",
+    "subscription_tier": "free",
+    "two_factor_enabled": false,
+    "demo_account": true,
+    "test_account": true,
+    "gdpr_consent": {
+      "data_processing": true,
+      "marketing": false,
+      "analytics": false,
+      "consent_date": "2025-10-04T14:37:52.114731"
+    }
+  }
+}

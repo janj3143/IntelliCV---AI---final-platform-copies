@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "file_name": "CV 08122010.pdf",
+    "file_size": 419761,
+    "processing_date": "2025-10-09T16:20:52.965702",
+    "text_length": 6694,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "urnbull@aol.com"
+    ],
+    "phones": [
+      "7584 034223"
+    ],
+    "names": [
+      "Alistair Turnbull"
+    ],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Group Legal Services",
+    "Indian brewer United Breweries Limited"
+  ],
+  "job_titles": [
+    "Senior",
+    "Director",
+    "Associate",
+    "VP",
+    "associate",
+    "Manager",
+    "senior",
+    "specialist"
+  ],
+  "text_sample": "Curriculum Vitae  \nPersonal   \nName  Alistair Turnbull  \nAddress  1 Rectory Court, Clungunford, Craven Arms, Shropshire, SY7 0PN , United Kingdom  \nTelephone  +44 (0)7584 034223 (Mobile)  \nEmail Address  alistairt urnbull@aol.com  \nDate of Birth  17th October 1973  \nStatus  Married, 1 Child  \nNationality  British  \n \nEducation  \n2007  Masters in Business Administration, IMD, Lausanne, Switzerland (graduated with honours).  \n2004 -2005  Diploma in EC Competition Law, King’s Col lege, London (meri...",
+  "skills_detected": {
+    "programming": [
+      "Go",
+      "Rust"
+    ],
+    "cloud": [
+      "AWS"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 1,
+      "finance": 3,
+      "marketing": 1,
+      "education": 2,
+      "consulting": 4,
+      "sales": 1
+    },
+    "confidence": 0.6666666666666666
+  }
+}

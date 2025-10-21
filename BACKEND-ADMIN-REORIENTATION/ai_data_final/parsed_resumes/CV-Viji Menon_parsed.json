@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "file_name": "CV-Viji Menon.pdf",
+    "file_size": 52871,
+    "processing_date": "2025-10-09T16:20:55.792231",
+    "text_length": 7686,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "vijimenon@live.com"
+    ],
+    "phones": [
+      "9714 8820114",
+      "97150 624"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": [
+      " "
+    ]
+  },
+  "companies": [],
+  "job_titles": [
+    "Manager",
+    "Director",
+    "lead"
+  ],
+  "text_sample": " 1 CURRICULAM VITAE  \nOF  \n    Viji Menon  \n \n___________________ ____________________ \n \nPROFESSIONAL OBJECTIVES:  \n \nTo head and lead a professional technical organization using varied expertise gained.  \n \nJOHN CRANE MIDDLE EAST .   \nDubai, U.A.E. From March 2004 till present   \nJohn Crane is part of Smiths Group, a global technology business. John Crane designs and \nmanufactures seals and associated products for pumps, compressors, mixers mainly for the Oil & Gas, Petrochemical, Pharmaceutic...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "finance": [
+      "Excel"
+    ],
+    "soft_skills": [
+      "Leadership"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "sales",
+    "industry_scores": {
+      "healthcare": 1,
+      "manufacturing": 2,
+      "education": 2,
+      "consulting": 2,
+      "sales": 4
+    },
+    "confidence": 0.6666666666666666
+  }
+}

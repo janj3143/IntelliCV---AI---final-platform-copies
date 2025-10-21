@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "file_name": "CV.pdf",
+    "file_size": 246810,
+    "processing_date": "2025-10-09T16:20:56.094158",
+    "text_length": 6284,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "yigitacikay@gmail.com"
+    ],
+    "phones": [
+      "90 5326446489",
+      "0312 233"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Shell Technical Services"
+  ],
+  "job_titles": [
+    "Manager",
+    "lead",
+    "specialist",
+    "Specialist"
+  ],
+  "text_sample": "YİĞİT AÇIKAY  \n \n          \nMobile: +90 5326446489  \nE-Mail: yigitacikay@gmail.com  \nMilitary Service: Accomplished  (DEC 2011 - MAY 2012)  \n \n \nEducation:  \n- Bilgi University / MBA 2013 – 2016  \n- London School of Economics/ Management (Summer  School) / \nEntrepreneurship Course July 2009 – August 2009  \n- Sabanci University / Management 2006 – 2011  \n- Eyuboglu Primary & High School (Turkish Maths) 1998 - 2006  \n \nLanguage : \nEnglish  - Reading, Writing, Speaking , Listening  (Fluent)  \nGerma...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 1,
+      "marketing": 1,
+      "manufacturing": 1,
+      "education": 1,
+      "consulting": 1
+    },
+    "confidence": 0.14285714285714285
+  }
+}

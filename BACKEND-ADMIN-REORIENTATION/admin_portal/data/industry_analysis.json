@@ -1,0 +1,54 @@
+{
+  "industry_breakdown": [
+    {
+      "industry": "technology",
+      "candidate_count": 78,
+      "avg_confidence": 0.28937728937728924,
+      "avg_resume_length": 9389.858974358975
+    },
+    {
+      "industry": "consulting",
+      "candidate_count": 60,
+      "avg_confidence": 0.49166666666666664,
+      "avg_resume_length": 7544.583333333333
+    },
+    {
+      "industry": "manufacturing",
+      "candidate_count": 40,
+      "avg_confidence": 0.48749999999999993,
+      "avg_resume_length": 8548.7
+    },
+    {
+      "industry": "finance",
+      "candidate_count": 24,
+      "avg_confidence": 0.375,
+      "avg_resume_length": 11671.375
+    },
+    {
+      "industry": "education",
+      "candidate_count": 24,
+      "avg_confidence": 0.4375,
+      "avg_resume_length": 7300.416666666667
+    },
+    {
+      "industry": "marketing",
+      "candidate_count": 7,
+      "avg_confidence": 0.4047619047619048,
+      "avg_resume_length": 8389.142857142857
+    },
+    {
+      "industry": "healthcare",
+      "candidate_count": 7,
+      "avg_confidence": 0.23809523809523808,
+      "avg_resume_length": 7386.285714285715
+    },
+    {
+      "industry": "sales",
+      "candidate_count": 3,
+      "avg_confidence": 0.5555555555555555,
+      "avg_resume_length": 7999.666666666667
+    }
+  ],
+  "total_industries": 8,
+  "last_updated": "2025-10-18T09:02:58.728483"
+}

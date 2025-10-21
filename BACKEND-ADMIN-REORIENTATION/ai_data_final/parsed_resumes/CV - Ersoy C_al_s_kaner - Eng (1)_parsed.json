@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "file_name": "CV - Ersoy C_al_s_kaner - Eng (1).pdf",
+    "file_size": 265959,
+    "processing_date": "2025-10-09T16:20:52.849630",
+    "text_length": 5633,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "caliskaner.ersoy@gmail.com"
+    ],
+    "phones": [
+      "90 539 630 1593",
+      "90 532 694 6861",
+      "90 535 369",
+      "956 8121",
+      "90 530 607 5310",
+      "90 536 247 4998",
+      "90 505 560 9119"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Freudenber g Sealing Technologies",
+    "Instituto Superior de Engenharia de Co"
+  ],
+  "job_titles": [
+    "Engineer",
+    "ENGINEER",
+    "Chief",
+    "Coordinator",
+    "Manager"
+  ],
+  "text_sample": " \n Internal  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nErsoy Çalışkaner  \n \nDate of Birth: 16.12.1992  \n \nPlace of Birth: Edirne  \n \nMilitary Service Status: Done  \n \nMarital Status: Single  \n \nDriver License: Class B  \n \nAdress : Görükle  Mah. Asacar Sitesi  \nA Blok Daire: 4 Nilüfer  BURSA  \n \nMobile Phone: +90 539 630 1593  \n \nE-mail: caliskaner.ersoy@gmail.com  \n \n \n \n \n \n \n \nSayfa 1   \nMECHANICAL ENGINEER  \n \n \n \nEXPERIENCE  \n \n25/05/2020 – …  \nFreudenber g Seali...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "education",
+    "industry_scores": {
+      "technology": 2,
+      "finance": 1,
+      "manufacturing": 2,
+      "education": 3,
+      "consulting": 2
+    },
+    "confidence": 0.5
+  }
+}

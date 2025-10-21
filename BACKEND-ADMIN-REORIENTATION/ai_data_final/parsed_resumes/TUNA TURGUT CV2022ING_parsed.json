@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "file_name": "TUNA TURGUT CV2022ING.pdf",
+    "file_size": 707963,
+    "processing_date": "2025-10-09T16:21:10.119462",
+    "text_length": 7008,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "tuna_turgut80@hotmail.com"
+    ],
+    "phones": [
+      "90 532 056 7630"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [],
+  "job_titles": [
+    "Manager"
+  ],
+  "text_sample": "TUNA TURGUT  \n \nContact Information  \n \nE-mail   : tuna_turgut80@hotmail.com  \nMobile   : +90 532 056 7630  \nAddress   : TURKEY – Istanbul Asia – Çekmeköy  \n \nPersonal Information  \n \nTotal experience  : 17 Years  \nEducation   : University (Graduate)  \nDate of Birth   : 03.04.1980  \nNationality   : Republic of Turkey  \nDriver License  : A (2016) - B (1998)  Type  \nGender   : Male  \nMarital  Status  : Married  \nMilitary   : Completed  (17-05-2005)  \n \n \n \nJOB EXPERIENCE  \n \nSales Area Manager - T...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "finance": [
+      "Excel",
+      "SAP"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Strategic Planning"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "marketing",
+    "industry_scores": {
+      "technology": 1,
+      "marketing": 2,
+      "manufacturing": 2,
+      "consulting": 2,
+      "sales": 1
+    },
+    "confidence": 0.3333333333333333
+  }
+}

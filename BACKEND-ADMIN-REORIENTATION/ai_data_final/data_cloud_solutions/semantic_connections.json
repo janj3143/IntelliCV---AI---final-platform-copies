@@ -1,0 +1,41 @@
+{
+  "semantic_connections": {
+    "description": "AI Word Cloud Semantic Interconnections Database",
+    "version": "1.0.0",
+    "last_updated": "2025-10-10",
+    "connection_types": {
+      "synonyms": {
+        "software_development": ["programming", "coding", "development", "software engineering"],
+        "project_management": ["program management", "project coordination", "PM", "scrum master"],
+        "data_analysis": ["analytics", "data science", "business intelligence", "BI"],
+        "leadership": ["management", "team lead", "supervision", "director"],
+        "communication": ["collaboration", "teamwork", "interpersonal", "stakeholder engagement"]
+      },
+      "skill_hierarchies": {
+        "technical_skills": {
+          "programming": ["python", "java", "javascript", "c++", "c#", "php", "ruby"],
+          "databases": ["sql", "mysql", "postgresql", "mongodb", "oracle", "sqlite"],
+          "cloud_platforms": ["aws", "azure", "gcp", "cloud computing", "devops"],
+          "frameworks": ["react", "angular", "vue", "django", "spring", "node.js"]
+        },
+        "soft_skills": {
+          "leadership": ["team management", "mentoring", "coaching", "delegation"],
+          "communication": ["presentation", "negotiation", "writing", "public speaking"],
+          "problem_solving": ["analytical thinking", "critical thinking", "troubleshooting"]
+        }
+      },
+      "industry_connections": {
+        "finance": ["banking", "fintech", "investment", "trading", "risk management"],
+        "healthcare": ["medical", "pharmaceutical", "biotech", "clinical", "hospital"],
+        "technology": ["IT", "software", "hardware", "cybersecurity", "artificial intelligence"],
+        "manufacturing": ["production", "quality control", "supply chain", "logistics"],
+        "marketing": ["digital marketing", "social media", "SEO", "content marketing", "brand management"]
+      }
+    },
+    "relationship_strength": {
+      "strong": 0.9,
+      "medium": 0.6, 
+      "weak": 0.3
+    }
+  }
+}

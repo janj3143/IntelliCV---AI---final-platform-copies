@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "file_name": "Ahmet M Cakan resume.pdf",
+    "file_size": 70980,
+    "processing_date": "2025-10-09T16:20:48.910228",
+    "text_length": 2468,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "ahmetcakan@gmail.com"
+    ],
+    "phones": [
+      "90 533 3887611"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [],
+  "job_titles": [
+    "manager",
+    "Manager"
+  ],
+  "text_sample": "AHMET M. ÇAKAN             \nIstanbul/Tur key   |   13/11/1981   |    +90 533 3887611    |   ahmetcakan@gmail.com   \nlinkedin.com/in/ahmet -metin -cakan   \nProfile  \nBroad leadership experience in multinational organizations with solid track records. Substantial \nachievements in creating highly engaged winning organizations , delivering results , managing diversity , \nattracting & developing talents . Strong business and technical qualifications in organizational and \noperational management, busi...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Team Management",
+      "Strategic Planning"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 1,
+      "healthcare": 1,
+      "education": 1,
+      "consulting": 2,
+      "sales": 1
+    },
+    "confidence": 0.3333333333333333
+  }
+}

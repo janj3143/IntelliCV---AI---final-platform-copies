@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "file_name": "Conrad_Yorke_CV[3]-2.pdf",
+    "file_size": 146134,
+    "processing_date": "2025-10-09T16:20:50.684018",
+    "text_length": 15191,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "conradyorke@yahoo.co.uk",
+      "6XXconradyorke@yahoo.co.uk................................................................................................................Summary"
+    ],
+    "phones": [
+      "1482 21076920"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Occidental Petroleum of Qatar Ltd",
+    "NDT Company",
+    "S levels MiscellaneousBasic Offshore Safety Induction Inc",
+    "Gas Pipeline Co"
+  ],
+  "job_titles": [
+    "Engineer",
+    "Coordinator",
+    "Specialist",
+    "Manager",
+    "Lead"
+  ],
+  "text_sample": "WELDING QC COORDINATORConrad Yorke+44 (-0) 1482 21076920 St. Margarets Close+44 (-0) 741 4093328Driffield  HYPERLINK \"mailto:conradyorke@yahoo.co.uk\" Email MeEast YorkshireD.O.B 19.05.1965Y025 6XXconradyorke@yahoo.co.uk................................................................................................................Summary of ExperienceQA/QC professional with all-round experience in the field of hydrocarbon pipelines, associated fabrications and installations. My main approvals are...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "cloud": [
+      "AWS"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "finance": [
+      "Excel",
+      "Compliance"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "finance",
+    "industry_scores": {
+      "technology": 2,
+      "healthcare": 1,
+      "finance": 3,
+      "manufacturing": 3,
+      "education": 1,
+      "consulting": 2,
+      "sales": 1
+    },
+    "confidence": 0.42857142857142855
+  }
+}

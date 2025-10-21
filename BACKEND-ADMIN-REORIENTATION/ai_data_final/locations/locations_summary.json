@@ -1,0 +1,13 @@
+{
+  "total_locations": 24767,
+  "locations_by_type": {
+    "city_country": 21861,
+    "city_state": 2879,
+    "remote": 27
+  },
+  "locations_by_source": {
+    "text_extraction": 24767
+  },
+  "geocoded_locations": 0,
+  "generated_at": "2025-08-11T10:39:39.356108"
+}

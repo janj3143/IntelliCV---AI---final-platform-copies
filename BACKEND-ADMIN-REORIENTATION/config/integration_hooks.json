@@ -1,0 +1,47 @@
+{
+  "candidate_profiles": {
+    "endpoint": "/api/candidates/enriched",
+    "data_source": "data/enriched/enriched_candidates.json",
+    "ai_features": [
+      "skill_matching",
+      "experience_analysis",
+      "profile_scoring"
+    ]
+  },
+  "company_intelligence": {
+    "endpoint": "/api/companies/intelligence",
+    "data_source": "data/intelligence/market_intelligence.json",
+    "ai_features": [
+      "market_analysis",
+      "company_scoring",
+      "industry_insights"
+    ]
+  },
+  "email_analytics": {
+    "endpoint": "/api/emails/analytics",
+    "data_source": "data/emails/unified_emails.json",
+    "ai_features": [
+      "domain_analysis",
+      "contact_verification",
+      "lead_scoring"
+    ]
+  },
+  "skill_matching": {
+    "endpoint": "/api/skills/matching",
+    "data_source": "data/intelligence/skills_intelligence.json",
+    "ai_features": [
+      "semantic_matching",
+      "skill_gap_analysis",
+      "recommendation_engine"
+    ]
+  },
+  "cv_parsing": {
+    "endpoint": "/api/parsing/cv",
+    "data_source": "data/enriched/parsing_results.json",
+    "ai_features": [
+      "nlp_extraction",
+      "structure_analysis",
+      "content_categorization"
+    ]
+  }
+}

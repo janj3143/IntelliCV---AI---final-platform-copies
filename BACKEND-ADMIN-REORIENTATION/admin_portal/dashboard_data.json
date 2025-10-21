@@ -1,0 +1,39 @@
+{
+  "metrics": {
+    "total_candidates": 0,
+    "total_companies": 0,
+    "total_emails": 0,
+    "total_skills": 0,
+    "total_keywords": 0,
+    "total_insights": 0,
+    "intelligence_categories": 3
+  },
+  "analytics": {
+    "email_domains": {},
+    "top_skills": {},
+    "data_quality_score": 0
+  },
+  "intelligence": {
+    "enriched_candidates": {
+      "data_points": 43,
+      "category": "enriched_candidates",
+      "last_updated": "2025-09-23T10:24:39.350563"
+    },
+    "enriched_companies": {
+      "data_points": 35735,
+      "category": "enriched_companies",
+      "last_updated": "2025-09-23T10:24:39.350563"
+    },
+    "market_intelligence": {
+      "data_points": 24,
+      "category": "market_intelligence",
+      "last_updated": "2025-09-23T10:24:39.350563"
+    }
+  },
+  "email_analytics": {
+    "total_emails": 0,
+    "verified_emails": 0,
+    "domain_distribution": {},
+    "email_quality_score": 0
+  }
+}

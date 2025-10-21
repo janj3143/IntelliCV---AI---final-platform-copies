@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "file_name": "Ernst_Flemming_CV.pdf",
+    "file_size": 48732,
+    "processing_date": "2025-10-09T16:21:01.036920",
+    "text_length": 1773,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "Ernst.Flemming@googlemail.com"
+    ],
+    "phones": [
+      "49-89-61209666",
+      "2000-2008",
+      "1992-1995",
+      "1984-1988",
+      "1989-1992",
+      "1988-1989"
+    ],
+    "names": [
+      "Dr"
+    ],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Sales of  \nTechnologies"
+  ],
+  "job_titles": [
+    "Manager",
+    "Engineer"
+  ],
+  "text_sample": "Curriculum Vitae\nPersonal Information:\nName: Dr. Ernst Flemming\nAddress:Zacherlweg 4\nD-82024 Taufkirchen\nGermany\nDate of Birth 14 February 1965\nPlace of Birth:Rottweil, Germany\nFamily Status: married\nPhone: +49-89-61209666\ne-mail Ernst.Flemming@googlemail.com\nEmployment History:\nPeriod: Since May 2000\nCompany: Softing AG\nFunction: 2000-2008: Sales Manager Industrial Automation. Sales of  \nTechnologies, Services and OEM-Products. Key Account Management  \nfor large process automation accounts. \nAr...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "finance": [
+      "Excel"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 2,
+      "education": 1,
+      "consulting": 1,
+      "sales": 1
+    },
+    "confidence": 0.2857142857142857
+  }
+}

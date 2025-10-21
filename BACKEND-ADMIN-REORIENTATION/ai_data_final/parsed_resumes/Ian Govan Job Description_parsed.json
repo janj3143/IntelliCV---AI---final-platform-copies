@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "file_name": "Ian Govan Job Description.docx",
+    "file_size": 13214,
+    "processing_date": "2025-10-09T16:21:02.616472",
+    "text_length": 3783,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [],
+    "phones": [],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [],
+  "job_titles": [
+    "Director"
+  ],
+  "text_sample": "JOB DESCRIPTION\nJOB TITLE: Managing Director Marketing and Sales - EURA\nREPORTSTO: President \nLOCATION: Europe  Russia and Africa  \nSUMMARY;\n\nBasic Salary £120K, Car allowance £650pm, Bonus 30% on Target + project margin kicker + over target kicker. ( the kickers doubled the base salary) \n\nRing fence and develop OEM business, grow the retrofits in Europe. Increase sales coverage through agents and distributors.  Increase sales force. \n\nManages the Operations and the Sales and Marketing departmen...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "cloud": [
+      "AWS"
+    ],
+    "soft_skills": [
+      "Leadership"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 1,
+      "marketing": 1,
+      "manufacturing": 1,
+      "consulting": 1
+    },
+    "confidence": 0.14285714285714285
+  }
+}

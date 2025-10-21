@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "file_name": "Akyolcu CV English_March2024.pdf",
+    "file_size": 141865,
+    "processing_date": "2025-10-09T16:20:49.046328",
+    "text_length": 7051,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "cakyolcu@yahoo.com"
+    ],
+    "phones": [
+      "90 537 356"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [],
+  "job_titles": [
+    "Manager",
+    "associate",
+    "Engineer"
+  ],
+  "text_sample": " \n Onur Can Akyolcu  \n \nDate of birth   : January 19th, 1983  \nPlace of birth   : Istanbul, Turkey  \nNationality   : Turkish  \nAddress   : Aytekin Kotil Cad. No: 28/19 34360 Istanbul  \nE-Mail   : cakyolcu@yahoo.com  \nPhone    : +90 537 356 88 77  \n \nEDUCATIONAL BACKGROUND  \n \nMar 2021 – Mar 2024     Master of Arts, MA  \n       European and International Affairs  \n       Turkish - German University  Istanbul  \n \nOct. 2017 – May 2018     Executive MBA  \n       Turquality Executive Development Prog...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "finance": [
+      "Excel",
+      "Risk Management"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Communication",
+      "Problem Solving"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "finance",
+    "industry_scores": {
+      "technology": 1,
+      "finance": 2,
+      "manufacturing": 1,
+      "education": 1,
+      "consulting": 2,
+      "sales": 1
+    },
+    "confidence": 0.2857142857142857
+  }
+}

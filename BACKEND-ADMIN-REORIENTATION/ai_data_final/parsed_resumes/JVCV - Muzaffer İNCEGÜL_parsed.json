@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "file_name": "JVCV - Muzaffer İNCEGÜL.docx",
+    "file_size": 82947,
+    "processing_date": "2025-10-09T16:21:03.579256",
+    "text_length": 2523,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "janj@johnston-vere.co.uk"
+    ],
+    "phones": [
+      "01695 570 696"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [],
+  "job_titles": [
+    "Manager",
+    "Engineer"
+  ],
+  "text_sample": "\n\n\nCANDIDATE \n\nMuzaffer İNCEGÜL\n\n\nPERSONAL DETAILS\n\n\nLOCATION \t\t\n\nTurkey\n\n\nQUALIFICATIONS\n\n• 2004 – 2009:State University of New York at Binghamton, Bachelor of Science Degree at Political Science\n• 2004 – 2009: Middle East Technical University, Faculty of Economics and Administrative Sciences, Global\nPolitics and International Affairs\n\n\nCAREER SUMMARY\n\nVehicle Repair & Maintenance Country Sales Manager TR \n(Jan 2021 – Present Day)\nDetails :\n• To manage Sales operations through Distributor & OES...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "finance": [
+      "Excel"
+    ],
+    "soft_skills": [
+      "Leadership"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 1,
+      "marketing": 1,
+      "manufacturing": 1,
+      "education": 1,
+      "sales": 1
+    },
+    "confidence": 0.14285714285714285
+  }
+}

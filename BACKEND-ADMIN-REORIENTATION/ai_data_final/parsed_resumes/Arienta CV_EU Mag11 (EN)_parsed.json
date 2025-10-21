@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "file_name": "Arienta CV_EU Mag11 (EN).pdf",
+    "file_size": 76233,
+    "processing_date": "2025-10-09T16:20:49.967906",
+    "text_length": 9711,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "claudioarienta@hotmail.com"
+    ],
+    "phones": [
+      "20060628",
+      "39 338 7151886",
+      "20060628",
+      "20060628",
+      "20060628"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Training session \nName and type of organisation \nproviding education and training Miller Heiman Ltd",
+    "Transfer of Technology",
+    "INFOSTRADA Company",
+    "Finmeccanica Company"
+  ],
+  "job_titles": [
+    "Analyst",
+    "Engineer",
+    "Consultant",
+    "Manager",
+    "Principal",
+    "specialist"
+  ],
+  "text_sample": "Page 1/4 - Curriculum vitae of  \nARIENTA CLAUDIO –  May 23 rd  , 2001 For more information on Europass go to http://europ ass.cedefop.europa.eu \n© European Communities, 2003    20060628 \n  \n    \nEuropass  \nCurriculum Vitae  \n \n  \n  \nPersonal information  \nSurname / First name Arienta Claudio \nAddress Via per Crenna, 16 – 21010 Cardano al Campo  (VA), Italy \nTelephone  Mobile: +39 338 7151886 \nE-mail claudioarienta@hotmail.com \n  \nNationality Italian \n  \nDate of birth January,30 th , 1974 \n  \nGen...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "project_management": [
+      "MS Project"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 2,
+      "marketing": 2,
+      "manufacturing": 2,
+      "education": 1,
+      "consulting": 2
+    },
+    "confidence": 0.2857142857142857
+  }
+}

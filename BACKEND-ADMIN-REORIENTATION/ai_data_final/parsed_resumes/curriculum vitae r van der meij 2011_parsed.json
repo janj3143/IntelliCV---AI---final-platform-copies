@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "file_name": "curriculum vitae r van der meij 2011.docx",
+    "file_size": 23121,
+    "processing_date": "2025-10-09T16:20:52.119802",
+    "text_length": 5014,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [],
+    "phones": [
+      "2007 2008",
+      "2004-2007",
+      "250-300",
+      "100-300",
+      "2002-2003",
+      "2000-2001",
+      "1987-2000"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Criterion Catalysts and Technology",
+    "Criterion into Shell Global Solutions",
+    "Shell Global Solutions",
+    "Founder KiOR Inc",
+    "Shell\n\nGeneral Manager Clean Fuels Technology"
+  ],
+  "job_titles": [
+    "Engineer",
+    "Director",
+    "Consultant",
+    "manager",
+    "Manager"
+  ],
+  "text_sample": "\nCurriculum Vitae\nRob van der Meij\n\n\nSummary\n\nExperienced international general/business/commercial manager. Strong business leadership with focus on customer/market orientation and  business/strategy/technology development and deployment . High capability to develop and sustain international relationships. Global experience base having worked abroad (USA) and globally (intensive travel) in multinational companies with international strategic customers  across the world  and joint ventures (Japa...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "soft_skills": [
+      "Leadership"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 2,
+      "finance": 2,
+      "marketing": 1,
+      "manufacturing": 1,
+      "education": 1,
+      "consulting": 3,
+      "sales": 1
+    },
+    "confidence": 0.5
+  }
+}

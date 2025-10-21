@@ -1,0 +1,681 @@
+{
+  "generated_at": "2025-08-11T10:59:37.477872",
+  "total_unique_skills": 83,
+  "total_skill_mentions": 4658,
+  "top_skills": [
+    {
+      "name": "Ai",
+      "count": 619
+    },
+    {
+      "name": "Hr",
+      "count": 392
+    },
+    {
+      "name": "Sales",
+      "count": 314
+    },
+    {
+      "name": "Training",
+      "count": 259
+    },
+    {
+      "name": "Communication",
+      "count": 211
+    },
+    {
+      "name": "Excel",
+      "count": 186
+    },
+    {
+      "name": "Marketing",
+      "count": 179
+    },
+    {
+      "name": "Business Development",
+      "count": 171
+    },
+    {
+      "name": "Leadership",
+      "count": 163
+    },
+    {
+      "name": "Presentation",
+      "count": 126
+    },
+    {
+      "name": "Manufacturing",
+      "count": 123
+    },
+    {
+      "name": "Compliance",
+      "count": 111
+    },
+    {
+      "name": "Project Management",
+      "count": 111
+    },
+    {
+      "name": "Negotiation",
+      "count": 97
+    },
+    {
+      "name": "Lean",
+      "count": 94
+    },
+    {
+      "name": "Contracts",
+      "count": 83
+    },
+    {
+      "name": "Recruitment",
+      "count": 77
+    },
+    {
+      "name": "Collaboration",
+      "count": 77
+    },
+    {
+      "name": "Innovation",
+      "count": 68
+    },
+    {
+      "name": "Analytical",
+      "count": 63
+    },
+    {
+      "name": "Audit",
+      "count": 63
+    },
+    {
+      "name": "Coaching",
+      "count": 56
+    },
+    {
+      "name": "Procurement",
+      "count": 55
+    },
+    {
+      "name": "Writing",
+      "count": 53
+    },
+    {
+      "name": "Sap",
+      "count": 53
+    },
+    {
+      "name": "React",
+      "count": 51
+    },
+    {
+      "name": "Legal",
+      "count": 50
+    },
+    {
+      "name": "Word",
+      "count": 50
+    },
+    {
+      "name": "Mentoring",
+      "count": 44
+    },
+    {
+      "name": "Problem Solving",
+      "count": 37
+    },
+    {
+      "name": "Forecasting",
+      "count": 35
+    },
+    {
+      "name": "Analytics",
+      "count": 34
+    },
+    {
+      "name": "Logistics",
+      "count": 30
+    },
+    {
+      "name": "Supply Chain",
+      "count": 30
+    },
+    {
+      "name": "Change Management",
+      "count": 28
+    },
+    {
+      "name": "Process Improvement",
+      "count": 28
+    },
+    {
+      "name": "Powerpoint",
+      "count": 26
+    },
+    {
+      "name": "Teamwork",
+      "count": 25
+    },
+    {
+      "name": "Strategic Planning",
+      "count": 23
+    },
+    {
+      "name": "Governance",
+      "count": 22
+    },
+    {
+      "name": "Salesforce",
+      "count": 21
+    },
+    {
+      "name": "Team Management",
+      "count": 20
+    },
+    {
+      "name": "Accounting",
+      "count": 19
+    },
+    {
+      "name": "Risk Management",
+      "count": 18
+    },
+    {
+      "name": "Quality Assurance",
+      "count": 18
+    },
+    {
+      "name": "Payroll",
+      "count": 18
+    },
+    {
+      "name": "Agile",
+      "count": 17
+    },
+    {
+      "name": "Quality Control",
+      "count": 16
+    },
+    {
+      "name": "Python",
+      "count": 14
+    },
+    {
+      "name": "Machine Learning",
+      "count": 13
+    }
+  ],
+  "top_skill_combinations": [
+    {
+      "skills": [
+        "Ai",
+        "Hr"
+      ],
+      "count": 385
+    },
+    {
+      "skills": [
+        "Ai",
+        "Sales"
+      ],
+      "count": 310
+    },
+    {
+      "skills": [
+        "Ai",
+        "Training"
+      ],
+      "count": 259
+    },
+    {
+      "skills": [
+        "Ai",
+        "Communication"
+      ],
+      "count": 210
+    },
+    {
+      "skills": [
+        "Hr",
+        "Sales"
+      ],
+      "count": 204
+    },
+    {
+      "skills": [
+        "Ai",
+        "Excel"
+      ],
+      "count": 184
+    },
+    {
+      "skills": [
+        "Hr",
+        "Training"
+      ],
+      "count": 184
+    },
+    {
+      "skills": [
+        "Ai",
+        "Marketing"
+      ],
+      "count": 178
+    },
+    {
+      "skills": [
+        "Ai",
+        "Business Development"
+      ],
+      "count": 169
+    },
+    {
+      "skills": [
+        "Ai",
+        "Leadership"
+      ],
+      "count": 161
+    },
+    {
+      "skills": [
+        "Marketing",
+        "Sales"
+      ],
+      "count": 156
+    },
+    {
+      "skills": [
+        "Sales",
+        "Training"
+      ],
+      "count": 149
+    },
+    {
+      "skills": [
+        "Communication",
+        "Hr"
+      ],
+      "count": 141
+    },
+    {
+      "skills": [
+        "Excel",
+        "Hr"
+      ],
+      "count": 138
+    },
+    {
+      "skills": [
+        "Business Development",
+        "Sales"
+      ],
+      "count": 134
+    },
+    {
+      "skills": [
+        "Ai",
+        "Presentation"
+      ],
+      "count": 125
+    },
+    {
+      "skills": [
+        "Communication",
+        "Sales"
+      ],
+      "count": 124
+    },
+    {
+      "skills": [
+        "Hr",
+        "Leadership"
+      ],
+      "count": 123
+    },
+    {
+      "skills": [
+        "Ai",
+        "Manufacturing"
+      ],
+      "count": 119
+    },
+    {
+      "skills": [
+        "Hr",
+        "Marketing"
+      ],
+      "count": 114
+    }
+  ],
+  "skills_by_experience": {
+    "mid": [
+      [
+        "Ai",
+        56
+      ],
+      [
+        "Hr",
+        40
+      ],
+      [
+        "Sales",
+        28
+      ],
+      [
+        "Training",
+        26
+      ],
+      [
+        "Excel",
+        25
+      ],
+      [
+        "Communication",
+        21
+      ],
+      [
+        "Leadership",
+        19
+      ],
+      [
+        "Compliance",
+        18
+      ],
+      [
+        "Business Development",
+        17
+      ],
+      [
+        "Marketing",
+        17
+      ],
+      [
+        "Recruitment",
+        15
+      ],
+      [
+        "Legal",
+        14
+      ],
+      [
+        "Negotiation",
+        11
+      ],
+      [
+        "Contracts",
+        10
+      ],
+      [
+        "Collaboration",
+        10
+      ],
+      [
+        "Project Management",
+        9
+      ],
+      [
+        "Presentation",
+        8
+      ],
+      [
+        "Innovation",
+        7
+      ],
+      [
+        "Coaching",
+        7
+      ],
+      [
+        "Governance",
+        7
+      ]
+    ],
+    "entry": [
+      [
+        "Ai",
+        282
+      ],
+      [
+        "Hr",
+        165
+      ],
+      [
+        "Sales",
+        122
+      ],
+      [
+        "Training",
+        102
+      ],
+      [
+        "Communication",
+        82
+      ],
+      [
+        "Marketing",
+        72
+      ],
+      [
+        "Business Development",
+        68
+      ],
+      [
+        "Excel",
+        66
+      ],
+      [
+        "Leadership",
+        64
+      ],
+      [
+        "Manufacturing",
+        53
+      ],
+      [
+        "Compliance",
+        51
+      ],
+      [
+        "Presentation",
+        48
+      ],
+      [
+        "Project Management",
+        41
+      ],
+      [
+        "Lean",
+        40
+      ],
+      [
+        "Innovation",
+        35
+      ],
+      [
+        "Recruitment",
+        34
+      ],
+      [
+        "Contracts",
+        33
+      ],
+      [
+        "Collaboration",
+        31
+      ],
+      [
+        "Negotiation",
+        29
+      ],
+      [
+        "Audit",
+        28
+      ]
+    ],
+    "senior": [
+      [
+        "Ai",
+        281
+      ],
+      [
+        "Hr",
+        187
+      ],
+      [
+        "Sales",
+        164
+      ],
+      [
+        "Training",
+        131
+      ],
+      [
+        "Communication",
+        108
+      ],
+      [
+        "Excel",
+        95
+      ],
+      [
+        "Marketing",
+        90
+      ],
+      [
+        "Business Development",
+        86
+      ],
+      [
+        "Leadership",
+        80
+      ],
+      [
+        "Presentation",
+        70
+      ],
+      [
+        "Manufacturing",
+        64
+      ],
+      [
+        "Project Management",
+        61
+      ],
+      [
+        "Negotiation",
+        57
+      ],
+      [
+        "Lean",
+        52
+      ],
+      [
+        "Compliance",
+        42
+      ],
+      [
+        "Contracts",
+        40
+      ],
+      [
+        "Collaboration",
+        36
+      ],
+      [
+        "Analytical",
+        35
+      ],
+      [
+        "Writing",
+        33
+      ],
+      [
+        "Coaching",
+        32
+      ]
+    ]
+  },
+  "skills_by_industry": {
+    "general": [
+      [
+        "Ai",
+        619
+      ],
+      [
+        "Hr",
+        392
+      ],
+      [
+        "Sales",
+        314
+      ],
+      [
+        "Training",
+        259
+      ],
+      [
+        "Communication",
+        211
+      ],
+      [
+        "Excel",
+        186
+      ],
+      [
+        "Marketing",
+        179
+      ],
+      [
+        "Business Development",
+        171
+      ],
+      [
+        "Leadership",
+        163
+      ],
+      [
+        "Presentation",
+        126
+      ],
+      [
+        "Manufacturing",
+        123
+      ],
+      [
+        "Compliance",
+        111
+      ],
+      [
+        "Project Management",
+        111
+      ],
+      [
+        "Negotiation",
+        97
+      ],
+      [
+        "Lean",
+        94
+      ],
+      [
+        "Contracts",
+        83
+      ],
+      [
+        "Recruitment",
+        77
+      ],
+      [
+        "Collaboration",
+        77
+      ],
+      [
+        "Innovation",
+        68
+      ],
+      [
+        "Analytical",
+        63
+      ]
+    ]
+  }
+}

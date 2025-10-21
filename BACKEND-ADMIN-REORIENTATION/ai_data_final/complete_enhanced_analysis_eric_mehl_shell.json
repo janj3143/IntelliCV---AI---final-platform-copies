@@ -1,0 +1,460 @@
+{
+  "web_company_intelligence": {
+    "EGON ZEHNDER": {
+      "headquarters": "Switzerland/Global",
+      "ai_research_confidence": "98%",
+      "relevance_to_shell": "HIGH - Executive network access",
+      "sector": "Professional Services",
+      "revenue": "€500M+",
+      "employees": "1000+",
+      "web_presence": "egonzehnder.com",
+      "market_position": "Top-tier global firm",
+      "industry": "Executive Search & Leadership Consulting",
+      "specialization": "C-suite recruitment, board advisory"
+    },
+    "RESATO INTERNATIONAL": {
+      "headquarters": "Netherlands",
+      "ai_research_confidence": "95%",
+      "relevance_to_shell": "HIGH - Hydrogen infrastructure partner",
+      "sector": "Industrial Manufacturing",
+      "revenue": "€50-100M",
+      "employees": "100-500",
+      "web_presence": "resato.com",
+      "market_position": "Leading specialist",
+      "industry": "High-Pressure Systems & Testing Equipment",
+      "specialization": "Hydrogen, CNG, LNG systems"
+    },
+    "COMPRESSOR CONTROLS": {
+      "headquarters": "TBD",
+      "ai_research_confidence": "20%",
+      "relevance_to_shell": "TBD",
+      "sector": "Unknown",
+      "revenue": "Research needed",
+      "employees": "Research needed",
+      "web_presence": "To be researched",
+      "market_position": "Unknown",
+      "industry": "Research Required",
+      "specialization": "Requires web research"
+    },
+    "GE POWER CONVERSION": {
+      "headquarters": "Germany/Global",
+      "ai_research_confidence": "99%",
+      "relevance_to_shell": "VERY HIGH - Renewable energy systems",
+      "sector": "Energy Technology",
+      "revenue": "+",
+      "employees": "5000+",
+      "web_presence": "gepowerconversion.com",
+      "market_position": "Global market leader",
+      "industry": "Power Electronics & Energy Solutions",
+      "specialization": "Power conversion, renewable energy"
+    },
+    "FJORDS PROCESSING": {
+      "headquarters": "Norway",
+      "ai_research_confidence": "88%",
+      "relevance_to_shell": "MEDIUM - Energy sector experience",
+      "sector": "Energy",
+      "revenue": "€20-50M",
+      "employees": "50-200",
+      "web_presence": "fjordsprocessing.no",
+      "market_position": "Nordic specialist",
+      "industry": "Oil & Gas Processing",
+      "specialization": "Offshore processing, subsea systems"
+    },
+    "ENGETEC": {
+      "headquarters": "TBD",
+      "ai_research_confidence": "20%",
+      "relevance_to_shell": "TBD",
+      "sector": "Unknown",
+      "revenue": "Research needed",
+      "employees": "Research needed",
+      "web_presence": "To be researched",
+      "market_position": "Unknown",
+      "industry": "Research Required",
+      "specialization": "Requires web research"
+    }
+  },
+  "business_intelligence": {
+    "market_positioning": "Eric is a strong candidate for Shell's hydrogen initiative",
+    "competitive_advantage": "Unique combination of hydrogen technology + energy sector + executive network",
+    "expected_salary_negotiation": "£90K-£110K base + 20-30% bonus potential",
+    "client_value_proposition": "Ready-to-deploy energy transition executive with proven hydrogen experience",
+    "placement_confidence": "High (85%)"
+  },
+  "metadata": {
+    "target_candidate": "Eric Mehl",
+    "target_job": "Shell Hydrogen Business Development Manager - Scotland",
+    "pipeline_version": "v3.0_web_intelligence_enhanced",
+    "execution_timestamp": "2025-08-11_16-09-16",
+    "new_features": [
+      "web_company_intelligence",
+      "user_touchpoints",
+      "job_profile_matching"
+    ]
+  },
+  "target_job_profile": {
+    "salary_range": "£80K-£120K + bonus + benefits",
+    "seniority": "Senior Management",
+    "required_skills": [
+      "business development",
+      "B2B sales",
+      "partnership development",
+      "deal origination",
+      "hydrogen technology",
+      "energy transition",
+      "industrial decarbonization",
+      "project management",
+      "stakeholder engagement",
+      "commercial negotiation",
+      "JV structures",
+      "policy influence"
+    ],
+    "preferred_skills": [
+      "LNG experience",
+      "pipeline gas",
+      "power markets",
+      "CO2 trading",
+      "renewable energy",
+      "market development",
+      "technical understanding"
+    ],
+    "position": "Business Development Manager - Hydrogen Industry Scotland",
+    "company_context": {
+      "geography": "Netherlands, Germany, UK, US, China expansion",
+      "market_position": "First mover in clean hydrogen industrial market",
+      "investment": "Major commitment to hydrogen value chain",
+      "strategy": "Leading energy transition with hydrogen focus"
+    },
+    "qualifications": [
+      "Bachelor's/Master's in Economics, Business, Finance, Engineering",
+      "Extensive commercial B2B experience",
+      "Energy sector background"
+    ],
+    "company": "Shell",
+    "key_responsibilities": [
+      "develop clean hydrogen opportunities",
+      "engage industrial customers",
+      "setup partnerships and JVs",
+      "lead opportunity realization",
+      "represent Shell in industry bodies",
+      "influence policy makers"
+    ],
+    "location": "Scotland, UK",
+    "department": "Shell Hydrogen - Renewables & Energy Solutions"
+  },
+  "candidate_profile": {
+    "enhanced_ai_analysis": {
+      "locations": [
+        "Paris, France",
+        "Houston, USA",
+        "Rio de Janeiro, Brazil",
+        "Monaco",
+        "Europe",
+        "Latin America",
+        "Middle East",
+        "Asia",
+        "North America"
+      ],
+      "enhancement_factors": [
+        "post_roger_training",
+        "pattern_recognition_improved",
+        "executive_detection_enhanced"
+      ],
+      "ai_confidence": "92%",
+      "international_experience": true,
+      "leadership_score": 5,
+      "skills": [
+        "leadership",
+        "management",
+        "strategy",
+        "operations",
+        "P&L",
+        "EBITDA",
+        "revenue",
+        "growth",
+        "transformation",
+        "engineering",
+        "technical",
+        "project management",
+        "business development",
+        "sales",
+        "marketing",
+        "international",
+        "global",
+        "multicultural",
+        "turnaround",
+        "restructuring"
+      ],
+      "experience_years": 31.0,
+      "companies": [
+        "RESATO INTERNATIONAL",
+        "FJORDS PROCESSING",
+        "EGON ZEHNDER",
+        "GE POWER CONVERSION",
+        "COMPRESSOR CONTROLS",
+        "ENGETEC"
+      ]
+    },
+    "network_analysis": {
+      "database_size": "1,275,000 emails",
+      "connections": [
+        {
+          "connection_strength": "Direct",
+          "email": "e.mehl@resato.com",
+          "company": "RESATO INTERNATIONAL"
+        },
+        {
+          "connection_strength": "High",
+          "email": "eric@fjordsprocessing.no",
+          "company": "FJORDS PROCESSING"
+        },
+        {
+          "connection_strength": "Medium",
+          "email": "mehl.eric@ge.com",
+          "company": "GE POWER CONVERSION"
+        }
+      ],
+      "match_quality": "Enhanced"
+    },
+    "metadata": {
+      "target_candidate": "Eric Mehl",
+      "ai_training_applied": true,
+      "pipeline_version": "v2.1_ai_learning_enhanced",
+      "execution_timestamp": "2025-08-11_15-43-25",
+      "training_candidate": "Roger Ingemey"
+    },
+    "user_registration": {
+      "registration_date": "2025-08-11 15:43:25",
+      "ai_version": "v2.1_post_roger_training",
+      "role": "candidate_with_ai_learning",
+      "status": "new_user_enhanced_ai",
+      "candidate_name": "Eric Mehl",
+      "user_id": "user_8263"
+    },
+    "ai_learning_metrics": {
+      "execution_timestamp": "2025-08-11_15-43-25",
+      "pipeline_version": "v2.1_learning_enhanced",
+      "candidates_processed": [
+        {
+          "phase": "training",
+          "name": "Roger Ingemey",
+          "skills_learned": 0,
+          "patterns_identified": [
+            "executive_language",
+            "strategic_thinking",
+            "global_perspective"
+          ]
+        }
+      ],
+      "ai_improvements": [
+        "company_database_enhanced_from_roger"
+      ],
+      "learning_phase": "dual_candidate_training"
+    },
+    "market_intelligence": {
+      "confidence_improvement": "10% increase from Roger training",
+      "market_positioning": "Global Executive Transformation Leader",
+      "ai_enhancement_applied": true,
+      "salary_band": "-",
+      "seniority_level": "C-Suite Executive",
+      "competitive_advantage": "International P&L Management + Technical Engineering Background"
+    },
+    "learning_comparison": {
+      "improvements": {
+        "salary_adjustment": "150% salary band increase",
+        "positioning_upgrade": "Management → C-Suite Executive",
+        "confidence_boost": "10% confidence increase",
+        "skills_improvement": "2 additional skills identified"
+      },
+      "enhanced_eric_analysis": {
+        "salary_estimate": "-",
+        "seniority_level": "C-Suite Executive",
+        "ai_confidence": "92%",
+        "skills_count": 20
+      },
+      "original_eric_analysis": {
+        "salary_estimate": "-",
+        "seniority_level": "Management",
+        "ai_confidence": "82%",
+        "skills_count": 18
+      }
+    }
+  },
+  "compatibility_analysis": {
+    "overall_compatibility": 26.6,
+    "experience_match": {
+      "shell_relevant_experience": [
+        {
+          "relevance": "HIGH - Hydrogen infrastructure partner",
+          "reason": "Hydrogen, CNG, LNG systems",
+          "score": 1,
+          "company": "RESATO INTERNATIONAL"
+        },
+        {
+          "relevance": "MEDIUM - Energy sector experience",
+          "reason": "Offshore processing, subsea systems",
+          "score": 1,
+          "company": "FJORDS PROCESSING"
+        },
+        {
+          "relevance": "HIGH - Executive network access",
+          "reason": "C-suite recruitment, board advisory",
+          "score": 1,
+          "company": "EGON ZEHNDER"
+        },
+        {
+          "relevance": "VERY HIGH - Renewable energy systems",
+          "reason": "Power conversion, renewable energy",
+          "score": 1,
+          "company": "GE POWER CONVERSION"
+        },
+        {
+          "relevance": "TBD",
+          "reason": "Requires web research",
+          "score": 1,
+          "company": "COMPRESSOR CONTROLS"
+        },
+        {
+          "relevance": "TBD",
+          "reason": "Requires web research",
+          "score": 1,
+          "company": "ENGETEC"
+        }
+      ],
+      "international_experience_score": 0,
+      "energy_sector_score": 2,
+      "technical_background_score": 0,
+      "eric_companies": [
+        "RESATO INTERNATIONAL",
+        "FJORDS PROCESSING",
+        "EGON ZEHNDER",
+        "GE POWER CONVERSION",
+        "COMPRESSOR CONTROLS",
+        "ENGETEC"
+      ]
+    },
+    "skills_match": {
+      "shell_preferred": [
+        "LNG experience",
+        "pipeline gas",
+        "power markets",
+        "CO2 trading",
+        "renewable energy",
+        "market development",
+        "technical understanding"
+      ],
+      "direct_matches": [
+        {
+          "shell_requirement": "project management",
+          "eric_skill": "management",
+          "match_strength": "Direct"
+        },
+        {
+          "shell_requirement": "project management",
+          "eric_skill": "project management",
+          "match_strength": "Direct"
+        },
+        {
+          "shell_requirement": "business development",
+          "eric_skill": "business development",
+          "match_strength": "Direct"
+        },
+        {
+          "shell_requirement": "B2B sales",
+          "eric_skill": "sales",
+          "match_strength": "Direct"
+        }
+      ],
+      "transferable_matches": [],
+      "skill_gaps": [
+        "B2B sales",
+        "partnership development",
+        "deal origination",
+        "hydrogen technology",
+        "energy transition",
+        "industrial decarbonization",
+        "stakeholder engagement",
+        "commercial negotiation",
+        "JV structures",
+        "policy influence"
+      ],
+      "eric_skills": [
+        "leadership",
+        "management",
+        "strategy",
+        "operations",
+        "P&L",
+        "EBITDA",
+        "revenue",
+        "growth",
+        "transformation",
+        "engineering",
+        "technical",
+        "project management",
+        "business development",
+        "sales",
+        "marketing",
+        "international",
+        "global",
+        "multicultural",
+        "turnaround",
+        "restructuring"
+      ],
+      "shell_required": [
+        "business development",
+        "B2B sales",
+        "partnership development",
+        "deal origination",
+        "hydrogen technology",
+        "energy transition",
+        "industrial decarbonization",
+        "project management",
+        "stakeholder engagement",
+        "commercial negotiation",
+        "JV structures",
+        "policy influence"
+      ]
+    }
+  },
+  "user_touchpoints": {
+    "engagement_metrics": {
+      "network_connections": 3,
+      "profile_strength": "Advanced (92% AI confidence)",
+      "company_intelligence": "Enhanced with web research",
+      "job_compatibility_score": 26.6
+    },
+    "candidate_journey": {
+      "ai_enhancement": "Applied",
+      "profile_completion": "Complete",
+      "registration": "2025-08-11 15:43:25",
+      "job_matching_initiated": "2025-08-11 16:09:16"
+    },
+    "recruiter_notes": {
+      "interview_preparation": [
+        "Shell's hydrogen strategy deep-dive",
+        "Scotland decarbonization landscape",
+        "Industrial customer engagement scenarios",
+        "Partnership development case studies"
+      ],
+      "development_areas": [
+        "Hydrogen-specific market knowledge",
+        "Scottish industrial landscape",
+        "Policy and regulatory framework",
+        "JV and consortium structures"
+      ],
+      "strengths": [
+        "Strong energy sector background (GE Power Conversion)",
+        "Hydrogen technology experience (Resato International)",
+        "Executive search network (Egon Zehnder)",
+        "International P&L management experience",
+        "Technical + commercial combination"
+      ]
+    },
+    "next_steps": [
+      "Schedule Shell interview preparation",
+      "Provide hydrogen industry briefing",
+      "Connect with Shell recruitment team",
+      "Prepare case study on energy transition",
+      "Review Scotland market opportunities"
+    ]
+  }
+}

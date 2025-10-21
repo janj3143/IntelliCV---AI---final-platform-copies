@@ -1,0 +1,95 @@
+# Large files and directories
+Microsoft VS Code/
+my-project/
+Docker Desktop Installer.exe
+*.exe
+*.dll
+*.bin
+*.asar
+*.pak
+*.wasm
+*.mp3
+*.woff
+*.woff2
+*.ico
+*.ttf
+*.whl
+
+# Large directories
+chromedriver/
+temp_python/
+torch*/
+tools_final/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+env310/
+.env
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs - exclude from root but allow IntelliCV logs
+/*.log
+/logs/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Node modules (if any)
+node_modules/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Large data files - exclude from root but allow IntelliCV data
+/*.csv
+*.json.backup
+*.json.bak
+
+# Backup directories
+*_backup/
+backup_*/
+*_backup_*/
+
+# Tool directories
+utils/tools/antiword/
+utils/tools/poppler*/
+
+# Development artifacts
+.pytest_cache/
+.coverage
+.tox/
+
+# Large Python packages and wheels
+pip-*/
+get-pip.py
+python*.exe
+python*.dll
+pythonw.exe
+vcruntime*.dll

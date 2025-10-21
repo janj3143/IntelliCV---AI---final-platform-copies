@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "file_name": "Sergio Sironi Resume English.pdf",
+    "file_size": 72485,
+    "processing_date": "2025-10-09T16:21:08.848196",
+    "text_length": 9384,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "sergio_sironi@virgilio.it"
+    ],
+    "phones": [
+      "39 011 2274 728",
+      "39 346 6297 018"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Wind Rive r and \nIntegrated Systems",
+    "Integrated Systems",
+    "E mbedded \nSoftware  and Services",
+    "Overachieving the business goals by selling Technol ogy \nand Services",
+    "PLC Software Engineer \nSoftware engineer by Company",
+    "Discovering and developing customers needs and \ndemand and building up value based solutions with t he \ncombination of Technology",
+    "Integrated Systems Inc",
+    "Senior Account Manager  \nI was hired from Integrated Systems"
+  ],
+  "job_titles": [
+    "developer",
+    "Senior",
+    "Engineer",
+    "Director",
+    "manager",
+    "Manager",
+    "engineer"
+  ],
+  "text_sample": "Sergio Sironi   \nCurriculum Vitæ  \n \nPERSONAL DATA \nPlace and Date of Birth \nAddress \nOffice phone \nMobile phone \nCivil Status   \nEmail Monza (MI) - April 12 th , 1967 \nVia Bellini, 13 Lissone (MI) Italy \n+39 011 2274 728  \n+39 346 6297 018 \nSingle  \nsergio_sironi@virgilio.it  \nEDUCATION & MAIN TRAININGS \nUniversity  \n \nHigh School I attended  “Scienze Politiche” at Universita’ Statale Milano  \n \nPerito Industriale Elettrico ed Elettronico (Electr onic Degree) \n  \nPersonal contacts & \ncommunicat...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "web_development": [
+      "CSS"
+    ],
+    "databases": [
+      "Oracle"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "healthcare",
+    "industry_scores": {
+      "technology": 1,
+      "healthcare": 2,
+      "marketing": 1,
+      "education": 1,
+      "consulting": 1,
+      "sales": 2
+    },
+    "confidence": 0.3333333333333333
+  }
+}

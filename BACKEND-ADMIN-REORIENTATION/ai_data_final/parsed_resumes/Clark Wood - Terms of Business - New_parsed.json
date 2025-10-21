@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "file_name": "Clark Wood - Terms of Business - New.pdf",
+    "file_size": 163490,
+    "processing_date": "2025-10-09T16:20:50.596820",
+    "text_length": 12387,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [],
+    "phones": [
+      "1173 291",
+      "1173 291",
+      "1173 291",
+      "1173 291"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Clark Wood Limited",
+    "Applicant  Clark Wood Limited",
+    "Applicant  who  have \nagreed that the references they provide may be disclosed  to Clark Wood Limited"
+  ],
+  "job_titles": [],
+  "text_sample": "Clark Wood Limited, 33 Colston Ave, Bristol, BS1  4UA  \n+44 (0) 1173 291  051 \ninfo@clark -wood.co.uk   \nTERMS AND CONDITIONS FOR PERMANENT STAFF  \n \n1 DEFINITIONS  \n \n1.1 In these Terms of Business the following definitions  apply:  \n \n“Applicant” means the person introduced by the Agency to the Client for an Engagement including any \nofficer or employee of the Applicant if the Applicant is a limited company and members of the Agency’s \nown staff;  \n \n“Client” means the person; firm or corpor a...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "healthcare",
+    "industry_scores": {
+      "healthcare": 1,
+      "finance": 1,
+      "education": 1,
+      "consulting": 1
+    },
+    "confidence": 0.16666666666666666
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "file_name": "Curriculum vitae April  2011 - English[2].pdf",
+    "file_size": 124625,
+    "processing_date": "2025-10-09T16:20:51.403455",
+    "text_length": 7335,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [],
+    "phones": [
+      "08231871808",
+      "3346737439"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Surface Mounting \nTechnology",
+    "Manufacturing activities have focus on \nelectronic board production in the Electronic Manufacturing Services",
+    "Electronics Manufacturing Services  \nMultinational  Company",
+    "Electronics Manufacturing Services",
+    "Information Technology",
+    "Electronics Manufacturing \nServices",
+    "Olivetti Company",
+    "Consultant Company",
+    "Electronic Manufacturing Services"
+  ],
+  "job_titles": [
+    "Manager",
+    "Consultant",
+    "manager"
+  ],
+  "text_sample": "Novemb er  2010                                                     1/3 1   CLEMENTE   CILLO  \n \nPersonal  details  \n Marital Status : married  \nNationality : Italian  \nDate of birth : 10th October 1958  \nPlace of birth : Mugnano di Napoli (NA)   Italy  \nHome address : road Alessandro Manzoni, 54   81020 San Nicola la Strada (CE)  Italia \n \nEducation  1978 – 1984    Napl es University “  Federico 2nd ”  ITALY  \nDegree in  Electrical Engineering  \nFinal mark : 110/110  with distinction  \n1984    ...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "project_management": [
+      "Kanban"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "finance": [
+      "Excel",
+      "SAP"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "manufacturing",
+    "industry_scores": {
+      "technology": 2,
+      "manufacturing": 4
+    },
+    "confidence": 0.6666666666666666
+  }
+}

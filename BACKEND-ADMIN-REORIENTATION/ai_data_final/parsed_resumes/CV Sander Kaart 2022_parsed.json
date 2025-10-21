@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "file_name": "CV Sander Kaart 2022.pdf",
+    "file_size": 193276,
+    "processing_date": "2025-10-09T16:20:54.905906",
+    "text_length": 15890,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [],
+    "phones": [
+      "050178",
+      "237-246",
+      "185-194",
+      "188-197"
+    ],
+    "names": [
+      "Sander"
+    ],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Focal  point  for technical  services  provided  by \nShell Global  Solutions",
+    "Delft  University  of Technology",
+    "Department  of applied  Catalysis  and Hydrogen  \nTechnology",
+    "Process  Technology",
+    "Seconded  to Shell  Global  \nSolutions",
+    "Schouten  \nfrom  the department  of Chemical  Reactor  Engineering  of the Delft  \nUniversity  of Technology",
+    "Shell  Global  \nSolutions",
+    "Chief  Technologist  Yamal  LNG  \n \nManager  of Technical  Services"
+  ],
+  "job_titles": [
+    "developer",
+    "Engineer",
+    "Chief",
+    "Manager",
+    "Lead"
+  ],
+  "text_sample": "P a g e  | 1 \n \n Curriculum  Vitae  \n \nPersonal  details  \nName:   Sander  Kaart  \nTitles:   dr. ir. \nDate  of birth:   17th of January  1972  in Haarlem  \nMarital  Status:   Married,  1 child  \nNationality:   Dutch  \n \nSummary  \n \nProcess  Expert  driven  by optimization  of production  assets  with a pragmatic,  systematic  and \nfundamental  approach  to problem  solving  and with a proven  track  record  in design,  start-up and \nstabilization  of mega  LNG  projects . \n \nLikes  open communic...",
+  "skills_detected": {
+    "programming": [
+      "Python",
+      "Go"
+    ],
+    "web_development": [
+      "React"
+    ],
+    "finance": [
+      "Compliance"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "education",
+    "industry_scores": {
+      "technology": 2,
+      "healthcare": 1,
+      "finance": 1,
+      "manufacturing": 2,
+      "education": 4,
+      "consulting": 2
+    },
+    "confidence": 0.6666666666666666
+  }
+}

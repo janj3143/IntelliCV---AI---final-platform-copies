@@ -1,0 +1,73 @@
+{
+  "near_not_logic": {
+    "description": "AI Word Cloud Proximity and Exclusion Rules",
+    "version": "1.0.0", 
+    "last_updated": "2025-10-10",
+    "proximity_rules": {
+      "near_operators": {
+        "NEAR/3": {
+          "description": "Words within 3 positions of each other",
+          "examples": [
+            {"query": "project NEAR/3 management", "matches": ["project management", "management of projects"]},
+            {"query": "data NEAR/3 analysis", "matches": ["data analysis", "analysis of data"]}
+          ]
+        },
+        "NEAR/5": {
+          "description": "Words within 5 positions of each other", 
+          "examples": [
+            {"query": "machine NEAR/5 learning", "matches": ["machine learning algorithms", "advanced machine learning"]},
+            {"query": "software NEAR/5 development", "matches": ["software development lifecycle", "agile software development"]}
+          ]
+        }
+      },
+      "contextual_proximity": {
+        "skill_context": {
+          "positive_indicators": ["experience", "proficient", "expert", "skilled", "knowledge"],
+          "negative_indicators": ["learning", "beginner", "basic", "limited"],
+          "enhancement_words": ["advanced", "senior", "lead", "principal", "expert"]
+        },
+        "job_context": {
+          "responsibility_words": ["responsible", "manage", "lead", "oversee", "coordinate"],
+          "achievement_words": ["achieved", "delivered", "improved", "optimized", "increased"],
+          "collaboration_words": ["collaborate", "work with", "partner", "coordinate with"]
+        }
+      }
+    },
+    "exclusion_rules": {
+      "not_operators": {
+        "skill_exclusions": {
+          "programming NOT basic": "Exclude basic programming skills",
+          "management NOT micro": "Exclude micromanagement references", 
+          "development NOT personal": "Exclude personal development (focus on software)"
+        },
+        "context_exclusions": {
+          "experience NOT seeking": "Exclude 'seeking experience' phrases",
+          "knowledge NOT limited": "Exclude 'limited knowledge' phrases",
+          "skills NOT developing": "Exclude 'developing skills' (focus on existing skills)"
+        }
+      },
+      "negative_context_filters": [
+        "no experience",
+        "entry level",
+        "intern",
+        "student", 
+        "coursework",
+        "academic project"
+      ]
+    },
+    "weighting_logic": {
+      "proximity_weights": {
+        "exact_match": 1.0,
+        "near_3": 0.8,
+        "near_5": 0.6,
+        "near_10": 0.4
+      },
+      "context_weights": {
+        "positive_context": 1.2,
+        "neutral_context": 1.0,
+        "negative_context": 0.3,
+        "excluded_context": 0.0
+      }
+    }
+  }
+}

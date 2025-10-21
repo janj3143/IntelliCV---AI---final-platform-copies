@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "file_name": "Unsal Ustunsoy CV.pdf",
+    "file_size": 72680,
+    "processing_date": "2025-10-09T16:21:10.748643",
+    "text_length": 9872,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "unsalustunsoy@gmail.com"
+    ],
+    "phones": [
+      "90 5058475238"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Emikon Automatic Control Systems",
+    "Institute of Technology",
+    "GE Grid Solutions"
+  ],
+  "job_titles": [
+    "Engineer",
+    "manager",
+    "Specialist",
+    "Manager",
+    "engineer"
+  ],
+  "text_sample": "   \nContact\n+90 5058475238  (Mobile)\nunsalustunsoy@gmail.com\nwww.linkedin.com/in/unsal-\nustunsoy-b127a11a  (LinkedIn)\nTop Skills\nBusiness-to-Business (B2B)\nStrategic Thinking\nCommercial Planning\nLanguages\nEnglish  (Full Professional)\nGerman  (Limited Working)\nTurkish  (Native or Bilingual)Unsal USTUNSOY\nCommercially minded individual, focus on revenue generation and\nprofit maximization\nTürkiye\nSummary\nEager to learn\nFocused on achieving results\nProblem solving orientation\nQuick decision making i...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "soft_skills": [
+      "Problem Solving"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "finance",
+    "industry_scores": {
+      "technology": 1,
+      "finance": 2,
+      "manufacturing": 2,
+      "consulting": 1,
+      "sales": 1
+    },
+    "confidence": 0.2857142857142857
+  }
+}

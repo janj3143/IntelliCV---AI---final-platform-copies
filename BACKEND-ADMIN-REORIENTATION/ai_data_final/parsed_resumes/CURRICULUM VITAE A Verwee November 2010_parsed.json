@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "file_name": "CURRICULUM VITAE A Verwee November 2010.pdf",
+    "file_size": 48901,
+    "processing_date": "2025-10-09T16:20:51.313605",
+    "text_length": 6030,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "arsene.verwee@gmail.com"
+    ],
+    "phones": [
+      "6 535 593",
+      "31 70 352 2486"
+    ],
+    "names": [
+      "Ars"
+    ],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Rotating Equipment Control and Process Control  Systems and Services",
+    "Compressor Controls Corporation",
+    "Rotating Equipment Control Systems",
+    "The  current focus area is Gas Turbine \nControl Systems",
+    "Gas Turbine Technology",
+    "Strategic selling by Miller Heiman Inc"
+  ],
+  "job_titles": [
+    "Engineer",
+    "manager",
+    "Manager",
+    "senior",
+    "engineer"
+  ],
+  "text_sample": " 1CURRICULUM VITAE \n \n \nName:  Arsène A. J. M. Verwee \n \nDate of Birth:  June 22, 1967 \n \nPlace of birth:  Dendermonde, Belgium \n \nNationality:  Belgian \n \nContact:  arsene.verwee@gmail.com   \n+31 6 535 593 98 (Cell) \n+31 70 352 2486 (Home) \n   \nEducation \n \nSecondary education in electrical and electronics eng ineering (6 years); \nAdvanced education in electronics engineering (3 ye ars). Both studies were \ncompleted with an examination. The final level is the  equivalent of a bachelor’s \ndegree...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "web_development": [
+      "React"
+    ],
+    "finance": [
+      "Excel",
+      "Risk Management"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 2,
+      "finance": 1,
+      "manufacturing": 1,
+      "education": 2,
+      "consulting": 1,
+      "sales": 1
+    },
+    "confidence": 0.2857142857142857
+  }
+}

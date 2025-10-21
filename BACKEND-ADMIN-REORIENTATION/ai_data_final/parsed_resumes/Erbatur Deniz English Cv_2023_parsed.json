@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "file_name": "Erbatur Deniz English Cv_2023.pdf",
+    "file_size": 187432,
+    "processing_date": "2025-10-09T16:21:00.826655",
+    "text_length": 6335,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [],
+    "phones": [
+      "9053 27661007"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [],
+  "job_titles": [
+    "Manager",
+    "Lead",
+    "Senior",
+    "manager"
+  ],
+  "text_sample": " \n  ERBATUR DENİZ  \n \nGender : Male  \nBirth : 31.03.19 86 \nNationality  : Turkish  \nDriving License : B \nMob: +9053 27661007  \nMail: erbaturdeniz@ hotmail.com   \n \nAdress:  Mimoza  Sokak. Ana \nApartmanı Kat 2 Daire 6 \nBostan cı/Kadıköy İSTANBUL  \n \n                \nCAREER GOAL   \n \nTo be assigned for stra tegic &decision maker management positions in sales and marketing industry  \n \nAs a result of bein g well rounded , I am an effective communicator , quick learner and problem solver , accustom ...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "finance": [
+      "Excel",
+      "SAP"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 1,
+      "manufacturing": 1
+    },
+    "confidence": 0.14285714285714285
+  }
+}

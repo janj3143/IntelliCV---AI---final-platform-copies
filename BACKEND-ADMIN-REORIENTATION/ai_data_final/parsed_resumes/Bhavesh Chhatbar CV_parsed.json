@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "file_name": "Bhavesh Chhatbar CV.pdf",
+    "file_size": 184689,
+    "processing_date": "2025-10-09T16:20:50.326875",
+    "text_length": 8809,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "bhavesh.chhatbar@gmail.com",
+      "bhavesh.chhatbar@gmail.com",
+      "bhavesh.chhatbar@gmail.com"
+    ],
+    "phones": [
+      "971-561712676",
+      "971-561712676",
+      "971-561712676",
+      "2011-2012",
+      "2008-2011",
+      "2005-2008"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Missan Oil Company and South Oil Company",
+    "Rental & Services",
+    "Drilling Services",
+    "Institute of Technology"
+  ],
+  "job_titles": [
+    "Junior",
+    "Manager",
+    "Senior",
+    "Engineer"
+  ],
+  "text_sample": "                                                                          Bhavesh B Chhatbar    EMAIL: bhavesh.chhatbar@gmail.com                                                                                                                                                                                                          CONTACT NO:   +971-561712676       Total                                   : 18 Years of experience in the Energy Sector Industries                          : 13 Years i...",
+  "skills_detected": {},
+  "industry_analysis": {
+    "primary_industry": "finance",
+    "industry_scores": {
+      "technology": 1,
+      "finance": 3,
+      "manufacturing": 3,
+      "education": 1,
+      "consulting": 3,
+      "sales": 2
+    },
+    "confidence": 0.42857142857142855
+  }
+}

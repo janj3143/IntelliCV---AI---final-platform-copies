@@ -1,0 +1,24 @@
+{
+  "manager_running": true,
+  "last_updated": "2025-10-04T16:09:54.744697",
+  "services": {
+    "glossary": {
+      "running": true,
+      "started_at": "2025-10-03 16:54:48.832241",
+      "name": "Job Title Glossary Service",
+      "service_name": "IntelliCV Job Title Glossary Background Service",
+      "version": "1.0.0",
+      "is_running": true,
+      "last_update": null,
+      "next_update": "2025-10-04T16:24:59.795763",
+      "processed_files": 2,
+      "config": {
+        "update_interval_minutes": 30,
+        "minimum_files_for_update": 1,
+        "enable_auto_updates": true,
+        "max_concurrent_operations": 1,
+        "service_priority": "background"
+      }
+    }
+  }
+}

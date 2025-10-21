@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "file_name": "Anwar Helal CV.pdf",
+    "file_size": 134874,
+    "processing_date": "2025-10-09T16:20:49.641872",
+    "text_length": 3612,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "eng-ah_88@hotmail.com"
+    ],
+    "phones": [
+      "971 54 344 2229"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Bachelor of Engineering Technology"
+  ],
+  "job_titles": [
+    "Engineer",
+    "engineer"
+  ],
+  "text_sample": "Anwar  \nHelal  \nTechnical Sales \nEngineer  \n \n \n  \nContact  \n  \nAddress  \nRuwais,  Abu Dhabi - UAE  \nPhone  \n+971 54 344 2229  \nE-mail  \neng-ah_88@hotmail.com  \nDate of Birth  \n6 October 1988  \nNationality  \nJordanian  \nLinkedIn  \nhttps://www.linkedin.com/in\n/anwar -hilal-a598264b/  \n  \nSkills  \n  \nTechnical support  \nBusiness development  \nTechnical & Commercial \nProposals  Motivated Technical Sales Engineer with proven track record of building \nand growing sales territories in competitive envi...",
+  "skills_detected": {
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 1,
+      "healthcare": 1,
+      "finance": 1,
+      "manufacturing": 2,
+      "consulting": 3
+    },
+    "confidence": 0.5
+  }
+}

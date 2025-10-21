@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "file_name": "Curriculum Vitae english 2011.pdf",
+    "file_size": 13245,
+    "processing_date": "2025-10-09T16:20:51.612809",
+    "text_length": 2813,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "Thierry.deloignon@yahoo.fr"
+    ],
+    "phones": [
+      "33 699866749",
+      "5 6681 7490"
+    ],
+    "names": [
+      "Phone"
+    ],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Shell Global Solutions"
+  ],
+  "job_titles": [
+    "manager",
+    "Manager",
+    "Engineer",
+    "engineer"
+  ],
+  "text_sample": "Page 1 on 2 CCuurrrriiccuulluumm  VViittaaee  \n  \nPPrroodduucctt  mmaannaaggeerr  //  TTeecchhnniiccaall  oorr  PPrroocceessss  EEnnggiinneeeerriinngg  \n \n \nSurname:  \nName:  \nPhone number  \nE-mail:  \nBorn / Nationality:  \n \nSexe:  \nFamily situation:  \nAdress  \n Deloignon  \nThierry \n+33 699866749 \nThierry.deloignon@yahoo.fr  \n18 Oct 1963, FR France, STRASBOURG 67000 \nFR French \nMale \nPartner not married \n22 rue des chênes 67550 Vendenheim, FRANCE \n \nINFORMATION on actual job \n \nEntrance in curre...",
+  "skills_detected": {
+    "programming": [
+      "Java",
+      "C++",
+      "Go"
+    ],
+    "finance": [
+      "Excel",
+      "SAP"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 2,
+      "manufacturing": 2
+    },
+    "confidence": 0.2857142857142857
+  }
+}

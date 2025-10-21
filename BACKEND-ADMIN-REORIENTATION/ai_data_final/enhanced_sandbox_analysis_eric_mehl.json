@@ -1,0 +1,138 @@
+{
+  "enhanced_ai_analysis": {
+    "locations": [
+      "Paris, France",
+      "Houston, USA",
+      "Rio de Janeiro, Brazil",
+      "Monaco",
+      "Europe",
+      "Latin America",
+      "Middle East",
+      "Asia",
+      "North America"
+    ],
+    "enhancement_factors": [
+      "post_roger_training",
+      "pattern_recognition_improved",
+      "executive_detection_enhanced"
+    ],
+    "ai_confidence": "92%",
+    "international_experience": true,
+    "leadership_score": 5,
+    "skills": [
+      "leadership",
+      "management",
+      "strategy",
+      "operations",
+      "P&L",
+      "EBITDA",
+      "revenue",
+      "growth",
+      "transformation",
+      "engineering",
+      "technical",
+      "project management",
+      "business development",
+      "sales",
+      "marketing",
+      "international",
+      "global",
+      "multicultural",
+      "turnaround",
+      "restructuring"
+    ],
+    "experience_years": 31.0,
+    "companies": [
+      "RESATO INTERNATIONAL",
+      "FJORDS PROCESSING",
+      "EGON ZEHNDER",
+      "GE POWER CONVERSION",
+      "COMPRESSOR CONTROLS",
+      "ENGETEC"
+    ]
+  },
+  "network_analysis": {
+    "database_size": "1,275,000 emails",
+    "connections": [
+      {
+        "connection_strength": "Direct",
+        "email": "e.mehl@resato.com",
+        "company": "RESATO INTERNATIONAL"
+      },
+      {
+        "connection_strength": "High",
+        "email": "eric@fjordsprocessing.no",
+        "company": "FJORDS PROCESSING"
+      },
+      {
+        "connection_strength": "Medium",
+        "email": "mehl.eric@ge.com",
+        "company": "GE POWER CONVERSION"
+      }
+    ],
+    "match_quality": "Enhanced"
+  },
+  "metadata": {
+    "target_candidate": "Eric Mehl",
+    "ai_training_applied": true,
+    "pipeline_version": "v2.1_ai_learning_enhanced",
+    "execution_timestamp": "2025-08-11_15-43-25",
+    "training_candidate": "Roger Ingemey"
+  },
+  "user_registration": {
+    "registration_date": "2025-08-11 15:43:25",
+    "ai_version": "v2.1_post_roger_training",
+    "role": "candidate_with_ai_learning",
+    "status": "new_user_enhanced_ai",
+    "candidate_name": "Eric Mehl",
+    "user_id": "user_8263"
+  },
+  "ai_learning_metrics": {
+    "execution_timestamp": "2025-08-11_15-43-25",
+    "pipeline_version": "v2.1_learning_enhanced",
+    "candidates_processed": [
+      {
+        "phase": "training",
+        "name": "Roger Ingemey",
+        "skills_learned": 0,
+        "patterns_identified": [
+          "executive_language",
+          "strategic_thinking",
+          "global_perspective"
+        ]
+      }
+    ],
+    "ai_improvements": [
+      "company_database_enhanced_from_roger"
+    ],
+    "learning_phase": "dual_candidate_training"
+  },
+  "market_intelligence": {
+    "confidence_improvement": "10% increase from Roger training",
+    "market_positioning": "Global Executive Transformation Leader",
+    "ai_enhancement_applied": true,
+    "salary_band": "-",
+    "seniority_level": "C-Suite Executive",
+    "competitive_advantage": "International P&L Management + Technical Engineering Background"
+  },
+  "learning_comparison": {
+    "improvements": {
+      "salary_adjustment": "150% salary band increase",
+      "positioning_upgrade": "Management → C-Suite Executive",
+      "confidence_boost": "10% confidence increase",
+      "skills_improvement": "2 additional skills identified"
+    },
+    "enhanced_eric_analysis": {
+      "salary_estimate": "-",
+      "seniority_level": "C-Suite Executive",
+      "ai_confidence": "92%",
+      "skills_count": 20
+    },
+    "original_eric_analysis": {
+      "salary_estimate": "-",
+      "seniority_level": "Management",
+      "ai_confidence": "82%",
+      "skills_count": 18
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "file_name": "CV John Mike van der Vlugt 2022.docx",
+    "file_size": 18970,
+    "processing_date": "2025-10-09T16:20:53.569079",
+    "text_length": 2910,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "jmvdvlugt@gmail.com"
+    ],
+    "phones": [
+      "31651407620"
+    ],
+    "names": [
+      "John"
+    ],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "HLO Chemical Process Technology"
+  ],
+  "job_titles": [
+    "Manager",
+    "Analyst",
+    "manager"
+  ],
+  "text_sample": "Curriculum Vitae\n\nPersonal information:\n\t\nName:\t\t\t\tJohn van der Vlugt\nAdress: \t\t\tKrugerlaan 30\n\t\t\t\t\t2806 EJ Gouda\n\t\t\t\t\tThe Netherlands \nPhone number:\t\t+31651407620\nE-mail:\t\t\tjmvdvlugt@gmail.com\nDate of birth:\t\t\tApril 12, 1964\nPlace of birth: \t\tUtrecht, The Netherlands\nNationality:\t\t\tDutch\nMarital status:\t\tMarried, three children and six grand children\nSex:\t\t\t\tMale\n\n\nEducation:\n\n1989 - 1991:\tHLO Chemical Process Technology\nDelft, The Netherlands\n\n1982 - 1987:\tMLO Chemical Analyst\t\t\t\nVan ’t Hoff I...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "finance": [
+      "Excel",
+      "SAP"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "manufacturing",
+    "industry_scores": {
+      "technology": 1,
+      "manufacturing": 3,
+      "education": 1,
+      "consulting": 1
+    },
+    "confidence": 0.5
+  }
+}

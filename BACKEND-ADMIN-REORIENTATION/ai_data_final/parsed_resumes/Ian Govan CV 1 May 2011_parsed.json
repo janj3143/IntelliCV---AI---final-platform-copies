@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "Ian Govan CV 1 May 2011.docx",
+    "file_size": 27466,
+    "processing_date": "2025-10-09T16:21:02.603487",
+    "text_length": 6641,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [],
+    "phones": [
+      "441698 282635",
+      "441698 285627",
+      "447811 929 929",
+      "1981-1986"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Invensys  Process Solutions",
+    "General electric \nIngersoll Rand \nMitsubishi \nBolhm & Voss\nBBC\n Turbomachinery \nSiemens \nElliott Company",
+    "Hawker Siddley Dynamics Engineering  Ltd",
+    "HSDE Ltd",
+    "Tabouk Electricity Company",
+    "To  Present  Compressor Control Corporation",
+    "Operator Training Systems",
+    "Performance Services and other related technologies for Invensys Process Systems"
+  ],
+  "job_titles": [
+    "Director",
+    "Chief",
+    "chief",
+    "Manager",
+    "engineer"
+  ],
+  "text_sample": "\n\t                          CURRICULUM VITAE\n\n\n\nNAME:-\tIAN BENNETT GOVAN\n\nADDRESS:- \t5 BARNCLUITH  ROAD\n\t\t\tHAMILTON \n\t\t\tSCOTLAND\n\t\t\tML3 7DQ\n\nTELEPHONE:-\t(+441698 282635) Home\n\t\t(+441698 285627) Fax\n\t\t(+447811 929 929 ) Mob\n\nDATE OF BIRTH:- 10/06/50\n\nMARITAL STATUS:- \tMARRIED WITH  2 CHILDREN \n\t\t\t\t\t29 and 25years \n\nNATIONALITY:-  BRITISH\n\nEDUCATION\n\n1966 - 1971\t\tMOTHERWELL  TECHNICAL COLLEGE\n1973 – 1975\t\tMOTHERWELL   \n\nQUALIFICATIONS\n\nINDUSTRIAL ELECTRONICS  ONC\nELECTRICAL ENGINEERING  ONC\n\t\t\t\nCI...",
+  "skills_detected": {
+    "programming": [
+      "Go",
+      "Rust"
+    ],
+    "web_development": [
+      "React"
+    ],
+    "soft_skills": [
+      "Leadership"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "education",
+    "industry_scores": {
+      "technology": 1,
+      "finance": 1,
+      "manufacturing": 1,
+      "education": 2,
+      "consulting": 1
+    },
+    "confidence": 0.3333333333333333
+  }
+}

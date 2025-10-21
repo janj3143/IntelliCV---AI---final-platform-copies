@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "file_name": "Microsoft Word - cv_engl. 2010_2.doc.pdf",
+    "file_size": 40493,
+    "processing_date": "2025-10-09T16:21:05.051738",
+    "text_length": 5576,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "Erdal.Kara@gmx.de"
+    ],
+    "phones": [
+      "615030",
+      "3674127"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Manufacturing Execut ion Systems",
+    "Bernhard Wohlfarth GmbH & Co"
+  ],
+  "job_titles": [
+    "Manager",
+    "manager",
+    "Junior",
+    "engineer"
+  ],
+  "text_sample": " \n \n \n \nCURRICULUM VITAE \nErdal Kara \n \n \n \n \n        \n \n  \n \n \n \n \n \n9 Several years of sales expertise. \n9 Comprehensive and in-depth expertise in the distribution                                             \nof technical software solutions that require explanation. \n9 Extensive market knowledge in terms of industries, partners,                       \ncompetitors and customers. \n9 Stron g persuasion and assertiveness combined with  diplomatic skills,                                   \ncollegia...",
+  "skills_detected": {
+    "programming": [
+      "Java",
+      "C++",
+      "Go"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 3,
+      "healthcare": 2,
+      "finance": 1,
+      "education": 1,
+      "consulting": 1,
+      "sales": 1
+    },
+    "confidence": 0.42857142857142855
+  }
+}

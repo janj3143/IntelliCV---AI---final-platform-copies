@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "file_name": "180125PurtovCV_Eng.pdf",
+    "file_size": 164173,
+    "processing_date": "2025-10-09T16:20:48.284656",
+    "text_length": 6688,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "sergpurtov@gmail.com"
+    ],
+    "phones": [
+      "7(915) 420 0686"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [],
+  "job_titles": [
+    "Lead",
+    "Associate",
+    "Engineer",
+    "engineer"
+  ],
+  "text_sample": "page 1 of 3 \nSERGEY  PURTOV  \nDate of birth: 12th  September,  1973 \nNationality:  Russian \nGender: Male   Family status: married,  4 children  \nTel: +7(915) 420 0686 (mob.) \ne‐mail: sergpurtov@gmail.com  \n \nPROFILE  \nLNG gas treatment  process engineer  with cryogenics  background  (small scale LNG, air \nseparation,  rare gases, liquid helium). \nPROFESSIONAL  BACKGROUND  \n \nYamal LNG, Moscow ‐ Sabetta (Yamal region)  Since 2013\nYamal LNG project will be producing  16.5 MTPA of LNG. Three LNG tr...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "finance": [
+      "Compliance"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 2,
+      "healthcare": 1,
+      "finance": 1,
+      "manufacturing": 2,
+      "education": 2,
+      "consulting": 1
+    },
+    "confidence": 0.2857142857142857
+  }
+}

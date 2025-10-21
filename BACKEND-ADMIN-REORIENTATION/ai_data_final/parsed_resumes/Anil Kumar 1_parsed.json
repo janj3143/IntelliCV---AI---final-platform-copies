@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "file_name": "Anil Kumar 1.pdf",
+    "file_size": 240374,
+    "processing_date": "2025-10-09T16:20:49.553429",
+    "text_length": 8864,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "anilkumar7sa@hotmail.com"
+    ],
+    "phones": [
+      "00919747765483"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Sulaybikh Auto Services",
+    "Last two and a half years I was associated \nwith Axalta Coating Systems"
+  ],
+  "job_titles": [
+    "Manager",
+    "SENIOR",
+    "MANAGER"
+  ],
+  "text_sample": "         Curriculum Vitae  \n \nG. Anil Kumar  \n[Ph:00919747765483] [anilkumar7sa@hotmail.com ] \n \nSALES  MANAGER  \nCareer Summary  \nOver two decades of sales & marketing experience in automobile aftermarket industry with \nspecific focus on refinish trade, developing and executing marketing & sales strategies by \nworking closely with OEM Franchise body shops in the GCC. Core competencies include \nidentifying and establishing the needs of customers and offering bespoke sol utions with a \nview to im...",
+  "skills_detected": {
+    "programming": [
+      "Go",
+      "Rust"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "finance": [
+      "Excel"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Strategic Planning"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "marketing",
+    "industry_scores": {
+      "technology": 1,
+      "finance": 1,
+      "marketing": 2,
+      "education": 1,
+      "consulting": 1
+    },
+    "confidence": 0.3333333333333333
+  }
+}

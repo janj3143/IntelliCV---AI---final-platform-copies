@@ -1,0 +1,113 @@
+{
+  "processing_summary": {
+    "files_processed": 527,
+    "successful_parses": 250,
+    "failed_parses": 0,
+    "emails_extracted": 0,
+    "companies_found": 913,
+    "job_titles_found": 42,
+    "start_time": "2025-10-09T16:20:46.580741",
+    "end_time": "2025-10-09T16:21:11.315336",
+    "total_processing_time": "0:00:24.734595",
+    "emails_found": 197
+  },
+  "top_companies": [
+    [
+      "For the purposes of this clause the Company",
+      9
+    ],
+    [
+      "The Stage Two invoice shall be raised by the Company",
+      9
+    ],
+    [
+      "Client engages any employees of the Company",
+      9
+    ],
+    [
+      "The Stage Three invoice shall be raised by the Company",
+      9
+    ],
+    [
+      "In the event that any payments due to the Company",
+      9
+    ],
+    [
+      "Client shall be liable to pay the Company",
+      9
+    ],
+    [
+      "The Stage One invoice shall be raised by the Company",
+      9
+    ],
+    [
+      "Candidate which is conducted by the Company",
+      9
+    ],
+    [
+      "Engagement prior to commencing employment and the Company",
+      9
+    ],
+    [
+      "Annual Remuneration paid by the Company",
+      9
+    ]
+  ],
+  "top_job_titles": [
+    [
+      "Manager",
+      184
+    ],
+    [
+      "Engineer",
+      127
+    ],
+    [
+      "manager",
+      73
+    ],
+    [
+      "Senior",
+      67
+    ],
+    [
+      "Director",
+      57
+    ],
+    [
+      "lead",
+      54
+    ],
+    [
+      "engineer",
+      48
+    ],
+    [
+      "Lead",
+      47
+    ],
+    [
+      "Consultant",
+      34
+    ],
+    [
+      "consultant",
+      32
+    ]
+  ],
+  "file_types_processed": {
+    ".doc": 270,
+    ".pdf": 199,
+    ".docx": 58,
+    ".pptx": 1,
+    ".zip": 4,
+    ".rtf": 1,
+    "": 11,
+    ".sample": 14,
+    ".idx": 1,
+    ".pack": 1,
+    ".rev": 1,
+    ".json": 1
+  },
+  "timestamp": "2025-10-09T16:21:11.332503"
+}

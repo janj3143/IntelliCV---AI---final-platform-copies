@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "file_name": "Federico De Sario Resume English.pdf",
+    "file_size": 86459,
+    "processing_date": "2025-10-09T16:21:01.527529",
+    "text_length": 9667,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      ".de.sario@gmail.com"
+    ],
+    "phones": [
+      "39 011 771 5128",
+      "39 348 336 8507"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "CEO of Prima Electro North America LLC",
+    "Integrated Systems",
+    "Embedded Systems",
+    "Flexible Ma nufacturing Systems",
+    "Occupation or p osition held  Co"
+  ],
+  "job_titles": [
+    "developer",
+    "Senior",
+    "Engineer",
+    "Vice President",
+    "Director",
+    "VP",
+    "lead",
+    "Specialist",
+    "Manager",
+    "Principal"
+  ],
+  "text_sample": "Page  1/4 - Curriculum vitæ of \nFederico De Sario   \n Curriculum Vitæ  \n  \n  \n  \nAn experienced Sales & Marketing executive with cross -functional expertise and a proven history of exceed ing targets . Substantial international \nand multicultural experience. Extensive people and business management expertise. Strong track record of success in sales and business \ndevelopment. Able to manage complex situations. Tak es the initiative, drives change, has passion for e xcellence and execution. Compre...",
+  "skills_detected": {
+    "programming": [
+      "Go",
+      "Rust"
+    ],
+    "finance": [
+      "Excel"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 2,
+      "education": 1,
+      "consulting": 3
+    },
+    "confidence": 0.5
+  }
+}

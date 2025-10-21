@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "file_name": "Imtech brochure_Product Overview.pdf",
+    "file_size": 1682975,
+    "processing_date": "2025-10-09T16:21:02.902474",
+    "text_length": 16946,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "sales.goes.inl@imtech.nl"
+    ],
+    "phones": [],
+    "names": [],
+    "locations": [
+      "We"
+    ],
+    "job_titles": []
+  },
+  "companies": [
+    "HC Sampling  Systems",
+    "Imtech Analyser Systems",
+    "Analyser  Systems",
+    "LNG Sampling  Systems \nImtech Analyser Systems",
+    "HC sampling  Systems",
+    "Metering  Systems",
+    "History \nBusiness unit Imtech Analyser Systems",
+    "Innovative  and proven solutions  \nMetering  Systems",
+    "Sample Recovery  Systems",
+    "Automatic  grab sampling  controls \nproduct quality \n \nGrab Sampling  Systems",
+    "Shipping \n \nServices",
+    "System components  \nServices",
+    "Analyser Systems",
+    "Total System Approach  for Analyser  \nSystems",
+    "Analyser Systems",
+    "Imtech is an authorized  representative  for Welker \nEngineering  Co",
+    "LNG sampling  Systems"
+  ],
+  "job_titles": [
+    "Manager",
+    "specialist"
+  ],
+  "text_sample": "  \n  \n \nP R O D U C T  O V E R V I E W  \n  \n  \n \n \nI M T E C H  I N D U S T R Y  I N T E R N A T I O N A L  B . V .  \n \n \n  \n \nA n a l y s e r  S y s t e m s  /  M e t e r i n g  S y s t e m s  /   \nS a m p l i n g  S y s t e m s  /  P i l o t  P l a n t s  /  A n a l y s e r  P r o d u c t s  \n  \n  \n \n     \n \n   PRODUCT  OVERVIEW  2 \n  IMTECH ANALYSER  SYSTEMS  3 \n \n \n \n \n \n \n \nHistory \nBusiness unit Imtech Analyser Systems,  part of Imtech Industry \nInternational  division, is internationally ...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "web_development": [
+      "React"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 2,
+      "marketing": 1,
+      "manufacturing": 2,
+      "education": 1,
+      "consulting": 2
+    },
+    "confidence": 0.2857142857142857
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "file_name": "CV van Loon (english, 2010).pdf",
+    "file_size": 110713,
+    "processing_date": "2025-10-09T16:20:55.489382",
+    "text_length": 8708,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "info@vlmc.nl",
+      "info@vlmc.nl",
+      "info@vlmc.nl",
+      "info@vlmc.nl"
+    ],
+    "phones": [
+      "6350478",
+      "6341658",
+      "6-51185220",
+      "6350478",
+      "6341658",
+      "6-51185220",
+      "6350478",
+      "6341658",
+      "6-51185220",
+      "6350478",
+      "6341658",
+      "6-51185220"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "After the merger with Setpoint  Inc",
+    "Business Unit Manager Database Services",
+    "Position  Company",
+    "Professional Services",
+    "Information \nTechnology",
+    "Managing \nDirector  Company"
+  ],
+  "job_titles": [
+    "Manager",
+    "Director",
+    "manager",
+    "director"
+  ],
+  "text_sample": "Curriculum vitae    \n \nCurriculum vitae  Joost J. van Loon   page 1 \n Abrikozengaarde 22 · 3992 KT  Houten · The Netherlands  \n tel: +31 -(0)30 -6350478 ·  fax: +31 -(0)30 -6341658 · cell: +31 -(0)6-51185220  \n e-mail: info@vlmc.nl   CURRICULUM  VITAE  \n Joost J. van Loon  \n \n \nPROFILE  \n \nJoost (1961) is a an achieving and decisive  leader focusing on strategy , operational  execution \nand excellence . He is committed to developing people and organiz ations , communicates \neasily at all levels ...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "cloud": [
+      "AWS"
+    ],
+    "finance": [
+      "Excel"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 2,
+      "finance": 1,
+      "manufacturing": 2,
+      "education": 3,
+      "consulting": 4
+    },
+    "confidence": 0.6666666666666666
+  }
+}

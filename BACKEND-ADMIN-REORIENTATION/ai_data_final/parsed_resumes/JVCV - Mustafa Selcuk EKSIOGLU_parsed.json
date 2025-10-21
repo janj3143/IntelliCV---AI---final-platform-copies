@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "file_name": "JVCV - Mustafa Selcuk EKSIOGLU.docx",
+    "file_size": 84135,
+    "processing_date": "2025-10-09T16:21:03.564410",
+    "text_length": 4816,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "janj@johnston-vere.co.uk"
+    ],
+    "phones": [
+      "01695 570 696"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Responsible for managing the Automotive Aftermarket SBU of Henkel after the acqusition of Loctite Corporation"
+  ],
+  "job_titles": [
+    "Manager",
+    "manager",
+    "Engineer"
+  ],
+  "text_sample": "\n\n\nCANDIDATE \n\nMustafa Selcuk EKSIOGLU\n\n\nPERSONAL DETAILS\n\n\nLOCATION \t\t\n\nIstanbul\n\n\nQUALIFICATIONS\n\nMBA in International Management, Baldwin-Wallace College, Berea, Ohio, USA\n\nBS, Mechanical Engineering, Middle East Technical University, Ankara, Turkey\n\n\nCAREER SUMMARY\n\nTURK HENKEL KIM. SAN. Ve TIC. A.Ş., Istanbul, Turkey\nRegional Business Development Manager (Jan. 2020 -current)\nEast Europe, India, Middle East, Africa Region,\nGlobal Segment Manager\nResponsible for analyzing, determining regiona...",
+  "skills_detected": {},
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 1,
+      "finance": 1,
+      "consulting": 2,
+      "sales": 1
+    },
+    "confidence": 0.3333333333333333
+  }
+}

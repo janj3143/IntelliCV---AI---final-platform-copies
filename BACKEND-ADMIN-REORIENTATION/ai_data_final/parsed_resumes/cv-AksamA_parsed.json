@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "file_name": "cv-AksamA.pdf",
+    "file_size": 19721,
+    "processing_date": "2025-10-09T16:20:55.682378",
+    "text_length": 5384,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "aksel.aksam@gmail.com"
+    ],
+    "phones": [
+      "31 79 8886538",
+      "6 25087328"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Principal subjects covered  Chemical Technology",
+    "Title of qualification awarded  Bachelor of  Applied Science in Chemical Technology",
+    "Special Project for Lighting Systems",
+    "AGAKIM Fine Chemicals Inc"
+  ],
+  "job_titles": [
+    "Principal",
+    "Engineer",
+    "chief"
+  ],
+  "text_sample": " \n  \n    \nCURRICULUM VITAE  \n \n \n \nPERSONAL INFORMATION  \n \nName   AKSEL  AKSAM  \nAddress   GNEIS 24, 2719TM,  ZOETERMEER , THE NETHERLANDS  \nTelephone   +31 79 8886538    mobile: +31 6 25087328  \nPersonal E-mail   aksel.aksam@gmail.com  \n \nDate of birth  06-11-1978 \nNationality  TURKISH  \nResidence and Work Permits  AUTHORIZED TO LIVE AND WORK IN THE NETHERLANDS  \n \nWORK EXPERIENCE  \n \n• Dates (from – to)   January, 2008 -  present \n• Name and address of employer   Technip Benelux BV, The Nethe...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "design": [
+      "Photoshop"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 2,
+      "manufacturing": 1,
+      "education": 2,
+      "consulting": 1
+    },
+    "confidence": 0.2857142857142857
+  }
+}

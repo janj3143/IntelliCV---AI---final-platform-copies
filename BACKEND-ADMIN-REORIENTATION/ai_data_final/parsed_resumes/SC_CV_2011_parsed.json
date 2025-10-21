@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "file_name": "SC_CV_2011.docx",
+    "file_size": 25305,
+    "processing_date": "2025-10-09T16:21:08.221931",
+    "text_length": 10599,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "simoncassar_mijas@yahoo.co.uk"
+    ],
+    "phones": [
+      "0203 021 4904",
+      "07999 639 750"
+    ],
+    "names": [
+      "Simon Cassar"
+    ],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Logicon Systems\n\nGeneral Manager of Logicon Systems",
+    "ASAP Ltd",
+    "Unilever & Ford Motor Company",
+    "Advanced Systems",
+    "Tritec Systems",
+    "Electron Systems",
+    "Automotive for Phoenix Contact Ltd",
+    "Farnborough College of Technology",
+    "With the recent integration of Electron Systems",
+    "Tritec Systems Ltd\n\nJoined Tritec Systems",
+    "Tritec Systems Ltd",
+    "Global Services",
+    "Advanced Systems Automation Products Ltd",
+    "Zeh Software Ltd"
+  ],
+  "job_titles": [
+    "consultant",
+    "Senior",
+    "Engineer",
+    "manager",
+    "Manager",
+    "specialist"
+  ],
+  "text_sample": "Ciriculum Vitae\nName:\t\t\t Simon Cassar\n\nD.O.B:\t\t\t15th February 1968\n\nAddress: \t\t8 Firs Close\n\t    \t\tFarnborough\n\t   \t\tHants. GU14 6SR\n\t\t\t\n\t\t\t\nTelephone: \t\t0203 021 4904\nMobile:\t\t\t07999 639 750\nE-Mail:\t\t\tsimoncassar_mijas@yahoo.co.uk\nMarital Status: \tMarried with two children.\nLanguages:\t\tNative English & basic Spanish.\n\n\nOccupational Profile\n\nNovember 2008 to Date – Tritec Systems Ltd\n\nJoined Tritec Systems as Manager for the newly established TSL Training division. I managed to secure a deal wit...",
+  "skills_detected": {
+    "programming": [
+      "C#",
+      "Go"
+    ],
+    "finance": [
+      "SAP"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "finance",
+    "industry_scores": {
+      "technology": 1,
+      "healthcare": 1,
+      "finance": 3,
+      "marketing": 2,
+      "education": 1,
+      "consulting": 2,
+      "sales": 1
+    },
+    "confidence": 0.42857142857142855
+  }
+}

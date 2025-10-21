@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "file_name": "cv_jimmyfreitag_en_aug_2011_Johnston Vere Consultancy Ltd.pdf",
+    "file_size": 154780,
+    "processing_date": "2025-10-09T16:20:57.747990",
+    "text_length": 13471,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "jhfreitag@gmail.com",
+      "jhfreitag@gmail.com"
+    ],
+    "phones": [
+      "151 40 215 244",
+      "151 40 215 244"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "SCM and MES of PSI AG trade under PSIPENTA Software \nSystems",
+    "Raab Karcher Energy Services",
+    "Jan Johnston\nJohnston Vere Consultancy Ltd",
+    "PROCAD Software GmbH & Co",
+    "ERP Software Company"
+  ],
+  "job_titles": [
+    "Manager",
+    "consultant",
+    "specialist"
+  ],
+  "text_sample": "Jimmy H. Freitag  \nElsa-Brändström -Str. 11  \n42540 Dormagen \nCell: +49 151 40 215 244  \nEmail:  jhfreitag@gmail.com  \n \nMr. Jan Johnston\nJohnston Vere Consultancy Ltd\n \n10 September 2\n011  \n \n \nDear Mr.  Johnston , \n \nTha\nnk you very much for the friendly and informative telephone conversation that we had \nearlier. I send you my application papers.  \n I am 52 years old. I have a Master's degree in Business Administration and have also \ncompleted professional training in sales, negotiating and m...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "project_management": [
+      "MS Project"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "finance": [
+      "Excel",
+      "SAP"
+    ],
+    "soft_skills": [
+      "Leadership"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 2,
+      "finance": 1,
+      "manufacturing": 2,
+      "education": 2,
+      "consulting": 3,
+      "sales": 1
+    },
+    "confidence": 0.5
+  }
+}

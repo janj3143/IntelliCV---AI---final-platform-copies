@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "file_name": "Anzal Ashraf 1.pdf",
+    "file_size": 323998,
+    "processing_date": "2025-10-09T16:20:49.758185",
+    "text_length": 4581,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "anzl607@gmail.com"
+    ],
+    "phones": [
+      "00971526655234"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "CurrentSenior Sales Executive\nMulti Products Enterprises LLC",
+    "Kerala\nClient Acquisition\nClient Retention\nProduct Knowledge\nCustomized Solutions",
+    "Relations Officer\nNational Paints Factories LLC",
+    "Officer\nAkzonobel India Ltd"
+  ],
+  "job_titles": [
+    "Senior"
+  ],
+  "text_sample": "Anzal  Ashraf\nResults-oriented Sales Executive with over a decade of expertise in automotive, marine and\ndecorative coatings industries. Proven track record of driving revenue growth, building lasting client\nrelationships, and providing tailored solutions. Seeking a dynamic role to leverage extensive industry\nknowledge, foster strategic partnerships, and surpass sales targets in the coatings sector.\nSkills\nKnowledge in Coatings Industry\nTechnical Knowledge\nProblem Solving Ability\nClient Relation...",
+  "skills_detected": {
+    "programming": [
+      "Go",
+      "Rust"
+    ],
+    "finance": [
+      "Excel"
+    ],
+    "soft_skills": [
+      "Problem Solving"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 2,
+      "marketing": 1,
+      "manufacturing": 2,
+      "education": 2,
+      "consulting": 1,
+      "sales": 2
+    },
+    "confidence": 0.2857142857142857
+  }
+}

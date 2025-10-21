@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "file_name": "Resume Suleyman C. Ugurses Short Version.pdf",
+    "file_size": 108753,
+    "processing_date": "2025-10-09T16:21:06.713249",
+    "text_length": 2195,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "suleymanugurses@gmail.com"
+    ],
+    "phones": [
+      "90 552 400"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Management of Technology",
+    "Service Manager  \nAykan Motor Services"
+  ],
+  "job_titles": [
+    "Manager",
+    "Coordinator",
+    "Specialist"
+  ],
+  "text_sample": " suleyman c ahit ugurses  \n  \n Ataşehir - İstanbul  \n+90 552 400 40 85  \nsuleymanugurses@gmail.com  \nAUTOMOTIVE, SALES AND AFTERSALES PROFESSIONAL.  \nPLASTICS RAW MATERIAL AND CHEMICALS SALES AND \nMARKETING PROFESSIONAL  \n \n EDUCATION \nNYU POLYTECHNIC  INSTITUTE OF NEW YORK \nUNIVERSITY NY - USA \nM.S. Management of Technology  \n \nCUKUROVA UNIVERSITY  \nM.S. Marketing  \nB.S. Mechanical Engineering  \nEXPERI ENCE  \n \nMarketin g &  Sales Manager   \nMitsubishi Chemical Europe Gmbh   \n2015 - 2023  \n \nSa...",
+  "skills_detected": {
+    "soft_skills": [
+      "Strategic Planning"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 1,
+      "finance": 1,
+      "marketing": 1,
+      "manufacturing": 1,
+      "consulting": 2
+    },
+    "confidence": 0.3333333333333333
+  }
+}

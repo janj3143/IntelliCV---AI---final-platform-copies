@@ -1,0 +1,115 @@
+# ================================
+# IntelliCV Fusion Engine Requirements
+# Advanced AI/ML and Statistical Computing
+# ================================
+
+# Core Bayesian & Statistical Analysis
+# ------------------------------------
+scikit-learn==1.7.2       # Bayesian classifiers, statistical models
+scipy==1.15.3             # Statistical distributions, hypothesis testing
+numpy==2.2.6              # Numerical computing foundation
+pandas==2.3.3             # Data analysis and manipulation
+
+# Fuzzy Logic & Uncertainty Modeling  
+# -----------------------------------
+scikit-fuzzy==0.5.0       # Fuzzy logic systems and controllers
+# Note: scikit-fuzzy may need scipy<1.13 for compatibility
+
+# Neural Networks & Deep Learning
+# -------------------------------
+# torch>=2.0.0             # PyTorch for neural networks (optional)
+# tensorflow>=2.13.0       # TensorFlow for deep learning (optional)
+# keras>=2.13.0            # High-level neural networks API (optional)
+
+# Probabilistic Programming
+# -------------------------
+# pymc>=5.0.0              # Bayesian modeling (optional)
+# arviz>=0.15.0            # Exploratory analysis of Bayesian models (optional)
+
+# Advanced Statistics & Mathematics
+# ---------------------------------
+statsmodels>=0.14.0       # Statistical modeling and econometrics
+sympy>=1.12               # Symbolic mathematics
+networkx>=3.1             # Graph theory and network analysis
+
+# Optimization & Numerical Methods
+# --------------------------------
+cvxpy>=1.4.0              # Convex optimization
+pulp>=2.7.0               # Linear programming
+scipy.optimize            # (included in scipy) Optimization algorithms
+
+# Machine Learning Extensions
+# ---------------------------
+xgboost>=2.0.0            # Gradient boosting framework
+lightgbm>=4.0.0           # Light gradient boosting machine
+catboost>=1.2.0           # Categorical boosting
+imbalanced-learn>=0.11.0  # Handling imbalanced datasets
+
+# Time Series Analysis
+# --------------------
+statsforecast>=1.6.0     # Statistical forecasting models
+sktime>=0.24.0            # Time series machine learning
+prophet>=1.1.5            # Forecasting time series data
+
+# Evolutionary Computing
+# -----------------------
+deap>=1.4.0               # Distributed evolutionary algorithms
+pygmo>=2.19.0             # Massively parallel optimization
+
+# Pattern Recognition & Computer Vision
+# -------------------------------------
+opencv-python>=4.8.0     # Computer vision library
+Pillow>=10.0.0            # Image processing library
+scikit-image>=0.22.0     # Image processing algorithms
+
+# Natural Language Processing (Enhanced)
+# --------------------------------------
+nltk==3.9.2               # Natural language toolkit
+spacy>=3.7.0              # Industrial-strength NLP
+transformers>=4.35.0      # State-of-the-art NLP models
+sentence-transformers>=2.2.0  # Sentence embeddings
+
+# Feature Engineering & Selection
+# -------------------------------
+feature-engine>=1.6.0    # Feature engineering transformers
+boruta>=0.3.0             # Feature selection algorithm
+shap>=0.43.0              # Explainable AI
+
+# Clustering & Dimensionality Reduction
+# -------------------------------------
+umap-learn>=0.5.4         # Uniform manifold approximation
+hdbscan>=0.8.33           # Hierarchical density-based clustering
+scikit-learn-extra>=0.3.0  # Additional clustering algorithms
+
+# Performance & Profiling
+# ------------------------
+joblib==1.5.2             # Parallel computing
+numba>=0.58.0             # JIT compilation for numerical functions
+cython>=3.0.0             # C extensions for Python
+
+# Visualization (Advanced)
+# -------------------------
+plotly==6.3.1             # Interactive plotting
+seaborn==0.13.2           # Statistical data visualization
+matplotlib==3.10.6        # Core plotting library
+bokeh>=3.3.0              # Interactive visualization
+altair==5.5.0             # Statistical visualization
+
+# Model Persistence & Serialization
+# ----------------------------------
+pickle                    # (built-in) Object serialization
+joblib                    # (already listed) Efficient serialization
+cloudpickle>=3.0.0        # Enhanced pickling for cloud computing
+
+# Development & Testing
+# ---------------------
+pytest==8.4.2            # Testing framework
+pytest-mock==3.15.1      # Mock objects for testing
+hypothesis>=6.88.0        # Property-based testing
+memory-profiler>=0.61.0   # Memory usage monitoring
+
+# Compatibility Notes:
+# - scikit-fuzzy requires scipy<1.13 (current scipy==1.15.3 may have issues)
+# - Consider downgrading scipy if fuzzy logic is critical
+# - Some packages may conflict with existing versions
+# - Test compatibility in isolated environment first

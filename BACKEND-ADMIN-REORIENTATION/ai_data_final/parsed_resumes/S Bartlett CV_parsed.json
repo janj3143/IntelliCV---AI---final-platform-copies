@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "file_name": "S Bartlett CV.pdf",
+    "file_size": 82238,
+    "processing_date": "2025-10-09T16:21:07.894168",
+    "text_length": 6517,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "Stephen.Bartlett@ntlworld.com"
+    ],
+    "phones": [
+      "07774 135 562"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Carson Cogeneration Company",
+    "The fiducial duties as Company Officer and VP  for Watson Cogeneration Company",
+    "ARCO Terminal \nServices Corporation and ARCO Material Supply Company",
+    "Husky Refining LLC",
+    "Senior Refinery Co",
+    "Downstream Oil Consulting Limited",
+    "ARCO Terminal \nServices",
+    "Product Cogeneration Company"
+  ],
+  "job_titles": [
+    "Senior",
+    "Engineer",
+    "Director",
+    "Consultant",
+    "Principal",
+    "manager",
+    "VP",
+    "Manager",
+    "senior",
+    "engineer"
+  ],
+  "text_sample": " - 1 -  Personal Details  \nStephen C Bartlett  \n17 Ruxley Ridge  \nClaygate  \nSurrey KT10 0HZ   \nTel: 07774 135 562  \nEmail: Stephen.Bartlett@ntlworld.com  \n \nA Senior Executive from an integrated multinational oil organisation with a proven track \nrecord of achievement in the Downstream Oil business.  Previous experience at \nCommercial Director level for subsidiary businesses and well regarded for finding \ncommerc ially effective solutions to complex business issues, fostering a positive team \nc...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "finance",
+    "industry_scores": {
+      "technology": 1,
+      "finance": 4,
+      "manufacturing": 2,
+      "consulting": 2
+    },
+    "confidence": 0.5714285714285714
+  }
+}

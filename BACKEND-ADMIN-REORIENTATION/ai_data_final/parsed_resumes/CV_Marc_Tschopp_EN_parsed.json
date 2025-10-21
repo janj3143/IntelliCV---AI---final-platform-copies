@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "file_name": "CV_Marc_Tschopp_EN.pdf",
+    "file_size": 109294,
+    "processing_date": "2025-10-09T16:20:57.928646",
+    "text_length": 4998,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [],
+    "phones": [],
+    "names": [
+      "Tschopp Marc"
+    ],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Convergint Technologies"
+  ],
+  "job_titles": [
+    "Manager",
+    "Director",
+    "Associate",
+    "Engineer"
+  ],
+  "text_sample": "Curriculum  vitae  \n \n  \nPersonal data   \n  \nLast Name , Name  Tschopp Marc    \nAddress  Längeweg 12   \nResidence  4124 Schönenbuch   \nMobile Phone  +41 79 264 05 85    \nE-Mail  marc.tschopp@ hotmail .com  \nDate of Birth  26.04.1990  \nHometown  Basel  \nNationality   CH \nMarital status  Divorced , 1 Daughter  \n \n \nSummary:  \n \nResults -driven and accomplished Account Executive with a proven record of success \nin sales and negotiation, boasting a wealth of experience in the development and \nsales ...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "finance": [
+      "Excel"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 1,
+      "education": 1,
+      "consulting": 1,
+      "sales": 1
+    },
+    "confidence": 0.14285714285714285
+  }
+}

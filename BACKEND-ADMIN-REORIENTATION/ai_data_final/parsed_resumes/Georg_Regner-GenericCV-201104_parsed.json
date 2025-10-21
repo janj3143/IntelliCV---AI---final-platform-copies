@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "file_name": "Georg_Regner-GenericCV-201104.pdf",
+    "file_size": 54970,
+    "processing_date": "2025-10-09T16:21:02.132895",
+    "text_length": 2964,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [],
+    "phones": [],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Data  Becker  Publishing  \nCompany",
+    "Engineer at Honeywell Advanced Solutions",
+    "Spec Solutions",
+    "Advanced  Alarm  Management  at  Honeywell  \nProcess Solutions"
+  ],
+  "job_titles": [
+    "Consultant",
+    "Engineer"
+  ],
+  "text_sample": "CV 04/2011  p.1/2\nGeorg Regner\nDipl.-Ing. Chemietechnik\nTechnical Consultant MES / Alarm Management\nEDUCATION\n1989 - 1996  University of Dortmund - Dipl.-Ing. Chemietechnik (Chemical Engineer)\nPROFESSIONAL EXPERIENCE\n2008 – Present: Technical  Consultant  MES/Advanced  Alarm  Management  at  Honeywell  \nProcess Solutions\nResponsible  for design  and  implementation  of  process  historian/information,  MES  and  alarm  \nmanagement systems in various industries including oil refining, gas process...",
+  "skills_detected": {
+    "databases": [
+      "Oracle"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 1,
+      "manufacturing": 1
+    },
+    "confidence": 0.14285714285714285
+  }
+}

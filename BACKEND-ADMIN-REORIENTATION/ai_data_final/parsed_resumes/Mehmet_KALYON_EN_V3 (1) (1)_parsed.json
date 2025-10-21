@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "file_name": "Mehmet_KALYON_EN_V3 (1) (1).pdf",
+    "file_size": 545354,
+    "processing_date": "2025-10-09T16:21:04.964194",
+    "text_length": 7480,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "mehmetkalyon@hotmail.com"
+    ],
+    "phones": [
+      "90532-559-8839"
+    ],
+    "names": [],
+    "locations": [
+      "Atasehir, Istanbul "
+    ],
+    "job_titles": []
+  },
+  "companies": [
+    "Intrusion \nDetection Systems",
+    "Environmental Monitoring Systems",
+    "Electrical Technology"
+  ],
+  "job_titles": [
+    "Manager",
+    "Lead"
+  ],
+  "text_sample": " \n \n \n \n \n \n \nMehmet  \nKALYON \n \nContact  \n  \nLocation : Atasehir, Istanbul \n \nTel : +90532-559-8839 \n \nmehmetkalyon@hotmail.com  \n \nLinkedin Profile  \nAdditional Info \n  \nMarital Status: Married  \nMilitary Status:Completed \nDriving License: Class B \nSkills \n    B2B Sales & Development \nCategory Management \nChange Management \nContract Management \nCustomer Relations \nData Analysis \nKey Account Management \nLead Negotiations \nLean Six Sigma \nPricing Strategy \nProduct Life Cycle \nProject Management ...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "project_management": [
+      "Agile"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "finance": [
+      "Compliance"
+    ],
+    "soft_skills": [
+      "Communication",
+      "Team Management",
+      "Strategic Planning"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "manufacturing",
+    "industry_scores": {
+      "technology": 1,
+      "finance": 3,
+      "marketing": 3,
+      "manufacturing": 4,
+      "education": 1,
+      "consulting": 4,
+      "sales": 2
+    },
+    "confidence": 0.6666666666666666
+  }
+}

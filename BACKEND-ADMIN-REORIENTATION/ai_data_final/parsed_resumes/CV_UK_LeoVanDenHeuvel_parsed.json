@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "file_name": "CV_UK_LeoVanDenHeuvel.pdf",
+    "file_size": 137413,
+    "processing_date": "2025-10-09T16:21:00.171675",
+    "text_length": 7479,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "L.vdheuvel@xs4all.nl"
+    ],
+    "phones": [
+      "6 52489044"
+    ],
+    "names": [
+      "Leo"
+    ],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "DPCE Ltd",
+    "Project Manager for moving the activity of Systems",
+    "Manager Systems Assembly Support  \n  Resp onsible for the consolidation and expansion of the European Systems",
+    "Driving the change from Production Engineering to Engineering Solutions",
+    "Responsible for setting up an European Engineering Solutions",
+    "Responsible for the transfer of Site Engineering knowledge and activities \nfrom the European countries into the European Systems",
+    "Manager Worldwide Systems",
+    "Daily operational management of the Systems",
+    "Granada Computer Services"
+  ],
+  "job_titles": [
+    "Manager",
+    "Engineer",
+    "manager",
+    "director"
+  ],
+  "text_sample": "Curriculum Vitae  \n \n1 \n Name  : Leo van den Heuvel  \nAddress  : Lariksdreef 37  \n  3137 PH Vlaardingen  \n  The Netherlands  \nPhone  : (+31) (0)6 52489044  \nEmail  : L.vdheuvel@xs4all.nl  \nDate of Birth  : 13 July 1957  \nMarital Status  : Partne rship since 1989, one son (age 6 ) \n \n \n \nManager on an opera tional and business -support level with experience in process \nmanagement. Member of the MT.  \nExperience with service management, production management , project management  and \nsales manage...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "finance": [
+      "Compliance"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Problem Solving"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "manufacturing",
+    "industry_scores": {
+      "healthcare": 1,
+      "finance": 2,
+      "manufacturing": 4,
+      "education": 1
+    },
+    "confidence": 0.6666666666666666
+  }
+}

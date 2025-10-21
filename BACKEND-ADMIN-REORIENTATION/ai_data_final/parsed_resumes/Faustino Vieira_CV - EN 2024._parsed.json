@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "file_name": "Faustino Vieira_CV - EN 2024..pdf",
+    "file_size": 327637,
+    "processing_date": "2025-10-09T16:21:01.395174",
+    "text_length": 8972,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "faustinoderesse@gmail.com"
+    ],
+    "phones": [
+      "526294203",
+      "971 529107635",
+      "2018-2022"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Ensure business continuity as per the Company",
+    "Technical  and Services",
+    "Chemical Field Services",
+    "Technical Services",
+    "Develop Technical services strategies  to ensure Customers satisfaction and retention foreseeing  \nCompany",
+    "Collaborating  with Angolan and Region  Sales Team on Customer Products  and Services",
+    "Chemica l Technology",
+    "Oil Field Services",
+    "Chemical Technology"
+  ],
+  "job_titles": [
+    "Engineer",
+    "Coordinator",
+    "Specialist",
+    "Manager",
+    "Lead"
+  ],
+  "text_sample": "Curriculum Vitae  \n \nCompetent and qualified Chemical Engineer Professional with around  8 years of experience in Oil and \nGas Industry, having developed skills in the areas of Technical Sales in Upstream Chemicals, Production \nand Processing of Crude Oil, Produced water and gas Chemical Treatment . \n \nProfessional Experience  \n \n▪ Technical Services Manage r__________________________________________ 2023 - Current  \nNouryon Middle  East FZ E Dubai, UAE \n \n- Responsible for developing Nouryon Te...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "finance": [
+      "Excel",
+      "SAP"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "manufacturing",
+    "industry_scores": {
+      "technology": 1,
+      "healthcare": 1,
+      "marketing": 1,
+      "manufacturing": 3,
+      "education": 1
+    },
+    "confidence": 0.5
+  }
+}

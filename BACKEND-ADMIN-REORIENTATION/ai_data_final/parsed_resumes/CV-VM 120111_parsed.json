@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "file_name": "CV-VM 120111.pdf",
+    "file_size": 36503,
+    "processing_date": "2025-10-09T16:20:55.880094",
+    "text_length": 6450,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "vemeve73@gmail.com"
+    ],
+    "phones": [
+      "41 56 5344007",
+      "41 56 2059479",
+      "41 76 4024322",
+      "1993-1997"
+    ],
+    "names": [
+      "Ver"
+    ],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Till today  Company",
+    "Special Services",
+    "Thermal Systems"
+  ],
+  "job_titles": [
+    "Manager",
+    "Coordinator",
+    "Engineer"
+  ],
+  "text_sample": "CV-VM 0502en.doc                                                      1 of 3   CURRICULUM  VITAE  PERSONAL DATA Name:      Verónica Mendoza Vergara Place & date of birth:   Tijuana (Mexico) - 20 / 10 / 1973 Nationality:     Mexican Status:       Single Address:     Unterriedstrasse 11, Oberrohrdorf 5452 (CH) Tel.:      +41 56 5344007 (Home) / +41 56 2059479 (work) Mobile:      +41 76 4024322 E-mail:     vemeve73@gmail.com EDUCATION MASTER: Master in Businesses Administration (Marketing Specializ...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "finance": [
+      "Excel",
+      "SAP"
+    ],
+    "soft_skills": [
+      "Strategic Planning"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 2,
+      "finance": 2,
+      "marketing": 1,
+      "manufacturing": 2,
+      "education": 1,
+      "consulting": 2
+    },
+    "confidence": 0.2857142857142857
+  }
+}

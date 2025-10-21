@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "file_name": "CV DUARTE Maria João.pdf",
+    "file_size": 111485,
+    "processing_date": "2025-10-09T16:20:53.507107",
+    "text_length": 4274,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "mmjoduarte@hotmail.com"
+    ],
+    "phones": [
+      "32 488 293 363"
+    ],
+    "names": [
+      "Maria Jo"
+    ],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [],
+  "job_titles": [
+    "Senior",
+    "Principal"
+  ],
+  "text_sample": "                                                                                                                                               Curriculum Vitae  – Maria João Duarte  \nmmjoduarte@hotmail.com  |  +32 488 293 363  \nPage 1 of 1  \n      \nName:  Maria João Duarte  Nationality:  Portuguese   \nLanguages:  Portuguese (native), English, French and Italian   \nProfessional Experience : \nApril 2021 – Present : Representative to the EU Institutions  \nMitsubishi Heavy Industries – EMEA, Ltd., B...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 1,
+      "finance": 1,
+      "marketing": 1,
+      "manufacturing": 1,
+      "education": 1,
+      "consulting": 1
+    },
+    "confidence": 0.14285714285714285
+  }
+}

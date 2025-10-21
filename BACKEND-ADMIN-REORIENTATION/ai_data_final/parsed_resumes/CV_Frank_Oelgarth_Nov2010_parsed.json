@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "file_name": "CV_Frank_Oelgarth_Nov2010.pdf",
+    "file_size": 46826,
+    "processing_date": "2025-10-09T16:20:57.642547",
+    "text_length": 12384,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "frank.oelgarth@gmx.de"
+    ],
+    "phones": [],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Medical AG & Co",
+    "Professional experience & achievements  \n \nFluid Automation Systems",
+    "Member of executive board of Fluid Automation Systems",
+    "Director of Technology",
+    "Fluid Automation Systems",
+    "Pilot for Development and Technology",
+    "Medical is  listed on \nGerman stock exchanges and included in the german technology index TecDAX since it became a joint venture \nwith Siemens Medical Solutions"
+  ],
+  "job_titles": [
+    "Vice President",
+    "Director",
+    "Lead",
+    "Engineer"
+  ],
+  "text_sample": " \nCV Frank Oelgarth  1 of 4FRANK OELGARTH               CURRICULUM VITAE  \n \n \nPersonal  \n \nDate & Place of Birth:   April 15th 1969 in Aschersleben (Germany)  \nNationality:    German  \nMarital Status:    married, 1 child  \nHobbies / Interests  :  my family, hiking, Japan, modern architecture, che ss, opera, technology  \nPermanent address:   96, rue de la scie; F -01220 Divonne -les-bains (France)  \nTel :     +33.(0)4.50.20.24.28  \nCell:     +41.(0)79.30.38.304  \nEmail:     frank.oelgarth@gmx.de...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Problem Solving"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "finance",
+    "industry_scores": {
+      "technology": 2,
+      "healthcare": 2,
+      "finance": 3,
+      "manufacturing": 1,
+      "education": 2,
+      "consulting": 2,
+      "sales": 1
+    },
+    "confidence": 0.42857142857142855
+  }
+}

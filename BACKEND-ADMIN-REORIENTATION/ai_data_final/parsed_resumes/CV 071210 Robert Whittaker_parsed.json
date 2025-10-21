@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "file_name": "CV 071210 Robert Whittaker.pdf",
+    "file_size": 123046,
+    "processing_date": "2025-10-09T16:20:52.903341",
+    "text_length": 6306,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "rwhittaker@ieee.org"
+    ],
+    "phones": [
+      "41 79 406 5747"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Germany  \n VP Technology"
+  ],
+  "job_titles": [
+    "Manager",
+    "Vice President",
+    "Director",
+    "VP"
+  ],
+  "text_sample": " Page 1 of 2 Robert Whittaker  \nHigh-Technology Business Professional  \n Au Ferrajoz 5  \n1029 Villars -Ste-Croix  \nSwitzerland \n +41 79 406 5747 \n rwhittaker@ieee.org  \nSwiss ‘C’ permit  \nEnglish, French and German \nC. Eng., FEANI Eur.Ing., MIET, MIEEE \nProfile  \nResults -oriented leader and influencer  with a h igh-level technical education and over twenty  \nyears of international experience in Business Management, Business Development, \nInternational Sales and Marketing and Engineering Manag...",
+  "skills_detected": {
+    "programming": [
+      "Go",
+      "Rust"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 2,
+      "healthcare": 1,
+      "finance": 1,
+      "marketing": 1,
+      "manufacturing": 1,
+      "education": 1,
+      "consulting": 4,
+      "sales": 2
+    },
+    "confidence": 0.6666666666666666
+  }
+}

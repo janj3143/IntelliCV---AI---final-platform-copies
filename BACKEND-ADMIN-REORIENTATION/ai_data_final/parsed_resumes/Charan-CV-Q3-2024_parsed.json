@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "file_name": "Charan-CV-Q3-2024.pdf",
+    "file_size": 134113,
+    "processing_date": "2025-10-09T16:20:50.440581",
+    "text_length": 3094,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "charan.dadi@gmail.com"
+    ],
+    "phones": [
+      "50 996 5643"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "EDUCATION  Bachelor of Technology"
+  ],
+  "job_titles": [
+    "ENGINEER",
+    "SPECIALIST",
+    "Engineer",
+    "MANAGER"
+  ],
+  "text_sample": "+971  50 996 5643  \ncharan.dadi@gmail.com  \n  CHARAN  DADI   \n \nSUMMARY  Chemical Engineer with more than 11 years of extensive experience in oil and gas \nproduction , chemical management services, business development, and account \nmanagement. Proven tr ack record of managing multimillion -dollar accounts, \ndeveloping new business opportunities, and providing technical expertise in \nupstream specialty chemicals.  \n \nOBJECTIVE To be part of an organization with good growth prospects, providing a...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 1,
+      "healthcare": 1,
+      "manufacturing": 1,
+      "consulting": 3
+    },
+    "confidence": 0.5
+  }
+}

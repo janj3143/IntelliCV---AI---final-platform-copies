@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "file_name": "John Mitchell CV.pdf",
+    "file_size": 44749,
+    "processing_date": "2025-10-09T16:21:03.301826",
+    "text_length": 8564,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "johnmitchell4@hotmail.co.uk"
+    ],
+    "phones": [],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Unico UK Ltd",
+    "Technology Training \nAC Induction Motors   WEG    Stepper Motors    Oriental Motors  \nDigital DC Drives    Sprint    Motion Gearboxes   Bayside Motion  \nAC PWM Technology",
+    "Control & Information Solutions & Services",
+    "Network Services",
+    "Safety Turnkey Solutions",
+    "Unico Inc",
+    "Motors & Technical Services",
+    "Product Selection & Technical advice \n \nTechnical Services",
+    "Condition Monitoring \nSolutions",
+    "Magnetek UK Ltd",
+    "Texas Instruments Ltd",
+    "Providing Technical Services  \nTRAINING \n \nPersonal Training \nManaging Smaller Projects    Hawksmere   \nProject Management Workshop    Kepner Tregoe \nTime Management     Reed Training \nKey Account Development & Negotiation   Pinnacle Solutions \nManagement Into Leadership   Pinnacle Solutions"
+  ],
+  "job_titles": [
+    "Manager",
+    "Engineer"
+  ],
+  "text_sample": " 1  \n \nCURRICULUM VITAE \n \nJohn Mitchell \n1 Well Street \nFinedon \nNN9 5JP \njohnmitchell4@hotmail.co.uk \n \n \nEDUCATION & ACADEMIC QUALIFICATIONS  \n \n1993     6 x C Grade    \n \n1995     Entra CVA BET 12 Basic Eng. Parts 1, 2 & 3. \n     Entra CVA GEA & SEA 3 Eng.  \n     BTEC ONC in Electrical/Electronic Eng.  \n \n1997    BTEC HNC in Electrical/Electronic Eng.  \nNVQ 3 Providing Technical Services  \nTRAINING \n \nPersonal Training \nManaging Smaller Projects    Hawksmere   \nProject Management Workshop   ...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "web_development": [
+      "React"
+    ],
+    "design": [
+      "Photoshop"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "finance": [
+      "Excel"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 3,
+      "finance": 1,
+      "marketing": 1,
+      "education": 2,
+      "consulting": 2,
+      "sales": 1
+    },
+    "confidence": 0.42857142857142855
+  }
+}

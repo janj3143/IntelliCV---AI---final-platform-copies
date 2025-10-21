@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "file_name": "Sr. Process Engineer - Oil & Gas (Hafiz M. Abubakar)_ Resume.pdf",
+    "file_size": 138828,
+    "processing_date": "2025-10-09T16:21:09.309650",
+    "text_length": 8700,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "hafiz.abubakar99@yahoo.com"
+    ],
+    "phones": [
+      "543602732"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "AINEngineeringServicesisprovidingEngineeringandprocurementconsultancytoENERFLEXLimited",
+    "SirteOilCompany",
+    "AGRITECHLtd",
+    "WorldCarrierCorporation"
+  ],
+  "job_titles": [],
+  "text_sample": "HAFIZMUHAMMADABUBAKAR|M.ScChemicalEngineering|\nSr.ProcessEngineer(Oil,Gas&Energy)\nCell#: 00971-543602732\nEmail: hafiz.abubakar99@yahoo.com\nLinkedIn: https://www.linkedin.com/in/process-engineer-hafiz-abubakar/\nNarrativeSummaryofSkills&Experience\nIamSr.ProcessEngineerhavingmorethan11+yearsexperienceinOil&Gasindustry.SkilledinFEED\nanddetaileddesignforgreenandbrownfieldprojectslikeCompression,Dehydration,GasSweetening,Fuel\nGasConditioning,andHCDPandinallaspectsofprocessengineeringincludingSimulatio...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "finance": [
+      "Excel",
+      "Compliance"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 2,
+      "healthcare": 1,
+      "finance": 1,
+      "manufacturing": 2,
+      "consulting": 2
+    },
+    "confidence": 0.2857142857142857
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "timestamp": "2025-09-30T17:08:03.096062",
+  "results": [
+    {
+      "job_title": "Software Engineer",
+      "industry": "Unknown",
+      "confidence": 0.5,
+      "salary_min": 0,
+      "salary_max": 0,
+      "market_demand": {
+        "level": "High",
+        "description": "Strong market demand with competitive salaries and growth opportunities",
+        "growth_outlook": "Excellent"
+      },
+      "remote_potential": "Unknown"
+    },
+    {
+      "job_title": "Marketing Manager",
+      "industry": "Unknown",
+      "confidence": 0.5,
+      "salary_min": 0,
+      "salary_max": 0,
+      "market_demand": {
+        "level": "Moderate",
+        "description": "Steady market demand with regular opportunities and stable career prospects",
+        "growth_outlook": "Good"
+      },
+      "remote_potential": "Unknown"
+    },
+    {
+      "job_title": "Data Scientist",
+      "industry": "Unknown",
+      "confidence": 0.0,
+      "salary_min": 0,
+      "salary_max": 0,
+      "market_demand": {
+        "level": "High",
+        "description": "Strong market demand with competitive salaries and growth opportunities",
+        "growth_outlook": "Excellent"
+      },
+      "remote_potential": "Unknown"
+    },
+    {
+      "job_title": "Registered Nurse",
+      "industry": "Unknown",
+      "confidence": 0.0,
+      "salary_min": 0,
+      "salary_max": 0,
+      "market_demand": {
+        "level": "Moderate",
+        "description": "Steady market demand with regular opportunities and stable career prospects",
+        "growth_outlook": "Good"
+      },
+      "remote_potential": "Unknown"
+    },
+    {
+      "job_title": "Financial Analyst",
+      "industry": "Unknown",
+      "confidence": 0.5,
+      "salary_min": 0,
+      "salary_max": 0,
+      "market_demand": {
+        "level": "Stable",
+        "description": "Consistent market presence with traditional career pathways",
+        "growth_outlook": "Stable"
+      },
+      "remote_potential": "Unknown"
+    }
+  ],
+  "summary": {
+    "total_jobs": 5,
+    "successful_classifications": 3,
+    "high_demand_jobs": 0,
+    "high_remote_jobs": 0
+  }
+}

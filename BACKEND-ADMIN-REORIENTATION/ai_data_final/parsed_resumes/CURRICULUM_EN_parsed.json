@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "file_name": "CURRICULUM_EN.pdf",
+    "file_size": 26840,
+    "processing_date": "2025-10-09T16:20:52.316564",
+    "text_length": 6195,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "guido.galliani@libero.it"
+    ],
+    "phones": [
+      "39-335-5326197",
+      "39-345-6791310",
+      "32 475 853255",
+      "1 459 964",
+      "1 382 787",
+      "1310759",
+      "32 475 853255",
+      "32 475 853255"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "European branch of Toyota Motor Company",
+    "CAE tools in the Company"
+  ],
+  "job_titles": [
+    "Manager",
+    "Director",
+    "Senior",
+    "Engineer"
+  ],
+  "text_sample": "CURRICULUM VITAE \nGUIDO GALLIANI \nAddress: Via Madonna della Neve 41 \n 24121 Bergamo \n Italy \nTelephone: +39-335-5326197 \n +39-345-6791310 \nE-mail: guido.galliani@libero.it\nWeb:  www.linkedin.com/in/guidogalliani\nWORK EXPERIENCE  \nFIBER S.P.A. (Treviglio – Italy), design and manufactur ing of electronics and electromechanical \ndevices for industrial automation. \nTechnical Director : 02/2010 – T ODAY  \n– Head of the Mechanical and Electronic R&D departments. \n– Cost evaluation, pre-development an...",
+  "skills_detected": {
+    "marketing": [
+      "SEM"
+    ],
+    "soft_skills": [
+      "Problem Solving"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 2,
+      "manufacturing": 1,
+      "education": 2,
+      "consulting": 1
+    },
+    "confidence": 0.2857142857142857
+  }
+}

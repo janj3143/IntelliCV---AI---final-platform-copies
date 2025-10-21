@@ -1,0 +1,12 @@
+2025-10-10 11:25:10,130 | INFO | setup_logging:50 | Complete Data Parser initialized - Log file: C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\logs\complete_data_parser_20251010_112510.log
+2025-10-10 11:25:10,144 | INFO | _discover_data_directories:158 | Found data directory: C:\IntelliCV-AI\IntelliCV\SANDBOX\data
+2025-10-10 11:25:10,144 | INFO | _discover_data_directories:158 | Found data directory: C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data
+2025-10-10 11:25:10,148 | INFO | __init__:118 | Complete Data Parser initialized
+2025-10-10 11:25:10,149 | INFO | __init__:119 | Base path: C:\IntelliCV-AI\IntelliCV\SANDBOX
+2025-10-10 11:25:10,149 | INFO | __init__:120 | Output directory: C:\IntelliCV-AI\IntelliCV\SANDBOX\ai_data\complete_parsing_output
+2025-10-10 11:25:10,149 | INFO | __init__:121 | Data directories discovered: 2
+2025-10-10 11:25:10,149 | INFO | scan_all_data_sources:167 | Starting comprehensive data source scan...
+2025-10-10 11:25:10,149 | INFO | scan_all_data_sources:184 | Scanning directory: C:\IntelliCV-AI\IntelliCV\SANDBOX\data
+2025-10-10 11:25:10,150 | INFO | scan_all_data_sources:184 | Scanning directory: C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data
+2025-10-10 11:25:10,187 | INFO | scan_all_data_sources:232 | Data source scan completed. Found 407 files across 2 directories
+2025-10-10 11:25:10,187 | INFO | scan_all_data_sources:233 | Inventory saved to: C:\IntelliCV-AI\IntelliCV\SANDBOX\ai_data\complete_parsing_output\data_inventory_20251010_112510.json

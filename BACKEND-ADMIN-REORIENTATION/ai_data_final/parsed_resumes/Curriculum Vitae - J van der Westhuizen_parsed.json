@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "file_name": "Curriculum Vitae - J van der Westhuizen.pdf",
+    "file_size": 74135,
+    "processing_date": "2025-10-09T16:20:51.129697",
+    "text_length": 11144,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "johanv.d.w@mweb.co.za"
+    ],
+    "phones": [
+      "27 22 772 2955",
+      "27 71 247 7394",
+      "3 500 000",
+      "760 000 000",
+      "31 000 000"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "FPH Consulting Services",
+    "Quality Management Systems",
+    "Tender  Review       Contract review    Project Management \nMechanical Design     Expediting    Cost Control  \nCommercial Control     Contractual Control   Commissioning    \n \nPressure Vessels & Pressurized Systems",
+    "Plant Statutory Pressure Vessel and Pressurized Systems",
+    "Problem Solving  \nConsumable Control     Welding Control    Testing Co",
+    "Environmental Managements Systems",
+    "Third Party  Certification Inspector  \nSasol       Plant Statutory Pressure Vessel and Pressurized Systems"
+  ],
+  "job_titles": [
+    "Manager",
+    "Lead",
+    "Engineer"
+  ],
+  "text_sample": " \nThe informatio n contained in this document is confidential and cannot be altered without the consent of the writer.  Page 1 of 5 CURRICULUM VITAE  \nOF \nJOHAN VAN DER WESTHUIZEN  \n \n \n \n \n \n \nPERSONAL DETAILS  \n \nFIRST NAME      Johan  \nSURNAME      Van der Westhuizen  \nNATIONALITY      South African  \nOSTAL ADDRESS     PO Box 370, Langebaan, 7357 , South Africa    \nCONTACT  NUMBER s    +27 22 772 2955  (Home); +27 71 247 7394 (Mobile)  \nPASSPORT      South African – Valid  \nINTERNATIONAL DRIV...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "cloud": [
+      "AWS"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "soft_skills": [
+      "Problem Solving"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "manufacturing",
+    "industry_scores": {
+      "healthcare": 1,
+      "finance": 1,
+      "manufacturing": 2,
+      "education": 1,
+      "consulting": 2,
+      "sales": 1
+    },
+    "confidence": 0.3333333333333333
+  }
+}

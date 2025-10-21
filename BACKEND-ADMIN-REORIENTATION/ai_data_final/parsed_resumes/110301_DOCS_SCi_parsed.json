@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "file_name": "110301_DOCS_SCi.pdf",
+    "file_size": 2358163,
+    "processing_date": "2025-10-09T16:20:48.182708",
+    "text_length": 4812,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "roellig@de.tuv.com",
+      "luft@de.tuv.com"
+    ],
+    "phones": [
+      "0221 806-2422",
+      "0221 806",
+      "49221 806-2756",
+      "49221 806-1349"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Telecommunication Systems",
+    "TUV personnel to\nconduct the required activities at the TUV premises and laboratories in Co",
+    "Information Technology"
+  ],
+  "job_titles": [
+    "manager"
+  ],
+  "text_sample": "Curriculum University studies of Stefano Cicetti \n \n \nEnrolment date: October 1999 \n \n1. Mathematical Analysis 1 22/02/2000 30/30 honours \n2. Geometry 29/02/2000 30/30 honours \n3. Information Technology 1 21/06/2000 28/30 \n4. General Physics 1 28/06/2000 28/30 \n5. English language 29/09/2000 Certified \n6. Mathematical Analysis 2 06/02/2001 30/30 \n7. Information Technology 2 16/02/2001 27/30 \n8. Rational Mechanics 26/06/2001 30/30 \n9. General Physics 2 27/06/2001 30/30 \n10. Chemistry 03/07/2001 3...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "finance": [
+      "Compliance"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "education",
+    "industry_scores": {
+      "technology": 1,
+      "finance": 1,
+      "education": 3,
+      "consulting": 1
+    },
+    "confidence": 0.5
+  }
+}

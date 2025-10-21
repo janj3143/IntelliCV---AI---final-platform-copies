@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "file_name": "Michael Minkevich CV 09_10E (PE).pdf",
+    "file_size": 198512,
+    "processing_date": "2025-10-09T16:21:05.022276",
+    "text_length": 9287,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "mminkevich@gmail.com"
+    ],
+    "phones": [
+      "7 (495) 364 9137"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "StarForce Technologies Ltd",
+    "StarForce Technologies",
+    "Product Engineering & Embedded Systems",
+    "Technology Services",
+    "Innov ation and Technology",
+    "Department of Information Technologies",
+    "NOVOSOFT Inc",
+    "Product Engineering \nand Embedded  Systems",
+    "MIR Media Company",
+    "Sales Manager \n \nInstitute of In formation Systems"
+  ],
+  "job_titles": [
+    "consultant",
+    "Engineer",
+    "Director",
+    "manager",
+    "VP",
+    "Chief",
+    "Manager"
+  ],
+  "text_sample": "Mikhail M. Minkevich  \n \nContacts : Phone: +7 (495) 364 9137  (mobile)  E-mail: mminkevich@gmail.com   \n \n \nSummary:  \n result-oriented business executive  with extensive international experience;  \n cross-industry and cross -functional background ;  \n proven results in  building effective organizations;  \n start-up and fundraising experience;  \n comprehensive  knowledge of the modern hi-tech landscape including in-depth understanding \nof various technologies and platforms , industry  trend...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "project_management": [
+      "Agile"
+    ],
+    "soft_skills": [
+      "Communication",
+      "Strategic Planning"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 2,
+      "finance": 2,
+      "manufacturing": 2,
+      "education": 2,
+      "consulting": 4,
+      "sales": 1
+    },
+    "confidence": 0.6666666666666666
+  }
+}

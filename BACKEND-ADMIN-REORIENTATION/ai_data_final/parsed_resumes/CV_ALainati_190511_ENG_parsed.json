@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "file_name": "CV_ALainati_190511_ENG.pdf",
+    "file_size": 75143,
+    "processing_date": "2025-10-09T16:20:56.658110",
+    "text_length": 7587,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "andrea_lainati@msn.com"
+    ],
+    "phones": [
+      "2003 20060628",
+      "39 347 1212511",
+      "2003 20060628",
+      "420133",
+      "2003 20060628"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [],
+  "job_titles": [
+    "manager",
+    "Principal",
+    "engineer"
+  ],
+  "text_sample": "Pag e 1 / 3 4 Curriculum vitae of   \nLainati Andrea For m ore information on  Europass  go to : http://europass.cedefop.europa.eu  \n© European communities, 2003 20060628 \n     \n \nCurriculum Vitae  \nEuropass   \n  \nPersonal information  \nFirst name(s) / Surname(s) Andrea Lainati \nAddress(es)  Via A. Moro, 9  \nI420824 Lazzate (MB, Italy) \nTelephone(s)  +39 347 1212511   \nE4mail  andrea_lainati@msn.com  \nNationality Italian \nDate of birth 12/12/1981 \nGender Male \n  \nDesired employment / \nOccupationa...",
+  "skills_detected": {
+    "programming": [
+      "C++",
+      "Go"
+    ],
+    "marketing": [
+      "SEO"
+    ],
+    "finance": [
+      "SAP"
+    ],
+    "soft_skills": [
+      "Communication",
+      "Problem Solving"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 3,
+      "healthcare": 1,
+      "finance": 1,
+      "manufacturing": 2,
+      "education": 2,
+      "consulting": 1
+    },
+    "confidence": 0.42857142857142855
+  }
+}

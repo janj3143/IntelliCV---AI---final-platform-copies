@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "file_name": "Lee Preston Details 082011.docx",
+    "file_size": 46524,
+    "processing_date": "2025-10-09T16:21:04.136584",
+    "text_length": 10127,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "lee.preston@hotmail.co.uk"
+    ],
+    "phones": [
+      "01455) 615880"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Automatic Valve Systems Ltd",
+    "Automatic Valve Systems",
+    "Program and Testing of PLC Control Systems",
+    "Career History\nMETCO Services Ltd",
+    "Honeywell Control Systems Ltd",
+    "New business Sales and Account management of End Users and Systems",
+    "Secured significant single client opportunities\nDeveloped practice application domains of expertise\n\nRockwell Automation Ltd",
+    "Honeywell Control Systems",
+    "Pera Innovation Ltd",
+    "Software Services",
+    "Testing of Stepper Motor Control Systems",
+    "Career History\nMETCO Services",
+    "Business Manager Software Services \t\nHead of Software Services",
+    "Rockwell Automation\n\nValue Selling\t\t\t\t\tMercuri International\n\nValubase Selling \t\t\t\tHolden Corporation",
+    "Learning International\n\nSelling Information Technology",
+    "ABB Control Ltd"
+  ],
+  "job_titles": [
+    "Engineer",
+    "Consultant",
+    "Specialist",
+    "Manager",
+    "senior"
+  ],
+  "text_sample": "Lee Preston\n2, Sandford Close,\nHinckley,\nLeicestershire,\nLE10 1JJ\nTel: (01455) 615880\nEmail: lee.preston@hotmail.co.uk\n\nProfile\nAn accomplished and results driven business leader, with over 20 years experience within the Software, Technology and Automation sectors. Posses a proven track record of leadership, management, business development and account management for technical systems and solutions sales. Complimented by a solid background in product management and marketing. An excellent commun...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "finance": [
+      "Excel",
+      "Compliance"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 2,
+      "finance": 2,
+      "manufacturing": 2,
+      "education": 2,
+      "consulting": 4,
+      "sales": 3
+    },
+    "confidence": 0.6666666666666666
+  }
+}

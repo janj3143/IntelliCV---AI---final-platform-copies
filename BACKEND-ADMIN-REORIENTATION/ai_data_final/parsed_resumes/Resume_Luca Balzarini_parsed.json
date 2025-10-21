@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "file_name": "Resume_Luca Balzarini.pdf",
+    "file_size": 81311,
+    "processing_date": "2025-10-09T16:21:07.300044",
+    "text_length": 6799,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "ilclasse@interfree.it"
+    ],
+    "phones": [
+      "0039-349",
+      "8602852"
+    ],
+    "names": [
+      "Luca Giuseppe Balzarini"
+    ],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "ECU High Series \n \nCompany",
+    "Automotive Company \nCompany",
+    "MM Powertrain I ndia Pvt Ltd"
+  ],
+  "job_titles": [
+    "Engineer",
+    "Director",
+    "Coordinator",
+    "Manager",
+    "engineer"
+  ],
+  "text_sample": "CURRICULUM VITAE-RESUME \n \nPERSONAL DETAILS \nName      Luca Giuseppe Balzarini \n \nBirth date and Place    09 th  of November, 1979 – Milan, Italy  \n \nPermanent Address Via Berlinguer 14, 21010 Cardano al Campo (VA), Ita ly \n \nContact  phone 0039-349 8602852 \n  \nE-mail ilclasse@interfree.it \n \nPROFESSIONAL EXPERIENCES \nFrom September 2010:   Magneti Marelli SPA, Plant o f Corbetta (MI, Italy) \n                                          Operating  Unit Manager – ECU High Series \n \nCompany: MM SPA, ...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "finance": [
+      "SAP"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "manufacturing",
+    "industry_scores": {
+      "finance": 1,
+      "manufacturing": 2,
+      "education": 1
+    },
+    "confidence": 0.3333333333333333
+  }
+}

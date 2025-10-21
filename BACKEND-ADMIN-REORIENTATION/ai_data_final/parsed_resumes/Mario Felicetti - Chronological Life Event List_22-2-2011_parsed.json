@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "file_name": "Mario Felicetti - Chronological Life Event List_22-2-2011.pdf",
+    "file_size": 44155,
+    "processing_date": "2025-10-09T16:21:04.478755",
+    "text_length": 4041,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "mario.felicetti@albemarle.com"
+    ],
+    "phones": [
+      "20 6347064",
+      "6 51873605",
+      "20 4160627"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Shell Global Solutions",
+    "Board European Student of Technology",
+    "Environmental Technology"
+  ],
+  "job_titles": [
+    "manager",
+    "Senior",
+    "Coordinator",
+    "Engineer"
+  ],
+  "text_sample": "CHRONOLOGICAL LIFE EVENTS LIST \n \nMARIO FELICETTI \nBorn: January 18 1968; Italian nationality; Married with one child \nCurrent Address:  Sem Presserhof 109, 1087 JE Amsterdam – The Netherlands \nOffice:   +31 (0)20 6347064  Mobile: +31 (0)6 51873605 \nHome:   +31 (0)20 4160627   \nE-mail (office): mario.felicetti@albemarle.com \n \nEducation \n\u0001 Dec 2008:  Master in Business Administration  \nRotterdam School of Management. Erasmus University, Rotterdam (NL) \n \n\u0001 May 1998:  Master Chemical Engineering ...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "finance": [
+      "SAP"
+    ],
+    "soft_skills": [
+      "Leadership"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "manufacturing",
+    "industry_scores": {
+      "technology": 1,
+      "manufacturing": 2,
+      "education": 1
+    },
+    "confidence": 0.3333333333333333
+  }
+}

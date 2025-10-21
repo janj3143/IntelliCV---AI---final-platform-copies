@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "file_name": "Sergei Ivanov_process specialist_Dec2023 - 1.docx",
+    "file_size": 48909,
+    "processing_date": "2025-10-09T16:21:08.452078",
+    "text_length": 24994,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [],
+    "phones": [
+      "2005-2010"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "My aspiration is for my next career move to join a major Company",
+    "Titas Gas Transmission and Distribution Co",
+    "Saudi Arabian Chevron and Kuwait Gulf Oil Company"
+  ],
+  "job_titles": [
+    "Senior",
+    "Engineer",
+    "junior",
+    "lead",
+    "Lead",
+    "engineer"
+  ],
+  "text_sample": "RESUME\nSergei Ivanov\n\nEducation: \tMSc in Chemical Engineering from St. Petersburg State Technical University, Russia, 2005-2010 \nResidence: \tAbu Dhabi, UAE \nNationality: \tRussian\nDate of Birth: \t29 February, 1988\nLanguages: \tEnglish, Russian\nStatus: \t\tMarried with two children\n\n\nI have 13 years of experience in Oil & Gas and midstream Process Engineering. My design experience spans feasibility studies, FEED and detailed design phases of projects. I am very familiar with a wide spectrum of proces...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "web_development": [
+      "React"
+    ],
+    "finance": [
+      "Excel"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 4,
+      "healthcare": 1,
+      "manufacturing": 2,
+      "education": 1,
+      "consulting": 3,
+      "sales": 1
+    },
+    "confidence": 0.5714285714285714
+  }
+}

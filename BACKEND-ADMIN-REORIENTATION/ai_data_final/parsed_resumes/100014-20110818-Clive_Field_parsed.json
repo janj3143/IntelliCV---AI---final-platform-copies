@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "file_name": "100014-20110818-Clive_Field.docx",
+    "file_size": 18469,
+    "processing_date": "2025-10-09T16:20:47.703266",
+    "text_length": 6848,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "avoint@yahoo.com"
+    ],
+    "phones": [
+      "1376 560644"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Agema IRS Ltd",
+    "AVO International Ltd",
+    "Copley Motion Systems",
+    "Has now been taken over by Nasdaq listed FLIR Systems"
+  ],
+  "job_titles": [
+    "Manager",
+    "Engineer"
+  ],
+  "text_sample": "Curriculum Vitae\n      \tClive George Field\n\n\nNationality: - British\n\nDate of Birth: - 12.09.1966\n\nAddress: - \t8 Twelve Acres\n\t\tBraintree,\n\t\tCM7 3RN,\nUK.\n\nTelephone: - Mobile +44 (0)1376 560644\n\nStatus: - Married, 2 Children.\n\nE-mail:- avoint@yahoo.com\n\nHigher Education:-\n\nBTEC Ordinary Certificate in Electrical Engineering (ONC)\nBTEC Higher National Certificate in Electrical Engineering (HNC)\nMiller Heiman Conceptual Selling and Large Account Management\n\nLanguage skills:-\n\nEnglish - Fluent\nThai ...",
+  "skills_detected": {
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "education",
+    "industry_scores": {
+      "healthcare": 1,
+      "education": 2,
+      "consulting": 2,
+      "sales": 1
+    },
+    "confidence": 0.3333333333333333
+  }
+}

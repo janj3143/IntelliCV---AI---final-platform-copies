@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "file_name": "Nassar CV2023.pdf - 1.pdf",
+    "file_size": 160319,
+    "processing_date": "2025-10-09T16:21:06.301901",
+    "text_length": 9863,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [],
+    "phones": [
+      "012 27444672",
+      "50 7270 804",
+      "971 50 727 0804",
+      "2012 27444672"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Basic and Detailed Engineering Services",
+    "Egyptian Natural Gas Company"
+  ],
+  "job_titles": [
+    "consultant",
+    "Senior",
+    "Engineer",
+    "Consultant",
+    "lead",
+    "Manager",
+    "Lead",
+    "engineer"
+  ],
+  "text_sample": " \n  \nPhone 002 -012 27444672   \n           00971 50 7270 804                                                                   \nE-Mail : mnassar88 @hotmail.com  \nMohammed  Adel Nassar         \nProcess Simulation Consultant|  Process Design|  Business Development|  New Energy  \n|CCUS|  Project Lead                                 \n \nPERSONAL INFORMATION  \n \n• Date of birth: 17/09/1988  \n• Place of birth: Egypt  \n• Address  (1): The Lofts east -Downtown -Dubai -UAE   \n• Address  (2): District 1 ar...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "finance": [
+      "Excel",
+      "Compliance"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 3,
+      "finance": 1,
+      "manufacturing": 1,
+      "consulting": 3,
+      "sales": 1
+    },
+    "confidence": 0.42857142857142855
+  }
+}

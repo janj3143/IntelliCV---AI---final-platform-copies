@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "file_name": "cvAndreKlaassenEnglish.pdf",
+    "file_size": 179871,
+    "processing_date": "2025-10-09T16:20:56.139031",
+    "text_length": 4330,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "andre@windowseat.nl",
+      "apklaassen@caiw.nl"
+    ],
+    "phones": [
+      "5924424",
+      "626 093620"
+    ],
+    "names": [
+      "Andr"
+    ],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "VAPRO Process Technology",
+    "HBO Chemical Technology"
+  ],
+  "job_titles": [
+    "Manager",
+    "Senior"
+  ],
+  "text_sample": " \n 1\n Curriculum Vitae.  \n \nPERSONALIA  \nName   André Klaassen  \nAddress   Prinsekade 10  \nCity  3142 GJ Maassluis  \nCountry   The Netherlands  \nTelephone  +31(0)10 -5924424,  mobile: +31(0) 626 093620  \ne-mail   andre@windowseat.nl   apklaassen@caiw.nl  \n \n \n \nEMEA Technical Sales Manager in the Biotech to \nFood & Fuel business.  \n \n \nAndré has started his career in the production of Antibiotics  and Enzymes. He developed \nthrough R&D , Applications  and Technical Support  function s into an ex...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "manufacturing",
+    "industry_scores": {
+      "technology": 1,
+      "manufacturing": 2,
+      "education": 1,
+      "consulting": 1,
+      "sales": 1
+    },
+    "confidence": 0.3333333333333333
+  }
+}

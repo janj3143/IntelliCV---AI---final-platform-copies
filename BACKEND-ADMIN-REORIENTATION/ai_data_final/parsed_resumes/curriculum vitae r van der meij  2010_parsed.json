@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "file_name": "curriculum vitae r van der meij  2010.pdf",
+    "file_size": 489056,
+    "processing_date": "2025-10-09T16:20:52.099120",
+    "text_length": 9840,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [],
+    "phones": [
+      "31-33 4620100",
+      "6-46252145"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Criterion Catalysts and Technology",
+    "Catalyst Company",
+    "Develop Technology",
+    "Business Manager Hydrocracking and Technology",
+    "General Manager Clean  Fuels Technology",
+    "Sales Manager North America and Global Task Force Leader Hydrocracking and Technology",
+    "Shell Global Solutions",
+    "Founder KiOR Inc",
+    "This \nresulted in successful licensing business for Shell with CRI being fully integrated in Shell \nGloval Solutions",
+    "Integration & Business alignment between Criterion and Shell \nGlobal Solutions"
+  ],
+  "job_titles": [
+    "Director",
+    "Consultant",
+    "manager",
+    "Manager",
+    "Lead",
+    "senior"
+  ],
+  "text_sample": " \nCurriculum Vitae  \nRob van der Meij  \n \n \nPersonal data  \n \nAddress   Prins Constantijnlaan 15  \n  3818 ZH Amersfoort  \n  the Netherlands  \nPhone   +31-33 4620100 (home)  \n  +31-6-46252145 (mobile)  \nBirth date   April  1, 1965  \nMarital Status    Married, 2 children  \n \nSummary  \n \nExperienced international general/ business manager. Strong in customer/market orientation \nand  business/strategy/technology development and deployment . People skills recognized \nand respected. High capability to...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "soft_skills": [
+      "Leadership"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 2,
+      "finance": 2,
+      "manufacturing": 3,
+      "education": 3,
+      "consulting": 4,
+      "sales": 1
+    },
+    "confidence": 0.6666666666666666
+  }
+}

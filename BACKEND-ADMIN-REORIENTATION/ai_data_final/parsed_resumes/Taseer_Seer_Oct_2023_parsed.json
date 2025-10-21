@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "file_name": "Taseer_Seer_Oct_2023.pdf",
+    "file_size": 295415,
+    "processing_date": "2025-10-09T16:21:09.661651",
+    "text_length": 6906,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "taseer.seer@gmail.com"
+    ],
+    "phones": [
+      "971503797163"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Well versed in Windows Operating Systems"
+  ],
+  "job_titles": [
+    "Lead",
+    "Senior",
+    "Engineer",
+    "engineer"
+  ],
+  "text_sample": "TASEER  SEER                                \nAddress: Villa 53b, Street 1b, Al Safa 1 , Dubai  \nPh: +971503797163  Email: taseer.seer@gmail.com   \n \nINTRODUCTION  \nSenior Applications  Engineer with over 1 7 years  experie nce related to the  Oil and Gas In dustry. Varied  Experience  includes  providing \nsoftware related technical  support to clients , buildi ng business cas es, proposal s, and te chnical presentations  related to process engineer ing \nsoftware. Experience also includes  detail...",
+  "skills_detected": {
+    "marketing": [
+      "SEM"
+    ],
+    "soft_skills": [
+      "Leadership"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 2,
+      "healthcare": 1,
+      "consulting": 2
+    },
+    "confidence": 0.2857142857142857
+  }
+}

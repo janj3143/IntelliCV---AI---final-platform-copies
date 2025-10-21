@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "file_name": "Curriculum Vitae for Ken A G Smith Nov 2011.pdf",
+    "file_size": 71017,
+    "processing_date": "2025-10-09T16:20:51.744182",
+    "text_length": 13899,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "kag.smith@gmail.com"
+    ],
+    "phones": [
+      "082 893 0700",
+      "082 893 0700",
+      "7802285217081",
+      "082 893 0700",
+      "082 893 0700",
+      "082 893 0700",
+      "082 893 0700",
+      "082 893 0700",
+      "1999-2001",
+      "082 893 0700"
+    ],
+    "names": [
+      "Identity"
+    ],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Successes \n \n \n \n \n \n \n \n \n \nAdditional courses \ncompleted  \n \n \n \n \n \nCompany",
+    "Events Coordination Company",
+    "CAREER HISTORY  \n \n \nCompany",
+    "Functions  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nSuccesses  \n \n \n \n \n \n \n \n \n \n \n \nAdditional courses \ncompleted  \n \n \n \nCompany",
+    "Financial Advisory and Intermediary Services"
+  ],
+  "job_titles": [
+    "Manager",
+    "COORDINATOR",
+    "MANAGER"
+  ],
+  "text_sample": "P1 of 8 \n \n \n \n \n   \n \nCURRICULUM VITAE: \n \nKENNETH SMITH \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n      TEL:  082 893 0700 \nEMAIL: kag.smith@gmail.com \n \n             PRIVATE & CONFIDENTIAL  \n \n \n CV - Kenneth Smith – 082 893 0700 2 \nPERSONAL INFORMATION \n  \n \nName  \n \n \nIdentity number  \n \n \nDate of Birth  \n \n \nMarital Status  \n \n \nNationality  \n \n \nLanguages  \n \n \n \nCriminal offences  \n \n \nDriver’s License  \n \n \nHealth  \n \n \nPostal address \n \n \n \nResidential \n \n \n \n \n \n \n \n \n \n \n \n \n...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "databases": [
+      "Oracle"
+    ],
+    "finance": [
+      "Excel"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Communication",
+      "Strategic Planning"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 2,
+      "finance": 1,
+      "manufacturing": 2,
+      "education": 2,
+      "consulting": 1,
+      "sales": 1
+    },
+    "confidence": 0.2857142857142857
+  }
+}

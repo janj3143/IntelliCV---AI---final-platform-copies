@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "file_name": "UK-2022-_Process_Team_Head__4___1_.pdf",
+    "file_size": 224290,
+    "processing_date": "2025-10-09T16:21:10.421554",
+    "text_length": 29919,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [],
+    "phones": [
+      "971-509039592"
+    ],
+    "names": [
+      "Utkarsh"
+    ],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Analysis\n&\ndetailed\nstudy\nwork\nfor\nGlaxo\nI\nLtd",
+    "Process\nLead\nPMC\nrole\nfor\nTurkmengas\nProject\nFEED\nplus\nEPC\nproject\nunits \nwork\nallotted\nto\nAker\nSolutions",
+    "FEED\nPlus \nEPC\nProject\nfor\nTurkmengas\nCompany",
+    "NGL\nTrain\nEPC \nProject\nGASCO\nAbu\nDhabi\nGas\nIndustries \nLtd",
+    "KM\nHDPE\nPipeline\nfor\nwater \nSupply\nfor\nShree\nCement\nIndustries\nLtd",
+    "PROMAX\n&\nIN \nHOUSE\nDEVELOPED\nSPREAD\nSHEETS\nKBR\nInternational\nInc",
+    "Contr actor\nEngineers\nIndia \nLtd",
+    "Global\nProcess\nSystem\nLLC",
+    "China\nPetroleum\nPipeline\nEngineering\nCorporation",
+    "Petrofac\nInternational\nLtd",
+    "Construction\nCorp",
+    "Haldia\nat\nToyo \nEngineering\nIndia\nLtd",
+    "CANADA\nLtd",
+    "CCC\nLtd",
+    "Salalah\nMethanol\nCompany",
+    "Numaligarh\nRefinery\nLtd",
+    "Scientific\nCo",
+    "GASCO\nAbu\nDhabi\nGas\nIndustries\nLtd",
+    "Egypt\nRefinery\nCompany",
+    "HSE\nTraining\nby\nNational\nTraining\nInstitute\nof\nOman\nfrom\nWoodgroup\nCCC \nLtd",
+    "Technip \nAlso\nworked\nfor\nFlushing\nplans\nfor\nNumaligarh \nRefinery\nLtd",
+    "I\nLtd",
+    "Penspen\nInternational\nLtd",
+    "Worked\non\nHAZOP\nStudies\nfor\nNational \nPetroleum\nCo"
+  ],
+  "job_titles": [
+    "Engineer",
+    "Junior",
+    "Consultant",
+    "Manager",
+    "Lead",
+    "Principal"
+  ],
+  "text_sample": "CURRICULUM\nVITAE\nName:\nUtkarsh\nDinkar\nKulkarni\nDesignation:\nProcess\nDiscipline\nHead\nNationality:\nIndian\nEducation:\nB.E.\n(Chemical\nEngineer),\nD.B.M, \nMumbai\nUniversity ,\nMumbai,\nIndia\nProfessional\nAffiliation:\nIndian\nInstitute\nof\nChemical\nEngineers,\nIICHE\nContact\nDetails:\nkulkarni_utkarsh@redif fmail.com\n,\nMo.-+971-509039592\nSUMMAR Y\n:\n26+Y ears\nof\nProcess\nDesign\nexperience\nin\nthe\nfield\nof\nUpstream\nOil\n&\ngas\nProjects, \nGas\nProcessing,\nRefineries,\nPetrochemicals,\nExperience\nincludes\nFeasibility \nS...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "web_development": [
+      "React"
+    ],
+    "marketing": [
+      "SEO"
+    ],
+    "finance": [
+      "Compliance"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 2,
+      "healthcare": 1,
+      "finance": 1,
+      "marketing": 1,
+      "manufacturing": 1,
+      "education": 1,
+      "consulting": 2,
+      "sales": 2
+    },
+    "confidence": 0.2857142857142857
+  }
+}

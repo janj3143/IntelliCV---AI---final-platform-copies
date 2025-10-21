@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "file_name": "CV_KS110124.pdf",
+    "file_size": 64865,
+    "processing_date": "2025-10-09T16:20:57.789744",
+    "text_length": 4203,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "krzysztof.sapieszko@ge.com",
+      "kssmok@poczta.fm"
+    ],
+    "phones": [
+      "48 22) 5205399",
+      "48 601710755"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Design work for Control Systems",
+    "Safety Systems",
+    "Westinghouse Electric Poland Ltd",
+    "Responsible for selling of the products and servic es for GE \nMeasurement & Control Solutions",
+    "Emerson Process Management Power & Water Solutions",
+    "Warsaw University of Technology",
+    "Institute of Aviation in Warsaw \nDepartment of Avionics and Integration of Systems",
+    "Warsaw \nTPS Systems"
+  ],
+  "job_titles": [
+    "Manager",
+    "Engineer"
+  ],
+  "text_sample": " \n1/2  CURRICULUM VITAE  \nKRZYSZTOF SAPIESZKO \n \n3 Maja 62 Street \n05B420 Józefów, Poland \nTel (+48 22) 5205399;+48 601710755,      Born: May 5th,1969 \nEmail: krzysztof.sapieszko@ge.com ; or kssmok@poczta.fm   Marital status: Married \nExperience: 2007–present GE Energy \nSales Manager for Poland and Baltic Countries  \n• Responsible for selling of the products and servic es for GE \nMeasurement & Control Solutions. Creation of sellin g strategy \nand marketing politicks for supervised area. Main i n...",
+  "skills_detected": {
+    "programming": [
+      "C++",
+      "Go"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "finance": [
+      "SAP"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "manufacturing",
+    "industry_scores": {
+      "manufacturing": 1,
+      "education": 1,
+      "consulting": 1
+    },
+    "confidence": 0.16666666666666666
+  }
+}

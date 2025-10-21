@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "file_name": "CV_Alberto_LOZANO.docx",
+    "file_size": 27594,
+    "processing_date": "2025-10-09T16:20:56.662968",
+    "text_length": 4956,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "alozanoballesteros@hotmail.com"
+    ],
+    "phones": [
+      "2005-2007",
+      "2003-2004"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Spanish Oil Company",
+    "French Oil Company",
+    "KBC Advanced Technologies",
+    "IFP Group Technologies"
+  ],
+  "job_titles": [
+    "Manager",
+    "Consultant",
+    "manager",
+    "Engineer"
+  ],
+  "text_sample": "\n\n\nPersonal Details\n\nE-mail                                :   alozanoballesteros@hotmail.com\nDate of Birth                      :  Madrid, 13 August 1977, Spain.\n\nProfessional Experience\n\n2007-present: « KBC Advanced Technologies », .\nProcess Consultant: \n\nScheduler Manager in a new refinery within a O&M contract supervising a team of 10 people. \nRefinery monitoring. Blending optimization. Operations instructions. Scheduling weekly plan.\nImplementation and development of Forward. Writing workin...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "web_development": [
+      "React"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "manufacturing",
+    "industry_scores": {
+      "technology": 2,
+      "manufacturing": 3,
+      "consulting": 1
+    },
+    "confidence": 0.5
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "file_name": "CV Preity-1.pdf",
+    "file_size": 606831,
+    "processing_date": "2025-10-09T16:20:54.584772",
+    "text_length": 24931,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "Samnams55@yahoo.com"
+    ],
+    "phones": [
+      "589-784-910",
+      "567-597-359",
+      "150-200",
+      "171200001",
+      "180100015",
+      "180100011"
+    ],
+    "names": [
+      "Employment"
+    ],
+    "locations": [],
+    "job_titles": [
+      "Company Name Employment dates"
+    ]
+  },
+  "companies": [
+    "DubaiChina Petroleum\nEngineering Co",
+    "UAE\nR O L E\nSENIOR PROCESS ENGINEER\nBasrah Gas Company",
+    "Indian Oil Corporation Ltd",
+    "Dorf Ketal Specialty Chemicals Pvt\nLtd",
+    "Akry Organics Pvt Ltd",
+    "ExterranSoccar Aurora Limited",
+    "South Gas Company",
+    "SABIC\nE&PM engaged Larsen and Toubro\nLimited through Long Term Contract to\nprovide Engineering Services",
+    "Technical Services",
+    "Hydraulic Calcul ations using Pipenet Software by Sunrise Systems Limited",
+    "Hiring ofSkid Mounted Production Facilities with O&M Services",
+    "Surge Analysis Software by Sunrise Systems",
+    "BP ROO\nWORKH I S T O R Y\nSr\nNoJob Title Company",
+    "Hydraulic Calcul ations using Pipenet Software by Sunrise Systems",
+    "SABIC\nE&PM engaged Larsen and Toubro\nLimited",
+    "Basrah Gas Company"
+  ],
+  "job_titles": [
+    "Senior",
+    "Engineer",
+    "ENGINEER",
+    "SENIOR",
+    "lead",
+    "Manager",
+    "Lead",
+    "LEAD",
+    "MANAGER"
+  ],
+  "text_sample": "C O N T A C T\n+971 -589-784-910\n+971 -567-597-359\nSamnams55@yahoo.com\nDubai,UAE\nLinkedin.com/ https://www.\nlinkedin.com/in/preeti -\nsantani -9420b259\nE D U C A T I O N\nCHEMICAL ENGINEERING\nMajor Education -M.tech\nUniversity Name –M.S.U\nBaroda\n2005 -2007\nS K I L L S\n·Flare Relief and PSV Sizing\n·Surge Calculations for Oil\ntransfer and Fire Water\nnetwork –Transient/Olga\n·Hydraulic Simulation –\nPipenet/Hysys\n·Blowdown and\nDepressurisation\nCalculations –SHELL DEP\n·HAZID/HAZOP/SIL (Desktop\nReview)\n·H...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "web_development": [
+      "React"
+    ],
+    "marketing": [
+      "SEO"
+    ],
+    "finance": [
+      "Excel",
+      "SAP",
+      "Compliance"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 3,
+      "healthcare": 1,
+      "finance": 3,
+      "manufacturing": 2,
+      "consulting": 3,
+      "sales": 2
+    },
+    "confidence": 0.42857142857142855
+  }
+}

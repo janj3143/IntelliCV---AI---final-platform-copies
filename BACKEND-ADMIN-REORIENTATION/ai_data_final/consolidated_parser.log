@@ -1,0 +1,1859 @@
+2025-10-09 16:19:51,899 - __main__ - INFO - Starting consolidated data processing...
+2025-10-09 16:19:51,899 - __main__ - INFO - Processing: (Honeywell) Life Safety - Site Leader Trieste Mar 2011.doc
+2025-10-09 16:19:51,899 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,899 - __main__ - INFO - Processing: 06.06.2011_CV_Murat.pdf
+2025-10-09 16:19:51,899 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:51,910 - __main__ - INFO - Processing: 100011-20110810-abhay_patel.doc
+2025-10-09 16:19:51,910 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,911 - __main__ - INFO - Processing: 100014-20110818-Clive_Field.docx
+2025-10-09 16:19:51,912 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,912 - __main__ - INFO - Processing: 100025-20110920-Paolo_Fella.doc
+2025-10-09 16:19:51,913 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,913 - __main__ - INFO - Processing: 100032-20111014-EVANGELOS_KALAMATIANOS.doc
+2025-10-09 16:19:51,913 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,913 - __main__ - INFO - Processing: 100037-20111030-Sidney_DRosario.doc
+2025-10-09 16:19:51,915 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,916 - __main__ - INFO - Processing: 100044-20111201-Muhammad_Munla_Ali.pdf
+2025-10-09 16:19:51,916 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:51,917 - __main__ - INFO - Processing: 100047-20111209-Salvatore_Speciale.pdf
+2025-10-09 16:19:51,917 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:51,918 - __main__ - INFO - Processing: 100051-20111222-Puscoci.doc
+2025-10-09 16:19:51,918 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,919 - __main__ - INFO - Processing: 100065-20120207-HASNAIN_ASFANDIYAR.doc
+2025-10-09 16:19:51,920 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,920 - __main__ - INFO - Processing: 110119 Curriculum Vitae Torsten Heiland.pdf
+2025-10-09 16:19:51,920 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:51,920 - __main__ - INFO - Processing: 110301_CV_Stefano_Cicetti.doc
+2025-10-09 16:19:51,923 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,923 - __main__ - INFO - Processing: 110301_DOCS_SCi.pdf
+2025-10-09 16:19:51,924 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:51,925 - __main__ - INFO - Processing: 111206 CV Dean Cooper.pdf
+2025-10-09 16:19:51,925 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:51,926 - __main__ - INFO - Processing: 14.10.11.doc
+2025-10-09 16:19:51,926 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,926 - __main__ - INFO - Processing: 180125PurtovCV_Eng.pdf
+2025-10-09 16:19:51,926 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:51,926 - __main__ - INFO - Processing: 20110417_CV_ janj.doc
+2025-10-09 16:19:51,926 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,926 - __main__ - INFO - Processing: 20110622_Robert Heikens_CV Format.pdf
+2025-10-09 16:19:51,928 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:51,928 - __main__ - INFO - Processing: 2022-CV Yannick_MONGEL.pdf
+2025-10-09 16:19:51,929 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:51,929 - __main__ - INFO - Processing: 30644.doc
+2025-10-09 16:19:51,929 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,930 - __main__ - INFO - Processing: 37572KEHA.doc
+2025-10-09 16:19:51,930 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,931 - __main__ - INFO - Processing: 37607Baro.doc
+2025-10-09 16:19:51,931 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,932 - __main__ - INFO - Processing: 37612STAM.doc
+2025-10-09 16:19:51,933 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,934 - __main__ - INFO - Processing: 37642Khum.doc
+2025-10-09 16:19:51,935 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,935 - __main__ - INFO - Processing: 37648VAN.doc
+2025-10-09 16:19:51,935 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,935 - __main__ - INFO - Processing: 37708Chan.doc
+2025-10-09 16:19:51,935 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,935 - __main__ - INFO - Processing: 37721McDo.doc
+2025-10-09 16:19:51,938 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,938 - __main__ - INFO - Processing: 37775Bris.doc
+2025-10-09 16:19:51,938 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,938 - __main__ - INFO - Processing: 37807Will.doc
+2025-10-09 16:19:51,939 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,939 - __main__ - INFO - Processing: 37858Sing.doc
+2025-10-09 16:19:51,939 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,941 - __main__ - INFO - Processing: 37906KLYA.doc
+2025-10-09 16:19:51,941 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,941 - __main__ - INFO - Processing: 37941Mo.doc
+2025-10-09 16:19:51,942 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,942 - __main__ - INFO - Processing: 38038East.doc
+2025-10-09 16:19:51,942 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,942 - __main__ - INFO - Processing: 38165McDo.doc
+2025-10-09 16:19:51,943 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,943 - __main__ - INFO - Processing: 38167Litt.doc
+2025-10-09 16:19:51,943 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,943 - __main__ - INFO - Processing: 38217Ghiy.doc
+2025-10-09 16:19:51,943 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,943 - __main__ - INFO - Processing: 38268PAUL.doc
+2025-10-09 16:19:51,943 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,943 - __main__ - INFO - Processing: 38272BEIR.doc
+2025-10-09 16:19:51,943 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,943 - __main__ - INFO - Processing: 38282RAMD.doc
+2025-10-09 16:19:51,943 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,947 - __main__ - INFO - Processing: 38286Drap.doc
+2025-10-09 16:19:51,948 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,948 - __main__ - INFO - Processing: 38315De b.doc
+2025-10-09 16:19:51,950 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,950 - __main__ - INFO - Processing: 38339Bekt.doc
+2025-10-09 16:19:51,951 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,951 - __main__ - INFO - Processing: 38353Goff.doc
+2025-10-09 16:19:51,953 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,953 - __main__ - INFO - Processing: 38356Ills.doc
+2025-10-09 16:19:51,954 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,954 - __main__ - INFO - Processing: 38361ODon.doc
+2025-10-09 16:19:51,954 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,954 - __main__ - INFO - Processing: 38392Gowa.doc
+2025-10-09 16:19:51,955 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,955 - __main__ - INFO - Processing: 38428Phil.doc
+2025-10-09 16:19:51,955 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,956 - __main__ - INFO - Processing: 38436Roll.doc
+2025-10-09 16:19:51,957 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,957 - __main__ - INFO - Processing: 38500HEAN.doc
+2025-10-09 16:19:51,957 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,957 - __main__ - INFO - Processing: 38548Koel.doc
+2025-10-09 16:19:51,958 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,958 - __main__ - INFO - Processing: 38594CART.doc
+2025-10-09 16:19:51,958 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,958 - __main__ - INFO - Processing: 38619Tott.doc
+2025-10-09 16:19:51,960 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,960 - __main__ - INFO - Processing: 38636DIEN.doc
+2025-10-09 16:19:51,960 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,961 - __main__ - INFO - Processing: 38662Lado.doc
+2025-10-09 16:19:51,961 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,961 - __main__ - INFO - Processing: 38727Enge.doc
+2025-10-09 16:19:51,962 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,962 - __main__ - INFO - Processing: 38814Van.doc
+2025-10-09 16:19:51,962 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,963 - __main__ - INFO - Processing: 38817Prev.doc
+2025-10-09 16:19:51,963 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,964 - __main__ - INFO - Processing: 38854ROSS.doc
+2025-10-09 16:19:51,965 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,966 - __main__ - INFO - Processing: 38878Kinn.doc
+2025-10-09 16:19:51,967 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,967 - __main__ - INFO - Processing: 38952Lync.doc
+2025-10-09 16:19:51,967 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,968 - __main__ - INFO - Processing: 38958Leve.doc
+2025-10-09 16:19:51,969 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,969 - __main__ - INFO - Processing: 38979REIN.doc
+2025-10-09 16:19:51,969 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,971 - __main__ - INFO - Processing: 39010Mana.doc
+2025-10-09 16:19:51,971 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,971 - __main__ - INFO - Processing: 39115De B.doc
+2025-10-09 16:19:51,972 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,972 - __main__ - INFO - Processing: 39135VAN.doc
+2025-10-09 16:19:51,972 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,973 - __main__ - INFO - Processing: 39188Sanc.doc
+2025-10-09 16:19:51,973 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,974 - __main__ - INFO - Processing: 39221Sins.doc
+2025-10-09 16:19:51,974 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,975 - __main__ - INFO - Processing: 39246Verm.doc
+2025-10-09 16:19:51,975 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,975 - __main__ - INFO - Processing: aacv091210eng.doc
+2025-10-09 16:19:51,975 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,975 - __main__ - INFO - Processing: Abdul Samad Resume 1.pdf
+2025-10-09 16:19:51,975 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:51,975 - __main__ - INFO - Processing: Abdul Samad Resume.pdf
+2025-10-09 16:19:51,975 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:51,975 - __main__ - INFO - Processing: Ahmed Marjan_18532464_cv-library.pdf
+2025-10-09 16:19:51,979 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:51,983 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,984 - __main__ - INFO - Processing: Ahmet M Cakan resume.pdf
+2025-10-09 16:19:51,984 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:51,984 - __main__ - INFO - Processing: AI Process Engineering 4 roles.docx
+2025-10-09 16:19:51,984 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,984 - __main__ - INFO - Processing: Akutin Sergey`s Curriculum Vitae.doc
+2025-10-09 16:19:51,984 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,984 - __main__ - INFO - Processing: Akyolcu CV English_March2024.pdf
+2025-10-09 16:19:51,984 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:51,984 - __main__ - INFO - Processing: Alberto Castaldi.doc
+2025-10-09 16:19:51,984 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,984 - __main__ - INFO - Processing: Alfredo Cristoforetti CV - English g.pdf
+2025-10-09 16:19:51,984 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:51,984 - __main__ - INFO - Processing: Ali iler CV En (1).pdf
+2025-10-09 16:19:51,990 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:51,990 - __main__ - INFO - Processing: ameenshihab (1).pdf
+2025-10-09 16:19:51,990 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:51,991 - __main__ - INFO - Processing: ameenshihab 1.pdf
+2025-10-09 16:19:51,991 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:51,991 - __main__ - INFO - Processing: Andrea_Cigada.pdf
+2025-10-09 16:19:51,991 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:51,993 - __main__ - INFO - Processing: Andrew Batchelor-CV-240910.doc
+2025-10-09 16:19:51,993 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,993 - __main__ - INFO - Processing: Angus_Hall_CV-sales__marketing_Director _Rev_1 6.doc
+2025-10-09 16:19:51,994 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,994 - __main__ - INFO - Processing: Anil Kumar 1.pdf
+2025-10-09 16:19:51,994 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:51,995 - __main__ - INFO - Processing: Antoine_ProcessEng_CV.pdf - 1.pdf
+2025-10-09 16:19:51,995 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:51,996 - __main__ - INFO - Processing: Antoniadis0810.DOC
+2025-10-09 16:19:51,996 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,996 - __main__ - INFO - Processing: Antonio Essolito.doc
+2025-10-09 16:19:51,996 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:51,998 - __main__ - INFO - Processing: Anwar Helal CV.pdf
+2025-10-09 16:19:51,999 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:51,999 - __main__ - INFO - Processing: Anzal Ashraf 1.pdf
+2025-10-09 16:19:52,000 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,000 - __main__ - INFO - Processing: Anzal Ashraf 2023.pdf
+2025-10-09 16:19:52,001 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,001 - __main__ - INFO - Processing: Anzal_Ashraf_Letter.pdf
+2025-10-09 16:19:52,001 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,001 - __main__ - INFO - Processing: Arienta CV_EU Mag11 (EN).pdf
+2025-10-09 16:19:52,003 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,003 - __main__ - INFO - Processing: Ashish Goyal 2023 V2_En Str Mgr.docx
+2025-10-09 16:19:52,003 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,004 - __main__ - INFO - Processing: Ashish Soni_Resume.pdf
+2025-10-09 16:19:52,004 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,005 - __main__ - INFO - Processing: B716AF6A4C811EEE9BD1BCBD6B668FA5.pdf
+2025-10-09 16:19:52,005 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,005 - __main__ - INFO - Processing: Backup of Curriculum Vitae .doc
+2025-10-09 16:19:52,006 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,006 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,006 - __main__ - INFO - Processing: BASF - Automotive Finishes v2.docx
+2025-10-09 16:19:52,006 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,006 - __main__ - INFO - Processing: BD CV April 2011.docx
+2025-10-09 16:19:52,011 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,011 - __main__ - INFO - Processing: Bhavesh Chhatbar CV.pdf
+2025-10-09 16:19:52,012 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,012 - __main__ - INFO - Processing: Brian Clesham_CovLtr.doc
+2025-10-09 16:19:52,012 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,013 - __main__ - INFO - Processing: browCV11jan.doc
+2025-10-09 16:19:52,013 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,013 - __main__ - INFO - Processing: Burcu Demir Sanli- New CV.pdf
+2025-10-09 16:19:52,015 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,016 - __main__ - INFO - Processing: Business Plan 2.docx
+2025-10-09 16:19:52,016 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,017 - __main__ - INFO - Processing: Business+Information+CV[1].doc
+2025-10-09 16:19:52,018 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,018 - __main__ - INFO - Processing: Charan-CV-Q3-2024.pdf
+2025-10-09 16:19:52,019 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,019 - __main__ - INFO - Processing: CJP 110126.doc
+2025-10-09 16:19:52,020 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,020 - __main__ - INFO - Processing: Clark Wood - Terms of Business - New.pdf
+2025-10-09 16:19:52,021 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,021 - __main__ - INFO - Processing: Conrad_Yorke_CV[3]-2.pdf
+2025-10-09 16:19:52,021 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,022 - __main__ - INFO - Processing: cpe_it[2].pdf
+2025-10-09 16:19:52,022 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,022 - __main__ - INFO - Processing: CURRIC5A.doc
+2025-10-09 16:19:52,023 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,023 - __main__ - INFO - Processing: Curriculum Vitae (2011 Rev 15 nonLM).doc
+2025-10-09 16:19:52,023 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,023 - __main__ - INFO - Processing: CURRICULUM VITAE - Carl van Wyk - 13 Oct 2011.pdf
+2025-10-09 16:19:52,024 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,024 - __main__ - INFO - Processing: Curriculum Vitae - J van der Westhuizen.pdf
+2025-10-09 16:19:52,025 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,025 - __main__ - INFO - Processing: Curriculum Vitae - Mark Snedden.pdf
+2025-10-09 16:19:52,025 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,026 - __main__ - INFO - Processing: Curriculum Vitae - Rustam Ismagilov March 2011.doc
+2025-10-09 16:19:52,026 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,027 - __main__ - INFO - Processing: Curriculum Vitae 081210.pdf
+2025-10-09 16:19:52,027 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,027 - __main__ - INFO - Processing: Curriculum Vitae 2011 Joanne Why.doc
+2025-10-09 16:19:52,028 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,028 - __main__ - INFO - Processing: CURRICULUM VITAE A Verwee November 2010.pdf
+2025-10-09 16:19:52,029 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,029 - __main__ - INFO - Processing: Curriculum Vitae Akutin O.S..doc
+2025-10-09 16:19:52,029 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,030 - __main__ - INFO - Processing: Curriculum vitae April  2011 - English[2].pdf
+2025-10-09 16:19:52,030 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,030 - __main__ - INFO - Processing: Curriculum vitae AR LAZONDER.pdf
+2025-10-09 16:19:52,031 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,031 - __main__ - INFO - Processing: Curriculum vitae Arthur de Ruiter (2011).pdf
+2025-10-09 16:19:52,032 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,032 - __main__ - INFO - Processing: Curriculum Vitae AW 2011-03 rev0.doc
+2025-10-09 16:19:52,033 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,033 - __main__ - INFO - Processing: Curriculum Vitae Chris Holmes.......doc
+2025-10-09 16:19:52,034 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,034 - __main__ - INFO - Processing: Curriculum Vitae Eng.docx
+2025-10-09 16:19:52,035 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,035 - __main__ - INFO - Processing: Curriculum Vitae english 2011.pdf
+2025-10-09 16:19:52,035 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,036 - __main__ - INFO - Processing: Curriculum Vitae for Ken A G Smith Nov 2011.pdf
+2025-10-09 16:19:52,036 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,037 - __main__ - INFO - Processing: Curriculum vitae Giancarlo PorchiaEN.pdf
+2025-10-09 16:19:52,037 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,037 - __main__ - INFO - Processing: Curriculum Vitae Graham Nash.doc
+2025-10-09 16:19:52,037 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,038 - __main__ - INFO - Processing: Curriculum Vitae GS Aug 2010 - English.pdf
+2025-10-09 16:19:52,038 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,038 - __main__ - INFO - Processing: Curriculum Vitae Ketil Moen - EN - V15112011.pdf
+2025-10-09 16:19:52,039 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,039 - __main__ - INFO - Processing: CURRICULUM VITAE NOV 09 ENGLISH.doc
+2025-10-09 16:19:52,039 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,039 - __main__ - INFO - Processing: Curriculum Vitae of Deon Engelbrecht.doc
+2025-10-09 16:19:52,040 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,040 - __main__ - INFO - Processing: Curriculum Vitae P de Vries English v 4.pdf
+2025-10-09 16:19:52,040 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,040 - __main__ - INFO - Processing: curriculum vitae r van der meij  2010.pdf
+2025-10-09 16:19:52,040 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,040 - __main__ - INFO - Processing: curriculum vitae r van der meij 2011.docx
+2025-10-09 16:19:52,040 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,040 - __main__ - INFO - Processing: Curriculum Vitae Sean.doc
+2025-10-09 16:19:52,044 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,044 - __main__ - INFO - Processing: Curriculum Vitae Thorsten Friedrich 26072011.pdf
+2025-10-09 16:19:52,044 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,044 - __main__ - INFO - Processing: Curriculum Vitae _HansRILL_EN.pdf
+2025-10-09 16:19:52,044 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,044 - __main__ - INFO - Processing: Curriculum vitae.doc
+2025-10-09 16:19:52,044 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,044 - __main__ - INFO - Processing: Curriculum Vitae.pdf
+2025-10-09 16:19:52,046 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,047 - __main__ - INFO - Processing: CURRICULUM_EN.pdf
+2025-10-09 16:19:52,048 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,048 - __main__ - INFO - Processing: Curriculum_eng_3.doc
+2025-10-09 16:19:52,049 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,049 - __main__ - INFO - Processing: Curriculum_Vitae_in_inglese.doc
+2025-10-09 16:19:52,050 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,050 - __main__ - INFO - Processing: CURRICULUM_VITAE_KAH_July 2010.doc
+2025-10-09 16:19:52,051 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,051 - __main__ - INFO - Processing: CV (2).pdf
+2025-10-09 16:19:52,051 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,051 - __main__ - INFO - Processing: CV (E) 2011.pdf
+2025-10-09 16:19:52,052 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,052 - __main__ - INFO - Processing: CV - Arjan van Ginkel_SEP10.doc
+2025-10-09 16:19:52,052 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,052 - __main__ - INFO - Processing: CV - Axel van der Graaf.pdf
+2025-10-09 16:19:52,052 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,052 - __main__ - INFO - Processing: CV - Dan Svensson - English.doc
+2025-10-09 16:19:52,054 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,054 - __main__ - INFO - Processing: CV - Dan Svensson - English.pdf
+2025-10-09 16:19:52,054 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,054 - __main__ - INFO - Processing: CV - Ersoy C_al_s_kaner - Eng (1).pdf
+2025-10-09 16:19:52,054 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,054 - __main__ - INFO - Processing: CV - Stefanos Mastrogiannis.doc
+2025-10-09 16:19:52,057 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,057 - __main__ - INFO - Processing: CV - Tim Lowe - October 2010.doc
+2025-10-09 16:19:52,058 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,058 - __main__ - INFO - Processing: CV 071210 Robert Whittaker.pdf
+2025-10-09 16:19:52,059 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,059 - __main__ - INFO - Processing: CV 08122010.pdf
+2025-10-09 16:19:52,059 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,059 - __main__ - INFO - Processing: CV 2022 en.pdf
+2025-10-09 16:19:52,060 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,060 - __main__ - INFO - Processing: CV 2022.doc
+2025-10-09 16:19:52,060 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,061 - __main__ - INFO - Processing: CV a .doc
+2025-10-09 16:19:52,062 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,062 - __main__ - INFO - Processing: CV Atle Idland 2011.doc
+2025-10-09 16:19:52,062 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,062 - __main__ - INFO - Processing: CV BdB 2011.doc
+2025-10-09 16:19:52,062 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,062 - __main__ - INFO - Processing: CV Chemical Work - Vivek Bagal 1223.pdf
+2025-10-09 16:19:52,064 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,064 - __main__ - INFO - Processing: CV Curriculum Vitae Wilfried Grob.pdf
+2025-10-09 16:19:52,065 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,065 - __main__ - INFO - Processing: CV de Waard.doc
+2025-10-09 16:19:52,066 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,066 - __main__ - INFO - Processing: CV Devis Zagaglia ENG Rev2.pdf
+2025-10-09 16:19:52,068 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,068 - __main__ - INFO - Processing: CV DH 2011.doc
+2025-10-09 16:19:52,068 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,068 - __main__ - INFO - Processing: CV DUARTE Maria Jo�o.pdf
+2025-10-09 16:19:52,069 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,069 - __main__ - INFO - Processing: CV ENG 112010.docx
+2025-10-09 16:19:52,070 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,070 - __main__ - INFO - Processing: CV English Mezzini.doc
+2025-10-09 16:19:52,070 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,071 - __main__ - INFO - Processing: CV ESTESO220211.doc
+2025-10-09 16:19:52,071 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,072 - __main__ - INFO - Processing: CV FF 11-02 eng_FN.docx
+2025-10-09 16:19:52,072 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,072 - __main__ - INFO - Processing: CV for HSE ADVISOR of Shahid.doc
+2025-10-09 16:19:52,072 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,073 - __main__ - INFO - Processing: CV Francesco.Ohazuruike 2022.11.24.docx
+2025-10-09 16:19:52,073 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,073 - __main__ - INFO - Processing: CV Henry Prasula.doc
+2025-10-09 16:19:52,073 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,075 - __main__ - INFO - Processing: cv j vere eng.doc
+2025-10-09 16:19:52,075 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,075 - __main__ - INFO - Processing: CV John Mike van der Vlugt 2022.docx
+2025-10-09 16:19:52,076 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,076 - __main__ - INFO - Processing: CV Jose Gregorio Ayala Brice�o  2011.doc
+2025-10-09 16:19:52,076 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,076 - __main__ - INFO - Processing: CV Lorenzo Cucia EU.doc
+2025-10-09 16:19:52,078 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,078 - __main__ - INFO - Processing: CV Mansour Belhadj - April 2011.doc
+2025-10-09 16:19:52,078 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,078 - __main__ - INFO - Processing: CV March 2011.docx
+2025-10-09 16:19:52,079 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,079 - __main__ - INFO - Processing: CV March 2011.pdf
+2025-10-09 16:19:52,080 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,080 - __main__ - INFO - Processing: CV Martijn Moerbeek.pdf
+2025-10-09 16:19:52,081 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,081 - __main__ - INFO - Processing: CV Michel Groeneveld (June 2022).pdf
+2025-10-09 16:19:52,082 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,082 - __main__ - INFO - Processing: CV Michel van Beek UK2.doc
+2025-10-09 16:19:52,083 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,083 - __main__ - INFO - Processing: CV Michel Wenger 20220922.pdf
+2025-10-09 16:19:52,083 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,088 - __main__ - INFO - Processing: CV MMcC 2010 R1.doc
+2025-10-09 16:19:52,089 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,089 - __main__ - INFO - Processing: Cv Muhammad Rabie.pdf
+2025-10-09 16:19:52,094 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,094 - __main__ - INFO - Processing: CV Nick Laming 081211.doc
+2025-10-09 16:19:52,094 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,094 - __main__ - INFO - Processing: cv Nov 2011.doc
+2025-10-09 16:19:52,098 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,099 - __main__ - INFO - Processing: CV of Khelafat Rigger Foreman.doc
+2025-10-09 16:19:52,102 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,103 - __main__ - INFO - Processing: CV of Shahabuddin SAFETY Officer.doc
+2025-10-09 16:19:52,103 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,103 - __main__ - INFO - Processing: CV pdf LU-08.pdf
+2025-10-09 16:19:52,103 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,103 - __main__ - INFO - Processing: CV PH 2022 (deutsch).pdf
+2025-10-09 16:19:52,103 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,109 - __main__ - INFO - Processing: CV PH 2022 (english).pdf
+2025-10-09 16:19:52,110 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,110 - __main__ - INFO - Processing: CV Preity-1.pdf
+2025-10-09 16:19:52,110 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,110 - __main__ - INFO - Processing: CV RDix Feb2011.doc
+2025-10-09 16:19:52,114 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,115 - __main__ - INFO - Processing: CV Ryan Goggin 1.5.doc
+2025-10-09 16:19:52,118 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,118 - __main__ - INFO - Processing: CV Sander Kaart 2022.pdf
+2025-10-09 16:19:52,120 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,120 - __main__ - INFO - Processing: CV SA_Abu dhabi (2).pdf -1.pdf
+2025-10-09 16:19:52,120 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,120 - __main__ - INFO - Processing: CV Sergey Mitrichev 2011 ENG.pdf
+2025-10-09 16:19:52,123 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,123 - __main__ - INFO - Processing: CV Steve Oglesby July 2010.doc
+2025-10-09 16:19:52,125 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,125 - __main__ - INFO - Processing: CV van Loon (english, 2010).pdf
+2025-10-09 16:19:52,125 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,127 - __main__ - INFO - Processing: CV version 4 2010.doc
+2025-10-09 16:19:52,127 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,127 - __main__ - INFO - Processing: CV Willem Malda.pdf
+2025-10-09 16:19:52,130 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,132 - __main__ - INFO - Processing: CV Zennaro Carlo June_2011_UK.doc
+2025-10-09 16:19:52,133 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,134 - __main__ - INFO - Processing: CV(Calin Melinte).pdf
+2025-10-09 16:19:52,134 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,134 - __main__ - INFO - Processing: cv-AksamA.pdf
+2025-10-09 16:19:52,134 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,134 - __main__ - INFO - Processing: CV-barry-uk2010.pdf
+2025-10-09 16:19:52,134 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,134 - __main__ - INFO - Processing: CV-Michael Norris.doc
+2025-10-09 16:19:52,134 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,134 - __main__ - INFO - Processing: CV-MUSTAFA SELCUK EKSIOGLU (002).doc
+2025-10-09 16:19:52,140 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,140 - __main__ - INFO - Processing: CV-MUSTAFA SELCUK EKSIOGLU.doc
+2025-10-09 16:19:52,140 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,140 - __main__ - INFO - Processing: CV-PJ_engl3.doc
+2025-10-09 16:19:52,140 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,140 - __main__ - INFO - Processing: CV-Process Engineer Sohail Akhtar - 1.doc
+2025-10-09 16:19:52,140 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,140 - __main__ - INFO - Processing: CV-Process Engineer Sohail Akhtar.doc
+2025-10-09 16:19:52,148 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,149 - __main__ - INFO - Processing: CV-Viji Menon.pdf
+2025-10-09 16:19:52,151 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,152 - __main__ - INFO - Processing: CV-VM 120111.pdf
+2025-10-09 16:19:52,153 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,153 - __main__ - INFO - Processing: cv.hafeez 1.pdf
+2025-10-09 16:19:52,155 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,155 - __main__ - INFO - Processing: cv.hafeez.pdf
+2025-10-09 16:19:52,156 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,156 - __main__ - INFO - Processing: CV.pdf
+2025-10-09 16:19:52,157 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,157 - __main__ - INFO - Processing: CV04_(2011).doc
+2025-10-09 16:19:52,157 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,157 - __main__ - INFO - Processing: cvAndreKlaassenEnglish.pdf
+2025-10-09 16:19:52,159 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,160 - __main__ - INFO - Processing: CVDAH.doc
+2025-10-09 16:19:52,160 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,160 - __main__ - INFO - Processing: CVDec09 v1.doc
+2025-10-09 16:19:52,161 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,161 - __main__ - INFO - Processing: CVKMinksRev2.doc
+2025-10-09 16:19:52,162 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,162 - __main__ - INFO - Processing: cvnm1_eng.pdf
+2025-10-09 16:19:52,162 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,162 - __main__ - INFO - Processing: CVRemVeen.doc
+2025-10-09 16:19:52,163 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,163 - __main__ - INFO - Processing: CV_ Ali Bask_n.pdf
+2025-10-09 16:19:52,163 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,163 - __main__ - INFO - Processing: CV_-_AJ_latest.pdf
+2025-10-09 16:19:52,164 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,165 - __main__ - INFO - Processing: CV_06.02.2012.docx
+2025-10-09 16:19:52,165 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,166 - __main__ - INFO - Processing: CV_ALainati_190511_ENG.pdf
+2025-10-09 16:19:52,167 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,167 - __main__ - INFO - Processing: CV_Alberto_LOZANO.docx
+2025-10-09 16:19:52,168 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,168 - __main__ - INFO - Processing: CV_Alberto_LOZANO_Dec 2010.pdf
+2025-10-09 16:19:52,168 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,169 - __main__ - INFO - Processing: CV_Alberto_LOZANO_May2011.pdf
+2025-10-09 16:19:52,170 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,170 - __main__ - INFO - Processing: CV_Alejandro Ocampo.pdf
+2025-10-09 16:19:52,170 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,170 - __main__ - INFO - Processing: CV_Alejandro Ocampo.pdf - 1.pdf
+2025-10-09 16:19:52,171 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,171 - __main__ - INFO - Processing: CV_Alex George-Kyriakou_last updated on 251110 at 2243.doc
+2025-10-09 16:19:52,172 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,172 - __main__ - INFO - Processing: CV_Andrea Francesco Perini 2022_ENG.pdf
+2025-10-09 16:19:52,172 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,172 - __main__ - INFO - Processing: CV_C FERNANDEZ.doc
+2025-10-09 16:19:52,172 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,172 - __main__ - INFO - Processing: cv_Cencioni.pdf
+2025-10-09 16:19:52,172 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,172 - __main__ - INFO - Processing: CV_CSep_2011.pdf
+2025-10-09 16:19:52,172 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,175 - __main__ - INFO - Processing: CV_D_Nullmeyers_Dec_10.pdf
+2025-10-09 16:19:52,176 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,176 - __main__ - INFO - Processing: cv_English.docx
+2025-10-09 16:19:52,176 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,176 - __main__ - INFO - Processing: CV_FP_2012.doc
+2025-10-09 16:19:52,177 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,177 - __main__ - INFO - Processing: CV_Frank_Oelgarth_Nov2010.pdf
+2025-10-09 16:19:52,177 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,178 - __main__ - INFO - Processing: cv_Giacomo_Fontana.doc
+2025-10-09 16:19:52,178 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,178 - __main__ - INFO - Processing: CV_Honewell_Johnston-Vere.doc
+2025-10-09 16:19:52,179 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,179 - __main__ - INFO - Processing: cv_jimmyfreitag_en_aug_2011_Johnston Vere Consultancy Ltd.pdf
+2025-10-09 16:19:52,180 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,180 - __main__ - INFO - Processing: CV_KS110124.pdf
+2025-10-09 16:19:52,181 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,181 - __main__ - INFO - Processing: CV_Limonta_2011_english.pdf
+2025-10-09 16:19:52,182 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,182 - __main__ - INFO - Processing: CV_Marc_Tschopp_EN.pdf
+2025-10-09 16:19:52,183 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,183 - __main__ - INFO - Processing: CV_MAZOIR_English.pdf
+2025-10-09 16:19:52,184 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,184 - __main__ - INFO - Processing: CV_Niels_Olde_Riekerink_march 2010 v2.docx
+2025-10-09 16:19:52,185 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,188 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,189 - __main__ - INFO - Processing: CV_ORTONR-12.12.11.pdf
+2025-10-09 16:19:52,190 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,190 - __main__ - INFO - Processing: CV_P.Wimmer_11_23.pdf
+2025-10-09 16:19:52,191 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,191 - __main__ - INFO - Processing: CV_Paolo Petracca_eng.doc
+2025-10-09 16:19:52,191 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,191 - __main__ - INFO - Processing: CV_Remi_Birkeland.pdf
+2025-10-09 16:19:52,192 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,192 - __main__ - INFO - Processing: CV_Reto.Sturzenegger_short_en (1).pdf
+2025-10-09 16:19:52,193 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,193 - __main__ - INFO - Processing: CV_rev6_DavidGeorge-Apr2011_with adden.doc
+2025-10-09 16:19:52,194 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,194 - __main__ - INFO - Processing: cv_sampaolesi_roberto_2011_04.doc
+2025-10-09 16:19:52,194 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,194 - __main__ - INFO - Processing: CV_Sebastian Franke.pdf
+2025-10-09 16:19:52,195 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,196 - __main__ - INFO - Processing: CV_SENAY BAYRAM_ENG_17.11.2023.pdf
+2025-10-09 16:19:52,197 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,197 - __main__ - INFO - Processing: CV_Sergey_Mitrichev_2011_RUS.pdf
+2025-10-09 16:19:52,198 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,198 - __main__ - INFO - Processing: CV_SHAILESH.doc
+2025-10-09 16:19:52,198 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,199 - __main__ - INFO - Processing: CV_SJ Weston.doc
+2025-10-09 16:19:52,199 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,200 - __main__ - INFO - Processing: CV_S_Voulon_english_September2011.doc
+2025-10-09 16:19:52,201 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,202 - __main__ - INFO - Processing: CV_UK_LeoVanDenHeuvel.pdf
+2025-10-09 16:19:52,202 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,202 - __main__ - INFO - Processing: CV_UPDATE_02-09-11 Ronald Clughen.docx
+2025-10-09 16:19:52,202 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,202 - __main__ - INFO - Processing: CV_Vernon Adams_Latest (05_2022).docx
+2025-10-09 16:19:52,202 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,202 - __main__ - INFO - Processing: cv_zanco_english.pdf
+2025-10-09 16:19:52,202 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,206 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,207 - __main__ - INFO - Processing: Dan Minca.doc
+2025-10-09 16:19:52,207 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,207 - __main__ - INFO - Processing: Dario Vergottini.doc
+2025-10-09 16:19:52,208 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,208 - __main__ - INFO - Processing: David Manson (CV).docx
+2025-10-09 16:19:52,209 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,209 - __main__ - INFO - Processing: David Manson.doc
+2025-10-09 16:19:52,210 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,210 - __main__ - INFO - Processing: Davide Morsiani.doc
+2025-10-09 16:19:52,210 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,210 - __main__ - INFO - Processing: DEKRA July 2023 (003).docx
+2025-10-09 16:19:52,210 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,210 - __main__ - INFO - Processing: DEKRA March 2023.docx
+2025-10-09 16:19:52,210 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,212 - __main__ - INFO - Processing: Deon Barnard CV Update Aug 2011.docx
+2025-10-09 16:19:52,212 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,212 - __main__ - INFO - Processing: Dhamotharan_Process Engineer.doc
+2025-10-09 16:19:52,212 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,212 - __main__ - INFO - Processing: Dilek Sivri CV_2024.pdf
+2025-10-09 16:19:52,214 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,214 - __main__ - INFO - Processing: DJBcvMay11.doc
+2025-10-09 16:19:52,215 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,215 - __main__ - INFO - Processing: Doc1.doc
+2025-10-09 16:19:52,216 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,217 - __main__ - INFO - Processing: DSL CV Aug 2011.doc
+2025-10-09 16:19:52,217 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,217 - __main__ - INFO - Processing: Ece Turan CV 2.pdf
+2025-10-09 16:19:52,218 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,218 - __main__ - INFO - Processing: edmundlavalette.doc
+2025-10-09 16:19:52,219 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,219 - __main__ - INFO - Processing: edmundquilty.doc
+2025-10-09 16:19:52,219 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,220 - __main__ - INFO - Processing: Edward TJ.doc
+2025-10-09 16:19:52,220 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,220 - __main__ - INFO - Processing: edwardbache.doc
+2025-10-09 16:19:52,221 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,221 - __main__ - INFO - Processing: edwardball.doc
+2025-10-09 16:19:52,221 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,221 - __main__ - INFO - Processing: Emerson Zappone.doc
+2025-10-09 16:19:52,222 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,222 - __main__ - INFO - Processing: Englisch Wallstreet Zertifikat Waystage 3 .pdf
+2025-10-09 16:19:52,222 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,222 - __main__ - INFO - Processing: English CURRICULUM VITAE[1]-1.doc
+2025-10-09 16:19:52,222 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,222 - __main__ - INFO - Processing: English-Curriculum_Vitae_Rodney_Poldner_2010[1].docx
+2025-10-09 16:19:52,222 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,225 - __main__ - INFO - Processing: English-Curriculum_Vitae_Rodney_Poldner_2011.docx
+2025-10-09 16:19:52,225 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,225 - __main__ - INFO - Processing: Erbatur Deniz English Cv_2023.pdf
+2025-10-09 16:19:52,226 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,226 - __main__ - INFO - Processing: Erdal UYSAL_CV_12.03.2024.pdf
+2025-10-09 16:19:52,226 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,226 - __main__ - INFO - Processing: Ernst_Flemming_CV.pdf
+2025-10-09 16:19:52,227 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,227 - __main__ - INFO - Processing: EXPAT.doc
+2025-10-09 16:19:52,228 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,228 - __main__ - INFO - Processing: F3E9D290-2AB8-4373-A8E1-900563772CEB.pdf
+2025-10-09 16:19:52,228 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,229 - __main__ - INFO - Processing: Fabio Dinale.doc
+2025-10-09 16:19:52,229 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,229 - __main__ - INFO - Processing: Fatih AKILLI resume.pdf
+2025-10-09 16:19:52,230 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,230 - __main__ - INFO - Processing: Faustino Vieira_CV - EN 2024..pdf
+2025-10-09 16:19:52,231 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,232 - __main__ - INFO - Processing: Federico De Sario Resume English.pdf
+2025-10-09 16:19:52,233 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,233 - __main__ - INFO - Processing: Ferruccio di Giusto.doc
+2025-10-09 16:19:52,234 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,234 - __main__ - INFO - Processing: FO-CV and Cover_Letter_E_Oct 2011.pdf
+2025-10-09 16:19:52,235 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,235 - __main__ - INFO - Processing: Francesco De Santis.doc
+2025-10-09 16:19:52,235 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,235 - __main__ - INFO - Processing: Frank Ponsonby CV 29 Mar 11.doc
+2025-10-09 16:19:52,236 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,236 - __main__ - INFO - Processing: Fulcrum.pdf
+2025-10-09 16:19:52,236 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,236 - __main__ - INFO - Processing: Georg_Regner-GenericCV-201104.pdf
+2025-10-09 16:19:52,236 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,236 - __main__ - INFO - Processing: Giovanni Valsecchi.doc
+2025-10-09 16:19:52,236 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,236 - __main__ - INFO - Processing: Gorbachev_CV_eng.doc
+2025-10-09 16:19:52,236 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,240 - __main__ - INFO - Processing: Graham Dean Curriculum Vitae 2023.3.pdf
+2025-10-09 16:19:52,240 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,240 - __main__ - INFO - Processing: Graham_A_Lock1272011_65244_PM.doc
+2025-10-09 16:19:52,241 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,241 - __main__ - INFO - Processing: Grzegorz_Ligier10282010_111100_AM.doc
+2025-10-09 16:19:52,241 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,242 - __main__ - INFO - Processing: Gufran CV For Mechanical Piping Forman.doc
+2025-10-09 16:19:52,242 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,242 - __main__ - INFO - Processing: Hadeel.pdf
+2025-10-09 16:19:52,242 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,243 - __main__ - INFO - Processing: Hans PAUL CV 2011.doc
+2025-10-09 16:19:52,243 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,243 - __main__ - INFO - Processing: Hausinger CV.pdf
+2025-10-09 16:19:52,244 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,245 - __main__ - INFO - Processing: Hayley Profile.doc
+2025-10-09 16:19:52,245 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,245 - __main__ - INFO - Processing: HHartsiotisCVSept2010.doc
+2025-10-09 16:19:52,245 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,245 - __main__ - INFO - Processing: Hiren Khatri 1.pdf
+2025-10-09 16:19:52,245 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,245 - __main__ - INFO - Processing: Hiren Khatri CV.pdf
+2025-10-09 16:19:52,245 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,245 - __main__ - INFO - Processing: Huw Parry CV January 2011.doc
+2025-10-09 16:19:52,247 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,247 - __main__ - INFO - Processing: Ian CV 2012.doc
+2025-10-09 16:19:52,249 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,249 - __main__ - INFO - Processing: Ian Govan CV 1 May 2011.docx
+2025-10-09 16:19:52,249 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,250 - __main__ - INFO - Processing: Ian Govan Job Description.docx
+2025-10-09 16:19:52,250 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,250 - __main__ - INFO - Processing: Imtech brochure_Product Overview.pdf
+2025-10-09 16:19:52,252 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,252 - __main__ - INFO - Processing: Jans CVs wc 7.3.11.doc
+2025-10-09 16:19:52,253 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,253 - __main__ - INFO - Processing: Jeroen_Deweer_June2011.docx
+2025-10-09 16:19:52,253 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,254 - __main__ - INFO - Processing: Jim L Scott_CV.doc
+2025-10-09 16:19:52,254 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,254 - __main__ - INFO - Processing: Jitenkumar (CEng MIChemE)_Process Engineer-1.pdf
+2025-10-09 16:19:52,254 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,254 - __main__ - INFO - Processing: JJ cv's wc 28.3.11.doc
+2025-10-09 16:19:52,255 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,256 - __main__ - INFO - Processing: JJ CVs wc 23.5.11.doc
+2025-10-09 16:19:52,256 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,256 - __main__ - INFO - Processing: JJ CVs wc 4.1.11.doc
+2025-10-09 16:19:52,256 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,257 - __main__ - INFO - Processing: JJs CVs 10.1.11.doc
+2025-10-09 16:19:52,257 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,257 - __main__ - INFO - Processing: JJs CVs 14.2.11.doc
+2025-10-09 16:19:52,258 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,258 - __main__ - INFO - Processing: JJs CVs 17.1.11.doc
+2025-10-09 16:19:52,258 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,259 - __main__ - INFO - Processing: JJs CVs 24.1.11.doc
+2025-10-09 16:19:52,259 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,259 - __main__ - INFO - Processing: JJs CVs 30.1.12.doc
+2025-10-09 16:19:52,260 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,261 - __main__ - INFO - Processing: JJs CVs wc 1.8.11.doc
+2025-10-09 16:19:52,261 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,261 - __main__ - INFO - Processing: JJs CVs wc 10.10.11.doc
+2025-10-09 16:19:52,262 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,262 - __main__ - INFO - Processing: JJs CVs wc 11.4.11.doc
+2025-10-09 16:19:52,262 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,262 - __main__ - INFO - Processing: JJs CVs wc 11.7.11.doc
+2025-10-09 16:19:52,262 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,262 - __main__ - INFO - Processing: JJs CVs wc 12.12.11.doc
+2025-10-09 16:19:52,264 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,265 - __main__ - INFO - Processing: JJs CVs wc 12.9.11.doc
+2025-10-09 16:19:52,265 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,266 - __main__ - INFO - Processing: JJs CVs wc 13.12.10.doc
+2025-10-09 16:19:52,266 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,266 - __main__ - INFO - Processing: JJs CVs wc 13.6.11.doc
+2025-10-09 16:19:52,267 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,267 - __main__ - INFO - Processing: JJs CVs wc 14.11.11.doc
+2025-10-09 16:19:52,267 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,268 - __main__ - INFO - Processing: JJs CVs wc 14.3.11.doc
+2025-10-09 16:19:52,269 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,269 - __main__ - INFO - Processing: JJs CVs wc 15.8.11.doc
+2025-10-09 16:19:52,269 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,270 - __main__ - INFO - Processing: JJs CVs wc 16.1.12.doc
+2025-10-09 16:19:52,270 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,271 - __main__ - INFO - Processing: JJs CVs wc 16.5.11.doc
+2025-10-09 16:19:52,271 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,271 - __main__ - INFO - Processing: JJs CVs wc 17.10.11.doc
+2025-10-09 16:19:52,271 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,272 - __main__ - INFO - Processing: JJs cvs wc 18.4.11.doc
+2025-10-09 16:19:52,272 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,272 - __main__ - INFO - Processing: JJs CVs wc 19.12.11.doc
+2025-10-09 16:19:52,273 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,273 - __main__ - INFO - Processing: JJs CVs wc 19.9.11.doc
+2025-10-09 16:19:52,273 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,273 - __main__ - INFO - Processing: JJs CVs wc 20.6.11.doc
+2025-10-09 16:19:52,273 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,275 - __main__ - INFO - Processing: JJs CVs wc 21.11.11.doc
+2025-10-09 16:19:52,275 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,275 - __main__ - INFO - Processing: JJs CVs wc 21.2.11.doc
+2025-10-09 16:19:52,275 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,276 - __main__ - INFO - Processing: JJs CVs wc 21.3.11.doc
+2025-10-09 16:19:52,276 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,276 - __main__ - INFO - Processing: JJs CVs wc 22.8.11.doc
+2025-10-09 16:19:52,276 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,277 - __main__ - INFO - Processing: JJs CVs wc 23.1.12.doc
+2025-10-09 16:19:52,277 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,277 - __main__ - INFO - Processing: JJs CVs wc 24.10.11.doc
+2025-10-09 16:19:52,278 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,278 - __main__ - INFO - Processing: JJs CVs wc 25.7.11.doc
+2025-10-09 16:19:52,279 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,279 - __main__ - INFO - Processing: JJs CVs wc 26.4.11.doc
+2025-10-09 16:19:52,279 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,279 - __main__ - INFO - Processing: JJs CVs wc 26.9.11.doc
+2025-10-09 16:19:52,281 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,281 - __main__ - INFO - Processing: JJs CVs wc 27.6.11.doc
+2025-10-09 16:19:52,282 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,283 - __main__ - INFO - Processing: JJs CVs wc 28.11.11.doc
+2025-10-09 16:19:52,283 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,283 - __main__ - INFO - Processing: JJs CVs wc 28.2.11.doc
+2025-10-09 16:19:52,283 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,283 - __main__ - INFO - Processing: JJs CVs wc 3.10.11.doc
+2025-10-09 16:19:52,285 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,286 - __main__ - INFO - Processing: JJs CVs wc 3.5.11.doc
+2025-10-09 16:19:52,286 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,286 - __main__ - INFO - Processing: JJs CVs wc 30.8.11.doc
+2025-10-09 16:19:52,287 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,287 - __main__ - INFO - Processing: JJs CVs wc 31.1.11.doc
+2025-10-09 16:19:52,287 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,287 - __main__ - INFO - Processing: JJs CVs wc 31.10.11.doc
+2025-10-09 16:19:52,288 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,288 - __main__ - INFO - Processing: JJs CVs wc 31.5.11.doc
+2025-10-09 16:19:52,289 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,289 - __main__ - INFO - Processing: JJs CVs wc 4.4.11.doc
+2025-10-09 16:19:52,289 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,290 - __main__ - INFO - Processing: JJs CVs wc 4.7.11.doc
+2025-10-09 16:19:52,290 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,290 - __main__ - INFO - Processing: JJs CVs wc 5.9.11.doc
+2025-10-09 16:19:52,291 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,291 - __main__ - INFO - Processing: JJs CVs wc 6.2.12.doc
+2025-10-09 16:19:52,291 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,292 - __main__ - INFO - Processing: JJs CVs wc 7.11.11.doc
+2025-10-09 16:19:52,292 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,293 - __main__ - INFO - Processing: JJs CVs wc 7.2.11.doc
+2025-10-09 16:19:52,293 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,293 - __main__ - INFO - Processing: JJs CVs wc 8.8.11.doc
+2025-10-09 16:19:52,294 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,294 - __main__ - INFO - Processing: JJs CVs wc 9.1.12.doc
+2025-10-09 16:19:52,294 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,294 - __main__ - INFO - Processing: JJs CVs wc 9.5.11.doc
+2025-10-09 16:19:52,296 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,296 - __main__ - INFO - Processing: Joe Hart1.docx
+2025-10-09 16:19:52,296 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,296 - __main__ - INFO - Processing: John Mitchell CV.pdf
+2025-10-09 16:19:52,297 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,298 - __main__ - INFO - Processing: John Sanders -1.docx
+2025-10-09 16:19:52,298 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,299 - __main__ - INFO - Processing: Johnston Vere Switzerland Recruitment (Perm) Contract 25.10.2022.docx
+2025-10-09 16:19:52,299 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,299 - __main__ - INFO - Processing: Jon_Casey1162011_11110_PM.pdf
+2025-10-09 16:19:52,299 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,301 - __main__ - INFO - Processing: JR_CV2010.doc
+2025-10-09 16:19:52,301 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,302 - __main__ - INFO - Processing: Justin Kingston -Current 2011[1].11 CV.doc
+2025-10-09 16:19:52,302 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,302 - __main__ - INFO - Processing: JVC - Terms.docx
+2025-10-09 16:19:52,303 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,303 - __main__ - INFO - Processing: JVCL Sandro Chiesa.docx
+2025-10-09 16:19:52,303 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,304 - __main__ - INFO - Processing: JVCV - Caglar Ozmen.docx
+2025-10-09 16:19:52,304 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,307 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,307 - __main__ - INFO - Processing: JVCV - Mohammed Adel Nassar.docx
+2025-10-09 16:19:52,307 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,307 - __main__ - INFO - Processing: JVCV - Mustafa Selcuk EKSIOGLU.docx
+2025-10-09 16:19:52,307 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,312 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,313 - __main__ - INFO - Processing: JVCV - Nikita Mokashi (1).docx
+2025-10-09 16:19:52,313 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,313 - __main__ - INFO - Processing: JVCV - Nikita Mokashi.docx
+2025-10-09 16:19:52,314 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,314 - __main__ - INFO - Processing: JVCV - SHAKEEL ABDUL VAKKIL.docx
+2025-10-09 16:19:52,315 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,315 - __main__ - INFO - Processing: JVCV - VOLKAN AYGUN.docx
+2025-10-09 16:19:52,317 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,317 - __main__ - INFO - Processing: J_Claassen_CV_Feb 2011.doc
+2025-10-09 16:19:52,318 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,318 - __main__ - INFO - Processing: Kaan Suner_OnePage_CV_12_03_2024.pdf
+2025-10-09 16:19:52,319 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,319 - __main__ - INFO - Processing: Kenan Bic_ici O_zgec_mis_.pdf
+2025-10-09 16:19:52,319 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,320 - __main__ - INFO - Processing: Khairul_Anuar1222010_42608_AM.doc
+2025-10-09 16:19:52,320 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,320 - __main__ - INFO - Processing: Kisnaduth Kesore English CV 30 November  2011.pdf
+2025-10-09 16:19:52,321 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,321 - __main__ - INFO - Processing: Kooorsh Zarei BOSIET Certificate.pdf
+2025-10-09 16:19:52,322 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,322 - __main__ - INFO - Processing: KOTTS, Radek.Updated.doc
+2025-10-09 16:19:52,323 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,323 - __main__ - INFO - Processing: Lars Wallstein Jan 2011_sent to Jan Johnston.pdf
+2025-10-09 16:19:52,324 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,324 - __main__ - INFO - Processing: lee jones CV may11.doc
+2025-10-09 16:19:52,324 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,324 - __main__ - INFO - Processing: Lee Preston CV - Leadership emphasis.docx
+2025-10-09 16:19:52,325 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,325 - __main__ - INFO - Processing: Lee Preston Details 082011.docx
+2025-10-09 16:19:52,325 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,325 - __main__ - INFO - Processing: luca favero Raw CV.doc
+2025-10-09 16:19:52,326 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,326 - __main__ - INFO - Processing: luca fervari from linkedin.doc
+2025-10-09 16:19:52,327 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,327 - __main__ - INFO - Processing: M Simcock PhD CV 12 Jan 2012 NH.doc
+2025-10-09 16:19:52,327 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,328 - __main__ - INFO - Processing: marco nani raw cv.doc
+2025-10-09 16:19:52,328 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,328 - __main__ - INFO - Processing: Marek-Sinski-CV-English-1011.pdf
+2025-10-09 16:19:52,328 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,328 - __main__ - INFO - Processing: Mario Felicetti - Chronological Life Event List_22-2-2011.pdf
+2025-10-09 16:19:52,328 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,328 - __main__ - INFO - Processing: Mario Felicetti detailed CV_22-2-2011 .pdf
+2025-10-09 16:19:52,331 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,331 - __main__ - INFO - Processing: Mark Thompson CV April23.doc
+2025-10-09 16:19:52,333 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,333 - __main__ - INFO - Processing: Marketing Executive CV.doc
+2025-10-09 16:19:52,333 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,334 - __main__ - INFO - Processing: Martin Rimmer  Honeywell CV Dec 2010.pdf
+2025-10-09 16:19:52,334 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,334 - __main__ - INFO - Processing: MCS CV 2024.pdf
+2025-10-09 16:19:52,335 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,335 - __main__ - INFO - Processing: Mehmet Usta CV 2024.pdf
+2025-10-09 16:19:52,335 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,335 - __main__ - INFO - Processing: Mehmet_KALYON_EN_V3 (1) (1).pdf
+2025-10-09 16:19:52,337 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,337 - __main__ - INFO - Processing: Michael Minkevich CV 09_10E (PE).pdf
+2025-10-09 16:19:52,338 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,338 - __main__ - INFO - Processing: Michele Olivari.doc
+2025-10-09 16:19:52,338 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,338 - __main__ - INFO - Processing: Microsoft Word - cv_engl. 2010_2.doc.pdf
+2025-10-09 16:19:52,338 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,338 - __main__ - INFO - Processing: Mike_Croot_CV_2011.doc
+2025-10-09 16:19:52,338 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,338 - __main__ - INFO - Processing: Mohamed_Hafez 1.pdf
+2025-10-09 16:19:52,338 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,338 - __main__ - INFO - Processing: Mohamed_Hafez_CV_DEC2021 copy.docx
+2025-10-09 16:19:52,338 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,338 - __main__ - INFO - Processing: Montasser CV final - Sep.5.pdf
+2025-10-09 16:19:52,338 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,342 - __main__ - INFO - Processing: Morerio P CV E Sep 2010.pdf
+2025-10-09 16:19:52,342 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,342 - __main__ - INFO - Processing: Morrison PJ slim cv Sept 10.doc
+2025-10-09 16:19:52,343 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,343 - __main__ - INFO - Processing: Moyeenuddin - CV 1.pdf
+2025-10-09 16:19:52,343 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,344 - __main__ - INFO - Processing: Moyeenuddin 1.pdf
+2025-10-09 16:19:52,344 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,344 - __main__ - INFO - Processing: MPhilpott CV Master.doc
+2025-10-09 16:19:52,345 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,345 - __main__ - INFO - Processing: ms11-ing.docx
+2025-10-09 16:19:52,345 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,345 - __main__ - INFO - Processing: MTCV.Jan.2011.docx
+2025-10-09 16:19:52,345 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,347 - __main__ - INFO - Processing: Multisol - Maintenance & Projects Manager.doc
+2025-10-09 16:19:52,348 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,348 - __main__ - INFO - Processing: Murat HACIBEKIR - Resume MARCH 2024 - BASF.pdf
+2025-10-09 16:19:52,349 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,349 - __main__ - INFO - Processing: Muzaffer Incegul Resume.pdf
+2025-10-09 16:19:52,349 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,349 - __main__ - INFO - Processing: MY CV File.doc
+2025-10-09 16:19:52,349 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,352 - __main__ - INFO - Processing: My CV.doc
+2025-10-09 16:19:52,352 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,352 - __main__ - INFO - Processing: MyCV.doc
+2025-10-09 16:19:52,353 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,353 - __main__ - INFO - Processing: M�rklin.pdf
+2025-10-09 16:19:52,353 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,354 - __main__ - INFO - Processing: Nader Shawky 1.pdf
+2025-10-09 16:19:52,354 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,354 - __main__ - INFO - Processing: Nader Shawky Compressed.pdf
+2025-10-09 16:19:52,355 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,355 - __main__ - INFO - Processing: Naldi Christian - CV to Jan Johnston.doc
+2025-10-09 16:19:52,355 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,356 - __main__ - INFO - Processing: Naldi Christian - CV to Johnston Vere.doc
+2025-10-09 16:19:52,357 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,357 - __main__ - INFO - Processing: Nassar CV2023.pdf - 1.pdf
+2025-10-09 16:19:52,357 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,357 - __main__ - INFO - Processing: NILESH BORSE 1.pdf
+2025-10-09 16:19:52,357 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,357 - __main__ - INFO - Processing: NILESH BORSE.doc
+2025-10-09 16:19:52,357 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,357 - __main__ - INFO - Processing: Oliver Doerle CV short version.doc
+2025-10-09 16:19:52,357 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,357 - __main__ - INFO - Processing: Omar Al-Hamadani Resume.pdf - 1.pdf
+2025-10-09 16:19:52,357 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,357 - __main__ - INFO - Processing: organisational development CVs.doc
+2025-10-09 16:19:52,357 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,357 - __main__ - INFO - Processing: Paul Grange - Curriculum Vitae.doc
+2025-10-09 16:19:52,362 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,362 - __main__ - INFO - Processing: pedro mendes cover letter.doc
+2025-10-09 16:19:52,363 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,363 - __main__ - INFO - Processing: PierreLombrez_Resume_20111024.docx
+2025-10-09 16:19:52,363 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,364 - __main__ - INFO - Processing: PJ2011CV1.doc
+2025-10-09 16:19:52,365 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,365 - __main__ - INFO - Processing: Rebecca Croft1.docx
+2025-10-09 16:19:52,366 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,367 - __main__ - INFO - Processing: Ref- 601   EUR ING Mon Tindale 22 May 2011.doc
+2025-10-09 16:19:52,368 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,368 - __main__ - INFO - Processing: REFA Seminar Torsten Heiland.pdf
+2025-10-09 16:19:52,368 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,368 - __main__ - INFO - Processing: Resum of Ebrarul Haque for HSE Advisor.doc
+2025-10-09 16:19:52,369 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,369 - __main__ - INFO - Processing: Resume GS - English.doc
+2025-10-09 16:19:52,370 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,370 - __main__ - INFO - Processing: Resume of Dr. Parvez for HSE Advisor.doc
+2025-10-09 16:19:52,370 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,370 - __main__ - INFO - Processing: Resume of Dr. Parvez for HSE Engineer.doc
+2025-10-09 16:19:52,371 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,371 - __main__ - INFO - Processing: Resume Suleyman C. Ugurses Short Version.pdf
+2025-10-09 16:19:52,372 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,374 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,374 - __main__ - INFO - Processing: Resume-BURHAN-ERDEN.pdf
+2025-10-09 16:19:52,374 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,374 - __main__ - INFO - Processing: Resume202306160507.pdf
+2025-10-09 16:19:52,374 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,374 - __main__ - INFO - Processing: Resume_Luca Balzarini.pdf
+2025-10-09 16:19:52,374 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,374 - __main__ - INFO - Processing: Resume_Nikita Mokashi.pdf - 1.pdf
+2025-10-09 16:19:52,377 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,378 - __main__ - INFO - Processing: RicBlackwellCV.doc
+2025-10-09 16:19:52,378 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,378 - __main__ - INFO - Processing: Rich Bowen_CV_2011.docx
+2025-10-09 16:19:52,379 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,379 - __main__ - INFO - Processing: RJFCV230112.doc
+2025-10-09 16:19:52,379 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,379 - __main__ - INFO - Processing: ROMEO C_CV_2011-E-DesEngLeader.doc
+2025-10-09 16:19:52,381 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,381 - __main__ - INFO - Processing: Rosalind Burgess Curriculum Vitae December 2010.pdf
+2025-10-09 16:19:52,382 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,382 - __main__ - INFO - Processing: Roy Botha CV Oct'11.pdf
+2025-10-09 16:19:52,383 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,383 - __main__ - INFO - Processing: S Bartlett CV.pdf
+2025-10-09 16:19:52,383 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,383 - __main__ - INFO - Processing: Samir Besher - CV.pdf
+2025-10-09 16:19:52,383 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,383 - __main__ - INFO - Processing: Sasol  Marketing.docx
+2025-10-09 16:19:52,383 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,383 - __main__ - INFO - Processing: Sasol BDM EMEA.docx
+2025-10-09 16:19:52,383 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,383 - __main__ - INFO - Processing: SC_CV_2011.docx
+2025-10-09 16:19:52,383 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,383 - __main__ - INFO - Processing: Senior Field Lead Sales Engineer Job Description Rev2 Aug 09.doc
+2025-10-09 16:19:52,388 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,388 - __main__ - INFO - Processing: Serdar Altuner CV 2024.pdf
+2025-10-09 16:19:52,388 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,388 - __main__ - INFO - Processing: Sergei Ivanov_process specialist_Dec2023 - 1.docx
+2025-10-09 16:19:52,389 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,389 - __main__ - INFO - Processing: Sergei Ivanov_process specialist_Dec2023 .docx
+2025-10-09 16:19:52,390 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,390 - __main__ - INFO - Processing: Sergei Ivanov_process specialist_Dec2023.docx
+2025-10-09 16:19:52,390 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,390 - __main__ - INFO - Processing: Sergio Sironi Resume English.pdf
+2025-10-09 16:19:52,391 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,391 - __main__ - INFO - Processing: Sergio Sironi.doc
+2025-10-09 16:19:52,392 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,392 - __main__ - INFO - Processing: Shahnwaz Mechanical Engineer.doc
+2025-10-09 16:19:52,393 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,393 - __main__ - INFO - Processing: Shakeel AV_Process Engineer- Aug 2023.pdf
+2025-10-09 16:19:52,393 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,393 - __main__ - INFO - Processing: Shakeel AV_Process Engineer- Aug 2023.pdf - 1.pdf
+2025-10-09 16:19:52,393 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,393 - __main__ - INFO - Processing: Simone_Turina2162011_105648_AM.doc
+2025-10-09 16:19:52,393 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,393 - __main__ - INFO - Processing: SK CV Feb2011.doc
+2025-10-09 16:19:52,393 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,393 - __main__ - INFO - Processing: Sr. Process Engineer - Oil & Gas (Hafiz M. Abubakar)_ Resume.pdf
+2025-10-09 16:19:52,393 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,393 - __main__ - INFO - Processing: Steve CV II.doc
+2025-10-09 16:19:52,393 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,397 - __main__ - INFO - Processing: SueGedrych August 2011.doc
+2025-10-09 16:19:52,398 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,399 - __main__ - INFO - Processing: Suzan Karabulut CV.pdf
+2025-10-09 16:19:52,400 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,400 - __main__ - INFO - Processing: Sven Wagner CV.pdf
+2025-10-09 16:19:52,400 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,401 - __main__ - INFO - Processing: Swadesh_Singh6302011_75935_PM.doc
+2025-10-09 16:19:52,401 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,401 - __main__ - INFO - Processing: S_Camarda CV EU eng4.doc
+2025-10-09 16:19:52,402 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,402 - __main__ - INFO - Processing: Taseer_Seer_Oct_2023.pdf
+2025-10-09 16:19:52,402 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,403 - __main__ - INFO - Processing: THUENE-Tassilo-CV_20110512.pdf
+2025-10-09 16:19:52,403 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,404 - __main__ - INFO - Processing: Toby_Personal_26May2011.pdf
+2025-10-09 16:19:52,404 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,404 - __main__ - INFO - Processing: TONY SLADE CV 2010.doc
+2025-10-09 16:19:52,405 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,405 - __main__ - INFO - Processing: TONY SLADE CV 2011.doc
+2025-10-09 16:19:52,405 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,405 - __main__ - INFO - Processing: TUNA TURGUT CV2022ING.pdf
+2025-10-09 16:19:52,405 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,405 - __main__ - INFO - Processing: UK-2022-_Process_Team_Head__4___1_.pdf
+2025-10-09 16:19:52,405 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,405 - __main__ - INFO - Processing: Umair-Zahid 1.pdf
+2025-10-09 16:19:52,405 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,408 - __main__ - INFO - Processing: Umair-Zahid_Resume.pdf
+2025-10-09 16:19:52,408 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,409 - __main__ - INFO - Processing: Unsal Ustunsoy CV.pdf
+2025-10-09 16:19:52,409 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,410 - __main__ - INFO - Processing: VDI Seminar Torsten Heiland.pdf
+2025-10-09 16:19:52,410 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,410 - __main__ - INFO - Processing: Volkan Aygun.pdf
+2025-10-09 16:19:52,411 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,411 - __main__ - INFO - Processing: XpertRule - BDE.doc - Johnston Vere Consultancy - Final XR signed.pdf
+2025-10-09 16:19:52,411 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,412 - __main__ - INFO - Processing: XpertRule - BDE.doc - Johnston Vere Consultancy - Final.docx
+2025-10-09 16:19:52,412 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,413 - __main__ - INFO - Processing: Youssef Amir - Chemical Engineer.pdf
+2025-10-09 16:19:52,413 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,414 - __main__ - INFO - Processing: Zarifullin_Bulat_CV.pdf
+2025-10-09 16:19:52,414 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,415 - __main__ - INFO - Processing: Zobair-Ahmed Update CV.doc
+2025-10-09 16:19:52,415 - __main__ - WARNING - python-docx not available for DOCX parsing
+2025-10-09 16:19:52,416 - __main__ - INFO - Processing: _ EU Curriculum Vitae - Giovanni Valsecchi.pdf
+2025-10-09 16:19:52,416 - __main__ - WARNING - PyPDF2 not available for PDF parsing
+2025-10-09 16:19:52,419 - __main__ - INFO - Saved: C:\IntelliCV-AI\IntelliCV\ai_data_final\companies\companies_database.json
+2025-10-09 16:19:52,419 - __main__ - INFO - Saved: C:\IntelliCV-AI\IntelliCV\ai_data_final\job_titles\job_titles_database.json
+2025-10-09 16:19:52,423 - __main__ - INFO - Saved: C:\IntelliCV-AI\IntelliCV\ai_data_final\emails\emails_database.json
+2025-10-09 16:20:46,578 - __main__ - WARNING - ⚠️ Advanced NLP libraries not found. Install: spacy nltk fuzzywuzzy python-dateutil
+2025-10-09 16:20:46,580 - __main__ - INFO - Starting consolidated data processing...
+2025-10-09 16:20:46,582 - __main__ - INFO - Processing: (Honeywell) Life Safety - Site Leader Trieste Mar 2011.doc
+2025-10-09 16:20:47,044 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:47,044 - __main__ - INFO - Processing: 06.06.2011_CV_Murat.pdf
+2025-10-09 16:20:47,681 - __main__ - INFO - Processing: 100011-20110810-abhay_patel.doc
+2025-10-09 16:20:47,691 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\100011-20110810-abhay_patel.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:47,691 - __main__ - INFO - Processing: 100014-20110818-Clive_Field.docx
+2025-10-09 16:20:47,703 - __main__ - INFO - Processing: 100025-20110920-Paolo_Fella.doc
+2025-10-09 16:20:47,713 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\100025-20110920-Paolo_Fella.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:47,714 - __main__ - INFO - Processing: 100032-20111014-EVANGELOS_KALAMATIANOS.doc
+2025-10-09 16:20:47,715 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:47,715 - __main__ - INFO - Processing: 100037-20111030-Sidney_DRosario.doc
+2025-10-09 16:20:47,717 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:47,717 - __main__ - INFO - Processing: 100044-20111201-Muhammad_Munla_Ali.pdf
+2025-10-09 16:20:47,838 - __main__ - INFO - Processing: 100047-20111209-Salvatore_Speciale.pdf
+2025-10-09 16:20:48,022 - __main__ - INFO - Processing: 100051-20111222-Puscoci.doc
+2025-10-09 16:20:48,022 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\100051-20111222-Puscoci.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:48,022 - __main__ - INFO - Processing: 100065-20120207-HASNAIN_ASFANDIYAR.doc
+2025-10-09 16:20:48,022 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\100065-20120207-HASNAIN_ASFANDIYAR.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:48,022 - __main__ - INFO - Processing: 110119 Curriculum Vitae Torsten Heiland.pdf
+2025-10-09 16:20:48,115 - __main__ - INFO - Processing: 110301_CV_Stefano_Cicetti.doc
+2025-10-09 16:20:48,115 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,115 - __main__ - INFO - Processing: 110301_DOCS_SCi.pdf
+2025-10-09 16:20:48,182 - __main__ - INFO - Processing: 111206 CV Dean Cooper.pdf
+2025-10-09 16:20:48,222 - __main__ - INFO - Processing: 14.10.11.doc
+2025-10-09 16:20:48,222 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,222 - __main__ - INFO - Processing: 180125PurtovCV_Eng.pdf
+2025-10-09 16:20:48,284 - __main__ - INFO - Processing: 20110417_CV_ janj.doc
+2025-10-09 16:20:48,287 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,287 - __main__ - INFO - Processing: 20110622_Robert Heikens_CV Format.pdf
+2025-10-09 16:20:48,359 - __main__ - INFO - Processing: 2022-CV Yannick_MONGEL.pdf
+2025-10-09 16:20:48,497 - __main__ - INFO - Processing: 30644.doc
+2025-10-09 16:20:48,498 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,499 - __main__ - INFO - Processing: 37572KEHA.doc
+2025-10-09 16:20:48,499 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,500 - __main__ - INFO - Processing: 37607Baro.doc
+2025-10-09 16:20:48,501 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,501 - __main__ - INFO - Processing: 37612STAM.doc
+2025-10-09 16:20:48,503 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,503 - __main__ - INFO - Processing: 37642Khum.doc
+2025-10-09 16:20:48,504 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,504 - __main__ - INFO - Processing: 37648VAN.doc
+2025-10-09 16:20:48,505 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,505 - __main__ - INFO - Processing: 37708Chan.doc
+2025-10-09 16:20:48,507 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,507 - __main__ - INFO - Processing: 37721McDo.doc
+2025-10-09 16:20:48,508 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,508 - __main__ - INFO - Processing: 37775Bris.doc
+2025-10-09 16:20:48,509 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,509 - __main__ - INFO - Processing: 37807Will.doc
+2025-10-09 16:20:48,511 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,511 - __main__ - INFO - Processing: 37858Sing.doc
+2025-10-09 16:20:48,512 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,512 - __main__ - INFO - Processing: 37906KLYA.doc
+2025-10-09 16:20:48,513 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,514 - __main__ - INFO - Processing: 37941Mo.doc
+2025-10-09 16:20:48,514 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,515 - __main__ - INFO - Processing: 38038East.doc
+2025-10-09 16:20:48,516 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,516 - __main__ - INFO - Processing: 38165McDo.doc
+2025-10-09 16:20:48,517 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,517 - __main__ - INFO - Processing: 38167Litt.doc
+2025-10-09 16:20:48,518 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,518 - __main__ - INFO - Processing: 38217Ghiy.doc
+2025-10-09 16:20:48,519 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,519 - __main__ - INFO - Processing: 38268PAUL.doc
+2025-10-09 16:20:48,519 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,520 - __main__ - INFO - Processing: 38272BEIR.doc
+2025-10-09 16:20:48,520 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,520 - __main__ - INFO - Processing: 38282RAMD.doc
+2025-10-09 16:20:48,521 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,521 - __main__ - INFO - Processing: 38286Drap.doc
+2025-10-09 16:20:48,521 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,521 - __main__ - INFO - Processing: 38315De b.doc
+2025-10-09 16:20:48,521 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,521 - __main__ - INFO - Processing: 38339Bekt.doc
+2025-10-09 16:20:48,521 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,521 - __main__ - INFO - Processing: 38353Goff.doc
+2025-10-09 16:20:48,521 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,526 - __main__ - INFO - Processing: 38356Ills.doc
+2025-10-09 16:20:48,527 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,527 - __main__ - INFO - Processing: 38361ODon.doc
+2025-10-09 16:20:48,528 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,528 - __main__ - INFO - Processing: 38392Gowa.doc
+2025-10-09 16:20:48,530 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,530 - __main__ - INFO - Processing: 38428Phil.doc
+2025-10-09 16:20:48,531 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,531 - __main__ - INFO - Processing: 38436Roll.doc
+2025-10-09 16:20:48,532 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,533 - __main__ - INFO - Processing: 38500HEAN.doc
+2025-10-09 16:20:48,533 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,533 - __main__ - INFO - Processing: 38548Koel.doc
+2025-10-09 16:20:48,533 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,533 - __main__ - INFO - Processing: 38594CART.doc
+2025-10-09 16:20:48,533 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,533 - __main__ - INFO - Processing: 38619Tott.doc
+2025-10-09 16:20:48,536 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,536 - __main__ - INFO - Processing: 38636DIEN.doc
+2025-10-09 16:20:48,537 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,537 - __main__ - INFO - Processing: 38662Lado.doc
+2025-10-09 16:20:48,538 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,538 - __main__ - INFO - Processing: 38727Enge.doc
+2025-10-09 16:20:48,539 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,539 - __main__ - INFO - Processing: 38814Van.doc
+2025-10-09 16:20:48,540 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,541 - __main__ - INFO - Processing: 38817Prev.doc
+2025-10-09 16:20:48,542 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,542 - __main__ - INFO - Processing: 38854ROSS.doc
+2025-10-09 16:20:48,542 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,543 - __main__ - INFO - Processing: 38878Kinn.doc
+2025-10-09 16:20:48,544 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,544 - __main__ - INFO - Processing: 38952Lync.doc
+2025-10-09 16:20:48,545 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,545 - __main__ - INFO - Processing: 38958Leve.doc
+2025-10-09 16:20:48,547 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,547 - __main__ - INFO - Processing: 38979REIN.doc
+2025-10-09 16:20:48,549 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,549 - __main__ - INFO - Processing: 39010Mana.doc
+2025-10-09 16:20:48,549 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,549 - __main__ - INFO - Processing: 39115De B.doc
+2025-10-09 16:20:48,550 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,550 - __main__ - INFO - Processing: 39135VAN.doc
+2025-10-09 16:20:48,550 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,551 - __main__ - INFO - Processing: 39188Sanc.doc
+2025-10-09 16:20:48,551 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,551 - __main__ - INFO - Processing: 39221Sins.doc
+2025-10-09 16:20:48,553 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,553 - __main__ - INFO - Processing: 39246Verm.doc
+2025-10-09 16:20:48,554 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:48,554 - __main__ - INFO - Processing: aacv091210eng.doc
+2025-10-09 16:20:48,555 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\aacv091210eng.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:48,555 - __main__ - INFO - Processing: Abdul Samad Resume 1.pdf
+2025-10-09 16:20:48,655 - __main__ - INFO - Processing: Abdul Samad Resume.pdf
+2025-10-09 16:20:48,739 - __main__ - INFO - Processing: Ahmed Marjan_18532464_cv-library.pdf
+2025-10-09 16:20:48,833 - __main__ - INFO - Processing: Ahmet Hakan Coşkun CV EN.docx
+2025-10-09 16:20:48,866 - __main__ - INFO - Processing: Ahmet M Cakan resume.pdf
+2025-10-09 16:20:48,912 - __main__ - INFO - Processing: AI Process Engineering 4 roles.docx
+2025-10-09 16:20:48,949 - __main__ - INFO - Processing: Akutin Sergey`s Curriculum Vitae.doc
+2025-10-09 16:20:48,958 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\Akutin Sergey`s Curriculum Vitae.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:48,958 - __main__ - INFO - Processing: Akyolcu CV English_March2024.pdf
+2025-10-09 16:20:49,051 - __main__ - INFO - Processing: Alberto Castaldi.doc
+2025-10-09 16:20:49,051 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:49,051 - __main__ - INFO - Processing: Alfredo Cristoforetti CV - English g.pdf
+2025-10-09 16:20:49,097 - __main__ - INFO - Processing: Ali iler CV En (1).pdf
+2025-10-09 16:20:49,201 - __main__ - INFO - Processing: ameenshihab (1).pdf
+2025-10-09 16:20:49,279 - __main__ - INFO - Processing: ameenshihab 1.pdf
+2025-10-09 16:20:49,356 - __main__ - INFO - Processing: Andrea_Cigada.pdf
+2025-10-09 16:20:49,432 - __main__ - INFO - Processing: Andrew Batchelor-CV-240910.doc
+2025-10-09 16:20:49,432 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\Andrew Batchelor-CV-240910.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:49,432 - __main__ - INFO - Processing: Angus_Hall_CV-sales__marketing_Director _Rev_1 6.doc
+2025-10-09 16:20:49,432 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:49,432 - __main__ - INFO - Processing: Anil Kumar 1.pdf
+2025-10-09 16:20:49,553 - __main__ - INFO - Processing: Antoine_ProcessEng_CV.pdf - 1.pdf
+2025-10-09 16:20:49,583 - __main__ - INFO - Processing: Antoniadis0810.DOC
+2025-10-09 16:20:49,583 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:49,583 - __main__ - INFO - Processing: Antonio Essolito.doc
+2025-10-09 16:20:49,583 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:49,583 - __main__ - INFO - Processing: Anwar Helal CV.pdf
+2025-10-09 16:20:49,641 - __main__ - INFO - Processing: Anzal Ashraf 1.pdf
+2025-10-09 16:20:49,761 - __main__ - INFO - Processing: Anzal Ashraf 2023.pdf
+2025-10-09 16:20:49,763 - PyPDF2._reader - WARNING - incorrect startxref pointer(3)
+2025-10-09 16:20:49,847 - __main__ - INFO - Processing: Anzal_Ashraf_Letter.pdf
+2025-10-09 16:20:49,847 - PyPDF2._reader - WARNING - incorrect startxref pointer(3)
+2025-10-09 16:20:49,868 - __main__ - INFO - Processing: Arienta CV_EU Mag11 (EN).pdf
+2025-10-09 16:20:49,978 - __main__ - INFO - Processing: Ashish Goyal 2023 V2_En Str Mgr.docx
+2025-10-09 16:20:50,000 - __main__ - INFO - Processing: Ashish Soni_Resume.pdf
+2025-10-09 16:20:50,079 - __main__ - INFO - Processing: B716AF6A4C811EEE9BD1BCBD6B668FA5.pdf
+2025-10-09 16:20:50,096 - __main__ - INFO - Processing: Backup of Curriculum Vitae .doc
+2025-10-09 16:20:50,097 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\Backup of Curriculum Vitae .doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:50,098 - __main__ - INFO - Processing: Barış_Ünal_CV (1).pdf
+2025-10-09 16:20:50,167 - __main__ - INFO - Processing: BASF - Automotive Finishes v2.docx
+2025-10-09 16:20:50,207 - __main__ - INFO - Processing: BD CV April 2011.docx
+2025-10-09 16:20:50,218 - __main__ - INFO - Processing: Bhavesh Chhatbar CV.pdf
+2025-10-09 16:20:50,328 - __main__ - INFO - Processing: Brian Clesham_CovLtr.doc
+2025-10-09 16:20:50,329 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:50,329 - __main__ - INFO - Processing: browCV11jan.doc
+2025-10-09 16:20:50,332 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:50,332 - __main__ - INFO - Processing: Burcu Demir Sanli- New CV.pdf
+2025-10-09 16:20:50,389 - __main__ - INFO - Processing: Business Plan 2.docx
+2025-10-09 16:20:50,403 - __main__ - INFO - Processing: Business+Information+CV[1].doc
+2025-10-09 16:20:50,405 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:50,405 - __main__ - INFO - Processing: Charan-CV-Q3-2024.pdf
+2025-10-09 16:20:50,441 - __main__ - INFO - Processing: CJP 110126.doc
+2025-10-09 16:20:50,442 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:50,442 - __main__ - INFO - Processing: Clark Wood - Terms of Business - New.pdf
+2025-10-09 16:20:50,596 - __main__ - INFO - Processing: Conrad_Yorke_CV[3]-2.pdf
+2025-10-09 16:20:50,686 - __main__ - INFO - Processing: cpe_it[2].pdf
+2025-10-09 16:20:50,771 - __main__ - INFO - Processing: CURRIC5A.doc
+2025-10-09 16:20:50,772 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:50,772 - __main__ - INFO - Processing: Curriculum Vitae (2011 Rev 15 nonLM).doc
+2025-10-09 16:20:50,772 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\Curriculum Vitae (2011 Rev 15 nonLM).doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:50,772 - __main__ - INFO - Processing: CURRICULUM VITAE - Carl van Wyk - 13 Oct 2011.pdf
+2025-10-09 16:20:51,040 - __main__ - INFO - Processing: Curriculum Vitae - J van der Westhuizen.pdf
+2025-10-09 16:20:51,137 - __main__ - INFO - Processing: Curriculum Vitae - Mark Snedden.pdf
+2025-10-09 16:20:51,223 - __main__ - INFO - Processing: Curriculum Vitae - Rustam Ismagilov March 2011.doc
+2025-10-09 16:20:51,225 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\Curriculum Vitae - Rustam Ismagilov March 2011.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:51,225 - __main__ - INFO - Processing: Curriculum Vitae 081210.pdf
+2025-10-09 16:20:51,252 - __main__ - INFO - Processing: Curriculum Vitae 2011 Joanne Why.doc
+2025-10-09 16:20:51,255 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\Curriculum Vitae 2011 Joanne Why.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:51,255 - __main__ - INFO - Processing: CURRICULUM VITAE A Verwee November 2010.pdf
+2025-10-09 16:20:51,315 - __main__ - INFO - Processing: Curriculum Vitae Akutin O.S..doc
+2025-10-09 16:20:51,315 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\Curriculum Vitae Akutin O.S..doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:51,315 - __main__ - INFO - Processing: Curriculum vitae April  2011 - English[2].pdf
+2025-10-09 16:20:51,405 - __main__ - INFO - Processing: Curriculum vitae AR LAZONDER.pdf
+2025-10-09 16:20:51,469 - __main__ - INFO - Processing: Curriculum vitae Arthur de Ruiter (2011).pdf
+2025-10-09 16:20:51,555 - __main__ - INFO - Processing: Curriculum Vitae AW 2011-03 rev0.doc
+2025-10-09 16:20:51,555 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\Curriculum Vitae AW 2011-03 rev0.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:51,555 - __main__ - INFO - Processing: Curriculum Vitae Chris Holmes.......doc
+2025-10-09 16:20:51,555 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\Curriculum Vitae Chris Holmes.......doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:51,555 - __main__ - INFO - Processing: Curriculum Vitae Eng.docx
+2025-10-09 16:20:51,566 - __main__ - INFO - Processing: Curriculum Vitae english 2011.pdf
+2025-10-09 16:20:51,613 - __main__ - INFO - Processing: Curriculum Vitae for Ken A G Smith Nov 2011.pdf
+2025-10-09 16:20:51,744 - __main__ - INFO - Processing: Curriculum vitae Giancarlo PorchiaEN.pdf
+2025-10-09 16:20:51,889 - __main__ - INFO - Processing: Curriculum Vitae Graham Nash.doc
+2025-10-09 16:20:51,889 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:51,889 - __main__ - INFO - Processing: Curriculum Vitae GS Aug 2010 - English.pdf
+2025-10-09 16:20:51,946 - __main__ - INFO - Processing: Curriculum Vitae Ketil Moen - EN - V15112011.pdf
+2025-10-09 16:20:51,999 - __main__ - INFO - Processing: CURRICULUM VITAE NOV 09 ENGLISH.doc
+2025-10-09 16:20:52,000 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:52,000 - __main__ - INFO - Processing: Curriculum Vitae of Deon Engelbrecht.doc
+2025-10-09 16:20:52,000 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\Curriculum Vitae of Deon Engelbrecht.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:52,000 - __main__ - INFO - Processing: Curriculum Vitae P de Vries English v 4.pdf
+2025-10-09 16:20:52,039 - __main__ - INFO - Processing: curriculum vitae r van der meij  2010.pdf
+2025-10-09 16:20:52,109 - __main__ - INFO - Processing: curriculum vitae r van der meij 2011.docx
+2025-10-09 16:20:52,120 - __main__ - INFO - Processing: Curriculum Vitae Sean.doc
+2025-10-09 16:20:52,122 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\Curriculum Vitae Sean.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:52,123 - __main__ - INFO - Processing: Curriculum Vitae Thorsten Friedrich 26072011.pdf
+2025-10-09 16:20:52,147 - __main__ - INFO - Processing: Curriculum Vitae _HansRILL_EN.pdf
+2025-10-09 16:20:52,185 - __main__ - INFO - Processing: Curriculum vitae.doc
+2025-10-09 16:20:52,185 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:52,185 - __main__ - INFO - Processing: Curriculum Vitae.pdf
+2025-10-09 16:20:52,297 - __main__ - INFO - Processing: CURRICULUM_EN.pdf
+2025-10-09 16:20:52,318 - __main__ - INFO - Processing: Curriculum_eng_3.doc
+2025-10-09 16:20:52,319 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\Curriculum_eng_3.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:52,320 - __main__ - INFO - Processing: Curriculum_Vitae_in_inglese.doc
+2025-10-09 16:20:52,320 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\Curriculum_Vitae_in_inglese.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:52,320 - __main__ - INFO - Processing: CURRICULUM_VITAE_KAH_July 2010.doc
+2025-10-09 16:20:52,320 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\CURRICULUM_VITAE_KAH_July 2010.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:52,320 - __main__ - INFO - Processing: CV (2).pdf
+2025-10-09 16:20:52,338 - __main__ - INFO - Processing: CV (E) 2011.pdf
+2025-10-09 16:20:52,414 - __main__ - INFO - Processing: CV - Arjan van Ginkel_SEP10.doc
+2025-10-09 16:20:52,414 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\CV - Arjan van Ginkel_SEP10.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:52,414 - __main__ - INFO - Processing: CV - Axel van der Graaf.pdf
+2025-10-09 16:20:52,478 - __main__ - INFO - Processing: CV - Dan Svensson - English.doc
+2025-10-09 16:20:52,480 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\CV - Dan Svensson - English.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:52,480 - __main__ - INFO - Processing: CV - Dan Svensson - English.pdf
+2025-10-09 16:20:52,764 - __main__ - INFO - Processing: CV - Ersoy C_al_s_kaner - Eng (1).pdf
+2025-10-09 16:20:52,851 - __main__ - INFO - Processing: CV - Stefanos Mastrogiannis.doc
+2025-10-09 16:20:52,852 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:52,852 - __main__ - INFO - Processing: CV - Tim Lowe - October 2010.doc
+2025-10-09 16:20:52,853 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:52,853 - __main__ - INFO - Processing: CV 071210 Robert Whittaker.pdf
+2025-10-09 16:20:52,903 - __main__ - INFO - Processing: CV 08122010.pdf
+2025-10-09 16:20:52,974 - __main__ - INFO - Processing: CV 2022 en.pdf
+2025-10-09 16:20:53,070 - __main__ - INFO - Processing: CV 2022.doc
+2025-10-09 16:20:53,070 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:53,078 - __main__ - INFO - Processing: CV a .doc
+2025-10-09 16:20:53,078 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:53,078 - __main__ - INFO - Processing: CV Atle Idland 2011.doc
+2025-10-09 16:20:53,080 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\CV Atle Idland 2011.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:53,080 - __main__ - INFO - Processing: CV BdB 2011.doc
+2025-10-09 16:20:53,080 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:53,083 - __main__ - INFO - Processing: CV Chemical Work - Vivek Bagal 1223.pdf
+2025-10-09 16:20:53,196 - __main__ - INFO - Processing: CV Curriculum Vitae Wilfried Grob.pdf
+2025-10-09 16:20:53,280 - __main__ - INFO - Processing: CV de Waard.doc
+2025-10-09 16:20:53,280 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\CV de Waard.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:53,280 - __main__ - INFO - Processing: CV Devis Zagaglia ENG Rev2.pdf
+2025-10-09 16:20:53,446 - __main__ - INFO - Processing: CV DH 2011.doc
+2025-10-09 16:20:53,446 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:53,454 - __main__ - INFO - Processing: CV DUARTE Maria João.pdf
+2025-10-09 16:20:53,507 - __main__ - INFO - Processing: CV ENG 112010.docx
+2025-10-09 16:20:53,517 - __main__ - INFO - Processing: CV English Mezzini.doc
+2025-10-09 16:20:53,520 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\CV English Mezzini.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:53,521 - __main__ - INFO - Processing: CV ESTESO220211.doc
+2025-10-09 16:20:53,522 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:53,522 - __main__ - INFO - Processing: CV FF 11-02 eng_FN.docx
+2025-10-09 16:20:53,533 - __main__ - INFO - Processing: CV for HSE ADVISOR of Shahid.doc
+2025-10-09 16:20:53,535 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\CV for HSE ADVISOR of Shahid.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:53,535 - __main__ - INFO - Processing: CV Francesco.Ohazuruike 2022.11.24.docx
+2025-10-09 16:20:53,563 - __main__ - INFO - Processing: CV Henry Prasula.doc
+2025-10-09 16:20:53,563 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:53,563 - __main__ - INFO - Processing: cv j vere eng.doc
+2025-10-09 16:20:53,563 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\cv j vere eng.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:53,563 - __main__ - INFO - Processing: CV John Mike van der Vlugt 2022.docx
+2025-10-09 16:20:53,569 - __main__ - INFO - Processing: CV Jose Gregorio Ayala Briceño  2011.doc
+2025-10-09 16:20:53,579 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:53,580 - __main__ - INFO - Processing: CV Lorenzo Cucia EU.doc
+2025-10-09 16:20:53,582 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\CV Lorenzo Cucia EU.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:53,583 - __main__ - INFO - Processing: CV Mansour Belhadj - April 2011.doc
+2025-10-09 16:20:53,583 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:53,584 - __main__ - INFO - Processing: CV March 2011.docx
+2025-10-09 16:20:53,592 - __main__ - INFO - Processing: CV March 2011.pdf
+2025-10-09 16:20:53,677 - __main__ - INFO - Processing: CV Martijn Moerbeek.pdf
+2025-10-09 16:20:53,755 - __main__ - INFO - Processing: CV Michel Groeneveld (June 2022).pdf
+2025-10-09 16:20:53,833 - __main__ - INFO - Processing: CV Michel van Beek UK2.doc
+2025-10-09 16:20:53,833 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:53,833 - __main__ - INFO - Processing: CV Michel Wenger 20220922.pdf
+2025-10-09 16:20:53,903 - __main__ - INFO - Processing: CV MMcC 2010 R1.doc
+2025-10-09 16:20:53,903 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:53,903 - __main__ - INFO - Processing: Cv Muhammad Rabie.pdf
+2025-10-09 16:20:53,980 - __main__ - INFO - Processing: CV Nick Laming 081211.doc
+2025-10-09 16:20:53,980 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:53,980 - __main__ - INFO - Processing: cv Nov 2011.doc
+2025-10-09 16:20:53,980 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:53,988 - __main__ - INFO - Processing: CV of Khelafat Rigger Foreman.doc
+2025-10-09 16:20:53,988 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:53,988 - __main__ - INFO - Processing: CV of Shahabuddin SAFETY Officer.doc
+2025-10-09 16:20:53,988 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:53,988 - __main__ - INFO - Processing: CV pdf LU-08.pdf
+2025-10-09 16:20:54,002 - __main__ - INFO - Processing: CV PH 2022 (deutsch).pdf
+2025-10-09 16:20:54,111 - __main__ - INFO - Processing: CV PH 2022 (english).pdf
+2025-10-09 16:20:54,197 - __main__ - INFO - Processing: CV Preity-1.pdf
+2025-10-09 16:20:54,586 - __main__ - INFO - Processing: CV RDix Feb2011.doc
+2025-10-09 16:20:54,586 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\CV RDix Feb2011.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:54,586 - __main__ - INFO - Processing: CV Ryan Goggin 1.5.doc
+2025-10-09 16:20:54,586 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\CV Ryan Goggin 1.5.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:54,586 - __main__ - INFO - Processing: CV Sander Kaart 2022.pdf
+2025-10-09 16:20:54,905 - __main__ - INFO - Processing: CV SA_Abu dhabi (2).pdf -1.pdf
+2025-10-09 16:20:55,376 - __main__ - INFO - Processing: CV Sergey Mitrichev 2011 ENG.pdf
+2025-10-09 16:20:55,405 - __main__ - INFO - Processing: CV Steve Oglesby July 2010.doc
+2025-10-09 16:20:55,405 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\CV Steve Oglesby July 2010.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:55,405 - __main__ - INFO - Processing: CV van Loon (english, 2010).pdf
+2025-10-09 16:20:55,496 - __main__ - INFO - Processing: CV version 4 2010.doc
+2025-10-09 16:20:55,496 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\CV version 4 2010.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:55,496 - __main__ - INFO - Processing: CV Willem Malda.pdf
+2025-10-09 16:20:55,561 - __main__ - INFO - Processing: CV Zennaro Carlo June_2011_UK.doc
+2025-10-09 16:20:55,563 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:55,563 - __main__ - INFO - Processing: CV(Calin Melinte).pdf
+2025-10-09 16:20:55,655 - __main__ - INFO - Processing: cv-AksamA.pdf
+2025-10-09 16:20:55,683 - __main__ - INFO - Processing: CV-barry-uk2010.pdf
+2025-10-09 16:20:55,747 - __main__ - INFO - Processing: CV-Michael Norris.doc
+2025-10-09 16:20:55,747 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\CV-Michael Norris.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:55,747 - __main__ - INFO - Processing: CV-MUSTAFA SELCUK EKSIOGLU (002).doc
+2025-10-09 16:20:55,751 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\CV-MUSTAFA SELCUK EKSIOGLU (002).doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:55,751 - __main__ - INFO - Processing: CV-MUSTAFA SELCUK EKSIOGLU.doc
+2025-10-09 16:20:55,751 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\CV-MUSTAFA SELCUK EKSIOGLU.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:55,751 - __main__ - INFO - Processing: CV-PJ_engl3.doc
+2025-10-09 16:20:55,751 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\CV-PJ_engl3.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:55,755 - __main__ - INFO - Processing: CV-Process Engineer Sohail Akhtar - 1.doc
+2025-10-09 16:20:55,756 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\CV-Process Engineer Sohail Akhtar - 1.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:55,756 - __main__ - INFO - Processing: CV-Process Engineer Sohail Akhtar.doc
+2025-10-09 16:20:55,757 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\CV-Process Engineer Sohail Akhtar.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:55,758 - __main__ - INFO - Processing: CV-Viji Menon.pdf
+2025-10-09 16:20:55,795 - __main__ - INFO - Processing: CV-VM 120111.pdf
+2025-10-09 16:20:55,880 - __main__ - INFO - Processing: cv.hafeez 1.pdf
+2025-10-09 16:20:55,960 - __main__ - INFO - Processing: cv.hafeez.pdf
+2025-10-09 16:20:56,033 - __main__ - INFO - Processing: CV.pdf
+2025-10-09 16:20:56,096 - __main__ - INFO - Processing: CV04_(2011).doc
+2025-10-09 16:20:56,097 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\CV04_(2011).doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:56,097 - __main__ - INFO - Processing: cvAndreKlaassenEnglish.pdf
+2025-10-09 16:20:56,139 - __main__ - INFO - Processing: CVDAH.doc
+2025-10-09 16:20:56,139 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:56,139 - __main__ - INFO - Processing: CVDec09 v1.doc
+2025-10-09 16:20:56,147 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\CVDec09 v1.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:56,147 - __main__ - INFO - Processing: CVKMinksRev2.doc
+2025-10-09 16:20:56,149 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\CVKMinksRev2.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:56,150 - __main__ - INFO - Processing: cvnm1_eng.pdf
+2025-10-09 16:20:56,243 - __main__ - INFO - Processing: CVRemVeen.doc
+2025-10-09 16:20:56,243 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\CVRemVeen.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:56,243 - __main__ - INFO - Processing: CV_ Ali Bask_n.pdf
+2025-10-09 16:20:56,330 - __main__ - INFO - Processing: CV_-_AJ_latest.pdf
+2025-10-09 16:20:56,538 - __main__ - INFO - Processing: CV_06.02.2012.docx
+2025-10-09 16:20:56,538 - __main__ - INFO - Processing: CV_ALainati_190511_ENG.pdf
+2025-10-09 16:20:56,659 - __main__ - INFO - Processing: CV_Alberto_LOZANO.docx
+2025-10-09 16:20:56,673 - __main__ - INFO - Processing: CV_Alberto_LOZANO_Dec 2010.pdf
+2025-10-09 16:20:56,778 - __main__ - INFO - Processing: CV_Alberto_LOZANO_May2011.pdf
+2025-10-09 16:20:56,889 - __main__ - INFO - Processing: CV_Alejandro Ocampo.pdf
+2025-10-09 16:20:57,084 - __main__ - INFO - Processing: CV_Alejandro Ocampo.pdf - 1.pdf
+2025-10-09 16:20:57,283 - __main__ - INFO - Processing: CV_Alex George-Kyriakou_last updated on 251110 at 2243.doc
+2025-10-09 16:20:57,283 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:57,283 - __main__ - INFO - Processing: CV_Andrea Francesco Perini 2022_ENG.pdf
+2025-10-09 16:20:57,332 - __main__ - INFO - Processing: CV_C FERNANDEZ.doc
+2025-10-09 16:20:57,338 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:57,338 - __main__ - INFO - Processing: cv_Cencioni.pdf
+2025-10-09 16:20:57,341 - __main__ - INFO - Processing: CV_CSep_2011.pdf
+2025-10-09 16:20:57,396 - __main__ - INFO - Processing: CV_D_Nullmeyers_Dec_10.pdf
+2025-10-09 16:20:57,478 - __main__ - INFO - Processing: cv_English.docx
+2025-10-09 16:20:57,513 - __main__ - INFO - Processing: CV_FP_2012.doc
+2025-10-09 16:20:57,516 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:57,516 - __main__ - INFO - Processing: CV_Frank_Oelgarth_Nov2010.pdf
+2025-10-09 16:20:57,646 - __main__ - INFO - Processing: cv_Giacomo_Fontana.doc
+2025-10-09 16:20:57,647 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\cv_Giacomo_Fontana.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:57,647 - __main__ - INFO - Processing: CV_Honewell_Johnston-Vere.doc
+2025-10-09 16:20:57,647 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\CV_Honewell_Johnston-Vere.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:57,647 - __main__ - INFO - Processing: cv_jimmyfreitag_en_aug_2011_Johnston Vere Consultancy Ltd.pdf
+2025-10-09 16:20:57,747 - __main__ - INFO - Processing: CV_KS110124.pdf
+2025-10-09 16:20:57,795 - __main__ - INFO - Processing: CV_Limonta_2011_english.pdf
+2025-10-09 16:20:57,846 - __main__ - INFO - Processing: CV_Marc_Tschopp_EN.pdf
+2025-10-09 16:20:57,930 - __main__ - INFO - Processing: CV_MAZOIR_English.pdf
+2025-10-09 16:20:57,986 - __main__ - INFO - Processing: CV_Niels_Olde_Riekerink_march 2010 v2.docx
+2025-10-09 16:20:58,002 - __main__ - INFO - Processing: CV_Nina Schäfer_2022_EN.pdf
+2025-10-09 16:20:58,078 - __main__ - INFO - Processing: CV_ORTONR-12.12.11.pdf
+2025-10-09 16:20:59,335 - __main__ - INFO - Processing: CV_P.Wimmer_11_23.pdf
+2025-10-09 16:20:59,472 - __main__ - INFO - Processing: CV_Paolo Petracca_eng.doc
+2025-10-09 16:20:59,472 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\CV_Paolo Petracca_eng.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:59,472 - __main__ - INFO - Processing: CV_Remi_Birkeland.pdf
+2025-10-09 16:20:59,665 - __main__ - INFO - Processing: CV_Reto.Sturzenegger_short_en (1).pdf
+2025-10-09 16:20:59,745 - __main__ - INFO - Processing: CV_rev6_DavidGeorge-Apr2011_with adden.doc
+2025-10-09 16:20:59,745 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:20:59,745 - __main__ - INFO - Processing: cv_sampaolesi_roberto_2011_04.doc
+2025-10-09 16:20:59,753 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\cv_sampaolesi_roberto_2011_04.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:20:59,753 - __main__ - INFO - Processing: CV_Sebastian Franke.pdf
+2025-10-09 16:20:59,829 - __main__ - INFO - Processing: CV_SENAY BAYRAM_ENG_17.11.2023.pdf
+2025-10-09 16:21:00,055 - __main__ - INFO - Processing: CV_Sergey_Mitrichev_2011_RUS.pdf
+2025-10-09 16:21:00,096 - __main__ - INFO - Processing: CV_SHAILESH.doc
+2025-10-09 16:21:00,096 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\CV_SHAILESH.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:21:00,106 - __main__ - INFO - Processing: CV_SJ Weston.doc
+2025-10-09 16:21:00,106 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\CV_SJ Weston.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:21:00,106 - __main__ - INFO - Processing: CV_S_Voulon_english_September2011.doc
+2025-10-09 16:21:00,110 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:00,110 - __main__ - INFO - Processing: CV_UK_LeoVanDenHeuvel.pdf
+2025-10-09 16:21:00,171 - __main__ - INFO - Processing: CV_UPDATE_02-09-11 Ronald Clughen.docx
+2025-10-09 16:21:00,202 - __main__ - INFO - Processing: CV_Vernon Adams_Latest (05_2022).docx
+2025-10-09 16:21:00,239 - __main__ - INFO - Processing: cv_zanco_english.pdf
+2025-10-09 16:21:00,410 - __main__ - INFO - Processing: Çağlar Özmen CV.pdf
+2025-10-09 16:21:00,436 - __main__ - INFO - Processing: Dan Minca.doc
+2025-10-09 16:21:00,436 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:00,436 - __main__ - INFO - Processing: Dario Vergottini.doc
+2025-10-09 16:21:00,436 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:00,436 - __main__ - INFO - Processing: David Manson (CV).docx
+2025-10-09 16:21:00,453 - __main__ - INFO - Processing: David Manson.doc
+2025-10-09 16:21:00,453 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\David Manson.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:21:00,453 - __main__ - INFO - Processing: Davide Morsiani.doc
+2025-10-09 16:21:00,453 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:00,453 - __main__ - INFO - Processing: DEKRA July 2023 (003).docx
+2025-10-09 16:21:00,514 - __main__ - INFO - Processing: DEKRA March 2023.docx
+2025-10-09 16:21:00,562 - __main__ - INFO - Processing: Deon Barnard CV Update Aug 2011.docx
+2025-10-09 16:21:00,566 - __main__ - INFO - Processing: Dhamotharan_Process Engineer.doc
+2025-10-09 16:21:00,575 - __main__ - ERROR - DOCX extraction error: "no relationship of type 'http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument' in collection"
+2025-10-09 16:21:00,575 - __main__ - INFO - Processing: Dilek Sivri CV_2024.pdf
+2025-10-09 16:21:00,651 - __main__ - INFO - Processing: DJBcvMay11.doc
+2025-10-09 16:21:00,651 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\DJBcvMay11.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:21:00,651 - __main__ - INFO - Processing: Doc1.doc
+2025-10-09 16:21:00,651 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:00,651 - __main__ - INFO - Processing: DSL CV Aug 2011.doc
+2025-10-09 16:21:00,651 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\DSL CV Aug 2011.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:21:00,651 - __main__ - INFO - Processing: Ece Turan CV 2.pdf
+2025-10-09 16:21:00,692 - __main__ - INFO - Processing: edmundlavalette.doc
+2025-10-09 16:21:00,695 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:00,696 - __main__ - INFO - Processing: edmundquilty.doc
+2025-10-09 16:21:00,696 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:00,696 - __main__ - INFO - Processing: Edward TJ.doc
+2025-10-09 16:21:00,696 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:00,696 - __main__ - INFO - Processing: edwardbache.doc
+2025-10-09 16:21:00,696 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:00,696 - __main__ - INFO - Processing: edwardball.doc
+2025-10-09 16:21:00,701 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:00,701 - __main__ - INFO - Processing: Emerson Zappone.doc
+2025-10-09 16:21:00,701 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:00,701 - __main__ - INFO - Processing: Englisch Wallstreet Zertifikat Waystage 3 .pdf
+2025-10-09 16:21:00,703 - __main__ - INFO - Processing: English CURRICULUM VITAE[1]-1.doc
+2025-10-09 16:21:00,704 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:00,704 - __main__ - INFO - Processing: English-Curriculum_Vitae_Rodney_Poldner_2010[1].docx
+2025-10-09 16:21:00,719 - __main__ - INFO - Processing: English-Curriculum_Vitae_Rodney_Poldner_2011.docx
+2025-10-09 16:21:00,741 - __main__ - INFO - Processing: Erbatur Deniz English Cv_2023.pdf
+2025-10-09 16:21:00,829 - __main__ - INFO - Processing: Erdal UYSAL_CV_12.03.2024.pdf
+2025-10-09 16:21:01,015 - __main__ - INFO - Processing: Ernst_Flemming_CV.pdf
+2025-10-09 16:21:01,036 - __main__ - INFO - Processing: EXPAT.doc
+2025-10-09 16:21:01,036 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:01,036 - __main__ - INFO - Processing: F3E9D290-2AB8-4373-A8E1-900563772CEB.pdf
+2025-10-09 16:21:01,159 - __main__ - INFO - Processing: Fabio Dinale.doc
+2025-10-09 16:21:01,162 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:01,162 - __main__ - INFO - Processing: Fatih AKILLI resume.pdf
+2025-10-09 16:21:01,258 - __main__ - INFO - Processing: Faustino Vieira_CV - EN 2024..pdf
+2025-10-09 16:21:01,395 - __main__ - INFO - Processing: Federico De Sario Resume English.pdf
+2025-10-09 16:21:01,527 - __main__ - INFO - Processing: Ferruccio di Giusto.doc
+2025-10-09 16:21:01,527 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:01,527 - __main__ - INFO - Processing: FO-CV and Cover_Letter_E_Oct 2011.pdf
+2025-10-09 16:21:01,719 - __main__ - INFO - Processing: Francesco De Santis.doc
+2025-10-09 16:21:01,719 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:01,719 - __main__ - INFO - Processing: Frank Ponsonby CV 29 Mar 11.doc
+2025-10-09 16:21:01,719 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:01,719 - __main__ - INFO - Processing: Fulcrum.pdf
+2025-10-09 16:21:02,101 - __main__ - INFO - Processing: Georg_Regner-GenericCV-201104.pdf
+2025-10-09 16:21:02,133 - __main__ - INFO - Processing: Giovanni Valsecchi.doc
+2025-10-09 16:21:02,133 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:02,133 - __main__ - INFO - Processing: Gorbachev_CV_eng.doc
+2025-10-09 16:21:02,133 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\Gorbachev_CV_eng.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:21:02,133 - __main__ - INFO - Processing: Graham Dean Curriculum Vitae 2023.3.pdf
+2025-10-09 16:21:02,200 - __main__ - INFO - Processing: Graham_A_Lock1272011_65244_PM.doc
+2025-10-09 16:21:02,200 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\Graham_A_Lock1272011_65244_PM.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:21:02,200 - __main__ - INFO - Processing: Grzegorz_Ligier10282010_111100_AM.doc
+2025-10-09 16:21:02,200 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:02,200 - __main__ - INFO - Processing: Gufran CV For Mechanical Piping Forman.doc
+2025-10-09 16:21:02,205 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\Gufran CV For Mechanical Piping Forman.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:21:02,206 - __main__ - INFO - Processing: Hadeel.pdf
+2025-10-09 16:21:02,304 - __main__ - INFO - Processing: Hans PAUL CV 2011.doc
+2025-10-09 16:21:02,304 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\Hans PAUL CV 2011.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:21:02,304 - __main__ - INFO - Processing: Hausinger CV.pdf
+2025-10-09 16:21:02,346 - __main__ - INFO - Processing: Hayley Profile.doc
+2025-10-09 16:21:02,346 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:02,346 - __main__ - INFO - Processing: HHartsiotisCVSept2010.doc
+2025-10-09 16:21:02,346 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\HHartsiotisCVSept2010.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:21:02,346 - __main__ - INFO - Processing: Hiren Khatri 1.pdf
+2025-10-09 16:21:02,460 - __main__ - INFO - Processing: Hiren Khatri CV.pdf
+2025-10-09 16:21:02,582 - __main__ - INFO - Processing: Huw Parry CV January 2011.doc
+2025-10-09 16:21:02,582 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\Huw Parry CV January 2011.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:21:02,590 - __main__ - INFO - Processing: Ian CV 2012.doc
+2025-10-09 16:21:02,593 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\Ian CV 2012.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:21:02,593 - __main__ - INFO - Processing: Ian Govan CV 1 May 2011.docx
+2025-10-09 16:21:02,603 - __main__ - INFO - Processing: Ian Govan Job Description.docx
+2025-10-09 16:21:02,618 - __main__ - INFO - Processing: Imtech brochure_Product Overview.pdf
+2025-10-09 16:21:02,904 - __main__ - INFO - Processing: Jans CVs wc 7.3.11.doc
+2025-10-09 16:21:02,904 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:02,906 - __main__ - INFO - Processing: Jeroen_Deweer_June2011.docx
+2025-10-09 16:21:02,918 - __main__ - INFO - Processing: Jim L Scott_CV.doc
+2025-10-09 16:21:02,918 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\Jim L Scott_CV.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:21:02,918 - __main__ - INFO - Processing: Jitenkumar (CEng MIChemE)_Process Engineer-1.pdf
+2025-10-09 16:21:03,080 - __main__ - INFO - Processing: JJ cv's wc 28.3.11.doc
+2025-10-09 16:21:03,080 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,080 - __main__ - INFO - Processing: JJ CVs wc 23.5.11.doc
+2025-10-09 16:21:03,084 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,084 - __main__ - INFO - Processing: JJ CVs wc 4.1.11.doc
+2025-10-09 16:21:03,084 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,084 - __main__ - INFO - Processing: JJs CVs 10.1.11.doc
+2025-10-09 16:21:03,084 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,084 - __main__ - INFO - Processing: JJs CVs 14.2.11.doc
+2025-10-09 16:21:03,087 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,087 - __main__ - INFO - Processing: JJs CVs 17.1.11.doc
+2025-10-09 16:21:03,088 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,088 - __main__ - INFO - Processing: JJs CVs 24.1.11.doc
+2025-10-09 16:21:03,089 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,089 - __main__ - INFO - Processing: JJs CVs 30.1.12.doc
+2025-10-09 16:21:03,090 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,090 - __main__ - INFO - Processing: JJs CVs wc 1.8.11.doc
+2025-10-09 16:21:03,092 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,092 - __main__ - INFO - Processing: JJs CVs wc 10.10.11.doc
+2025-10-09 16:21:03,093 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,094 - __main__ - INFO - Processing: JJs CVs wc 11.4.11.doc
+2025-10-09 16:21:03,095 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,096 - __main__ - INFO - Processing: JJs CVs wc 11.7.11.doc
+2025-10-09 16:21:03,096 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,097 - __main__ - INFO - Processing: JJs CVs wc 12.12.11.doc
+2025-10-09 16:21:03,097 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,098 - __main__ - INFO - Processing: JJs CVs wc 12.9.11.doc
+2025-10-09 16:21:03,098 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,098 - __main__ - INFO - Processing: JJs CVs wc 13.12.10.doc
+2025-10-09 16:21:03,098 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,098 - __main__ - INFO - Processing: JJs CVs wc 13.6.11.doc
+2025-10-09 16:21:03,098 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,098 - __main__ - INFO - Processing: JJs CVs wc 14.11.11.doc
+2025-10-09 16:21:03,098 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,098 - __main__ - INFO - Processing: JJs CVs wc 14.3.11.doc
+2025-10-09 16:21:03,103 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,103 - __main__ - INFO - Processing: JJs CVs wc 15.8.11.doc
+2025-10-09 16:21:03,103 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,104 - __main__ - INFO - Processing: JJs CVs wc 16.1.12.doc
+2025-10-09 16:21:03,105 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,105 - __main__ - INFO - Processing: JJs CVs wc 16.5.11.doc
+2025-10-09 16:21:03,106 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,106 - __main__ - INFO - Processing: JJs CVs wc 17.10.11.doc
+2025-10-09 16:21:03,107 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,107 - __main__ - INFO - Processing: JJs cvs wc 18.4.11.doc
+2025-10-09 16:21:03,109 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,109 - __main__ - INFO - Processing: JJs CVs wc 19.12.11.doc
+2025-10-09 16:21:03,110 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,111 - __main__ - INFO - Processing: JJs CVs wc 19.9.11.doc
+2025-10-09 16:21:03,112 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,112 - __main__ - INFO - Processing: JJs CVs wc 20.6.11.doc
+2025-10-09 16:21:03,113 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,114 - __main__ - INFO - Processing: JJs CVs wc 21.11.11.doc
+2025-10-09 16:21:03,114 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,114 - __main__ - INFO - Processing: JJs CVs wc 21.2.11.doc
+2025-10-09 16:21:03,114 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,114 - __main__ - INFO - Processing: JJs CVs wc 21.3.11.doc
+2025-10-09 16:21:03,114 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,114 - __main__ - INFO - Processing: JJs CVs wc 22.8.11.doc
+2025-10-09 16:21:03,114 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,114 - __main__ - INFO - Processing: JJs CVs wc 23.1.12.doc
+2025-10-09 16:21:03,119 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,119 - __main__ - INFO - Processing: JJs CVs wc 24.10.11.doc
+2025-10-09 16:21:03,120 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,120 - __main__ - INFO - Processing: JJs CVs wc 25.7.11.doc
+2025-10-09 16:21:03,121 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,121 - __main__ - INFO - Processing: JJs CVs wc 26.4.11.doc
+2025-10-09 16:21:03,123 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,123 - __main__ - INFO - Processing: JJs CVs wc 26.9.11.doc
+2025-10-09 16:21:03,124 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,124 - __main__ - INFO - Processing: JJs CVs wc 27.6.11.doc
+2025-10-09 16:21:03,125 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,125 - __main__ - INFO - Processing: JJs CVs wc 28.11.11.doc
+2025-10-09 16:21:03,125 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,125 - __main__ - INFO - Processing: JJs CVs wc 28.2.11.doc
+2025-10-09 16:21:03,126 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,126 - __main__ - INFO - Processing: JJs CVs wc 3.10.11.doc
+2025-10-09 16:21:03,127 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,129 - __main__ - INFO - Processing: JJs CVs wc 3.5.11.doc
+2025-10-09 16:21:03,130 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,130 - __main__ - INFO - Processing: JJs CVs wc 30.8.11.doc
+2025-10-09 16:21:03,131 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,131 - __main__ - INFO - Processing: JJs CVs wc 31.1.11.doc
+2025-10-09 16:21:03,133 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,134 - __main__ - INFO - Processing: JJs CVs wc 31.10.11.doc
+2025-10-09 16:21:03,134 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,135 - __main__ - INFO - Processing: JJs CVs wc 31.5.11.doc
+2025-10-09 16:21:03,135 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,135 - __main__ - INFO - Processing: JJs CVs wc 4.4.11.doc
+2025-10-09 16:21:03,137 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,137 - __main__ - INFO - Processing: JJs CVs wc 4.7.11.doc
+2025-10-09 16:21:03,138 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,138 - __main__ - INFO - Processing: JJs CVs wc 5.9.11.doc
+2025-10-09 16:21:03,138 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,139 - __main__ - INFO - Processing: JJs CVs wc 6.2.12.doc
+2025-10-09 16:21:03,139 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,139 - __main__ - INFO - Processing: JJs CVs wc 7.11.11.doc
+2025-10-09 16:21:03,141 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,141 - __main__ - INFO - Processing: JJs CVs wc 7.2.11.doc
+2025-10-09 16:21:03,142 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,142 - __main__ - INFO - Processing: JJs CVs wc 8.8.11.doc
+2025-10-09 16:21:03,143 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,143 - __main__ - INFO - Processing: JJs CVs wc 9.1.12.doc
+2025-10-09 16:21:03,144 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,144 - __main__ - INFO - Processing: JJs CVs wc 9.5.11.doc
+2025-10-09 16:21:03,147 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,147 - __main__ - INFO - Processing: Joe Hart1.docx
+2025-10-09 16:21:03,178 - __main__ - INFO - Processing: John Mitchell CV.pdf
+2025-10-09 16:21:03,301 - __main__ - INFO - Processing: John Sanders -1.docx
+2025-10-09 16:21:03,319 - __main__ - INFO - Processing: Johnston Vere Switzerland Recruitment (Perm) Contract 25.10.2022.docx
+2025-10-09 16:21:03,402 - __main__ - INFO - Processing: Jon_Casey1162011_11110_PM.pdf
+2025-10-09 16:21:03,462 - __main__ - INFO - Processing: JR_CV2010.doc
+2025-10-09 16:21:03,462 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:03,462 - __main__ - INFO - Processing: Justin Kingston -Current 2011[1].11 CV.doc
+2025-10-09 16:21:03,462 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\Justin Kingston -Current 2011[1].11 CV.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:21:03,462 - __main__ - INFO - Processing: JVC - Terms.docx
+2025-10-09 16:21:03,490 - __main__ - INFO - Processing: JVCL Sandro Chiesa.docx
+2025-10-09 16:21:03,501 - __main__ - INFO - Processing: JVCV - Caglar Ozmen.docx
+2025-10-09 16:21:03,523 - __main__ - INFO - Processing: JVCV - DİLEK SİVRİ.docx
+2025-10-09 16:21:03,536 - __main__ - INFO - Processing: JVCV - Mohammed Adel Nassar.docx
+2025-10-09 16:21:03,551 - __main__ - INFO - Processing: JVCV - Mustafa Selcuk EKSIOGLU.docx
+2025-10-09 16:21:03,564 - __main__ - INFO - Processing: JVCV - Muzaffer İNCEGÜL.docx
+2025-10-09 16:21:03,579 - __main__ - INFO - Processing: JVCV - Nikita Mokashi (1).docx
+2025-10-09 16:21:03,585 - __main__ - INFO - Processing: JVCV - Nikita Mokashi.docx
+2025-10-09 16:21:03,606 - __main__ - INFO - Processing: JVCV - SHAKEEL ABDUL VAKKIL.docx
+2025-10-09 16:21:03,616 - __main__ - INFO - Processing: JVCV - VOLKAN AYGUN.docx
+2025-10-09 16:21:03,632 - __main__ - INFO - Processing: J_Claassen_CV_Feb 2011.doc
+2025-10-09 16:21:03,633 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\J_Claassen_CV_Feb 2011.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:21:03,634 - __main__ - INFO - Processing: Kaan Suner_OnePage_CV_12_03_2024.pdf
+2025-10-09 16:21:03,702 - __main__ - INFO - Processing: Kenan Bic_ici O_zgec_mis_.pdf
+2025-10-09 16:21:03,819 - __main__ - INFO - Processing: Khairul_Anuar1222010_42608_AM.doc
+2025-10-09 16:21:03,819 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\Khairul_Anuar1222010_42608_AM.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:21:03,819 - __main__ - INFO - Processing: Kisnaduth Kesore English CV 30 November  2011.pdf
+2025-10-09 16:21:03,949 - __main__ - INFO - Processing: Kooorsh Zarei BOSIET Certificate.pdf
+2025-10-09 16:21:03,949 - __main__ - INFO - Processing: KOTTS, Radek.Updated.doc
+2025-10-09 16:21:03,949 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\KOTTS, Radek.Updated.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:21:03,949 - __main__ - INFO - Processing: Lars Wallstein Jan 2011_sent to Jan Johnston.pdf
+2025-10-09 16:21:04,086 - __main__ - INFO - Processing: lee jones CV may11.doc
+2025-10-09 16:21:04,086 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:04,086 - __main__ - INFO - Processing: Lee Preston CV - Leadership emphasis.docx
+2025-10-09 16:21:04,115 - __main__ - INFO - Processing: Lee Preston Details 082011.docx
+2025-10-09 16:21:04,140 - __main__ - INFO - Processing: luca favero Raw CV.doc
+2025-10-09 16:21:04,140 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:04,140 - __main__ - INFO - Processing: luca fervari from linkedin.doc
+2025-10-09 16:21:04,140 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:04,140 - __main__ - INFO - Processing: M Simcock PhD CV 12 Jan 2012 NH.doc
+2025-10-09 16:21:04,146 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:04,147 - __main__ - INFO - Processing: marco nani raw cv.doc
+2025-10-09 16:21:04,148 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:04,148 - __main__ - INFO - Processing: Marek-Sinski-CV-English-1011.pdf
+2025-10-09 16:21:04,410 - __main__ - INFO - Processing: Mario Felicetti - Chronological Life Event List_22-2-2011.pdf
+2025-10-09 16:21:04,480 - __main__ - INFO - Processing: Mario Felicetti detailed CV_22-2-2011 .pdf
+2025-10-09 16:21:04,594 - __main__ - INFO - Processing: Mark Thompson CV April23.doc
+2025-10-09 16:21:04,594 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\Mark Thompson CV April23.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:21:04,594 - __main__ - INFO - Processing: Marketing Executive CV.doc
+2025-10-09 16:21:04,594 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\Marketing Executive CV.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:21:04,594 - __main__ - INFO - Processing: Martin Rimmer  Honeywell CV Dec 2010.pdf
+2025-10-09 16:21:04,631 - __main__ - INFO - Processing: MCS CV 2024.pdf
+2025-10-09 16:21:04,703 - __main__ - INFO - Processing: Mehmet Usta CV 2024.pdf
+2025-10-09 16:21:04,843 - __main__ - INFO - Processing: Mehmet_KALYON_EN_V3 (1) (1).pdf
+2025-10-09 16:21:04,966 - __main__ - INFO - Processing: Michael Minkevich CV 09_10E (PE).pdf
+2025-10-09 16:21:05,022 - __main__ - INFO - Processing: Michele Olivari.doc
+2025-10-09 16:21:05,022 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:05,022 - __main__ - INFO - Processing: Microsoft Word - cv_engl. 2010_2.doc.pdf
+2025-10-09 16:21:05,059 - __main__ - INFO - Processing: Mike_Croot_CV_2011.doc
+2025-10-09 16:21:05,062 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\Mike_Croot_CV_2011.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:21:05,062 - __main__ - INFO - Processing: Mohamed_Hafez 1.pdf
+2025-10-09 16:21:05,202 - __main__ - INFO - Processing: Mohamed_Hafez_CV_DEC2021 copy.docx
+2025-10-09 16:21:05,202 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:05,202 - __main__ - INFO - Processing: Montasser CV final - Sep.5.pdf
+2025-10-09 16:21:05,445 - __main__ - INFO - Processing: Morerio P CV E Sep 2010.pdf
+2025-10-09 16:21:05,481 - __main__ - INFO - Processing: Morrison PJ slim cv Sept 10.doc
+2025-10-09 16:21:05,481 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\Morrison PJ slim cv Sept 10.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:21:05,481 - __main__ - INFO - Processing: Moyeenuddin - CV 1.pdf
+2025-10-09 16:21:05,601 - __main__ - INFO - Processing: Moyeenuddin 1.pdf
+2025-10-09 16:21:05,742 - __main__ - INFO - Processing: MPhilpott CV Master.doc
+2025-10-09 16:21:05,745 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:05,745 - __main__ - INFO - Processing: ms11-ing.docx
+2025-10-09 16:21:05,764 - __main__ - INFO - Processing: MTCV.Jan.2011.docx
+2025-10-09 16:21:05,777 - __main__ - INFO - Processing: Multisol - Maintenance & Projects Manager.doc
+2025-10-09 16:21:05,779 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:05,779 - __main__ - INFO - Processing: Murat HACIBEKIR - Resume MARCH 2024 - BASF.pdf
+2025-10-09 16:21:05,846 - __main__ - INFO - Processing: Muzaffer Incegul Resume.pdf
+2025-10-09 16:21:06,031 - __main__ - INFO - Processing: MY CV File.doc
+2025-10-09 16:21:06,038 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:06,038 - __main__ - INFO - Processing: My CV.doc
+2025-10-09 16:21:06,038 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:06,041 - __main__ - INFO - Processing: MyCV.doc
+2025-10-09 16:21:06,042 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\MyCV.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:21:06,043 - __main__ - INFO - Processing: Märklin.pdf
+2025-10-09 16:21:06,096 - __main__ - INFO - Processing: Nader Shawky 1.pdf
+2025-10-09 16:21:06,143 - __main__ - INFO - Processing: Nader Shawky Compressed.pdf
+2025-10-09 16:21:06,187 - __main__ - INFO - Processing: Naldi Christian - CV to Jan Johnston.doc
+2025-10-09 16:21:06,187 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\Naldi Christian - CV to Jan Johnston.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:21:06,187 - __main__ - INFO - Processing: Naldi Christian - CV to Johnston Vere.doc
+2025-10-09 16:21:06,195 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\Naldi Christian - CV to Johnston Vere.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:21:06,195 - __main__ - INFO - Processing: Nassar CV2023.pdf - 1.pdf
+2025-10-09 16:21:06,301 - __main__ - INFO - Processing: NILESH BORSE 1.pdf
+2025-10-09 16:21:06,449 - __main__ - INFO - Processing: NILESH BORSE.doc
+2025-10-09 16:21:06,449 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\NILESH BORSE.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:21:06,449 - __main__ - INFO - Processing: Oliver Doerle CV short version.doc
+2025-10-09 16:21:06,449 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:06,449 - __main__ - INFO - Processing: Omar Al-Hamadani Resume.pdf - 1.pdf
+2025-10-09 16:21:06,623 - __main__ - INFO - Processing: organisational development CVs.doc
+2025-10-09 16:21:06,625 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:06,625 - __main__ - INFO - Processing: Paul Grange - Curriculum Vitae.doc
+2025-10-09 16:21:06,628 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\Paul Grange - Curriculum Vitae.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:21:06,628 - __main__ - INFO - Processing: pedro mendes cover letter.doc
+2025-10-09 16:21:06,628 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:06,628 - __main__ - INFO - Processing: PierreLombrez_Resume_20111024.docx
+2025-10-09 16:21:06,653 - __main__ - INFO - Processing: PJ2011CV1.doc
+2025-10-09 16:21:06,653 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:06,653 - __main__ - INFO - Processing: Rebecca Croft1.docx
+2025-10-09 16:21:06,674 - __main__ - INFO - Processing: Ref- 601   EUR ING Mon Tindale 22 May 2011.doc
+2025-10-09 16:21:06,676 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:06,676 - __main__ - INFO - Processing: REFA Seminar Torsten Heiland.pdf
+2025-10-09 16:21:06,679 - __main__ - INFO - Processing: Resum of Ebrarul Haque for HSE Advisor.doc
+2025-10-09 16:21:06,681 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\Resum of Ebrarul Haque for HSE Advisor.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:21:06,682 - __main__ - INFO - Processing: Resume GS - English.doc
+2025-10-09 16:21:06,683 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:06,683 - __main__ - INFO - Processing: Resume of Dr. Parvez for HSE Advisor.doc
+2025-10-09 16:21:06,684 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\Resume of Dr. Parvez for HSE Advisor.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:21:06,685 - __main__ - INFO - Processing: Resume of Dr. Parvez for HSE Engineer.doc
+2025-10-09 16:21:06,686 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\Resume of Dr. Parvez for HSE Engineer.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:21:06,686 - __main__ - INFO - Processing: Resume Suleyman C. Ugurses Short Version.pdf
+2025-10-09 16:21:06,713 - __main__ - INFO - Processing: Resume SÜLEYMAN CAHİT UĞURSES (2).pdf
+2025-10-09 16:21:07,112 - __main__ - INFO - Processing: Resume-BURHAN-ERDEN.pdf
+2025-10-09 16:21:07,129 - __main__ - INFO - Processing: Resume202306160507.pdf
+2025-10-09 16:21:07,229 - __main__ - INFO - Processing: Resume_Luca Balzarini.pdf
+2025-10-09 16:21:07,310 - __main__ - INFO - Processing: Resume_Nikita Mokashi.pdf - 1.pdf
+2025-10-09 16:21:07,434 - __main__ - INFO - Processing: RicBlackwellCV.doc
+2025-10-09 16:21:07,434 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\RicBlackwellCV.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:21:07,434 - __main__ - INFO - Processing: Rich Bowen_CV_2011.docx
+2025-10-09 16:21:07,446 - __main__ - INFO - Processing: RJFCV230112.doc
+2025-10-09 16:21:07,448 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:07,449 - __main__ - INFO - Processing: ROMEO C_CV_2011-E-DesEngLeader.doc
+2025-10-09 16:21:07,450 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:07,450 - __main__ - INFO - Processing: Rosalind Burgess Curriculum Vitae December 2010.pdf
+2025-10-09 16:21:07,569 - __main__ - INFO - Processing: Roy Botha CV Oct'11.pdf
+2025-10-09 16:21:07,816 - __main__ - INFO - Processing: S Bartlett CV.pdf
+2025-10-09 16:21:07,896 - __main__ - INFO - Processing: Samir Besher - CV.pdf
+2025-10-09 16:21:07,993 - __main__ - INFO - Processing: Sasol  Marketing.docx
+2025-10-09 16:21:08,098 - __main__ - INFO - Processing: Sasol BDM EMEA.docx
+2025-10-09 16:21:08,199 - __main__ - INFO - Processing: SC_CV_2011.docx
+2025-10-09 16:21:08,229 - __main__ - INFO - Processing: Senior Field Lead Sales Engineer Job Description Rev2 Aug 09.doc
+2025-10-09 16:21:08,229 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\Senior Field Lead Sales Engineer Job Description Rev2 Aug 09.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:21:08,229 - __main__ - INFO - Processing: Serdar Altuner CV 2024.pdf
+2025-10-09 16:21:08,395 - __main__ - INFO - Processing: Sergei Ivanov_process specialist_Dec2023 - 1.docx
+2025-10-09 16:21:08,456 - __main__ - INFO - Processing: Sergei Ivanov_process specialist_Dec2023 .docx
+2025-10-09 16:21:08,537 - __main__ - INFO - Processing: Sergei Ivanov_process specialist_Dec2023.docx
+2025-10-09 16:21:08,656 - __main__ - INFO - Processing: Sergio Sironi Resume English.pdf
+2025-10-09 16:21:08,848 - __main__ - INFO - Processing: Sergio Sironi.doc
+2025-10-09 16:21:08,850 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:08,850 - __main__ - INFO - Processing: Shahnwaz Mechanical Engineer.doc
+2025-10-09 16:21:08,863 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\Shahnwaz Mechanical Engineer.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:21:08,864 - __main__ - INFO - Processing: Shakeel AV_Process Engineer- Aug 2023.pdf
+2025-10-09 16:21:08,985 - __main__ - INFO - Processing: Shakeel AV_Process Engineer- Aug 2023.pdf - 1.pdf
+2025-10-09 16:21:09,100 - __main__ - INFO - Processing: Simone_Turina2162011_105648_AM.doc
+2025-10-09 16:21:09,100 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:09,100 - __main__ - INFO - Processing: SK CV Feb2011.doc
+2025-10-09 16:21:09,115 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:09,115 - __main__ - INFO - Processing: Sr. Process Engineer - Oil & Gas (Hafiz M. Abubakar)_ Resume.pdf
+2025-10-09 16:21:09,324 - __main__ - INFO - Processing: Steve CV II.doc
+2025-10-09 16:21:09,330 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\Steve CV II.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:21:09,330 - __main__ - INFO - Processing: SueGedrych August 2011.doc
+2025-10-09 16:21:09,333 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\SueGedrych August 2011.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:21:09,334 - __main__ - INFO - Processing: Suzan Karabulut CV.pdf
+2025-10-09 16:21:09,402 - __main__ - INFO - Processing: Sven Wagner CV.pdf
+2025-10-09 16:21:09,445 - __main__ - INFO - Processing: Swadesh_Singh6302011_75935_PM.doc
+2025-10-09 16:21:09,448 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\Swadesh_Singh6302011_75935_PM.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:21:09,448 - __main__ - INFO - Processing: S_Camarda CV EU eng4.doc
+2025-10-09 16:21:09,462 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\S_Camarda CV EU eng4.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:21:09,463 - __main__ - INFO - Processing: Taseer_Seer_Oct_2023.pdf
+2025-10-09 16:21:09,671 - __main__ - INFO - Processing: THUENE-Tassilo-CV_20110512.pdf
+2025-10-09 16:21:09,768 - __main__ - INFO - Processing: Toby_Personal_26May2011.pdf
+2025-10-09 16:21:10,053 - __main__ - INFO - Processing: TONY SLADE CV 2010.doc
+2025-10-09 16:21:10,055 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\TONY SLADE CV 2010.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:21:10,055 - __main__ - INFO - Processing: TONY SLADE CV 2011.doc
+2025-10-09 16:21:10,055 - __main__ - ERROR - DOCX extraction error: File is not a zip file
+2025-10-09 16:21:10,055 - __main__ - INFO - Processing: TUNA TURGUT CV2022ING.pdf
+2025-10-09 16:21:10,121 - __main__ - INFO - Processing: UK-2022-_Process_Team_Head__4___1_.pdf
+2025-10-09 16:21:10,424 - __main__ - INFO - Processing: Umair-Zahid 1.pdf
+2025-10-09 16:21:10,555 - __main__ - INFO - Processing: Umair-Zahid_Resume.pdf
+2025-10-09 16:21:10,707 - __main__ - INFO - Processing: Unsal Ustunsoy CV.pdf
+2025-10-09 16:21:10,748 - __main__ - INFO - Processing: VDI Seminar Torsten Heiland.pdf
+2025-10-09 16:21:10,755 - __main__ - INFO - Processing: Volkan Aygun.pdf
+2025-10-09 16:21:10,832 - __main__ - INFO - Processing: XpertRule - BDE.doc - Johnston Vere Consultancy - Final XR signed.pdf
+2025-10-09 16:21:11,078 - __main__ - INFO - Processing: XpertRule - BDE.doc - Johnston Vere Consultancy - Final.docx
+2025-10-09 16:21:11,129 - __main__ - INFO - Processing: Youssef Amir - Chemical Engineer.pdf
+2025-10-09 16:21:11,188 - __main__ - INFO - Processing: Zarifullin_Bulat_CV.pdf
+2025-10-09 16:21:11,205 - __main__ - INFO - Processing: Zobair-Ahmed Update CV.doc
+2025-10-09 16:21:11,212 - __main__ - ERROR - DOCX extraction error: file 'C:\IntelliCV-AI\IntelliCV\IntelliCV-data\Zobair-Ahmed Update CV.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-09 16:21:11,212 - __main__ - INFO - Processing: _ EU Curriculum Vitae - Giovanni Valsecchi.pdf
+2025-10-09 16:21:11,310 - __main__ - INFO - Saved: C:\IntelliCV-AI\IntelliCV\ai_data_final\companies\companies_database.json
+2025-10-09 16:21:11,314 - __main__ - INFO - Saved: C:\IntelliCV-AI\IntelliCV\ai_data_final\job_titles\job_titles_database.json
+2025-10-09 16:21:11,315 - __main__ - INFO - Saved: C:\IntelliCV-AI\IntelliCV\ai_data_final\emails\emails_database.json
+2025-10-09 16:21:11,332 - __main__ - INFO - Consolidated data processing completed!
+2025-10-09 16:21:11,335 - __main__ - INFO - Copying processed data to SANDBOX...
+2025-10-09 16:21:13,015 - __main__ - INFO - Successfully copied data to SANDBOX

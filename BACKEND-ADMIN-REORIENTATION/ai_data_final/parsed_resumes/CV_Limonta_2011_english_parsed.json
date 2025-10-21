@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "file_name": "CV_Limonta_2011_english.pdf",
+    "file_size": 15872,
+    "processing_date": "2025-10-09T16:20:57.846556",
+    "text_length": 5656,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "max_limonta@hotmail.com"
+    ],
+    "phones": [
+      "39-3407602278"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [],
+  "job_titles": [
+    "Engineer",
+    "manager",
+    "Manager",
+    "specialist",
+    "senior",
+    "director"
+  ],
+  "text_sample": " CURRICULUM VITAE  \n \n \n \nPersonal  Information \n \nFirst Name/Surname             Massimo Limonta \nDate of birth              19 February 1972 \nPlace of birth              Ponte San Pietro (Berga mo) \nAddress              Via Comboni 53- 25015 Desenzan o Del Garda (Brescia) \nMobile phone number + 39-3407602278 \nE-mail    max_limonta@hotmail.com  \n \nEducation \nJuly 1998 \nBachelor of Industrial Engineer ( Laurea in Ingegne ria \nGestionale) at Bergamo University.      Final score  98/110 \n \nJune 19...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "finance": [
+      "Excel",
+      "SAP"
+    ],
+    "soft_skills": [
+      "Problem Solving"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "manufacturing",
+    "industry_scores": {
+      "technology": 1,
+      "finance": 2,
+      "manufacturing": 3,
+      "education": 1
+    },
+    "confidence": 0.5
+  }
+}

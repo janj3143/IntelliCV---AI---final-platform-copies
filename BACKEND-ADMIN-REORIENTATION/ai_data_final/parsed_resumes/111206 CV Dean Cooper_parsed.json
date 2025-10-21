@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "file_name": "111206 CV Dean Cooper.pdf",
+    "file_size": 33450,
+    "processing_date": "2025-10-09T16:20:48.222677",
+    "text_length": 6422,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "Dean.Cooper@uop.com"
+    ],
+    "phones": [
+      "41 789 100 317"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Naphtha Technologies \nUOP Ltd",
+    "Naphtha Technologies",
+    "A university of Leeds postgraduate working full time at the Cookson Technology",
+    "Postgraduate  Training Partnership \nCookson Technology",
+    "EDUCATION  \nCookson Technology",
+    "UOP Middle East Company"
+  ],
+  "job_titles": [
+    "Manager",
+    "consultant",
+    "Chief"
+  ],
+  "text_sample": "Curriculum Vitae  \nDean Cooper  Dean Cooper  \nPersonal Information  \nAddress: c/o UOP CH Sarl  Nationality:     United Kingdom \n  ZA La Piece 16    Date of Birth:     18th April 1973 \n  Rolle, Switzerland  Status:      Married \n  CH-1180   Driving Licence:     Yes  \nTelephone: +41 789 100 317  E-mail:              Dean.Cooper@uop.com  \nPersonal Profile \nI am a self motivated and achievement orientated professional. Able to work effectively at all \nlevels individually or as part of a team, and de...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "finance": [
+      "SAP",
+      "Compliance"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "finance",
+    "industry_scores": {
+      "technology": 1,
+      "finance": 2,
+      "education": 2,
+      "sales": 1
+    },
+    "confidence": 0.2857142857142857
+  }
+}

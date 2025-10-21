@@ -1,0 +1,166 @@
+{
+  "candidate_job_fit": {
+    "strengths": [],
+    "skills_match": [
+      "✅ Strong: Leadership Experience",
+      "✅ Strong Match: Management Experience",
+      "✅ Strong Match: Strategic Thinking",
+      "✅ Relevant: Operations Experience",
+      "✅ Excellent: P&L Management",
+      "✅ Perfect Match: Technical Engineering Background",
+      "✅ Strong Match: Management Experience",
+      "✅ Direct Match: Business Development",
+      "✅ Valuable: International Experience"
+    ],
+    "career_progression_potential": "Excellent Fit - Strong Candidate",
+    "experience_alignment": [
+      {
+        "relevance": "High - Direct industry experience",
+        "value": "Industrial Equipment & High-Pressure Technology",
+        "company": "RESATO INTERNATIONAL"
+      },
+      {
+        "relevance": "High - Direct industry experience",
+        "value": "Marine & Offshore Processing",
+        "company": "FJORDS PROCESSING"
+      },
+      {
+        "relevance": "High - Direct industry experience",
+        "value": "Power Systems & Electrical Equipment",
+        "company": "GE POWER CONVERSION"
+      },
+      {
+        "relevance": "High - Direct industry experience",
+        "value": "Industrial Control Systems",
+        "company": "COMPRESSOR CONTROLS"
+      }
+    ],
+    "development_areas": [],
+    "overall_fit_score": 138
+  },
+  "job_opportunity": {
+    "role_focus": "Energy Transition & Clean Hydrogen Development",
+    "industry_alignment": "Energy, Industrial, Clean Technology",
+    "position": "Business Development Manager - Hydrogen Scotland",
+    "career_level": "Senior Manager / Director Level",
+    "company": "Shell",
+    "division": "Shell Hydrogen / Renewables & Energy Solutions",
+    "location": "Scotland, UK",
+    "nice_to_have": [
+      "Experience in LNG, pipeline gas, power, CO2",
+      "Trading & market development experience",
+      "Strong network in Scotland industrial sector",
+      "Hydrogen industry connections"
+    ],
+    "key_requirements": [
+      "B2B business development experience",
+      "JV partnerships & deal origination",
+      "Industrial hydrogen market knowledge",
+      "Energy transition expertise",
+      "Bachelor's/Master's in Economics/Business/Engineering",
+      "Strong commercial acumen",
+      "Technical understanding of industrial processes",
+      "Relationship building with major industrial clients"
+    ]
+  },
+  "personal_development_plan": {
+    "immediate_actions": [
+      "Research hydrogen industry market dynamics",
+      "Connect with Shell's renewable energy initiatives",
+      "Study Scotland's industrial decarbonization landscape",
+      "Network with hydrogen industry professionals"
+    ],
+    "career_positioning": [
+      "Emphasize engineering + business development combination",
+      "Highlight international P&L management experience",
+      "Showcase energy sector industrial experience",
+      "Position as energy transition leader"
+    ],
+    "skill_enhancement": [
+      "Hydrogen technology fundamentals",
+      "Clean energy project finance",
+      "Industrial decarbonization strategies",
+      "Scotland energy transition ecosystem"
+    ]
+  },
+  "metadata": {
+    "analysis_type": "personal_career_intelligence",
+    "pipeline_version": "v3.0_candidate_focused",
+    "focus": "candidate_development_optimization",
+    "analysis_timestamp": "2025-08-11_17-35-16"
+  },
+  "career_insights": {
+    "competitive_advantages": [
+      "Engineering + Business Development combination",
+      "International P&L management experience",
+      "Multi-industry leadership background",
+      "Technical depth with commercial acumen"
+    ],
+    "progression_path": "Ready for senior energy transition roles",
+    "industry_alignment": "Strong match with energy/industrial sector",
+    "recommended_next_steps": [
+      "Research hydrogen industry market dynamics",
+      "Connect with Shell's renewable energy initiatives",
+      "Study Scotland's industrial decarbonization landscape",
+      "Network with hydrogen industry professionals"
+    ]
+  },
+  "user_profile": {
+    "ai_confidence": "92%",
+    "experience_years": 31.0,
+    "international_experience": true,
+    "name": "Eric Mehl",
+    "skills_count": 20,
+    "leadership_score": 5
+  },
+  "company_intelligence": {
+    "EGON ZEHNDER": {
+      "locations": "Global - 40+ Countries",
+      "size": "Large (1,000+ employees)",
+      "industry": "Executive Search & Leadership Consulting",
+      "relevance_score": "High - Leadership Network",
+      "sector": "Professional Services",
+      "web_source": "Executive Search Database"
+    },
+    "RESATO INTERNATIONAL": {
+      "locations": "Netherlands, Global",
+      "size": "Medium (50-500 employees)",
+      "industry": "Industrial Equipment & High-Pressure Technology",
+      "relevance_score": "High - Direct Industry Match",
+      "sector": "Energy/Oil & Gas",
+      "web_source": "Company Website + LinkedIn"
+    },
+    "COMPRESSOR CONTROLS": {
+      "locations": "International",
+      "size": "Medium (200-500 employees)",
+      "industry": "Industrial Control Systems",
+      "relevance_score": "High - Technical Specialization",
+      "sector": "Energy/Industrial Automation",
+      "web_source": "Industrial Equipment Database"
+    },
+    "GE POWER CONVERSION": {
+      "locations": "Global - Multiple Countries",
+      "size": "Large (10,000+ employees)",
+      "industry": "Power Systems & Electrical Equipment",
+      "relevance_score": "Very High - Major Industry Player",
+      "sector": "Energy/Industrial",
+      "web_source": "GE Corporate + Industry Reports"
+    },
+    "FJORDS PROCESSING": {
+      "locations": "Norway, North Sea",
+      "size": "Medium (100-1000 employees)",
+      "industry": "Marine & Offshore Processing",
+      "relevance_score": "High - Offshore Energy",
+      "sector": "Maritime/Energy",
+      "web_source": "Maritime Industry Database"
+    },
+    "ENGETEC": {
+      "locations": "Regional Focus",
+      "size": "Small-Medium (50-200 employees)",
+      "industry": "Engineering & Technology Services",
+      "relevance_score": "Medium - Engineering Services",
+      "sector": "Engineering Consulting",
+      "web_source": "Engineering Services Directory"
+    }
+  }
+}

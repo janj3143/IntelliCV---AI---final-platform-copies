@@ -1,0 +1,356 @@
+job_title,category,normalized
+"AI Specialist","Technology & IT",True
+"Aircraft Mechanic","Technology & IT",True
+"Applications Specialist OR ENGINEER OR DEVELOPER","Technology & IT",True
+"Architect","Technology & IT",True
+"Benefits Specialist","Technology & IT",True
+"Biotechnology Process Engineer","Technology & IT",True
+"Business Intelligence Developer","Technology & IT",True
+"C# Programmer","Technology & IT",True
+"C++ Programmer","Technology & IT",True
+"Captain","Technology & IT",True
+"Cyber Security Consultant","Technology & IT",True
+"Cybersecurity Engineer","Technology & IT",True
+"Data Specialist","Technology & IT",True
+"Database Administrator","Technology & IT",True
+"Database Specialist","Technology & IT",True
+"Delphi / Java Developer","Technology & IT",True
+"Disabilities Specialist","Technology & IT",True
+"Editor","Technology & IT",True
+"Equity Analyst","Technology & IT",True
+"Equity Trader","Technology & IT",True
+"Extract Transform Load Developer","Technology & IT",True
+"Facilities Manager","Technology & IT",True
+"Government Affairs Manager / Director / Specialist","Technology & IT",True
+"Head Of Information Technology","Technology & IT",True
+"Hospitality Specialist","Technology & IT",True
+"Information Technology Director","Technology & IT",True
+"Information Technology Specialist","Technology & IT",True
+"Java 2 Enterprise Edition Developer","Technology & IT",True
+"Maintenance Engineer","Technology & IT",True
+"Maintenance Manager","Technology & IT",True
+"Network Administrator","Technology & IT",True
+"Network Specialist OR Analyst OR Administrator OR Manager OR Technician","Technology & IT",True
+"Nutrition Specialist","Technology & IT",True
+"Online Data Manager","Technology & IT",True
+"Private Equity Specialist / Manager","Technology & IT",True
+"Programmable Logic Controller Programmer","Technology & IT",True
+"Python Programmer","Technology & IT",True
+"Quality Assurance Specialist","Technology & IT",True
+"Quality Assurance Tester","Technology & IT",True
+"Quality Engineer OR Manager OR Director","Technology & IT",True
+"Quality Health Environment Engineer","Technology & IT",True
+"Quality assurance Specialist or Manager or Engineer Or Survey Or Analysis or Surveyor OR Control Engineer","Technology & IT",True
+"Recruiter","Technology & IT",True
+"Regulatory Affairs Manager / Specialist / Director","Technology & IT",True
+"Site Engineer","Technology & IT",True
+"Site Specialist","Technology & IT",True
+"Software Designer","Technology & IT",True
+"Software Engineer","Technology & IT",True
+"Software Specialist","Technology & IT",True
+"Software Tester","Technology & IT",True
+"Solutions Architect","Technology & IT",True
+"System Designer","Technology & IT",True
+"Systems Administrator","Technology & IT",True
+"Systems Analyst","Technology & IT",True
+"Systems Applications Products Advanced Business Applications Specialist","Technology & IT",True
+"Systems Applications Products Specialist","Technology & IT",True
+"Talent Acquisition Specialist","Technology & IT",True
+"Train Engineer","Technology & IT",True
+"Train Manager","Technology & IT",True
+"Train Supervisor","Technology & IT",True
+"Training Specialist","Technology & IT",True
+"Underwriter","Technology & IT",True
+"Venture Capitalist","Technology & IT",True
+"Web Designer","Technology & IT",True
+"Web Developer","Technology & IT",True
+"Web Master","Technology & IT",True
+"Windows System Manager","Technology & IT",True
+"java Software Engineer OR Specialist OR CONSULTANT","Technology & IT",True
+"nurse Practitioner","Technology & IT",True
+"oracle Database Administrator","Technology & IT",True
+"retails Sales","Technology & IT",True
+"security Consultant","Technology & IT",True
+"Dentist","Healthcare & Medicine",True
+"Medical Consultant","Healthcare & Medicine",True
+"Medical Doctor","Healthcare & Medicine",True
+"Medical Representative","Healthcare & Medicine",True
+"Nurse","Healthcare & Medicine",True
+"Occupational Therapist","Healthcare & Medicine",True
+"Pharmaceutical Sales Representative","Healthcare & Medicine",True
+"Register Nurse","Healthcare & Medicine",True
+"Registered nurse","Healthcare & Medicine",True
+"Veterinarian","Healthcare & Medicine",True
+"medical Product Sales Person","Healthcare & Medicine",True
+"medical Technician","Healthcare & Medicine",True
+"Accountant","Finance & Accounting",True
+"Actuary","Finance & Accounting",True
+"Chief Financial Officer","Finance & Accounting",True
+"Finance Analyst","Finance & Accounting",True
+"Finance Director","Finance & Accounting",True
+"Finance Manager","Finance & Accounting",True
+"Finance Specialist","Finance & Accounting",True
+"Insurance Agent","Finance & Accounting",True
+"Payroll Specialist","Finance & Accounting",True
+"Tax Consultant","Finance & Accounting",True
+"finance Director","Finance & Accounting",True
+"finance Specialist","Finance & Accounting",True
+"Applications Engineer","Engineering & Technical",True
+"Area Sales Engineer","Engineering & Technical",True
+"Civil Engineer","Engineering & Technical",True
+"Civil Servant","Engineering & Technical",True
+"Communications Specialist OR ENGINEER OR Manager","Engineering & Technical",True
+"Construction Engineer","Engineering & Technical",True
+"Development Engineer","Engineering & Technical",True
+"Development engineer","Engineering & Technical",True
+"Documentation Engineer OR Specialist","Engineering & Technical",True
+"Electrical Engineer","Engineering & Technical",True
+"Engineering Director","Engineering & Technical",True
+"Engineering Manager","Engineering & Technical",True
+"Engineering Specialist","Engineering & Technical",True
+"Environmental Health and Safety Specialist OR Consultant OR Engineer OR Manager","Engineering & Technical",True
+"Equipment Engineer","Engineering & Technical",True
+"Hardware Engineer or Specialist or Manager or designer","Engineering & Technical",True
+"International Sales Engineer OR Manager Or Director","Engineering & Technical",True
+"Mechanical Engineer","Engineering & Technical",True
+"Mining Engineer","Engineering & Technical",True
+"Nuclear Engineer","Engineering & Technical",True
+"Offshore Engineer","Engineering & Technical",True
+"Oil and Gas Engineer","Engineering & Technical",True
+"Operations Engineer","Engineering & Technical",True
+"Petroleum Engineer","Engineering & Technical",True
+"Plant Engineer","Engineering & Technical",True
+"Process Engineer","Engineering & Technical",True
+"Process Manager","Engineering & Technical",True
+"Product Engineer","Engineering & Technical",True
+"Production Manager Or Production Engineer","Engineering & Technical",True
+"Radio Engineer","Engineering & Technical",True
+"Radio Frequency Identification Engineer","Engineering & Technical",True
+"Research Engineer","Engineering & Technical",True
+"Rotation Equipment Engineer","Engineering & Technical",True
+"Safety Engineer","Engineering & Technical",True
+"Sales Engineer","Engineering & Technical",True
+"Sales Engineering Manager","Engineering & Technical",True
+"Technical Support Specialist","Engineering & Technical",True
+"Validation Engineer","Engineering & Technical",True
+"Yield Engineer","Engineering & Technical",True
+"Account Manager","Sales & Marketing",True
+"Account Payable Specialist","Sales & Marketing",True
+"Advertising Sales","Sales & Marketing",True
+"Advertising Sales Executive","Sales & Marketing",True
+"Advertising Sales Manager","Sales & Marketing",True
+"Azure Specialist","Sales & Marketing",True
+"Communication Specialist","Sales & Marketing",True
+"Controls Specialist","Sales & Marketing",True
+"Creative Director or Manager Or Specialist","Sales & Marketing",True
+"Customer Service Representative","Sales & Marketing",True
+"Customer Services Representative","Sales & Marketing",True
+"Director of Business Development OR Operations","Sales & Marketing",True
+"EBusiness Specialist OR Manager OR Director OR Vice President","Sales & Marketing",True
+"Environment Health Safety Specialist","Sales & Marketing",True
+"Environment Health and Safety Specialist OR Manager OR CONSULTANT","Sales & Marketing",True
+"Event Specialist","Sales & Marketing",True
+"Executive Assistant Sales & Marketing","Sales & Marketing",True
+"Federal Communications Commission Specialist","Sales & Marketing",True
+"Head of sales","Sales & Marketing",True
+"HelpDesk Specialist","Sales & Marketing",True
+"Human Resources Specialist","Sales & Marketing",True
+"Human Resources Specialist OR Manager OR Director","Sales & Marketing",True
+"Human Resources Specialist OR Manager OR Director OR ASSISTANT OR CONSULTANT OR GENERALIST","Sales & Marketing",True
+"Key Account Manager","Sales & Marketing",True
+"Laboratory Specialist","Sales & Marketing",True
+"Law Specialist","Sales & Marketing",True
+"Learning Specialist","Sales & Marketing",True
+"Logistic Specialist","Sales & Marketing",True
+"Marketing Director","Sales & Marketing",True
+"Marketing Manager","Sales & Marketing",True
+"Marketing Specialist","Sales & Marketing",True
+"Microsoft Specialist","Sales & Marketing",True
+"Multimedia Specialist","Sales & Marketing",True
+"National Account Manager","Sales & Marketing",True
+"National Sales Manager","Sales & Marketing",True
+"Online marketing Specialist","Sales & Marketing",True
+"Operational Specialist","Sales & Marketing",True
+"Or materials Specialist","Sales & Marketing",True
+"Piping Specialist or Designer","Sales & Marketing",True
+"Public Relations Specialist","Sales & Marketing",True
+"Purchasing Specialist","Sales & Marketing",True
+"Respiratory Specialist","Sales & Marketing",True
+"Risk Management Specialist","Sales & Marketing",True
+"Robotic Specialist","Sales & Marketing",True
+"Sales Assistant","Sales & Marketing",True
+"Sales Director","Sales & Marketing",True
+"Sales Manager","Sales & Marketing",True
+"Sales Person","Sales & Marketing",True
+"Sales Specialist","Sales & Marketing",True
+"Salesperson","Sales & Marketing",True
+"Solutions Specialist","Sales & Marketing",True
+"Specialist Buyer","Sales & Marketing",True
+"Specialist Consultant","Sales & Marketing",True
+"Support Specialist","Sales & Marketing",True
+"Teaching Specialist","Sales & Marketing",True
+"Telesales person","Sales & Marketing",True
+"Validation Specialist","Sales & Marketing",True
+"Verification Specialist","Sales & Marketing",True
+"Vice President Business Development","Sales & Marketing",True
+"Vice President Marketing","Sales & Marketing",True
+"Vice President Sales","Sales & Marketing",True
+"Warehouse Specialist","Sales & Marketing",True
+"Windows Specialist","Sales & Marketing",True
+"Wine Specialist","Sales & Marketing",True
+"Wireless Specialist","Sales & Marketing",True
+"Youth Specialist","Sales & Marketing",True
+"Zonal Sales Manager","Sales & Marketing",True
+"Zone sales Manager","Sales & Marketing",True
+"customer Services Specialist OR REP OR Manager","Sales & Marketing",True
+"key Account Executive","Sales & Marketing",True
+"national Sales Manager","Sales & Marketing",True
+"occupational Health Specialist","Sales & Marketing",True
+"Application Manager","Management & Leadership",True
+"Area Manager","Management & Leadership",True
+"Branch Manager","Management & Leadership",True
+"Buying Manager","Management & Leadership",True
+"Chief Executive Officer","Management & Leadership",True
+"Chief Information Officer","Management & Leadership",True
+"Chief Operation Officer","Management & Leadership",True
+"Construction Manager","Management & Leadership",True
+"Design Manager","Management & Leadership",True
+"Development Executive","Management & Leadership",True
+"Development Manager","Management & Leadership",True
+"Director of Operations","Management & Leadership",True
+"E Commerce Manager","Management & Leadership",True
+"Events Manager","Management & Leadership",True
+"Executive Office Assistant","Management & Leadership",True
+"Export Manager","Management & Leadership",True
+"Functional head","Management & Leadership",True
+"General Manager","Management & Leadership",True
+"Head of Operations","Management & Leadership",True
+"Legal Assistant Manager","Management & Leadership",True
+"Logistics Manager OR Supervisor","Management & Leadership",True
+"Managing Director","Management & Leadership",True
+"Metals Trading Manager","Management & Leadership",True
+"Mine Manager","Management & Leadership",True
+"Non Executive Director","Management & Leadership",True
+"Operations Manager","Management & Leadership",True
+"Operations Supervisor","Management & Leadership",True
+"Outsourcing Manager OR Director","Management & Leadership",True
+"Product Manager","Management & Leadership",True
+"Program Coordinator","Management & Leadership",True
+"Program Manager","Management & Leadership",True
+"Program Office Manager","Management & Leadership",True
+"Project Manager","Management & Leadership",True
+"Public Relations Manager","Management & Leadership",True
+"Purchasing Director","Management & Leadership",True
+"Purchasing Manager","Management & Leadership",True
+"Real Estate Manager","Management & Leadership",True
+"Risk Manager","Management & Leadership",True
+"Sale supervisor","Management & Leadership",True
+"Senior Vice President or Senior Vice President any of the above","Management & Leadership",True
+"Shift Manager","Management & Leadership",True
+"Supervisor","Management & Leadership",True
+"Talent Executive","Management & Leadership",True
+"Talent Manager","Management & Leadership",True
+"Vice President (Vice President) operations","Management & Leadership",True
+"Vice President Operations","Management & Leadership",True
+"Warehouse Manager","Management & Leadership",True
+"Yield Manager","Management & Leadership",True
+"Youth Coordinator","Management & Leadership",True
+"Youth Director","Management & Leadership",True
+"Zonal Head","Management & Leadership",True
+"Zonal Manager","Management & Leadership",True
+"Zone Director","Management & Leadership",True
+"operations Manager","Management & Leadership",True
+"Human Resources Assistant","Human Resources",True
+"Attorney","Legal & Compliance",True
+"Law Clerk","Legal & Compliance",True
+"Lawyer","Legal & Compliance",True
+"Legal Assistant","Legal & Compliance",True
+"Paralegal","Legal & Compliance",True
+"Youth Counsellor","Legal & Compliance",True
+"Driver","Operations & Logistics",True
+"Truck Driver","Operations & Logistics",True
+"Warehouse Robotics","Operations & Logistics",True
+"Lecturer","Education & Training",True
+"Professor","Education & Training",True
+"Teacher","Education & Training",True
+"Tutor","Education & Training",True
+"Electrician","Construction & Manufacturing",True
+"Surveyor","Construction & Manufacturing",True
+"Town Planner","Construction & Manufacturing",True
+"Welder","Construction & Manufacturing",True
+"Bartender","Hospitality & Service",True
+"Cook","Hospitality & Service",True
+"Food Server","Hospitality & Service",True
+"Graphic Designer","Creative & Design",True
+"Journalist","Creative & Design",True
+"User Experience Designer","Creative & Design",True
+"Visual Effects Artist","Creative & Design",True
+"Visual Merchandiser","Creative & Design",True
+"Voice Over Artist","Creative & Design",True
+"makeup Artist","Creative & Design",True
+"Analyst","Science & Research",True
+"Catalytic Catalyst Researcher","Science & Research",True
+"Intelligence Analyst","Science & Research",True
+"Laboratory Technician","Science & Research",True
+"Risk Analyst","Science & Research",True
+"Notary Republic","Government & Public Service",True
+"Police","Government & Public Service",True
+"Publicist","Government & Public Service",True
+"Real Estate Agent","Government & Public Service",True
+"Actor","Other",True
+"Administrative Assistant","Other",True
+"Blogger","Other",True
+"Board Member","Other",True
+"Bookkeeper","Other",True
+"Buyer","Other",True
+"Carer","Other",True
+"Cashier","Other",True
+"Co-Owner","Other",True
+"Crane Operator","Other",True
+"Ecologist","Other",True
+"Enterprise Resource Planning Consultant","Other",True
+"Epidemiologist","Other",True
+"Equipment Technician","Other",True
+"Founder","Other",True
+"General Office Clerk","Other",True
+"Geophysicist","Other",True
+"Gynecologist","Other",True
+"Intern","Other",True
+"Linguist","Other",True
+"Machinist","Other",True
+"Management Consultant","Other",True
+"Managing Consultant","Other",True
+"Materials handler","Other",True
+"Mathematician","Other",True
+"Minister","Other",True
+"Mortgage Consultant","Other",True
+"Musician","Other",True
+"Newscaster","Other",True
+"Office Associate","Other",True
+"Osteopath","Other",True
+"Owner","Other",True
+"Petrophysicist","Other",True
+"Pharmacist","Other",True
+"Pilot","Other",True
+"Production Runner","Other",True
+"Radiographer","Other",True
+"Radiologist","Other",True
+"Retired","Other",True
+"Rigger","Other",True
+"Risk Consultant","Other",True
+"Secretary","Other",True
+"Self Employed","Other",True
+"Seller","Other",True
+"Shareholder","Other",True
+"Social Worker","Other",True
+"Stakeholder","Other",True
+"Stock Trader","Other",True
+"Student","Other",True
+"Team Lead","Other",True
+"Unemployed","Other",True
+"VoIP Technician","Other",True
+"Work Study Consultant","Other",True
+"Worker","Other",True
+"Youth Worker","Other",True
+"Zone Lead","Other",True
+"flight Attendant","Other",True

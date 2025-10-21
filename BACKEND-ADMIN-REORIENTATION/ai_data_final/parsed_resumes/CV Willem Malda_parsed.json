@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "file_name": "CV Willem Malda.pdf",
+    "file_size": 221600,
+    "processing_date": "2025-10-09T16:20:55.551587",
+    "text_length": 3529,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "willem.malda@gmail.com"
+    ],
+    "phones": [],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Curriculum Vitae  Willem Malda  \nRELATED EXPERIENCE  \n Foundation Water voor Filippijnen  \nCo",
+    "Water and Energy  \nCo",
+    "EDUCATION  \n Delft University of Technology"
+  ],
+  "job_titles": [
+    "manager",
+    "Manager",
+    "Consultant"
+  ],
+  "text_sample": " \nPage | 1  \n  Curriculum Vitae  Willem Malda  \n Oomskind 5 \n2635 MB, Den Hoorn (ZH) \n+31(0) 6 412 53 689  \nwillem.malda@gmail.com  \nPROFESSIONAL EXPERIE NCE \n Eneco Solar Bio & Hydro \nSr. Project Manager  2010 – Present  \nDevelopment of Water & Energy department within Eneco Energy  \nProject manager of Research Project “Watersystem as Energybuffer” as a concept \nfor electricity trading  \nCo-initiator of position paper Water and Energy  \nCo-author of scientific article “Linking Water and Energy”...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "education",
+    "industry_scores": {
+      "technology": 1,
+      "finance": 1,
+      "education": 3
+    },
+    "confidence": 0.5
+  }
+}

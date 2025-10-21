@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "file_name": "CV Devis Zagaglia ENG Rev2.pdf",
+    "file_size": 107253,
+    "processing_date": "2025-10-09T16:20:53.446927",
+    "text_length": 13124,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "devis.zagaglia@gmail.com"
+    ],
+    "phones": [
+      "2002-2010"
+    ],
+    "names": [
+      "Devis Zagaglia"
+    ],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Nome e indirizzo del datore di lavoro Minda Management Services",
+    "Strategic Company",
+    "Zadi spa and Minda Corporation Ltd",
+    "Cooperation in the Due Diligence between Minda Corp",
+    "Nome e indirizzo del datore di lavoro Minda Management Services Ltd"
+  ],
+  "job_titles": [
+    "Engineer",
+    "Director",
+    "manager",
+    "lead",
+    "Manager",
+    "Principal",
+    "engineer"
+  ],
+  "text_sample": "Pagina 1 / 4 - Curriculum vitae di  Zagaglia Devis       Curriculum Vitae Devis Zagaglia  \n  Personal Information  Family Name / Name  Devis Zagaglia  Address Tiraboschi street, 18, 41012 Carpi (Italia) Phone (+39) 059.977.00.99 Mobile (+39) 335.61.48.069 E-mail devis.zagaglia@gmail.com Citizen Italian  Date of Birth 25 February 1972 Gender Male   Desired employment / Occupational field General manager / Business Unit Director Preferred automotive field or similar   Work experience    Dates 1 Ju...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "databases": [
+      "Oracle"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "finance": [
+      "Excel"
+    ],
+    "soft_skills": [
+      "Problem Solving"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "finance",
+    "industry_scores": {
+      "technology": 2,
+      "finance": 3,
+      "manufacturing": 3,
+      "education": 1,
+      "consulting": 3
+    },
+    "confidence": 0.42857142857142855
+  }
+}

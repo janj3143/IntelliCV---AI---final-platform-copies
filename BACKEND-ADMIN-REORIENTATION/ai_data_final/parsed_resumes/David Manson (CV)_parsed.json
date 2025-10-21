@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "David Manson (CV).docx",
+    "file_size": 24016,
+    "processing_date": "2025-10-09T16:21:00.452220",
+    "text_length": 7104,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "d170868@yahoo.com"
+    ],
+    "phones": [
+      "605594",
+      "07919600470"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Druck and Status Inc",
+    "ESD and Safety Systems",
+    "International Operating Company",
+    "KYE Ltd",
+    "Swift Technical Services",
+    "Blandford Technical Services",
+    "Azerbaijan International Operating Company",
+    "AOC International Ltd",
+    "Technology \nDounreay Nuclear Power Station and Fuel Services"
+  ],
+  "job_titles": [
+    "consultant",
+    "Lead",
+    "Consultant",
+    "Engineer"
+  ],
+  "text_sample": "\nCURRICULUM VITAE\n\n\nNAME\t\t\t\tDavid Manson\n\nDISCIPLINE\t\t\tControl & Instrumentation\n\nADDRESS\t\t\t\n\t\t\t\tWick\n\t\t\t\t\n\t\t\t\tKW1 4PJ.\n\nTELEPHONE\t\t\t01955 – 605594\n\t\t\t\t07919600470\n\nDATE OF BIRTH\t\t\n\nE MAIL\t\t\td170868@yahoo.com\n\nPLACE OF BIRTH\t\tWick, \n\nMARITAL STATUS\t\tSingle\n\nNATIONALITY\t\tBritish\n\nQUALIFICATIONS\t\tOrdinary National Certificate in Electrical & Electronic Engineering\n\nFURTHER EDUCATION\n\t\t\t\t\t\n1985 - 1989\t\t\tThurso :-\n\t\t\t\tONC in Electrical & Electronic Engineering\n\n\n\nCareer Synopsis\n\nPreventative and fi...",
+  "skills_detected": {
+    "programming": [
+      "Go",
+      "Swift"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 2,
+      "finance": 1,
+      "manufacturing": 1,
+      "education": 1,
+      "consulting": 2
+    },
+    "confidence": 0.2857142857142857
+  }
+}

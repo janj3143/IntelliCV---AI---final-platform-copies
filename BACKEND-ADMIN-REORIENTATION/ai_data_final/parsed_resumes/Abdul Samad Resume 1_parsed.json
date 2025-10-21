@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "file_name": "Abdul Samad Resume 1.pdf",
+    "file_size": 187115,
+    "processing_date": "2025-10-09T16:20:48.652706",
+    "text_length": 4835,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "samad.siddiqui92@yahoo.com"
+    ],
+    "phones": [
+      "971 55 740 3134"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Present\nTRICHY TRADING Co",
+    "Leading Automotive Paint Trading Company"
+  ],
+  "job_titles": [
+    "Senior"
+  ],
+  "text_sample": "Competent & result oriented Automotive Reﬁnish professional with an experience \nof more than 14+ Years across Automotive Reﬁnish \nDeft in ensuring that surface preparation, curing and weather condition, comply \nwith relevant standard including TS requirements for body shop; proven ability to \nconceptualize and re-model processes in compliance to the speciﬁed standards, \nalso experienced in preparing Check list, Inspection & Testing Reports and other \ndocuments. \n+971 55 740 3134\nAbdul Samad\n Nat...",
+  "skills_detected": {
+    "programming": [
+      "Go",
+      "Rust"
+    ],
+    "web_development": [
+      "React"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "finance": [
+      "Compliance"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Communication",
+      "Problem Solving"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "finance",
+    "industry_scores": {
+      "technology": 2,
+      "finance": 3,
+      "marketing": 1,
+      "manufacturing": 1,
+      "consulting": 3,
+      "sales": 2
+    },
+    "confidence": 0.42857142857142855
+  }
+}

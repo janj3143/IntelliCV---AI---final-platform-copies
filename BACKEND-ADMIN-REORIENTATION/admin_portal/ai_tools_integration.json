@@ -1,0 +1,62 @@
+{
+  "bayes_engine": {
+    "name": "Bayes Statistical Engine",
+    "status": "active",
+    "data_sources": [
+      "candidate_profiles",
+      "company_intelligence",
+      "email_analytics"
+    ],
+    "capabilities": [
+      "probability_analysis",
+      "pattern_recognition",
+      "predictive_modeling"
+    ],
+    "data_ready": false
+  },
+  "inference_engine": {
+    "name": "Inference Analysis Engine",
+    "status": "active",
+    "data_sources": [
+      "skills_intelligence",
+      "market_intelligence",
+      "candidate_matching"
+    ],
+    "capabilities": [
+      "skill_matching",
+      "career_progression",
+      "market_analysis"
+    ],
+    "data_ready": false
+  },
+  "nlp_engine": {
+    "name": "Natural Language Processing Engine",
+    "status": "active",
+    "data_sources": [
+      "cv_text_analysis",
+      "job_description_parsing",
+      "keyword_extraction"
+    ],
+    "capabilities": [
+      "text_analysis",
+      "sentiment_analysis",
+      "keyword_extraction"
+    ],
+    "data_ready": false
+  },
+  "llm_engine": {
+    "name": "Large Language Model Engine",
+    "status": "active",
+    "data_sources": [
+      "comprehensive_analysis",
+      "intelligent_insights",
+      "automated_recommendations"
+    ],
+    "capabilities": [
+      "content_generation",
+      "intelligent_summarization",
+      "recommendation_engine"
+    ],
+    "data_ready": false
+  }
+}

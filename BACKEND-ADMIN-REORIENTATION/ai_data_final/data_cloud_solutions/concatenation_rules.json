@@ -1,0 +1,44 @@
+{
+  "concatenation_rules": {
+    "description": "AI Word Cloud Phrase Joining and Concatenation Logic",
+    "version": "1.0.0",
+    "last_updated": "2025-10-10",
+    "phrase_patterns": {
+      "job_titles": {
+        "patterns": [
+          {"pattern": "senior + {skill}", "example": "senior developer", "weight": 1.2},
+          {"pattern": "lead + {skill}", "example": "lead engineer", "weight": 1.3},
+          {"pattern": "{skill} + manager", "example": "project manager", "weight": 1.1},
+          {"pattern": "{skill} + specialist", "example": "data specialist", "weight": 1.0},
+          {"pattern": "chief + {skill}", "example": "chief technology officer", "weight": 1.5}
+        ]
+      },
+      "skill_combinations": {
+        "patterns": [
+          {"pattern": "{language} + programming", "example": "python programming", "weight": 1.1},
+          {"pattern": "{tool} + development", "example": "web development", "weight": 1.0},
+          {"pattern": "full + stack", "example": "full stack developer", "weight": 1.2},
+          {"pattern": "{domain} + analysis", "example": "data analysis", "weight": 1.0}
+        ]
+      },
+      "industry_phrases": {
+        "patterns": [
+          {"pattern": "{industry} + sector", "example": "financial sector", "weight": 1.0},
+          {"pattern": "{technology} + solutions", "example": "cloud solutions", "weight": 1.1},
+          {"pattern": "digital + {domain}", "example": "digital transformation", "weight": 1.2}
+        ]
+      }
+    },
+    "joining_rules": {
+      "hyphenation": ["multi-threading", "cross-functional", "end-to-end", "real-time"],
+      "compound_words": ["software", "database", "workflow", "framework"],
+      "acronym_expansion": {
+        "API": "application programming interface",
+        "CRM": "customer relationship management", 
+        "ERP": "enterprise resource planning",
+        "AI": "artificial intelligence",
+        "ML": "machine learning"
+      }
+    }
+  }
+}

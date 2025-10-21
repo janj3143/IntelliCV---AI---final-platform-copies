@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "file_name": "Curriculum vitae AR LAZONDER.pdf",
+    "file_size": 91174,
+    "processing_date": "2025-10-09T16:20:51.467345",
+    "text_length": 4034,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "E-mailarein.lazonder@gmail.com"
+    ],
+    "phones": [
+      "30 2310472",
+      "653 803 711"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Tomorrows Technologies",
+    "Eindhoven University of Technology"
+  ],
+  "job_titles": [
+    "Engineer",
+    "Consultant",
+    "Specialist"
+  ],
+  "text_sample": "CURRICULUM VITAE \nPERSONAL DATA\nNameLazonder\nSurnamesArend Rein\nUsual nameArein\nAddressLessinglaan 32\n3533 AW  Utrecht\nTelephone+31 (0) 30 2310472 / +31 (0) 653 803 711\nE-mailarein.lazonder@gmail.com\nDate of birth27 June 1970\nPlace of birthLeek, The Netherlands\nGenderMale\nPROFESSIONAL BACKGROUND\n2007 - presentSenior Technical Specialist Isomerization Catalysts\nAlbemarle Catalysts BV Amsterdam\nTasks:Responsible for customer relations with refineries regarding the sales and technical \naspects of i...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "finance": [
+      "Excel"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "education",
+    "industry_scores": {
+      "technology": 1,
+      "finance": 1,
+      "education": 3,
+      "consulting": 1
+    },
+    "confidence": 0.5
+  }
+}

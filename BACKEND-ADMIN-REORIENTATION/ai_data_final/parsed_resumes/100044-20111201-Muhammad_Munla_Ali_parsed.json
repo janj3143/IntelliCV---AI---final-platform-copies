@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "file_name": "100044-20111201-Muhammad_Munla_Ali.pdf",
+    "file_size": 257809,
+    "processing_date": "2025-10-09T16:20:47.838418",
+    "text_length": 10037,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "munla.ali@gmail.com",
+      "ravikesavan@yahoo.com",
+      "Rajesh.Menon@siemens.com",
+      "Athar.Sajjad@siemens.com",
+      "Antony.Lawrance@siemens.com"
+    ],
+    "phones": [
+      "91 9884850178",
+      "971 55 2002377",
+      "2002404",
+      "971 55 2002380"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Former Manager of Re trofit & Replacement at Siemens LLC",
+    "Safety Systems",
+    "SIEMENS LLC",
+    "Head of Industry Automation Business Unit  at Siemens LLC",
+    "Higher Institute of Applied Sciences and Technology",
+    "Automation \nSystems",
+    "A utomation Systems",
+    "SIEMENS  LLC",
+    "Experience in Siemens Drives Technologies",
+    "Large Drives Centre of Competence at Siemens LLC",
+    "Other shor t site attendances in Automation Systems",
+    "Experience in Sie mens Automation Systems",
+    "Head of Drives Technologies",
+    "Head of Drives Technologies  Business Unit  at Siemens LLC",
+    "Siemens LLC",
+    "REGIONAL SERVICE SALES SPECIALIST  \n SIEMENS LLC",
+    "Emirates Iron & Steel Company"
+  ],
+  "job_titles": [
+    "Manager",
+    "ENGINEER",
+    "DEVELOPER",
+    "SPECIALIST"
+  ],
+  "text_sample": "Curriculum Vitae  \n \n Muhammad MUNLA ALI  – REGIONAL SERVICE SALES SPECIALIST  \n SIEMENS LLC  (Industry Sector - Lower Gulf Region) – Dubai – U.A.E  \nAddress:  Siemens LLC  - The Galleries  (Building 2 ) \n Downtown Jebel Ali , P.O.Box.2154, Dubai, U .A.E \nCell: +971 (0)50 73 59 754  \nEmail:  munla.ali@gmail.com  \n \n \nOBJECTIVE  \n \nI am looking for a project management related position  where I can combine my educational background  in \nengineering  together with my 8 years of  professional  expe...",
+  "skills_detected": {
+    "programming": [
+      "PHP",
+      "Go"
+    ],
+    "finance": [
+      "Excel"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 3,
+      "healthcare": 1,
+      "education": 2,
+      "sales": 2
+    },
+    "confidence": 0.42857142857142855
+  }
+}

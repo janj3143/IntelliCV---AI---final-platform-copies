@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "file_name": "Ali iler CV En (1).pdf",
+    "file_size": 182186,
+    "processing_date": "2025-10-09T16:20:49.201320",
+    "text_length": 14151,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "ali000iler@gmail.comBirthdate"
+    ],
+    "phones": [],
+    "names": [
+      "Orhan Holding",
+      "Veritas Ag",
+      "Standard Profil",
+      "Standard Profil",
+      "Standard Profil",
+      "Petlas",
+      "Alparslan Lisesi",
+      "Free To Grow",
+      "Global",
+      "Minitab",
+      "Lean Production",
+      "Internal Auditor",
+      "Lean Production",
+      "Health",
+      "English Course",
+      "Communication Methods",
+      "English Course",
+      "Team Management",
+      "Certificate",
+      "Lean Production"
+    ],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Sales Manager\nGender\nMaleNationality\nRepublic of TurkeyDriving Licence\nB\nMilitary Services",
+    "City\nBursaCompany",
+    "Title\nAssistant Production Manager\nCompany",
+    "Title\nChemist\nCompany Name\nTPAOCity\nAnkaraCompany",
+    "Director\nCompany Name\nStandard ProfilCompany",
+    "Institution\nPETLAS Tyre Company",
+    "Cape Town\n Title\nProduction Head\nCompany",
+    "Nobel AutomotiveCity\nBursaCompany",
+    "Team management  and leadership\n Title\nSales Manager\nCompany",
+    "Reporting Sales director and VP\n Title\nSales Manager\nCompany Name\nVeritas AgCity\nKocaeliCompany",
+    "TR and Global Veritas\n Title\nSales Manager\nCompany",
+    "Title\nResearch and Development Engineer\nCompany"
+  ],
+  "job_titles": [
+    "Engineer",
+    "Director",
+    "Consultant",
+    "manager",
+    "Manager",
+    "director",
+    "engineer"
+  ],
+  "text_sample": " E-Mail Address\nali000iler@gmail.comBirthdate\n28/12/1982\nPhone\n90 (542) 742 24 47Phone (2) \n90 (542) 742 24 47\nAddress\nTurkey - Bursa - Nilüfer Ali İler\nSales Manager\nGender\nMaleNationality\nRepublic of TurkeyDriving Licence\nB\nMilitary Services\nCompleted (17.05.2005)\n•Working experience in manufacturing, operational, purchasing and sales in the automotive industry for 16 years\n•Managerial activities over 10 years related  in commercial and operations\n•Production management in a global company  fo...",
+  "skills_detected": {
+    "project_management": [
+      "Kanban"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "finance": [
+      "Excel",
+      "SAP"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Communication",
+      "Problem Solving",
+      "Team Management"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "manufacturing",
+    "industry_scores": {
+      "technology": 1,
+      "finance": 2,
+      "manufacturing": 3,
+      "education": 1,
+      "consulting": 2,
+      "sales": 1
+    },
+    "confidence": 0.5
+  }
+}

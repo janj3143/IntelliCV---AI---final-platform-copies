@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "file_name": "Erdal UYSAL_CV_12.03.2024.pdf",
+    "file_size": 276977,
+    "processing_date": "2025-10-09T16:21:01.015304",
+    "text_length": 17175,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "erdaluysal84@gmail.com",
+      "sedat.yurdakul@fst.com",
+      "cefer.kis@tss.com",
+      "o.matraci@thk.eu",
+      "nishikawavn@gmail.com",
+      "takahiro.matsumoto@bando.co.jp",
+      "k.kamil.kaptan@bandoturkey.com",
+      "uyucel@kou.edu.tr",
+      "m.biernottek@thk.eu"
+    ],
+    "phones": [
+      "13190605566",
+      "90 533 234",
+      "90 530 614",
+      "90 533 603",
+      "81 808 474",
+      "90 533 374",
+      "90 532 632",
+      "49 152 567 411"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Freudenberg Sealing  Technologies",
+    "Account education  \n \nSales Engineering Certificate  \nEntek Education Technologies",
+    "JOB EXPERIENCE  \n \nFreudenberg Sealing Technologies",
+    "I work for Freudenberg Sealing Technologies",
+    "I worked for Trelleborg Sealing Solutions"
+  ],
+  "job_titles": [
+    "Engineer",
+    "Director",
+    "manager",
+    "Specialist",
+    "Manager",
+    "Lead",
+    "engineer"
+  ],
+  "text_sample": " \n \n \n \n \n  Erdal UYSAL  (CV)                                                12.03.2024 \n                                       \nContact Information  \nE-Mail :  erdaluysal84@gmail.com / Skype : erdal.uysal841  \n \nAddress:  Turkey - Kocaeli  - Gebze - Tatlıkuyu  \nMobile  Phone:  +90 (506) 254 04 07  \n \nPERSONAL \nINFORMATION : Marital Status   : Married  13 years  / We have two kids (boy( 8) and girl (6) ) \nNationality        : Turkish ( Republic of Turkey ) \nMilitary Status   : Completed (22.08.2...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "finance": [
+      "Excel",
+      "SAP"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Communication",
+      "Problem Solving"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "education",
+    "industry_scores": {
+      "technology": 1,
+      "finance": 1,
+      "manufacturing": 1,
+      "education": 2,
+      "consulting": 1,
+      "sales": 1
+    },
+    "confidence": 0.3333333333333333
+  }
+}

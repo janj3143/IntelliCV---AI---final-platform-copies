@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "file_name": "Curriculum Vitae 081210.pdf",
+    "file_size": 21418,
+    "processing_date": "2025-10-09T16:20:51.252294",
+    "text_length": 2137,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [],
+    "phones": [
+      "6-28520330"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Contact with alliance partner Shell Global Solutions",
+    "Technical Services",
+    "CB&I Lummus Technology"
+  ],
+  "job_titles": [
+    "Engineer",
+    "analyst",
+    "lead",
+    "Manager",
+    "engineer"
+  ],
+  "text_sample": "Curriculum Vitae\nPersonal details\nSurname Bueger\nName prefix de\nFirst name Bas\nInitials B.L.W.\nAddress 2e Schuytstraat 125 II\n2517 TL\nThe Hague ,NL\nTelephone number +31–6-28520330\nE-mail BasdeBueger@ gmail.com\nDate of birth 11–04–1976\nPlace of birth Leidschendam, The Netherlands\nGender Male\nNationality Dutch\nEducation\n2002 –2004 Business Administration, Erasmus University Rotterdam, The\nNetherlands.\nMaster degree, M.Sc. B.A.\nGrade final thesis: 8.5 (85% of 100%)\n1998–2001 Chemical Engineering, T...",
+  "skills_detected": {},
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 1,
+      "healthcare": 1,
+      "education": 1,
+      "consulting": 2
+    },
+    "confidence": 0.3333333333333333
+  }
+}

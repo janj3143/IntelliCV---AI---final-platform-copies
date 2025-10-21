@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "file_name": "Resume-BURHAN-ERDEN.pdf",
+    "file_size": 103491,
+    "processing_date": "2025-10-09T16:21:07.127322",
+    "text_length": 2125,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "burhanerden@gmail.com"
+    ],
+    "phones": [
+      "905305226410"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [],
+  "job_titles": [
+    "Manager",
+    "Director"
+  ],
+  "text_sample": "Burhan Erden\nNilüfer\nburhanerden@gmail.com +905305226410\nlinkedin.com/in/burhan-erden-6a4165a2\nSummary\nSales and Marketing\nCustomer Relations Management (CRM)\nBusiness Development Management\nProject Management\nExperience\nKey Account Manager\nITW Global Fasteners\nApr 2022 - Present (2 years)\nKey Account Manager at ITW Global Fasteners Automotive - EU Regional Accounts Division\nKey Account Manager\nFICOSA\nDec 2017 - Apr 2022 (4 years 5 months)\nSales and Marketing\nCustomer Relations Management\nBusine...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "finance": [
+      "Excel"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 1,
+      "consulting": 2
+    },
+    "confidence": 0.3333333333333333
+  }
+}

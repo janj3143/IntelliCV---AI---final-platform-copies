@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "file_name": "CV_P.Wimmer_11_23.pdf",
+    "file_size": 1306927,
+    "processing_date": "2025-10-09T16:20:59.470659",
+    "text_length": 7928,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "pw@erfolgsfaktor.ch"
+    ],
+    "phones": [],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Business Development Manager  \nNRS Printing Solutions",
+    "Sales Print Solutions"
+  ],
+  "job_titles": [
+    "consultant",
+    "Senior",
+    "Junior",
+    "Consultant",
+    "Manager"
+  ],
+  "text_sample": " \n Patrick Wimmer                                                                                                                                                                        page 1 Curriculum Vitae \n \n \n \nPatrick Wimmer \nFabrikstrasse 17 \n8722 Kaltbrunn  Phone: +41 (0)76 570 05 51 \n \ne-mail: pw@erfolgsfaktor.ch \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nManagement Summary  \n \n- Sales-, Product- and Business Development for consumer goods, solutions and services  \n- Wide knowledge of the Swiss...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "project_management": [
+      "MS Project"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 2,
+      "finance": 2,
+      "marketing": 2,
+      "manufacturing": 1,
+      "education": 1,
+      "consulting": 2,
+      "sales": 1
+    },
+    "confidence": 0.2857142857142857
+  }
+}

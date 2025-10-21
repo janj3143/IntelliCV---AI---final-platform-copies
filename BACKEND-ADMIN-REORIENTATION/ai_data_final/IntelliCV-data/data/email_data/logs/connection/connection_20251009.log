@@ -1,0 +1,108 @@
+2025-10-09 16:54:19,493 - EmailConnection - INFO - Testing connection to Janatmainswood@gmail.com (gmail)
+2025-10-09 16:54:19,493 - EmailConnection - INFO - Testing connection to Janatmainswood@gmail.com (gmail)
+2025-10-09 16:54:19,493 - EmailConnection - INFO - Testing connection to Janatmainswood@gmail.com (gmail)
+2025-10-09 16:54:20,450 - EmailConnection - ERROR - Authentication failed for Janatmainswood@gmail.com: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2025-10-09 16:54:20,450 - EmailConnection - ERROR - Authentication failed for Janatmainswood@gmail.com: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2025-10-09 16:54:20,450 - EmailConnection - ERROR - Authentication failed for Janatmainswood@gmail.com: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2025-10-09 17:05:20,906 - EmailConnection - INFO - Testing connection to Janatmainswood@gmail.com (gmail)
+2025-10-09 17:05:20,906 - EmailConnection - INFO - Testing connection to Janatmainswood@gmail.com (gmail)
+2025-10-09 17:05:20,906 - EmailConnection - INFO - Testing connection to Janatmainswood@gmail.com (gmail)
+2025-10-09 17:05:20,906 - EmailConnection - INFO - Testing connection to Janatmainswood@gmail.com (gmail)
+2025-10-09 17:05:20,906 - EmailConnection - INFO - Testing connection to Janatmainswood@gmail.com (gmail)
+2025-10-09 17:05:20,906 - EmailConnection - INFO - Testing connection to Janatmainswood@gmail.com (gmail)
+2025-10-09 17:05:21,605 - EmailConnection - INFO - Successfully authenticated Janatmainswood@gmail.com
+2025-10-09 17:05:21,605 - EmailConnection - INFO - Successfully authenticated Janatmainswood@gmail.com
+2025-10-09 17:05:21,605 - EmailConnection - INFO - Successfully authenticated Janatmainswood@gmail.com
+2025-10-09 17:05:21,605 - EmailConnection - INFO - Successfully authenticated Janatmainswood@gmail.com
+2025-10-09 17:05:21,605 - EmailConnection - INFO - Successfully authenticated Janatmainswood@gmail.com
+2025-10-09 17:05:21,605 - EmailConnection - INFO - Successfully authenticated Janatmainswood@gmail.com
+2025-10-09 17:05:22,258 - EmailConnection - INFO - Connection test successful: 9022 emails found
+2025-10-09 17:05:22,258 - EmailConnection - INFO - Connection test successful: 9022 emails found
+2025-10-09 17:05:22,258 - EmailConnection - INFO - Connection test successful: 9022 emails found
+2025-10-09 17:05:22,258 - EmailConnection - INFO - Connection test successful: 9022 emails found
+2025-10-09 17:05:22,258 - EmailConnection - INFO - Connection test successful: 9022 emails found
+2025-10-09 17:05:22,258 - EmailConnection - INFO - Connection test successful: 9022 emails found
+2025-10-09 17:36:41,373 - EmailConnection - INFO - Testing connection to janatmainswood@yahoo.co.uk (yahoo)
+2025-10-09 17:36:41,373 - EmailConnection - INFO - Testing connection to janatmainswood@yahoo.co.uk (yahoo)
+2025-10-09 17:36:41,373 - EmailConnection - INFO - Testing connection to janatmainswood@yahoo.co.uk (yahoo)
+2025-10-09 17:36:41,373 - EmailConnection - INFO - Testing connection to janatmainswood@yahoo.co.uk (yahoo)
+2025-10-09 17:36:41,373 - EmailConnection - INFO - Testing connection to janatmainswood@yahoo.co.uk (yahoo)
+2025-10-09 17:36:41,373 - EmailConnection - INFO - Testing connection to janatmainswood@yahoo.co.uk (yahoo)
+2025-10-09 17:36:41,373 - EmailConnection - INFO - Testing connection to janatmainswood@yahoo.co.uk (yahoo)
+2025-10-09 17:36:41,373 - EmailConnection - INFO - Testing connection to janatmainswood@yahoo.co.uk (yahoo)
+2025-10-09 17:36:41,373 - EmailConnection - INFO - Testing connection to janatmainswood@yahoo.co.uk (yahoo)
+2025-10-09 17:36:41,373 - EmailConnection - INFO - Testing connection to janatmainswood@yahoo.co.uk (yahoo)
+2025-10-09 17:36:41,373 - EmailConnection - INFO - Testing connection to janatmainswood@yahoo.co.uk (yahoo)
+2025-10-09 17:36:41,373 - EmailConnection - INFO - Testing connection to janatmainswood@yahoo.co.uk (yahoo)
+2025-10-09 17:36:41,373 - EmailConnection - INFO - Testing connection to janatmainswood@yahoo.co.uk (yahoo)
+2025-10-09 17:36:43,447 - EmailConnection - INFO - Successfully authenticated janatmainswood@yahoo.co.uk
+2025-10-09 17:36:43,447 - EmailConnection - INFO - Successfully authenticated janatmainswood@yahoo.co.uk
+2025-10-09 17:36:43,447 - EmailConnection - INFO - Successfully authenticated janatmainswood@yahoo.co.uk
+2025-10-09 17:36:43,447 - EmailConnection - INFO - Successfully authenticated janatmainswood@yahoo.co.uk
+2025-10-09 17:36:43,447 - EmailConnection - INFO - Successfully authenticated janatmainswood@yahoo.co.uk
+2025-10-09 17:36:43,447 - EmailConnection - INFO - Successfully authenticated janatmainswood@yahoo.co.uk
+2025-10-09 17:36:43,447 - EmailConnection - INFO - Successfully authenticated janatmainswood@yahoo.co.uk
+2025-10-09 17:36:43,447 - EmailConnection - INFO - Successfully authenticated janatmainswood@yahoo.co.uk
+2025-10-09 17:36:43,447 - EmailConnection - INFO - Successfully authenticated janatmainswood@yahoo.co.uk
+2025-10-09 17:36:43,447 - EmailConnection - INFO - Successfully authenticated janatmainswood@yahoo.co.uk
+2025-10-09 17:36:43,447 - EmailConnection - INFO - Successfully authenticated janatmainswood@yahoo.co.uk
+2025-10-09 17:36:43,447 - EmailConnection - INFO - Successfully authenticated janatmainswood@yahoo.co.uk
+2025-10-09 17:36:43,447 - EmailConnection - INFO - Successfully authenticated janatmainswood@yahoo.co.uk
+2025-10-09 17:36:45,195 - EmailConnection - INFO - Connection test successful: 462 emails found
+2025-10-09 17:36:45,195 - EmailConnection - INFO - Connection test successful: 462 emails found
+2025-10-09 17:36:45,195 - EmailConnection - INFO - Connection test successful: 462 emails found
+2025-10-09 17:36:45,195 - EmailConnection - INFO - Connection test successful: 462 emails found
+2025-10-09 17:36:45,195 - EmailConnection - INFO - Connection test successful: 462 emails found
+2025-10-09 17:36:45,195 - EmailConnection - INFO - Connection test successful: 462 emails found
+2025-10-09 17:36:45,195 - EmailConnection - INFO - Connection test successful: 462 emails found
+2025-10-09 17:36:45,195 - EmailConnection - INFO - Connection test successful: 462 emails found
+2025-10-09 17:36:45,195 - EmailConnection - INFO - Connection test successful: 462 emails found
+2025-10-09 17:36:45,195 - EmailConnection - INFO - Connection test successful: 462 emails found
+2025-10-09 17:36:45,195 - EmailConnection - INFO - Connection test successful: 462 emails found
+2025-10-09 17:36:45,195 - EmailConnection - INFO - Connection test successful: 462 emails found
+2025-10-09 17:36:45,195 - EmailConnection - INFO - Connection test successful: 462 emails found
+2025-10-09 17:37:20,358 - EmailConnection - INFO - Testing connection to Janatmainswood@yahoo.co.uk (yahoo)
+2025-10-09 17:37:20,358 - EmailConnection - INFO - Testing connection to Janatmainswood@yahoo.co.uk (yahoo)
+2025-10-09 17:37:20,358 - EmailConnection - INFO - Testing connection to Janatmainswood@yahoo.co.uk (yahoo)
+2025-10-09 17:37:20,358 - EmailConnection - INFO - Testing connection to Janatmainswood@yahoo.co.uk (yahoo)
+2025-10-09 17:37:20,358 - EmailConnection - INFO - Testing connection to Janatmainswood@yahoo.co.uk (yahoo)
+2025-10-09 17:37:20,358 - EmailConnection - INFO - Testing connection to Janatmainswood@yahoo.co.uk (yahoo)
+2025-10-09 17:37:20,358 - EmailConnection - INFO - Testing connection to Janatmainswood@yahoo.co.uk (yahoo)
+2025-10-09 17:37:20,358 - EmailConnection - INFO - Testing connection to Janatmainswood@yahoo.co.uk (yahoo)
+2025-10-09 17:37:20,358 - EmailConnection - INFO - Testing connection to Janatmainswood@yahoo.co.uk (yahoo)
+2025-10-09 17:37:20,358 - EmailConnection - INFO - Testing connection to Janatmainswood@yahoo.co.uk (yahoo)
+2025-10-09 17:37:20,358 - EmailConnection - INFO - Testing connection to Janatmainswood@yahoo.co.uk (yahoo)
+2025-10-09 17:37:20,358 - EmailConnection - INFO - Testing connection to Janatmainswood@yahoo.co.uk (yahoo)
+2025-10-09 17:37:20,358 - EmailConnection - INFO - Testing connection to Janatmainswood@yahoo.co.uk (yahoo)
+2025-10-09 17:37:20,358 - EmailConnection - INFO - Testing connection to Janatmainswood@yahoo.co.uk (yahoo)
+2025-10-09 17:37:20,358 - EmailConnection - INFO - Testing connection to Janatmainswood@yahoo.co.uk (yahoo)
+2025-10-09 17:37:21,748 - EmailConnection - INFO - Successfully authenticated Janatmainswood@yahoo.co.uk
+2025-10-09 17:37:21,748 - EmailConnection - INFO - Successfully authenticated Janatmainswood@yahoo.co.uk
+2025-10-09 17:37:21,748 - EmailConnection - INFO - Successfully authenticated Janatmainswood@yahoo.co.uk
+2025-10-09 17:37:21,748 - EmailConnection - INFO - Successfully authenticated Janatmainswood@yahoo.co.uk
+2025-10-09 17:37:21,748 - EmailConnection - INFO - Successfully authenticated Janatmainswood@yahoo.co.uk
+2025-10-09 17:37:21,748 - EmailConnection - INFO - Successfully authenticated Janatmainswood@yahoo.co.uk
+2025-10-09 17:37:21,748 - EmailConnection - INFO - Successfully authenticated Janatmainswood@yahoo.co.uk
+2025-10-09 17:37:21,748 - EmailConnection - INFO - Successfully authenticated Janatmainswood@yahoo.co.uk
+2025-10-09 17:37:21,748 - EmailConnection - INFO - Successfully authenticated Janatmainswood@yahoo.co.uk
+2025-10-09 17:37:21,748 - EmailConnection - INFO - Successfully authenticated Janatmainswood@yahoo.co.uk
+2025-10-09 17:37:21,748 - EmailConnection - INFO - Successfully authenticated Janatmainswood@yahoo.co.uk
+2025-10-09 17:37:21,748 - EmailConnection - INFO - Successfully authenticated Janatmainswood@yahoo.co.uk
+2025-10-09 17:37:21,748 - EmailConnection - INFO - Successfully authenticated Janatmainswood@yahoo.co.uk
+2025-10-09 17:37:21,748 - EmailConnection - INFO - Successfully authenticated Janatmainswood@yahoo.co.uk
+2025-10-09 17:37:21,748 - EmailConnection - INFO - Successfully authenticated Janatmainswood@yahoo.co.uk
+2025-10-09 17:37:23,183 - EmailConnection - INFO - Connection test successful: 463 emails found
+2025-10-09 17:37:23,183 - EmailConnection - INFO - Connection test successful: 463 emails found
+2025-10-09 17:37:23,183 - EmailConnection - INFO - Connection test successful: 463 emails found
+2025-10-09 17:37:23,183 - EmailConnection - INFO - Connection test successful: 463 emails found
+2025-10-09 17:37:23,183 - EmailConnection - INFO - Connection test successful: 463 emails found
+2025-10-09 17:37:23,183 - EmailConnection - INFO - Connection test successful: 463 emails found
+2025-10-09 17:37:23,183 - EmailConnection - INFO - Connection test successful: 463 emails found
+2025-10-09 17:37:23,183 - EmailConnection - INFO - Connection test successful: 463 emails found
+2025-10-09 17:37:23,183 - EmailConnection - INFO - Connection test successful: 463 emails found
+2025-10-09 17:37:23,183 - EmailConnection - INFO - Connection test successful: 463 emails found
+2025-10-09 17:37:23,183 - EmailConnection - INFO - Connection test successful: 463 emails found
+2025-10-09 17:37:23,183 - EmailConnection - INFO - Connection test successful: 463 emails found
+2025-10-09 17:37:23,183 - EmailConnection - INFO - Connection test successful: 463 emails found
+2025-10-09 17:37:23,183 - EmailConnection - INFO - Connection test successful: 463 emails found
+2025-10-09 17:37:23,183 - EmailConnection - INFO - Connection test successful: 463 emails found

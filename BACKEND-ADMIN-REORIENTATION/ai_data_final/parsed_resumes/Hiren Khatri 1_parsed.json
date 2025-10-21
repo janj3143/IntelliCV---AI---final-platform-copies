@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "file_name": "Hiren Khatri 1.pdf",
+    "file_size": 148086,
+    "processing_date": "2025-10-09T16:21:02.460451",
+    "text_length": 9352,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "hiren18khatri@yahoo.co.in"
+    ],
+    "phones": [
+      "971 503782180",
+      "2981529",
+      "971 50 3782180"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": [
+      "Business  Manager   ",
+      "Manager ",
+      " "
+    ]
+  },
+  "companies": [
+    "Gunjan Paints Ltd",
+    "Spectrum Industries LLC"
+  ],
+  "job_titles": [
+    "Manager"
+  ],
+  "text_sample": "Hiren N. Khatri                                                                      \nEmail: hiren18khatri@yahoo.co.in   \nMob. -+971 503782180   \n------------------------------------------------------------------------------------------------- ------------------- ------------ ---------------  \nA dedicated professional with 26 year’s experience  in field of Coatings & Paint , seeking an opportunity that \nwill allow me to develop and promote technologies that benefits to the customers and coating ...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "finance": [
+      "Excel"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 1,
+      "finance": 1,
+      "manufacturing": 1,
+      "education": 1,
+      "consulting": 3,
+      "sales": 1
+    },
+    "confidence": 0.5
+  }
+}

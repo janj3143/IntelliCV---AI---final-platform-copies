@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "Resume_Nikita Mokashi.pdf - 1.pdf",
+    "file_size": 478935,
+    "processing_date": "2025-10-09T16:21:07.428068",
+    "text_length": 5744,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "nikimokashi45@gmail.com"
+    ],
+    "phones": [
+      "971-529407190"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Handled Boil Off \ngas compression area  \nUnited Phosphorus Ltd",
+    "Detailed Engineering of DMPAT Plant \nLocalline LLC",
+    "Chevron Philips Chemical Company",
+    "Time Management \n \n \nEssar Bulk Terminal Ltd",
+    "EDUCATION  \nPROJECTS  \nAbu Dhabi National Oil Company",
+    "Detailed Engineering of Drilling Starch Plant Process Engineer \n Armaco Chemical Process Systems",
+    "Nikita Mokashi ExxonMobil Chemical Company"
+  ],
+  "job_titles": [
+    "Senior",
+    "Engineer",
+    "junior",
+    "Consultant",
+    "lead"
+  ],
+  "text_sample": " \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \nSenior Process Engineer \n Technip Energies, Mumbai, India | 07/2018 – 02/2022 \nWorked on Basic and Detailed engineering of Ethylene (Liquid and Gas \nCracker), VGO Hydrotreating Plant and LNG Regasification Plant \nHandled various process activities for Process Design Packages \n(PDPs), Front-End Engineering Design (FEED) and EPC projects. \nWorked as Area/Unit lead for various projects within the team \nPrepared Process Design Basis / Philosophies...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "project_management": [
+      "MS Project"
+    ],
+    "finance": [
+      "Excel"
+    ],
+    "soft_skills": [
+      "Communication",
+      "Team Management"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 2,
+      "healthcare": 1,
+      "consulting": 1,
+      "sales": 1
+    },
+    "confidence": 0.2857142857142857
+  }
+}

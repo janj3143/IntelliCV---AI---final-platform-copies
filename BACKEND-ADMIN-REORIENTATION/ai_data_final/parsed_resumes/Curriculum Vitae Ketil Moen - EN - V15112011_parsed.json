@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "file_name": "Curriculum Vitae Ketil Moen - EN - V15112011.pdf",
+    "file_size": 400393,
+    "processing_date": "2025-10-09T16:20:51.998031",
+    "text_length": 5686,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [],
+    "phones": [],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Norwegian  \no English  \n \nTechnologies"
+  ],
+  "job_titles": [
+    "Manager",
+    "consultant",
+    "manager",
+    "engineer"
+  ],
+  "text_sample": "CV Ketil Moen  Page  1 of 3 \n Henrichsdammen 14  \n 3123 TØNSBERG , Vestfold, Norway  \n Mob. : +47 90 60 30 03 \n Revision index :  15.11.11 -07 \nCV Print date : 11/16/2011  \n Ketil Moen  \nHenrichsdammen 14  \nN-3123  TØNSBERG  \nPhone : +47 33 33 16 08  \nMob.: +47 90 60 30 03  \n \nCurrent employer  \nABB AS \nOle Deviksvei 10  \nN-0666  Oslo  \nPhone : +47 228 72441  \nMob.: +47 99 27 21 87  \nPersonal information  \nSivil status:  Married  with 3 children  \nBirthdate:  30.07.68  \n \nPersonal statement  \nI ...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 1
+    },
+    "confidence": 0.14285714285714285
+  }
+}

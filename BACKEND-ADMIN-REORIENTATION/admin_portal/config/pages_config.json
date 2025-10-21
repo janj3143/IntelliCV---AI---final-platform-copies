@@ -1,0 +1,226 @@
+{
+  "admin_portal_pages": {
+    "00_Home": {
+      "name": "Admin Dashboard",
+      "file": "00_Home.py",
+      "critical": true,
+      "description": "Main admin dashboard with system overview",
+      "tests": [
+        "load_test",
+        "auth_test",
+        "nav_test",
+        "metrics_test"
+      ],
+      "dependencies": [
+        "authentication",
+        "system_metrics"
+      ]
+    },
+    "01_Service_Status_Monitor": {
+      "name": "Service Monitor",
+      "file": "01_Service_Status_Monitor.py",
+      "critical": true,
+      "description": "Real-time service monitoring and health checks",
+      "tests": [
+        "service_check",
+        "metrics_test",
+        "connectivity_test"
+      ],
+      "dependencies": [
+        "psutil",
+        "system_services"
+      ]
+    },
+    "02_Analytics": {
+      "name": "Analytics Hub",
+      "file": "02_Analytics.py",
+      "critical": false,
+      "description": "Data analytics and reporting dashboard",
+      "tests": [
+        "data_load",
+        "chart_render",
+        "export_test"
+      ],
+      "dependencies": [
+        "plotly",
+        "pandas",
+        "data_sources"
+      ]
+    },
+    "03_User_Management": {
+      "name": "User Management",
+      "file": "03_User_Management.py",
+      "critical": true,
+      "description": "User account and permission management",
+      "tests": [
+        "user_ops",
+        "security_check",
+        "permission_test"
+      ],
+      "dependencies": [
+        "authentication",
+        "database",
+        "security"
+      ]
+    },
+    "04_Compliance_Audit": {
+      "name": "Compliance Suite",
+      "file": "04_Compliance_Audit.py",
+      "critical": true,
+      "description": "Regulatory compliance and audit tracking",
+      "tests": [
+        "audit_check",
+        "compliance_test",
+        "report_generation"
+      ],
+      "dependencies": [
+        "audit_logs",
+        "compliance_frameworks"
+      ]
+    },
+    "05_Email_Integration": {
+      "name": "Email Integration",
+      "file": "05_Email_Integration.py",
+      "critical": false,
+      "description": "Email parsing and integration system",
+      "tests": [
+        "email_test",
+        "parsing_test",
+        "imap_connectivity"
+      ],
+      "dependencies": [
+        "imaplib",
+        "email_parser"
+      ]
+    },
+    "06_Complete_Data_Parser": {
+      "name": "Data Parser",
+      "file": "06_Complete_Data_Parser.py",
+      "critical": true,
+      "description": "Comprehensive document parsing system",
+      "tests": [
+        "parse_test",
+        "validation_test",
+        "format_support"
+      ],
+      "dependencies": [
+        "docx",
+        "pypdf",
+        "json_parser"
+      ]
+    },
+    "07_Batch_Processing": {
+      "name": "Batch Processing",
+      "file": "07_Batch_Processing.py",
+      "critical": false,
+      "description": "Large scale batch processing operations",
+      "tests": [
+        "batch_test",
+        "queue_test",
+        "performance_test"
+      ],
+      "dependencies": [
+        "queue_system",
+        "multiprocessing"
+      ]
+    },
+    "08_AI_Enrichment": {
+      "name": "AI Enrichment",
+      "file": "08_AI_Enrichment.py",
+      "critical": true,
+      "description": "AI-powered data enrichment and analysis",
+      "tests": [
+        "ai_test",
+        "enrichment_test",
+        "ml_model_test"
+      ],
+      "dependencies": [
+        "openai",
+        "anthropic",
+        "ai_models"
+      ]
+    },
+    "09_AI_Content_Generator": {
+      "name": "AI Generator",
+      "file": "09_AI_Content_Generator.py",
+      "critical": false,
+      "description": "AI content generation and optimization",
+      "tests": [
+        "content_test",
+        "generation_test",
+        "quality_check"
+      ],
+      "dependencies": [
+        "ai_services",
+        "content_templates"
+      ]
+    },
+    "10_Market_Intelligence_Center": {
+      "name": "Market Intelligence",
+      "file": "10_Market_Intelligence_Center.py",
+      "critical": false,
+      "description": "Market research and intelligence gathering",
+      "tests": [
+        "intel_test",
+        "data_test",
+        "source_validation"
+      ],
+      "dependencies": [
+        "web_scraping",
+        "market_apis"
+      ]
+    },
+    "16_Logging_Error_Screen_Snapshot_and_Fixes": {
+      "name": "System Health & AI Fixes",
+      "file": "16_Logging_Error_Screen_Snapshot_and_Fixes.py",
+      "critical": true,
+      "description": "Advanced system health monitoring with AI-powered error resolution",
+      "tests": [
+        "monitoring_test",
+        "ai_integration_test",
+        "screenshot_test",
+        "fix_deployment_test"
+      ],
+      "dependencies": [
+        "PIL",
+        "ai_services",
+        "vscode_integration",
+        "system_monitoring"
+      ]
+    }
+  },
+  "monitoring_configuration": {
+    "scan_interval_seconds": 300,
+    "critical_failure_threshold": 2,
+    "performance_threshold": 70,
+    "ai_services": [
+      "chatgpt",
+      "perplexity",
+      "gemini"
+    ],
+    "screenshot_on_error": true,
+    "auto_fix_enabled": false,
+    "sandbox_testing_required": true,
+    "vscode_integration": true
+  },
+  "traffic_light_criteria": {
+    "green": {
+      "description": "All systems operational",
+      "min_performance": 90,
+      "max_errors": 0,
+      "test_success_rate": 100
+    },
+    "amber": {
+      "description": "Minor issues detected",
+      "min_performance": 60,
+      "max_errors": 2,
+      "test_success_rate": 75
+    },
+    "red": {
+      "description": "Critical issues requiring attention",
+      "min_performance": 0,
+      "max_errors": 999,
+      "test_success_rate": 0
+    }
+  }
+}

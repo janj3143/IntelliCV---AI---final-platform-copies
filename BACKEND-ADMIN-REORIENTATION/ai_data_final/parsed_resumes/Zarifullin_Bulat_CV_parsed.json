@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "file_name": "Zarifullin_Bulat_CV.pdf",
+    "file_size": 21983,
+    "processing_date": "2025-10-09T16:21:11.205605",
+    "text_length": 3553,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [],
+    "phones": [],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Nexant Limited",
+    "Field Operating Services"
+  ],
+  "job_titles": [
+    "Manager",
+    "Consultant",
+    "Senior",
+    "Engineer"
+  ],
+  "text_sample": " \nEducation: Date Qualification \n 1996          \n2011      BSc Chemical Engineering, Un iversity of Oil and Gas, Moscow, Russia,        \nPostgraduate Certificate in Business Administration, Open University, UK.   \nLanguage Skill:   Reading: Speaking: Writing:  \n(Mark on a Score 1-5)  English 5 5 5  \n Russian 5 5 5  \nNationality: Russian \nKey Qualifications:  Experience in chemical industry: petrochemicals, inorganics, performance \n Technology assessment through experience in the engineering an...",
+  "skills_detected": {},
+  "industry_analysis": {
+    "primary_industry": "manufacturing",
+    "industry_scores": {
+      "manufacturing": 2,
+      "education": 1,
+      "consulting": 1
+    },
+    "confidence": 0.3333333333333333
+  }
+}

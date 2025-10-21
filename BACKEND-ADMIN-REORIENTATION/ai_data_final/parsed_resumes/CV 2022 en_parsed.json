@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "file_name": "CV 2022 en.pdf",
+    "file_size": 102020,
+    "processing_date": "2025-10-09T16:20:53.070564",
+    "text_length": 8757,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "m_boesch@web.de"
+    ],
+    "phones": [],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "World Trade Corporation"
+  ],
+  "job_titles": [
+    "Manager",
+    "Director",
+    "manager",
+    "Engineer"
+  ],
+  "text_sample": " 1 Marc Boesch  \n \nOltenstrasse 6E  Mobile: +41(0)78 696 34 51  \n4538 Oberbipp  e-mail: m_boesch@web.de  \n \n \n \n \nCURRICULUM VITAE  \n \n \nPersonal data  \n \n \nDate of birth:  November 16, 1963  \nHome town:  Ebnat -Kappel (SG)  \nNationality:  Switzerland  \n \n \nWork experience  \n \n \n2017 - Novar by Honeywell, Switzerland  \n Leading producer and supplier of security equipment  \n Key Account Manager for the whole of Switzerland  \n• Acquisition of new customers and e -planners, architects, municipaliti...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "marketing": [
+      "SEM"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 2,
+      "marketing": 1,
+      "manufacturing": 2,
+      "education": 1,
+      "consulting": 2
+    },
+    "confidence": 0.2857142857142857
+  }
+}

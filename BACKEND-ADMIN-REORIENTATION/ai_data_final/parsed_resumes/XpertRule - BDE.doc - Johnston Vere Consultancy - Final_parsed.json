@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "file_name": "XpertRule - BDE.doc - Johnston Vere Consultancy - Final.docx",
+    "file_size": 3911138,
+    "processing_date": "2025-10-09T16:21:11.129482",
+    "text_length": 19134,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [],
+    "phones": [
+      "03858952"
+    ],
+    "names": [],
+    "locations": [
+      "ANY UK"
+    ],
+    "job_titles": []
+  },
+  "companies": [
+    "Agreement\nThe Client agrees that the Company",
+    "To provide the Company with a copy of any offer of an Engagement immediately it is made to the Candidate   \nTo notify the Company immediately an Engagement is accepted \nTo pay to the Company",
+    "To pay Value Added Tax on the Fee where due \nTo pay the Fee in sterling unless previously agreed in writing by a Director of the Company",
+    "The request must be made in writing and following written acknowledgement of the request by the Company",
+    "Johnston Vere Consultancy Limited",
+    "For the purposes of this clause the Company",
+    "The Stage Two invoice shall be raised by the Company",
+    "To ensure that the Candidate is aware of any requirements to be satisfied in respect of the Engagement \n    \nLiability\nThe Company",
+    "Candidate which is conducted by the Company on behalf of the Client in accordance with an agreed written Recruitment Proposal and defined fee structure therein\n\nContract \nThese Terms constitute the entire contract between the Company",
+    "Client by the Company",
+    "Client engages any employees of the Company",
+    "The Stage Three invoice shall be raised by the Company",
+    "The Client agrees  \nTo pay to the Company",
+    "In the event that any payments due to the Company",
+    "Client shall be liable to pay the Company",
+    "Company then this shall be regarded as an Introduction and the Client shall be liable to pay to the Company",
+    "The Stage One invoice shall be raised by the Company",
+    "Candidate which is conducted by the Company",
+    "Advertisement\nAny advertising fees incurred by the Company",
+    "Candidate Withdrawal\nThe Client shall notify the Company",
+    "Client by the Company and that they have been actively considering them for the position concerned then the introduction shall be deemed to have been made by the Company and a Fee shall be payable by the Client to the Company",
+    "Suspension of Retained Search\nIf the Client wishes the Company",
+    "Engagement prior to commencing employment and the Company",
+    "Candidate to the Client as a direct or indirect result of an introduction by the Company",
+    "Annual Remuneration paid by the Company",
+    "Director of the Company",
+    "Fees\nIf the Company",
+    "Terms shall be valid unless agreed in writing between a Director of the Company",
+    "Company seeking the Candidate for the Client or the introduction by the Company",
+    "England and the parties accept the jurisdiction of the English Courts\n\nWaiver\nNo time or indulgence granted by the Company shall operate as a waiver of the Company",
+    "Company recovering any debt on a full indemnity basis\nNot to employ or seek to employ any of the Company",
+    "The Company"
+  ],
+  "job_titles": [
+    "Manager",
+    "consultant",
+    "manager",
+    "Director"
+  ],
+  "text_sample": "\n\nCURRENT REQUIREMENTS\n\n\nThe current requirement: Business Development Executive / Manager\n\nLocation ANY UK\n\nAsset performance and operability are crucial to any business operation. XpertRule software allows clients a unique insight into their business through its manufacturing intelligence software. Data streams from operations are becoming increasingly complicated and abundant. It is getting more difficult to sort this out into a digestible and meaningful data set. Manufacturing organisations ...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "soft_skills": [
+      "Leadership"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 2,
+      "healthcare": 1,
+      "marketing": 1,
+      "manufacturing": 1,
+      "education": 1,
+      "consulting": 2
+    },
+    "confidence": 0.2857142857142857
+  }
+}

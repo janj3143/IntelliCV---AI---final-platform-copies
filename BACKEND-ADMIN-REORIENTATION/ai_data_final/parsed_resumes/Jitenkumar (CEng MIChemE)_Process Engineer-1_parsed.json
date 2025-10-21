@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "file_name": "Jitenkumar (CEng MIChemE)_Process Engineer-1.pdf",
+    "file_size": 226861,
+    "processing_date": "2025-10-09T16:21:03.076418",
+    "text_length": 14930,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "jiten_chemy@yahoo.com"
+    ],
+    "phones": [
+      "505947076",
+      "99969301",
+      "682427"
+    ],
+    "names": [],
+    "locations": [
+      "Contact E "
+    ],
+    "job_titles": []
+  },
+  "companies": [
+    "GEA Process Engineering India Pvt Ltd",
+    "Schlumberger Oil Field Services",
+    "Engineers India Limited",
+    "Woodlands Energy Services",
+    "Musandam Oil & Gas Company LLC",
+    "Petrofac International LLC",
+    "Indian Oil Corporation Limited",
+    "Petro Addition Ltd",
+    "Cold Flash vs Solvent Technologies",
+    "Alpha Project & Services",
+    "Specialist Services",
+    "Reliance Industries Limited",
+    "Tebodin India Pvt Ltd",
+    "Formerly L&T Niro Ltd",
+    "Consultancy Services",
+    "Meghmani Industries Ltd",
+    "GHCL Ltd",
+    "ONGC Petro Additions Limited",
+    "Alpha Project & Services Ltd",
+    "Depressurization and Flare Systems",
+    "ATUL Limited",
+    "Specialist Services LLC"
+  ],
+  "job_titles": [
+    "Senior",
+    "Engineer",
+    "lead",
+    "Specialist",
+    "Manager",
+    "Lead",
+    "Principal",
+    "engineer"
+  ],
+  "text_sample": " \n \n CURRICULUM VITAE   \nNAME  \nContact Number  \nCurrent Location  \nContact E -Mail ID  Jitenkumar Mehta (CEng MIChemE)  \n+971 -505947076  \nDubai, UAE  \njiten_chemy@yahoo.com  \n \nCURRENT POSITION  Lead Process Engineer with Worley Engineering (Advision  Consulting ), \nAbu Dhabi, UAE  \nDESIRED POSITION  Principal  / Lead Process  Engineer  \nDOB / NATIONALITY  22nd April 1984 / Indian  \nWORK EXPERIENCE  Total Experience: 1 8.0+ Years  \nINTERNATIONAL \nCERTIFICATION  Chartered Engineer (CEng MIChemE...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "finance": [
+      "Excel",
+      "Compliance"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "manufacturing",
+    "industry_scores": {
+      "technology": 1,
+      "healthcare": 1,
+      "finance": 1,
+      "manufacturing": 3,
+      "education": 1,
+      "consulting": 2,
+      "sales": 1
+    },
+    "confidence": 0.5
+  }
+}

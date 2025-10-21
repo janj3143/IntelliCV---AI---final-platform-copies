@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "file_name": "B716AF6A4C811EEE9BD1BCBD6B668FA5.pdf",
+    "file_size": 94957,
+    "processing_date": "2025-10-09T16:20:50.093618",
+    "text_length": 1277,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [],
+    "phones": [
+      "23\n900163540",
+      "3923688067"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [],
+  "job_titles": [],
+  "text_sample": "PAYMENT RECEIPT \nاﻟﺪﻓﻊ إﻳﺼﺎل\n    PAYMENT TYPE : PAYMENT RECEIPT                  اﻟﺪﻓﻊ إﻳﺼﺎل: اﻟﺪﻓﻊ ﻧﻮع\nDATE اﻟﺘﺎرﻳﺦ\nRECEIPT NO اﻹﻳﺼﺎل رﻗﻢ\nACCOUNT ID\nNAME\nADDRESSاﻟﺤﺴﺎب رﻗﻢ\nاﺳﻢ\nﻋﻨﻮان\nPAID AMOUNT\nPAID AMOUNT (In Word)1083.00\nOne Thousand Eighty-Three Dirham & \nZero fils\nPlease do not print this document unless it is absolutely necessary. This is a \nsystem generated document and does not require signature. Any \ndissemination, copying of this document is strictly prohibited and may be \nunlawful. Pl...",
+  "skills_detected": {
+    "marketing": [
+      "SEM"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "unknown",
+    "industry_scores": {},
+    "confidence": 0
+  }
+}

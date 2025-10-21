@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "file_name": "Toby_Personal_26May2011.pdf",
+    "file_size": 91655,
+    "processing_date": "2025-10-09T16:21:10.051721",
+    "text_length": 23274,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "tobiasbrookes@hotmail.com"
+    ],
+    "phones": [
+      "14 6461 859"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Royce \nMilitary Aero Engines Ltd",
+    "Woodside \nEnergy Ltd",
+    "Apache Energy Ltd",
+    "Shell Global Solutions",
+    "Brooke Dockyard and \nEngineering Works Corporation",
+    "Speed Railway Corporation",
+    "BAE \nSystems",
+    "Mass Transit Railway \nCorporation",
+    "Woodside Energy Ltd",
+    "Facilitation of FMECA \nworkshops and Reliability prediction of \ncritical Pressure Protection Systems",
+    "Tobias successfully completed an MSc & BSc in \nIndustrial Systems",
+    "Taiwan High Speed Rail Corporation",
+    "Nash \nConsultancy Ltd",
+    "Murphy \nSabah Oil Co Ltd",
+    "Brooke Dockyard and Engineering Works \nCorporation",
+    "Taipei and \nin London for Taiwan Shinkansen \nTrackwork Joint Venture and Taiwan \nTrack Partners Joint Venture on all five of \nTaiwan High Speed Rail Corporation",
+    "Husky \nOil China Ltd",
+    "RAM works \nwith regards to the Building Services",
+    "GEC Services Ltd",
+    "Canton Railway \nCorporation",
+    "Atkins China Ltd",
+    "Sengkang and Punggol Light Rapid \nTransit Systems",
+    "Industrial Systems",
+    "Taiwan Shinkansen \nCorporation",
+    "McDermott & Woodside \nEnergy Ltd",
+    "Reliance Gas Transportation \nInfrastructure Limited",
+    "GEC Services",
+    "Consolidated Contractors Group \nand Teyseer Contracting Company"
+  ],
+  "job_titles": [
+    "consultant",
+    "Senior",
+    "Engineer",
+    "junior",
+    "Director",
+    "Consultant",
+    "Manager",
+    "Lead",
+    "Principal",
+    "specialist"
+  ],
+  "text_sample": "Curriculum Vitae for Paul Tobias Brookes  \n \n \n \nPage 1 of 7 CURRICULUM VITAE \n \nfor \n \nPaul Tobias Brookes \nMSc (Reliability & Maintainability Engineering), \nMSc & BSc (Industrial Systems Economics), \nFellow MA, MSoLE \n \n \n \n \n \nDate of Birth:  7th  April 1971 \nPlace of Birth:  Vaxjo, Sweden \nNationality:  Dual; British and Swedish \nHome Address:   37-14-1 Sri Penaga,  \nJalan Medang Serai,  \nBukit Bandaraya, \n59100 Kuala Lumpur, \nMalaysia \nMobile Phone:  +60 (0)14 6461 859 \nE-mail Address:  tob...",
+  "skills_detected": {
+    "programming": [
+      "Go",
+      "Rust"
+    ],
+    "finance": [
+      "Compliance"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "education",
+    "industry_scores": {
+      "technology": 3,
+      "healthcare": 1,
+      "finance": 3,
+      "manufacturing": 3,
+      "education": 4,
+      "consulting": 3,
+      "sales": 1
+    },
+    "confidence": 0.6666666666666666
+  }
+}

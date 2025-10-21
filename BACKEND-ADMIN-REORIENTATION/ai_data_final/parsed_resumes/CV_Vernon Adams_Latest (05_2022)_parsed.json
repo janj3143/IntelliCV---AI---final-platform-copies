@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "CV_Vernon Adams_Latest (05_2022).docx",
+    "file_size": 103418,
+    "processing_date": "2025-10-09T16:21:00.236156",
+    "text_length": 14478,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [],
+    "phones": [
+      "450 000"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Process Technology",
+    "Ensure that process engineers are conversant with and comply with corporate QA procedures\nCo",
+    "Sakhalin Energy Investment Company",
+    "Topsoe  ATR Technology",
+    "Sasol Technology",
+    "Production Services"
+  ],
+  "job_titles": [
+    "Senior",
+    "Engineer",
+    "senior",
+    "manager",
+    "lead",
+    "Manager",
+    "Lead",
+    "Principal",
+    "engineer"
+  ],
+  "text_sample": "\nProjects Roles and Responsibilities & Career Highlights: \t\nJanuary 2014 –present:  Woodplc. - Production Services Network (PSN), Sakhalinsk, Russia\nClient: Sakhalin Energy Investment Company (SEIC)\nAppointed Position:\tDepartment Head as Lead Process Design Engineer\nActing Positions:\tEngineering Manager (Delegation of authority in absence of appointed manager)                           \nFunctional manager to 9 process engineers and CAD / Smartplant designers (4 expats and 6 Russian nationals) in...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "web_development": [
+      "React"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 1,
+      "healthcare": 1,
+      "finance": 2,
+      "manufacturing": 2,
+      "education": 1,
+      "consulting": 3,
+      "sales": 1
+    },
+    "confidence": 0.5
+  }
+}

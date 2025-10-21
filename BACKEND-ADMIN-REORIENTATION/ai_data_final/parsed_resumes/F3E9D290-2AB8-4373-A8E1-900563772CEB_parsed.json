@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "file_name": "F3E9D290-2AB8-4373-A8E1-900563772CEB.pdf",
+    "file_size": 323223,
+    "processing_date": "2025-10-09T16:21:01.151985",
+    "text_length": 16018,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "Emilya7415@gmail.com",
+      "emilya.abdullayeva@championx.com",
+      "Emilya.EA.Abdullayeva@pdo.co.om",
+      "pdavies1@ecolab.com",
+      "keilg1@bp.com"
+    ],
+    "phones": [
+      "968) 9178 4670",
+      "684958",
+      "207514",
+      "2004 0064"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Cut Oil Systems",
+    "Refining Technology",
+    "Champion Technologies",
+    "Advanced Technologies",
+    "QHSE Solutions",
+    "QHSE Solutions Ltd",
+    "North Oil Company",
+    "Awarded Champion Technologies"
+  ],
+  "job_titles": [
+    "Senior",
+    "Engineer",
+    "manager",
+    "Manager",
+    "engineer"
+  ],
+  "text_sample": "CURRICULUM VITAE  \nEmilia Abdullayeva                                                                             \n  \n \nEmail:  Emilya7415@gmail.com  \nEmail:  emilya.abdullayeva@championx.com  \nEmail: Emilya.EA.Abdullayeva@pdo.co.om   \nPhone: (+968) 9178 4670 (Oman number)  \nPhone:  one: (+99451) 832 49 84 (Azerbaijan number)  \n \n \nDate of birth          5 -th of January 1974 \nPlace of birth        Azerbaijan, Baku   \n \nAcademic Qualifications : \n \n• Harvard Business School (Online) : April 2021...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "web_development": [
+      "React"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "finance": [
+      "Excel",
+      "SAP",
+      "Compliance"
+    ],
+    "soft_skills": [
+      "Leadership"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "finance",
+    "industry_scores": {
+      "technology": 2,
+      "healthcare": 2,
+      "finance": 3,
+      "marketing": 1,
+      "manufacturing": 3,
+      "education": 3,
+      "consulting": 2,
+      "sales": 2
+    },
+    "confidence": 0.42857142857142855
+  }
+}

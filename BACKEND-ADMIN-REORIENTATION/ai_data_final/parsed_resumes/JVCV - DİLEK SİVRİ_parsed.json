@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "file_name": "JVCV - DİLEK SİVRİ.docx",
+    "file_size": 83442,
+    "processing_date": "2025-10-09T16:21:03.535493",
+    "text_length": 2699,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "janj@johnston-vere.co.uk"
+    ],
+    "phones": [
+      "2012-2014",
+      "2005-2010",
+      "01695 570 696"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Business Administration and Technology"
+  ],
+  "job_titles": [
+    "Manager",
+    "Lead"
+  ],
+  "text_sample": "\n\n\nCANDIDATE \n\nDİLEK SİVRİ\n\n\nPERSONAL DETAILS\n\n\nLOCATION \t\t\n\nIstanbul\n\n\nQUALIFICATIONS\n\nIstanbul Technical University, Istanbul, Turkey (2012-2014)\nBusiness Administration and Technology Management\n\nIstanbul Technical University, Istanbul, Turkey (2005-2010)\nBachelor of Science in Chemical Engineering\n\n\nCAREER SUMMARY\n\nKey Account Manager Turkey & Middle East and Greece, Powder Coating Resins\nCovestro (Feb 2023-present)\n\nGlobal responsibility for one of the biggest global key account for powder ...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 1,
+      "consulting": 2,
+      "sales": 1
+    },
+    "confidence": 0.3333333333333333
+  }
+}

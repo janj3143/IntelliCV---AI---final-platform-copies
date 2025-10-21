@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "file_name": "PierreLombrez_Resume_20111024.docx",
+    "file_size": 27213,
+    "processing_date": "2025-10-09T16:21:06.651157",
+    "text_length": 6030,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "plombrez@laposte.net"
+    ],
+    "phones": [
+      "33 609 952 870",
+      "500 000",
+      "110 000"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [],
+  "job_titles": [
+    "Manager",
+    "lead",
+    "manager",
+    "Engineer"
+  ],
+  "text_sample": "\nPierre Lombrez\n\nAge: 48\nMobile: +33 609 952 870\nE-mail: plombrez@laposte.net\n\nPersonal Statement:\n\nA confident, proactive leader with proven delivery in Strategic Management, Product Marketing, eMarketing, Team Development and International Projects. Leadership and delivery of complex issue resolution within a combination of Strategic, Corporate, People and Process Improvements. Highly committed, hard working with a track record of consistently delivering personal and business performance objec...",
+  "skills_detected": {
+    "programming": [
+      "C++",
+      "PHP",
+      "Go"
+    ],
+    "web_development": [
+      "HTML",
+      "React"
+    ],
+    "databases": [
+      "MySQL"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "finance": [
+      "Excel"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 3,
+      "marketing": 2,
+      "manufacturing": 1,
+      "education": 1,
+      "consulting": 2
+    },
+    "confidence": 0.42857142857142855
+  }
+}

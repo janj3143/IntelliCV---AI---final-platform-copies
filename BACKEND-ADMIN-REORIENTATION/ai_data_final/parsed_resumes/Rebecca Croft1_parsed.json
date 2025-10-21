@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "file_name": "Rebecca Croft1.docx",
+    "file_size": 60480,
+    "processing_date": "2025-10-09T16:21:06.674057",
+    "text_length": 3934,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [],
+    "phones": [],
+    "names": [
+      "Rebecca Croft"
+    ],
+    "locations": [
+      "Chorley"
+    ],
+    "job_titles": []
+  },
+  "companies": [],
+  "job_titles": [
+    "manager",
+    "Specialist"
+  ],
+  "text_sample": "Candidate Name\t\t\tRebecca Croft\n\nProfile\n\nAn AAT Qualified Accounts Assistant with 11 Years Accountancy Practice experience, currently looking for a new opportunity in the local area.\nThis individual is experienced within Accounts Prep, Tax, Bookkeeping & VAT Returns.\n\nLocation: \t\tChorley\nSalary Indicator:\t£27,000\nNotice Period:\t\t1 Month\nDriving Licence:\tYes\n\nEducation: \t\tAAT Level 4, 2017\nLevel 3 NVQ in Health and Social Care – Children and Young People, 2010 \tto 2011\nWigan and Leigh College, 19...",
+  "skills_detected": {
+    "programming": [
+      "Go",
+      "Rust"
+    ],
+    "finance": [
+      "Excel",
+      "SAP"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 1,
+      "manufacturing": 1,
+      "consulting": 1
+    },
+    "confidence": 0.14285714285714285
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "file_name": "Ece Turan CV 2.pdf",
+    "file_size": 87307,
+    "processing_date": "2025-10-09T16:21:00.692116",
+    "text_length": 3029,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "ecesezen@gmail.com"
+    ],
+    "phones": [
+      "90 535 956"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "RM  \n \nDow Chemical Company"
+  ],
+  "job_titles": [
+    "Manager",
+    "lead",
+    "Engineer",
+    "Specialist"
+  ],
+  "text_sample": "ECE TURAN  \nErenköy, Kadıköy İstanbul  \n90 535 956 65 55  \necesezen@gmail.com  \n \nEDUCATION  \n \nKoç University, College of Engi neering, Istanbul       2008 -2013   \nGraduated, Chemical & Biological Engineering Half merit scholarship.  \nHasan -Sabriye Gümüş Anadolu Lisesi , Istanbul       2004 -2008   \n \nEXPERIEN CE \n \nCargill  Tarım ve Gıda , Istanbul  \n \nCategory Sales Manager  - Binders and Adhesives  Business     2023 -present  \n• Leading interaction with local paper, corrugated board, texti...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "finance": [
+      "Excel"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 1,
+      "manufacturing": 1,
+      "consulting": 1,
+      "sales": 1
+    },
+    "confidence": 0.14285714285714285
+  }
+}

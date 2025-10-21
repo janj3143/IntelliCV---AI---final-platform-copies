@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "file_name": "CV_ORTONR-12.12.11.pdf",
+    "file_size": 103082,
+    "processing_date": "2025-10-09T16:20:59.335032",
+    "text_length": 4232,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "rorton@ortocad.co.uk"
+    ],
+    "phones": [
+      "08432892361"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "UK Ltd",
+    "HRS refrigeration Ltd",
+    "Property Services",
+    "Siemens Ltd",
+    "HND Building Services",
+    "House Engineering Ltd",
+    "Transit Railway Corporation",
+    "Building Services",
+    "Bailey Ltd",
+    "Mass\nTransit Railway Corporation"
+  ],
+  "job_titles": [
+    "Engineer",
+    "engineer"
+  ],
+  "text_sample": "Curricu lum Vitae\nCV_ortonr_02.2011 Page1of2 26/10/2011Roger Orton\nrorton@ortocad.co.uk\nDate of Birth: 19thApril 1963 Nationality: British Tel:08432892361\nQualifications: HND Building Services Engineering (HVAC)\nONC-Refrigeration and Air Conditioning\nC&G 207/2 (Refrigeration and Air Conditioning)\nDesign Software: AutoCAD 2010+ AutoCAD MEP.\nNBS Specification package\nIES Virtual Environment design software.\nHevacomp design package.\nContact history and dates:\nEmployed as a Freelance HVACCADDesign E...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 2,
+      "manufacturing": 1,
+      "education": 1
+    },
+    "confidence": 0.2857142857142857
+  }
+}

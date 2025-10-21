@@ -1,0 +1,37 @@
+{
+  "database_statistics": [
+    {
+      "table_name": "candidates",
+      "count": 250
+    },
+    {
+      "table_name": "companies",
+      "count": 1194
+    },
+    {
+      "table_name": "locations",
+      "count": 24767
+    },
+    {
+      "table_name": "job_titles",
+      "count": 355
+    },
+    {
+      "table_name": "skills",
+      "count": 5
+    }
+  ],
+  "extraction_statistics": {
+    "parsed_resumes": 250,
+    "companies": 739,
+    "locations": 24767,
+    "job_titles": 355,
+    "skills": 5,
+    "market_intelligence": 1,
+    "processing_results": 1,
+    "metadata_files": 9,
+    "total_files_processed": 0
+  },
+  "last_updated": "2025-10-18T09:02:58.728483",
+  "total_records": 26571
+}

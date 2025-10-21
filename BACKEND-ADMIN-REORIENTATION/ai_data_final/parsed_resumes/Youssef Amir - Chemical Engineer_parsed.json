@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "file_name": "Youssef Amir - Chemical Engineer.pdf",
+    "file_size": 167721,
+    "processing_date": "2025-10-09T16:21:11.185005",
+    "text_length": 4033,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "youssef.ammirr@gmail.com"
+    ],
+    "phones": [
+      "0528502089"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": [
+      "Plant Production Engineer  July ",
+      "Production Engineer  Dec "
+    ]
+  },
+  "companies": [
+    "Global Fluorine Chemical Factory LLC",
+    "Natural Gas processing Technology",
+    "Bachelor Of Science in \nPetrochemical Engineering  KTH Royal Institute Of Technology",
+    "Alexandria Fertilizers Company",
+    "Egyptian Petrochemical Company",
+    "Present  \nEngineer Company"
+  ],
+  "job_titles": [
+    "Manager",
+    "Engineer"
+  ],
+  "text_sample": "Curriculum Vitae  \n \nYOUSSEF AMIR          \n  \nAddress : 9 Um Hisin   St - Rabdan  \n- Abu Dhabi  United  Arab  \nEmirates  \nMobile : 0528502089  \nE-mail: youssef.ammirr@gmail.com  \n \nHard working professional with 4 + years of experience and a proven knowledge of process  \ndevelopment, transforming raw materials into valuable products and production output  in UAE . \nLooking for a responsible career  opportunity to fully utilize my training s skills, while making a \nsignificant contribu tion to t...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "web_development": [
+      "React"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Problem Solving"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "education",
+    "industry_scores": {
+      "technology": 2,
+      "healthcare": 1,
+      "manufacturing": 1,
+      "education": 3
+    },
+    "confidence": 0.5
+  }
+}

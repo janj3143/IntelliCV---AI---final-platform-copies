@@ -1,0 +1,52 @@
+{
+  "companies": [
+    {
+      "id": "comp_001",
+      "name": "Microsoft Corporation", 
+      "industry": "Technology",
+      "location": "Redmond, WA",
+      "size": "Large",
+      "website": "microsoft.com",
+      "last_updated": "2025-10-14"
+    },
+    {
+      "id": "comp_002",
+      "name": "Google LLC",
+      "industry": "Technology", 
+      "location": "Mountain View, CA",
+      "size": "Large",
+      "website": "google.com",
+      "last_updated": "2025-10-14"
+    },
+    {
+      "id": "comp_003",
+      "name": "Amazon.com Inc",
+      "industry": "E-commerce/Cloud",
+      "location": "Seattle, WA", 
+      "size": "Large",
+      "website": "amazon.com",
+      "last_updated": "2025-10-14"
+    },
+    {
+      "id": "comp_004", 
+      "name": "Apple Inc",
+      "industry": "Technology/Consumer Electronics",
+      "location": "Cupertino, CA",
+      "size": "Large",
+      "website": "apple.com",
+      "last_updated": "2025-10-14"
+    },
+    {
+      "id": "comp_005",
+      "name": "Meta Platforms Inc",
+      "industry": "Social Media/Technology",
+      "location": "Menlo Park, CA",
+      "size": "Large", 
+      "website": "meta.com",
+      "last_updated": "2025-10-14"
+    }
+  ],
+  "total_companies": 5,
+  "last_sync": "2025-10-14T08:14:00Z",
+  "data_source": "IntelliCV Demo System"
+}

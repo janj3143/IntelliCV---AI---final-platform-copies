@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "file_name": "Jeroen_Deweer_June2011.docx",
+    "file_size": 62378,
+    "processing_date": "2025-10-09T16:21:02.918352",
+    "text_length": 4771,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "jdeweer@yahoo.com"
+    ],
+    "phones": [
+      "111\n8500",
+      "32472012925",
+      "34627409460"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Customer Services"
+  ],
+  "job_titles": [
+    "manager",
+    "Senior",
+    "Engineer"
+  ],
+  "text_sample": "\nCURRICULUM VITAE\n\nJeroen Deweer (account, sales en product management)\nBurgemeester Gillonlaan 111\n8500 Kortrijk\n\nTel: +32472012925\nTel: +34627409460\t                    Kortrijk, 26th of March 1974 (37 year) \nE-mail: jdeweer@yahoo.com\t\t\t\t\t\t                 \n\nEDUCATION\n\n1992/97\tMaster in Engineering: University of Gent (Belgium): specialty: electro mechanical engineering\n\n1996/97\tErasmus exchange program at the University of Santander, Cantabria (Spain) \n\n1986/92\tBachelor Latin Mathematics at t...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 2,
+      "marketing": 1,
+      "manufacturing": 2,
+      "education": 1,
+      "consulting": 3,
+      "sales": 1
+    },
+    "confidence": 0.5
+  }
+}

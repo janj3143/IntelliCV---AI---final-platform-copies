@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "file_name": "CV (E) 2011.pdf",
+    "file_size": 367174,
+    "processing_date": "2025-10-09T16:20:52.414099",
+    "text_length": 3484,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "Christian@Konschewski.com"
+    ],
+    "phones": [],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Interests Technology",
+    "Service GmbH & Co"
+  ],
+  "job_titles": [
+    "manager",
+    "Manager"
+  ],
+  "text_sample": " Curriculum Vitae  A Personal Data   \n Dipl.-Ing. Christian Ludwig Konschewski In der Dörrwies 6  D – 35647 Waldsolms \n    Phone +49 (0) 6085 – 423 Mobile Phone +49 (0) 177 – 33 06560 Mail Christian@Konschewski.com   Born 31. Oktober 1964 in Bad Nauheim / Hessen Nationality German Religion Protestant Family Status Serious relationship (3 Kids with 1st wife) Language Skills German (native language), English (fluently),  French (basic), Spanish ( basic ) Interests Technology  Security  Networking ...",
+  "skills_detected": {},
+  "industry_analysis": {
+    "primary_industry": "education",
+    "industry_scores": {
+      "technology": 1,
+      "manufacturing": 1,
+      "education": 2,
+      "consulting": 1
+    },
+    "confidence": 0.3333333333333333
+  }
+}

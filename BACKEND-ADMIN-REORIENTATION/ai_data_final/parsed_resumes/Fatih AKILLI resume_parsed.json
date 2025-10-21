@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "file_name": "Fatih AKILLI resume.pdf",
+    "file_size": 122511,
+    "processing_date": "2025-10-09T16:21:01.255881",
+    "text_length": 7645,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "fakilli82@gmail.com"
+    ],
+    "phones": [
+      "90 530 8233823"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Advanced  \n \nKEY TRAININGS  & COURSES     AWARDS  \n \nAutomotive Aftermarket Solutions",
+    "Automotive Paint Technology"
+  ],
+  "job_titles": [
+    "Senior",
+    "Engineer",
+    "Specialist",
+    "Manager",
+    "engineer"
+  ],
+  "text_sample": "FATIH AKILLI  \n           \n  \nYenikent Mh . 2424 Sk. Gavize Park Evleri No:32/B D:16  Gebze , Kocaeli  / Turk iye \nMobile: +90 530 8233823  e-mail: fakilli82@gmail.com  \n \nTechnical Sales  professional with more than 19 years of experience  in several Industrial Markets .  \n \nCore expertise areas:  P&L responsibility , Sales & Marketing responsibility, R&D responsibility, new product launches, working with \nmultiple stakeholders in matrix organizations, influential leadership and project managem...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "finance": [
+      "Excel"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Strategic Planning"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "marketing",
+    "industry_scores": {
+      "technology": 1,
+      "finance": 1,
+      "marketing": 2,
+      "education": 1,
+      "consulting": 1
+    },
+    "confidence": 0.3333333333333333
+  }
+}

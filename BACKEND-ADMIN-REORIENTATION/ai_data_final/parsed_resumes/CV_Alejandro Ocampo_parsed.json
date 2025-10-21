@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "file_name": "CV_Alejandro Ocampo.pdf",
+    "file_size": 223009,
+    "processing_date": "2025-10-09T16:20:57.082614",
+    "text_length": 15792,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "aocampor90@gmail.com",
+      "aocampor90@gmail.com",
+      "aocampor90@gmail.com",
+      "aocampor90@gmail.com",
+      "aocampor90@gmail.com",
+      "aocampor90@gmail.com"
+    ],
+    "phones": [
+      "971 563662731",
+      "971 563662731",
+      "971 563662731",
+      "971 563662731",
+      "971 563662731",
+      "958-719-892",
+      "971 563662731",
+      "57 3114574050",
+      "57 3163508622",
+      "57 3176549204",
+      "57 3154978441",
+      "57 3176584176",
+      "352 6723"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Leader of  WorleyParsons  Foundation Activities in Colomb ia supporting presence of the Centre for \nAffordable W ater and S anitation Technology",
+    "Master Services",
+    "Leading Conceptual Engineering  designs  for water treatment produced in the gas p roduction facilities \nof Chevron Petrol eum Company",
+    "Engineerin g and Construction of Liquid Effluents Dr ains Systems",
+    "US West and Latin America Services",
+    "Site Services"
+  ],
+  "job_titles": [
+    "Engineer",
+    "Designer",
+    "Coordinator",
+    "Manager",
+    "specialist",
+    "SPECIALIST"
+  ],
+  "text_sample": "Alejandro Ocampo Rodríguez  \nMaster in Project Managemen t \nProject Manager,  Package  Manger,  Project Engi neer , Process Engineer  \n \naocampor90@gmail.com  \nUAE +971 563662731  \n \nRESUME  \n \n 1 SUMMARY  \nMaster  degree  in project management  and BSc.  in Chemical Engineer ing. Over  eleven  years  of \nexperience  as Process  and Project  Engineer , Project and Package Ma nager  developing , supervising,  \nand leading  Conceptual, Basic, and Detailed Engineering  and Construction Projects  fo...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "cloud": [
+      "AWS"
+    ],
+    "project_management": [
+      "JIRA"
+    ],
+    "finance": [
+      "Risk Management"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Team Management"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 2,
+      "healthcare": 1,
+      "finance": 1,
+      "manufacturing": 2,
+      "education": 1,
+      "consulting": 3,
+      "sales": 1
+    },
+    "confidence": 0.5
+  }
+}

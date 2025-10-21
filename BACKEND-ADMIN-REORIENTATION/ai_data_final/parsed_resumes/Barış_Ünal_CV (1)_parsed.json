@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "file_name": "Barış_Ünal_CV (1).pdf",
+    "file_size": 111516,
+    "processing_date": "2025-10-09T16:20:50.167273",
+    "text_length": 4196,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [],
+    "phones": [],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Turkey  \n \n \n Orma Baby Foods Co",
+    "Software Technologies"
+  ],
+  "job_titles": [
+    "Manager",
+    "Engineer"
+  ],
+  "text_sample": " \n 1/2 BARIŞ ÜNAL                                                                                                 \n \nPersonal Information :           Home Address :  \nDate of Birth: 06.09 .1981                        Altıntepe Mah. Özüdoğru Sok. Sabancı Sitesi  \nPlace of Birth: İstanbul                 B1 Blok Daire : 11 Altıntepe  \nGender: Male            Maltepe,  İstanbul, Turkey  \nMarital Status: Single          \nMilitary Status: Completed  on Feb 2007        Mobile:  +90 5 49 456 93 00 \nDri...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "finance": [
+      "Excel"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 2,
+      "manufacturing": 2,
+      "education": 1,
+      "sales": 1
+    },
+    "confidence": 0.2857142857142857
+  }
+}

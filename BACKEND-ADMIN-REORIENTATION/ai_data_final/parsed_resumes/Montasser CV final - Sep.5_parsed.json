@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "file_name": "Montasser CV final - Sep.5.pdf",
+    "file_size": 245594,
+    "processing_date": "2025-10-09T16:21:05.445679",
+    "text_length": 15730,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "mont30003@yahoo.com"
+    ],
+    "phones": [
+      "971506679702",
+      "97126353004"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Marketing & B usiness Development  Manager  \n   ABB Petroleum Technology",
+    "Operation & M aintenance Superintendent  \nGeisum Oil Company",
+    "At ABB Petroleum Technology",
+    "At Geisum Oil Company",
+    "Khalda Petroleum Co"
+  ],
+  "job_titles": [
+    "Senior",
+    "Engineer",
+    "Director",
+    "lead",
+    "Manager",
+    "Lead",
+    "senior"
+  ],
+  "text_sample": "Curriculum Vitae                Montasser Abou -Ouf \n1 \n  \n \n \nCurriculum Vitae  \n \nMontasser Abou -Ouf \n \nDate of b irth:              2 January 1961  \nLanguages  spoken :     Arabic  (native) , English  (fluent) , German (fluent)  \n \nTelephone:    +971506679702 (M obile)  \n    +97126353004  (Landline)  \nE-mail address :  mont30003@yahoo.com  \nPostal address:   P.O. Box 62594 , Abu Dhabi, UAE  \n \nI am s eeking a Senior Management position with a growth oriented organization in Energy/Oil \n& Gas...",
+  "skills_detected": {
+    "programming": [
+      "Go",
+      "Rust"
+    ],
+    "finance": [
+      "Excel",
+      "Compliance"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Communication",
+      "Strategic Planning"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "finance",
+    "industry_scores": {
+      "technology": 1,
+      "healthcare": 1,
+      "finance": 3,
+      "marketing": 1,
+      "manufacturing": 2,
+      "education": 2,
+      "consulting": 3,
+      "sales": 1
+    },
+    "confidence": 0.42857142857142855
+  }
+}

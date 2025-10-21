@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "file_name": "Anzal_Ashraf_Letter.pdf",
+    "file_size": 45781,
+    "processing_date": "2025-10-09T16:20:49.868759",
+    "text_length": 1531,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [],
+    "phones": [],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [],
+  "job_titles": [
+    "Specialist"
+  ],
+  "text_sample": "October 31, 2023\nBASF\nRE: Business Development Specialist\nDear Jan,\nI am writing to express my strong interest in the Business Development Specialist position at BASF. With over\na decade of experience in the coatings industry, I bring a wealth of knowledge and expertise that I\nbelieve would be a valuable asset to your team.\nIn  my  current  role  as  a  Sales  Executive  at  Multi  Products  Enterprises,  I  have  had  the  privilege  of\nrepresenting  one  of  the  leading  distributors  of  Axa...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 1,
+      "consulting": 2
+    },
+    "confidence": 0.3333333333333333
+  }
+}

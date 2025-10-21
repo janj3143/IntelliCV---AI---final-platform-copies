@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "file_name": "Morerio P CV E Sep 2010.pdf",
+    "file_size": 45340,
+    "processing_date": "2025-10-09T16:21:05.479424",
+    "text_length": 8317,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "paolo.morerio@invensys.com",
+      "morerio.perucchetti@inwind.it",
+      "paolo.morerio@invensys.com",
+      "morerio.perucchetti@inwind.it"
+    ],
+    "phones": [
+      "39039320867",
+      "393357595947",
+      "39039320867",
+      "393357595947"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Senior Client Sales Executive\n \n \nInvensys Systems",
+    "Invensys Systems",
+    "I am married and I have one son \nMy level of English is Upper Intermediate   Company",
+    "The targets finalized for Invensys Systems"
+  ],
+  "job_titles": [
+    "manager",
+    "Manager",
+    "Senior",
+    "principal"
+  ],
+  "text_sample": " Morerio Paolo \nVia Grigna 11 \n20052 Monza-Milan H.P. +39039320867 M.P. +393357595947 paolo.morerio@invensys.com\n  \nmorerio.perucchetti@inwind.it  \n \n    Please find attached my C.V. I give consent to the use of  my personal details accord ing to the Italian law 675/96. \n Conscious that, the experiences acquired in twenty years of pr ofessional carrier give me the \nopportunity to fill a manager role, I would like to take the chance to underline the fact that I have \nalways worked in multinationa...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 1,
+      "finance": 1,
+      "manufacturing": 1,
+      "education": 1,
+      "consulting": 2
+    },
+    "confidence": 0.3333333333333333
+  }
+}

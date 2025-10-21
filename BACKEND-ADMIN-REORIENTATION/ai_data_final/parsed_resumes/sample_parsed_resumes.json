@@ -1,0 +1,50 @@
+{
+  "parsed_resumes": [
+    {
+      "id": "resume_001",
+      "candidate_name": "John Smith",
+      "email": "john.smith@email.com",
+      "phone": "+1-555-0123",
+      "current_title": "Senior Software Engineer", 
+      "experience_years": 8,
+      "skills": ["Python", "JavaScript", "React", "Node.js", "AWS", "Docker"],
+      "education": "B.S. Computer Science - MIT",
+      "location": "Boston, MA",
+      "parsed_date": "2025-10-14",
+      "confidence_score": 0.92
+    },
+    {
+      "id": "resume_002",
+      "candidate_name": "Sarah Johnson",
+      "email": "sarah.j@email.com", 
+      "phone": "+1-555-0456",
+      "current_title": "Data Scientist",
+      "experience_years": 5,
+      "skills": ["Python", "R", "Machine Learning", "TensorFlow", "SQL", "Tableau"],
+      "education": "M.S. Data Science - Stanford University",
+      "location": "San Francisco, CA", 
+      "parsed_date": "2025-10-14",
+      "confidence_score": 0.89
+    },
+    {
+      "id": "resume_003",
+      "candidate_name": "Michael Chen",
+      "email": "m.chen@email.com",
+      "phone": "+1-555-0789",
+      "current_title": "DevOps Engineer",
+      "experience_years": 6,
+      "skills": ["Kubernetes", "Jenkins", "Terraform", "AWS", "Linux", "Python"],
+      "education": "B.S. Information Technology - University of Washington",
+      "location": "Seattle, WA",
+      "parsed_date": "2025-10-14", 
+      "confidence_score": 0.94
+    }
+  ],
+  "total_resumes": 3,
+  "processing_stats": {
+    "successful_parses": 3,
+    "failed_parses": 0,
+    "average_confidence": 0.92
+  },
+  "last_updated": "2025-10-14T08:16:00Z"
+}

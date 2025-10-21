@@ -1,0 +1,207 @@
+2025-10-21 08:06:09 - ExpertSystemEngine - INFO - Expert System Engine initialized with config: {'strict_validation': False, 'explain_all_decisions': True, 'track_rule_performance': True, 'auto_save_rules': True, 'max_validation_history': 10000}
+2025-10-21 08:06:09 - ExpertSystemEngine - INFO - Loading rules from C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 08:06:09 - ExpertSystemEngine - INFO - Added rule: JT001 - Senior Requires Experience
+2025-10-21 08:06:09 - ExpertSystemEngine - INFO - Saved 1 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 08:06:09 - ExpertSystemEngine - INFO - Added rule: JT002 - CXO Requires Leadership
+2025-10-21 08:06:09 - ExpertSystemEngine - INFO - Saved 2 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 08:06:09 - ExpertSystemEngine - INFO - Added rule: JT003 - Junior vs Senior Consistency
+2025-10-21 08:06:09 - ExpertSystemEngine - INFO - Saved 3 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 08:06:09 - ExpertSystemEngine - INFO - Added rule: SK001 - Programming Language Required for Developer
+2025-10-21 08:06:09 - ExpertSystemEngine - INFO - Saved 4 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 08:06:09 - ExpertSystemEngine - INFO - Added rule: SK002 - Duplicate Skills
+2025-10-21 08:06:09 - ExpertSystemEngine - INFO - Saved 5 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 08:06:09 - ExpertSystemEngine - INFO - Added rule: CO001 - Company Name Formatting
+2025-10-21 08:06:09 - ExpertSystemEngine - INFO - Saved 6 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 08:06:09 - ExpertSystemEngine - INFO - Added rule: CO002 - Company vs Freelance Consistency
+2025-10-21 08:06:09 - ExpertSystemEngine - INFO - Saved 7 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 08:06:09 - ExpertSystemEngine - INFO - Added rule: IN001 - Industry-Skills Alignment
+2025-10-21 08:06:09 - ExpertSystemEngine - INFO - Saved 8 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 08:06:09 - ExpertSystemEngine - INFO - Added rule: EX001 - Reasonable Experience Years
+2025-10-21 08:06:09 - ExpertSystemEngine - INFO - Saved 9 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 08:06:09 - ExpertSystemEngine - INFO - Added rule: EX002 - Experience Matches Timeline
+2025-10-21 08:06:09 - ExpertSystemEngine - INFO - Saved 10 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 08:06:09 - ExpertSystemEngine - INFO - Loaded 10 rules
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Expert System Engine initialized with config: {'strict_validation': False, 'explain_all_decisions': True, 'track_rule_performance': True, 'auto_save_rules': True, 'max_validation_history': 10000}
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Expert System Engine initialized with config: {'strict_validation': False, 'explain_all_decisions': True, 'track_rule_performance': True, 'auto_save_rules': True, 'max_validation_history': 10000}
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Loading rules from C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Loading rules from C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Added rule: JT001 - Senior Requires Experience
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Added rule: JT001 - Senior Requires Experience
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Saved 1 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Saved 1 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Added rule: JT002 - CXO Requires Leadership
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Added rule: JT002 - CXO Requires Leadership
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Saved 2 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Saved 2 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Added rule: JT003 - Junior vs Senior Consistency
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Added rule: JT003 - Junior vs Senior Consistency
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Saved 3 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Saved 3 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Added rule: SK001 - Programming Language Required for Developer
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Added rule: SK001 - Programming Language Required for Developer
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Saved 4 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Saved 4 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Added rule: SK002 - Duplicate Skills
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Added rule: SK002 - Duplicate Skills
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Saved 5 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Saved 5 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Added rule: CO001 - Company Name Formatting
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Added rule: CO001 - Company Name Formatting
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Saved 6 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Saved 6 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Added rule: CO002 - Company vs Freelance Consistency
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Added rule: CO002 - Company vs Freelance Consistency
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Saved 7 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Saved 7 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Added rule: IN001 - Industry-Skills Alignment
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Added rule: IN001 - Industry-Skills Alignment
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Saved 8 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Saved 8 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Added rule: EX001 - Reasonable Experience Years
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Added rule: EX001 - Reasonable Experience Years
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Saved 9 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Saved 9 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Added rule: EX002 - Experience Matches Timeline
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Added rule: EX002 - Experience Matches Timeline
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Saved 10 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Saved 10 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Loaded 10 rules
+2025-10-21 08:06:17 - ExpertSystemEngine - INFO - Loaded 10 rules
+2025-10-21 10:22:52 - ExpertSystemEngine - INFO - Expert System Engine initialized with config: {'strict_validation': False, 'explain_all_decisions': True, 'track_rule_performance': True, 'auto_save_rules': True, 'max_validation_history': 10000}
+2025-10-21 10:22:52 - ExpertSystemEngine - INFO - Loading rules from C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:52 - ExpertSystemEngine - INFO - Added rule: JT001 - Senior Requires Experience
+2025-10-21 10:22:52 - ExpertSystemEngine - INFO - Saved 1 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:52 - ExpertSystemEngine - INFO - Added rule: JT002 - CXO Requires Leadership
+2025-10-21 10:22:52 - ExpertSystemEngine - INFO - Saved 2 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:52 - ExpertSystemEngine - INFO - Added rule: JT003 - Junior vs Senior Consistency
+2025-10-21 10:22:52 - ExpertSystemEngine - INFO - Saved 3 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:52 - ExpertSystemEngine - INFO - Added rule: SK001 - Programming Language Required for Developer
+2025-10-21 10:22:52 - ExpertSystemEngine - INFO - Saved 4 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:52 - ExpertSystemEngine - INFO - Added rule: SK002 - Duplicate Skills
+2025-10-21 10:22:52 - ExpertSystemEngine - INFO - Saved 5 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:52 - ExpertSystemEngine - INFO - Added rule: CO001 - Company Name Formatting
+2025-10-21 10:22:52 - ExpertSystemEngine - INFO - Saved 6 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:52 - ExpertSystemEngine - INFO - Added rule: CO002 - Company vs Freelance Consistency
+2025-10-21 10:22:52 - ExpertSystemEngine - INFO - Saved 7 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:52 - ExpertSystemEngine - INFO - Added rule: IN001 - Industry-Skills Alignment
+2025-10-21 10:22:52 - ExpertSystemEngine - INFO - Saved 8 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:52 - ExpertSystemEngine - INFO - Added rule: EX001 - Reasonable Experience Years
+2025-10-21 10:22:52 - ExpertSystemEngine - INFO - Saved 9 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:52 - ExpertSystemEngine - INFO - Added rule: EX002 - Experience Matches Timeline
+2025-10-21 10:22:52 - ExpertSystemEngine - INFO - Saved 10 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:52 - ExpertSystemEngine - INFO - Loaded 10 rules
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Expert System Engine initialized with config: {'strict_validation': False, 'explain_all_decisions': True, 'track_rule_performance': True, 'auto_save_rules': True, 'max_validation_history': 10000}
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Expert System Engine initialized with config: {'strict_validation': False, 'explain_all_decisions': True, 'track_rule_performance': True, 'auto_save_rules': True, 'max_validation_history': 10000}
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Loading rules from C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Loading rules from C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Added rule: JT001 - Senior Requires Experience
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Added rule: JT001 - Senior Requires Experience
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Saved 1 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Saved 1 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Added rule: JT002 - CXO Requires Leadership
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Added rule: JT002 - CXO Requires Leadership
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Saved 2 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Saved 2 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Added rule: JT003 - Junior vs Senior Consistency
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Added rule: JT003 - Junior vs Senior Consistency
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Saved 3 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Saved 3 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Added rule: SK001 - Programming Language Required for Developer
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Added rule: SK001 - Programming Language Required for Developer
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Saved 4 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Saved 4 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Added rule: SK002 - Duplicate Skills
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Added rule: SK002 - Duplicate Skills
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Saved 5 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Saved 5 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Added rule: CO001 - Company Name Formatting
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Added rule: CO001 - Company Name Formatting
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Saved 6 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Saved 6 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Added rule: CO002 - Company vs Freelance Consistency
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Added rule: CO002 - Company vs Freelance Consistency
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Saved 7 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Saved 7 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Added rule: IN001 - Industry-Skills Alignment
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Added rule: IN001 - Industry-Skills Alignment
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Saved 8 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Saved 8 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Added rule: EX001 - Reasonable Experience Years
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Added rule: EX001 - Reasonable Experience Years
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Saved 9 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Saved 9 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Added rule: EX002 - Experience Matches Timeline
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Added rule: EX002 - Experience Matches Timeline
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Saved 10 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Saved 10 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Loaded 10 rules
+2025-10-21 10:22:56 - ExpertSystemEngine - INFO - Loaded 10 rules
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Expert System Engine initialized with config: {'strict_validation': False, 'explain_all_decisions': True, 'track_rule_performance': True, 'auto_save_rules': True, 'max_validation_history': 10000}
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Expert System Engine initialized with config: {'strict_validation': False, 'explain_all_decisions': True, 'track_rule_performance': True, 'auto_save_rules': True, 'max_validation_history': 10000}
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Expert System Engine initialized with config: {'strict_validation': False, 'explain_all_decisions': True, 'track_rule_performance': True, 'auto_save_rules': True, 'max_validation_history': 10000}
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Loading rules from C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Loading rules from C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Loading rules from C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Added rule: JT001 - Senior Requires Experience
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Added rule: JT001 - Senior Requires Experience
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Added rule: JT001 - Senior Requires Experience
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Saved 1 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Saved 1 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Saved 1 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Added rule: JT002 - CXO Requires Leadership
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Added rule: JT002 - CXO Requires Leadership
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Added rule: JT002 - CXO Requires Leadership
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Saved 2 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Saved 2 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Saved 2 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Added rule: JT003 - Junior vs Senior Consistency
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Added rule: JT003 - Junior vs Senior Consistency
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Added rule: JT003 - Junior vs Senior Consistency
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Saved 3 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Saved 3 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Saved 3 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Added rule: SK001 - Programming Language Required for Developer
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Added rule: SK001 - Programming Language Required for Developer
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Added rule: SK001 - Programming Language Required for Developer
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Saved 4 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Saved 4 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Saved 4 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Added rule: SK002 - Duplicate Skills
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Added rule: SK002 - Duplicate Skills
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Added rule: SK002 - Duplicate Skills
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Saved 5 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Saved 5 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Saved 5 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Added rule: CO001 - Company Name Formatting
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Added rule: CO001 - Company Name Formatting
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Added rule: CO001 - Company Name Formatting
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Saved 6 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Saved 6 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Saved 6 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Added rule: CO002 - Company vs Freelance Consistency
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Added rule: CO002 - Company vs Freelance Consistency
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Added rule: CO002 - Company vs Freelance Consistency
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Saved 7 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Saved 7 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Saved 7 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Added rule: IN001 - Industry-Skills Alignment
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Added rule: IN001 - Industry-Skills Alignment
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Added rule: IN001 - Industry-Skills Alignment
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Saved 8 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Saved 8 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Saved 8 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Added rule: EX001 - Reasonable Experience Years
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Added rule: EX001 - Reasonable Experience Years
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Added rule: EX001 - Reasonable Experience Years
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Saved 9 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Saved 9 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Saved 9 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Added rule: EX002 - Experience Matches Timeline
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Added rule: EX002 - Experience Matches Timeline
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Added rule: EX002 - Experience Matches Timeline
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Saved 10 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Saved 10 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Saved 10 rules to C:\IntelliCV-AI\IntelliCV\SANDBOX\BACKEND-ADMIN-REORIENTATION\shared_backend\data\rules\expert_rules.json
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Loaded 10 rules
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Loaded 10 rules
+2025-10-21 10:22:59 - ExpertSystemEngine - INFO - Loaded 10 rules

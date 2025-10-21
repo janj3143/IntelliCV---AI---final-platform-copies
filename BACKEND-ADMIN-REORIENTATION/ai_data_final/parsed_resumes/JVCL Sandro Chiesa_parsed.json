@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "file_name": "JVCL Sandro Chiesa.docx",
+    "file_size": 80114,
+    "processing_date": "2025-10-09T16:21:03.501647",
+    "text_length": 2755,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "janj@johnston-vere.co.uk"
+    ],
+    "phones": [
+      "01695 570 696"
+    ],
+    "names": [],
+    "locations": [
+      "Zurich"
+    ],
+    "job_titles": []
+  },
+  "companies": [],
+  "job_titles": [
+    "Manager"
+  ],
+  "text_sample": "\n\n\nCANDIDATE \n\nSandro Chiesa\n\nPERSONAL DETAILS\n\nLocation: Zurich\n\nEMPLOYMENT\n\n12/2020 – present CERTAS AG, Zurich, Switzerland \nKey Account Manager • Management and support of existing key accounts • Coordination of service provision throughout Switzerland (Zurich, Lausanne, Lugano) • Acquisition and support of new major customers • Increase in the turnover of the individual key accounts • Introduce, monitor and maintain structure/process management in the management of key accounts • Coordinati...",
+  "skills_detected": {},
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 2,
+      "finance": 1,
+      "marketing": 1,
+      "consulting": 1
+    },
+    "confidence": 0.2857142857142857
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "file_name": "CV - Dan Svensson - English.pdf",
+    "file_size": 85516,
+    "processing_date": "2025-10-09T16:20:52.761811",
+    "text_length": 26444,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "dan.svensson@thermatec.se"
+    ],
+    "phones": [
+      "46 33 266741",
+      "46 70 245 6860",
+      "556839-8027",
+      "556289-9582",
+      "556508-5445",
+      "556508-5445",
+      "556001-6387",
+      "556479-1639",
+      "556476-6672",
+      "556096-0410",
+      "552467",
+      "556398-0126",
+      "556140-3220",
+      "556207-2412",
+      "950 923 660",
+      "556179-4818",
+      "556099-6018",
+      "556199-525"
+    ],
+    "names": [
+      "Dan Svensson"
+    ],
+    "locations": [
+      "Degree Dates Attended "
+    ],
+    "job_titles": []
+  },
+  "companies": [
+    "Owner of Thermal Technologies",
+    "Member of the board and direct or of Invensys Systems",
+    "Member of the board and Managi ng Director for Invensys Systems",
+    "Thermal Technologies",
+    "Deputy member of the board in Invensys Property Company",
+    "Major programs & Training   \n \nCompany",
+    "Invensys Property Company",
+    "Present \nCompany",
+    "Present \n \nCompany",
+    "Member of the board and MD for  Invensys Systems",
+    "I was periodically on leave for studie s at Chalmers University of \nTechnology",
+    "Invensys Process Systems",
+    "Power of Attorney for Hansen T ransmissions International Limited",
+    "Present  \nCompany",
+    "The Danish Oil Company",
+    "One of the single largest agency agreements we have  in Indutrade Flow Technology",
+    "Indutrade Flow Technology",
+    "Education   \n \nSchool & Location Degree Dates Attended \nChalmers University o f Technology",
+    "Invensys Systems"
+  ],
+  "job_titles": [
+    "Senior",
+    "Engineer",
+    "Vice President",
+    "Director",
+    "VP",
+    "lead",
+    "Manager",
+    "senior",
+    "engineer"
+  ],
+  "text_sample": "Cu rriculum Vitae: Da n Svensson  \nPage 1 of 10  \n  \n \n \n Employee Profile   \n \nName:  Dan Svensson \nAddress:  Ligustervägen 5, 513 35 Fristad, Sweden \nTelephone (home):  +46 33 266741 \nMobile phone:  +46 70 245 6860 \nEmail address  dan.svensson@thermatec.se  \nDate of Birth:  5 October 1964 \nNationality:  Swedish \nFamily situation:  Girlfriend / 2 children 20 and 1 7 years old . \n \n \n \n Work Experience    \nJan 2011 – Present  \nCompany:  Thermal Technologies Europe AB \nPosition:  Managing Directo...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "finance": [
+      "Excel"
+    ],
+    "soft_skills": [
+      "Leadership"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "finance",
+    "industry_scores": {
+      "healthcare": 2,
+      "finance": 3,
+      "marketing": 1,
+      "manufacturing": 3,
+      "education": 1,
+      "consulting": 2
+    },
+    "confidence": 0.42857142857142855
+  }
+}

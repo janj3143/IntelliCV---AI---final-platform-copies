@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "file_name": "CV FF 11-02 eng_FN.docx",
+    "file_size": 21113,
+    "processing_date": "2025-10-09T16:20:53.532986",
+    "text_length": 5668,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "fabriziof70@gmail.com"
+    ],
+    "phones": [
+      "39 348 0400223",
+      "2000-2005"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Italian mother language\nInformation Technology"
+  ],
+  "job_titles": [
+    "Manager",
+    "Engineer"
+  ],
+  "text_sample": "Via G. La Pira, 8 – 04100 Latina – Italy\nMobile phone: +39 348 0400223\nE-mail: fabriziof70@gmail.com\n\nFABRIZIO FRANCHINI\n\nEducation\n\nMaster degree in Mechanical Engineering, graduating with first class honors in May 1997 at Rome University “Tor Vergata”.\n\nCourses\n\n2009 – Business Acumen\n2008 – Commercial agreements\n2007 – Finance for non-finance professional\n2006 – Project Management Professional course\n2000-2005 – FDA regulations (Pharmaceutical and Medical Devices)\n2004 – Lean manufacturing (G...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "web_development": [
+      "React"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "finance": [
+      "Excel",
+      "SAP"
+    ],
+    "soft_skills": [
+      "Leadership"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "manufacturing",
+    "industry_scores": {
+      "technology": 2,
+      "healthcare": 2,
+      "finance": 1,
+      "manufacturing": 5
+    },
+    "confidence": 0.8333333333333334
+  }
+}

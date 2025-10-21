@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "file_name": "Märklin.pdf",
+    "file_size": 190134,
+    "processing_date": "2025-10-09T16:21:06.096193",
+    "text_length": 6220,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [],
+    "phones": [
+      "061 711 0221",
+      "079 693 4703"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Head of Corporate Manufacturing Technology",
+    "Definieren neuer Corp",
+    "Process Engineering und Corp",
+    "Leitung der Gruppen Corp",
+    "Bereiches an den neuen Head of \nCorp"
+  ],
+  "job_titles": [
+    "Junior",
+    "Vice President",
+    "Director",
+    "Manager"
+  ],
+  "text_sample": "ycvxcvyxcvxcv \nyxcvxycv \nyxcv \nyxcv xycv xycv \n \nN a m e ,  V o r n a m e   :     Lukas Märklin  \nA d r e s s e    :     Rainenweg 119  \nP L Z ,  O r t    :     4153 Reinach  \nT e l e f o n    :     061 711 0221  \nM o b i l e    :     079 693 4703  \nG e b u r t s d a t u m   :     12. März 1974  \nZivilstand / Kinder  :     verheiratet / 2  \nN a t i o n a l i t ä t    :     Schweizer  \nB ü r g e r o r t    :     Thürnen BL \n \nK ü n d i g u n g s f r i s t   :  6Monate \nK o n t a k t a u f n a h m...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "project_management": [
+      "MS Project"
+    ],
+    "finance": [
+      "Excel",
+      "SAP",
+      "Risk Management",
+      "Compliance"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "manufacturing",
+    "industry_scores": {
+      "technology": 1,
+      "healthcare": 1,
+      "finance": 3,
+      "manufacturing": 4,
+      "education": 1,
+      "consulting": 1
+    },
+    "confidence": 0.6666666666666666
+  }
+}

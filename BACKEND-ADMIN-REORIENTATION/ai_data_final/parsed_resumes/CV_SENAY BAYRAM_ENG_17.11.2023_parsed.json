@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "file_name": "CV_SENAY BAYRAM_ENG_17.11.2023.pdf",
+    "file_size": 644480,
+    "processing_date": "2025-10-09T16:21:00.048844",
+    "text_length": 15076,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [],
+    "phones": [
+      "541) 575-2094"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Technical \nServices",
+    "Technical Services"
+  ],
+  "job_titles": [
+    "Manager",
+    "Director",
+    "Lead",
+    "Specialist"
+  ],
+  "text_sample": " \n \nPUBLIC   \n Şenay Bayram  \nMarketing Manager \n  \nProfessional Summary  \n \nMarketing professional with 20+ years experience. \nDynamic and results-oriented with a proven track \nrecord of driving successful marketing strategies and \ncampaigns.  \n  \nEducation \n \nBachelor of Science: Business \nAdministration and Management  \nUniversity of North Alabama - Florence, AL, USA \n \nEnglish As Second Language  \nUniversity of Missouri Kansas City - Kansas City, MO, \nUSA   \nWork History \n \nMarketing Manager...",
+  "skills_detected": {
+    "programming": [
+      "Go",
+      "Rust"
+    ],
+    "cloud": [
+      "AWS"
+    ],
+    "finance": [
+      "Excel",
+      "Compliance"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "marketing",
+    "industry_scores": {
+      "technology": 2,
+      "finance": 2,
+      "marketing": 5,
+      "manufacturing": 1,
+      "consulting": 2
+    },
+    "confidence": 0.8333333333333334
+  }
+}

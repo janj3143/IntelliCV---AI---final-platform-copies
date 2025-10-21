@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "file_name": "Shakeel AV_Process Engineer- Aug 2023.pdf - 1.pdf",
+    "file_size": 300316,
+    "processing_date": "2025-10-09T16:21:09.100830",
+    "text_length": 6432,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "Shakx15@gmail.com",
+      "duraichem@gmail.com"
+    ],
+    "phones": [
+      "974-31522720",
+      "971 557258979"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Concept  Design \nand Study of the Partial Oxidation  of Methane  Technology",
+    "Economic analysis of Market Technologies"
+  ],
+  "job_titles": [
+    "ENGINEER",
+    "lead",
+    "Senior",
+    "Engineer"
+  ],
+  "text_sample": " \nSHAKEEL ABDUL VAKKIL   \nPROCESS ENGINEER  \n \nProcess  Engineer ing professional with experience in  process design of  Oil and Gas  \nfacilit ies. Hands on experience in FEED , Concept Study  and EPC projects. Experience in \ndesign of  Process equipment such as Pumps,  Vesse ls, PSVs, and compressors. Hands on \nexperience in  depressurizations studies, blowdown /relief load  calculation , Flare System \nmodelling  using Aspen FLARENET,  steady s tate and  transient /dynamic  modelling, process \n...",
+  "skills_detected": {
+    "soft_skills": [
+      "Communication",
+      "Problem Solving"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 2,
+      "manufacturing": 1,
+      "education": 2,
+      "consulting": 1,
+      "sales": 1
+    },
+    "confidence": 0.2857142857142857
+  }
+}

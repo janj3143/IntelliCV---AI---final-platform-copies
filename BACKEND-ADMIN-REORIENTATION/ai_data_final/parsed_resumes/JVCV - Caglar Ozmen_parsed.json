@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "file_name": "JVCV - Caglar Ozmen.docx",
+    "file_size": 83480,
+    "processing_date": "2025-10-09T16:21:03.513957",
+    "text_length": 3366,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "janj@johnston-vere.co.uk"
+    ],
+    "phones": [
+      "01695 570 696"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Bosch Car Services"
+  ],
+  "job_titles": [
+    "Manager",
+    "consultant",
+    "Consultant",
+    "Engineer"
+  ],
+  "text_sample": "\n\n\nCANDIDATE \n\nÇağlar Özmen\n\n\nPERSONAL DETAILS\n\n\nLOCATION \t\t\n\nİstanbul\n\n\nQUALIFICATIONS\n\nBachelor's degree\t\tYıldız Teknik Üniversitesi\nCivil Engineering Faculty / Surveying Engineering\n\n\nCAREER SUMMARY\n\n\nBosch Türkiye\nBosch Car Service Country Sales Operations Section Manager\nMart 2022 - Present (1 yıl 9 ay)\n\nHead of the field sales / workshop consultant team that responsible from the\nexpansion of the Bosch Car Service network, all operational processes of the\nexisting Bosch Car Services, all au...",
+  "skills_detected": {},
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 1,
+      "finance": 1,
+      "manufacturing": 1,
+      "consulting": 1
+    },
+    "confidence": 0.14285714285714285
+  }
+}

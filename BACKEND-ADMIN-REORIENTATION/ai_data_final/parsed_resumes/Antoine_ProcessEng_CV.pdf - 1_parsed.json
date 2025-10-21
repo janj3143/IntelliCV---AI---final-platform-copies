@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "file_name": "Antoine_ProcessEng_CV.pdf - 1.pdf",
+    "file_size": 1212306,
+    "processing_date": "2025-10-09T16:20:49.582190",
+    "text_length": 2668,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "antoine.jb@live.com"
+    ],
+    "phones": [
+      "971 50 877 3700"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [],
+  "job_titles": [
+    "Manager",
+    "ENGINEER",
+    "Lead",
+    "Engineer"
+  ],
+  "text_sample": "Process Engineer\nWood - Abu Dhabi / Dubai\nPROFESSIONAL EXPERIENCE\nANTOINE EL BODON\nPROCESS ENGINEER\nAccomplished Chemical Engineer with more than 5 years of process design experience in the Oil and Gas industry. \nI am driven and proactive Process Engineer who is committed to forward planning and goal-oriented work.\nWhile working with Wood, I have had the opportunity to develop my skills and knowledge of large-scale sour gas \nproduction facilities.\n+971 50 877 3700\nUnited Arab Emirates, Abu Dhabi...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "finance": [
+      "Excel"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "manufacturing": 1,
+      "consulting": 2,
+      "sales": 1
+    },
+    "confidence": 0.3333333333333333
+  }
+}

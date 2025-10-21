@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "file_name": "Ashish Goyal 2023 V2_En Str Mgr.docx",
+    "file_size": 68323,
+    "processing_date": "2025-10-09T16:20:49.999927",
+    "text_length": 6052,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "itsashishgoyal@yahoo.co.uk"
+    ],
+    "phones": [
+      "41 772345 829"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [],
+  "job_titles": [
+    "Manager",
+    "Lead",
+    "Engineer"
+  ],
+  "text_sample": "\nAshishkumar Goyal / Ash\n\nStrategic Product Marketing Manager\n\n\n\n\nDual British and German Citizen\nSwiss B permit till 03/2026\n\nMobile: +41 772345 829\nEmail: itsashishgoyal@yahoo.co.uk\nAddress: Chemin de Chandieu 12. 1006 Lausanne, Switzerland\n\n\nA strong strategic business leader with wisdom into technology, organizations, and people. Combined with the ability to define vision, strategize and execute, has successfully managed the EMEA business and portfolio development of water, comfort (HVAC) an...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 2,
+      "healthcare": 1,
+      "finance": 2,
+      "manufacturing": 2,
+      "education": 1,
+      "consulting": 3,
+      "sales": 1
+    },
+    "confidence": 0.5
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "abbreviation_knowledge": {
+    "description": "Industry Abbreviations and Acronym Knowledge Base",
+    "version": "1.0.0",
+    "last_updated": "2025-10-10",
+    "technical_abbreviations": {
+      "programming": {
+        "API": "Application Programming Interface",
+        "SDK": "Software Development Kit",
+        "IDE": "Integrated Development Environment", 
+        "SQL": "Structured Query Language",
+        "HTML": "Hypertext Markup Language",
+        "CSS": "Cascading Style Sheets",
+        "JS": "JavaScript",
+        "JSON": "JavaScript Object Notation",
+        "XML": "Extensible Markup Language",
+        "REST": "Representational State Transfer",
+        "SOAP": "Simple Object Access Protocol",
+        "CI/CD": "Continuous Integration/Continuous Deployment",
+        "DevOps": "Development Operations",
+        "QA": "Quality Assurance",
+        "QC": "Quality Control",
+        "TDD": "Test-Driven Development",
+        "BDD": "Behavior-Driven Development",
+        "OOP": "Object-Oriented Programming",
+        "MVC": "Model-View-Controller"
+      },
+      "business": {
+        "CRM": "Customer Relationship Management",
+        "ERP": "Enterprise Resource Planning", 
+        "CMS": "Content Management System",
+        "KPI": "Key Performance Indicator",
+        "ROI": "Return on Investment",
+        "SLA": "Service Level Agreement",
+        "B2B": "Business to Business",
+        "B2C": "Business to Consumer",
+        "P&L": "Profit and Loss",
+        "EBITDA": "Earnings Before Interest, Taxes, Depreciation, and Amortization",
+        "HR": "Human Resources",
+        "IT": "Information Technology",
+        "PM": "Project Management",
+        "BA": "Business Analyst",
+        "UX": "User Experience",
+        "UI": "User Interface"
+      },
+      "cloud_technology": {
+        "AWS": "Amazon Web Services",
+        "GCP": "Google Cloud Platform", 
+        "SaaS": "Software as a Service",
+        "PaaS": "Platform as a Service",
+        "IaaS": "Infrastructure as a Service",
+        "VM": "Virtual Machine",
+        "VPC": "Virtual Private Cloud",
+        "CDN": "Content Delivery Network",
+        "DNS": "Domain Name System",
+        "SSL": "Secure Sockets Layer",
+        "TLS": "Transport Layer Security",
+        "VPN": "Virtual Private Network"
+      },
+      "data_science": {
+        "AI": "Artificial Intelligence",
+        "ML": "Machine Learning",
+        "DL": "Deep Learning", 
+        "NLP": "Natural Language Processing",
+        "BI": "Business Intelligence",
+        "ETL": "Extract, Transform, Load",
+        "OLAP": "Online Analytical Processing",
+        "OLTP": "Online Transaction Processing",
+        "NoSQL": "Not Only SQL",
+        "HDFS": "Hadoop Distributed File System",
+        "GPU": "Graphics Processing Unit",
+        "CPU": "Central Processing Unit",
+        "RAM": "Random Access Memory"
+      }
+    },
+    "industry_specific": {
+      "finance": {
+        "AML": "Anti-Money Laundering",
+        "KYC": "Know Your Customer",
+        "PCI": "Payment Card Industry",
+        "SWIFT": "Society for Worldwide Interbank Financial Telecommunication",
+        "ACH": "Automated Clearing House",
+        "GDPR": "General Data Protection Regulation",
+        "SOX": "Sarbanes-Oxley Act",
+        "COSO": "Committee of Sponsoring Organizations"
+      },
+      "healthcare": {
+        "HIPAA": "Health Insurance Portability and Accountability Act",
+        "EMR": "Electronic Medical Record",
+        "EHR": "Electronic Health Record", 
+        "FDA": "Food and Drug Administration",
+        "FHIR": "Fast Healthcare Interoperability Resources",
+        "HL7": "Health Level Seven"
+      },
+      "manufacturing": {
+        "ERP": "Enterprise Resource Planning",
+        "MRP": "Material Requirements Planning",
+        "SCM": "Supply Chain Management",
+        "OEE": "Overall Equipment Effectiveness",
+        "ISO": "International Organization for Standardization",
+        "Six Sigma": "Six Sigma Quality Management"
+      }
+    },
+    "common_variants": {
+      "javascript": ["js", "JavaScript", "JS", "java script"],
+      "artificial_intelligence": ["ai", "AI", "artificial intelligence", "machine intelligence"],
+      "machine_learning": ["ml", "ML", "machine learning", "statistical learning"],
+      "user_experience": ["ux", "UX", "user experience", "user-experience"],
+      "user_interface": ["ui", "UI", "user interface", "user-interface"]
+    }
+  }
+}

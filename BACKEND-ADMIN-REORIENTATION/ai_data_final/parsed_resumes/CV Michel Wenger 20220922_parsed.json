@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "file_name": "CV Michel Wenger 20220922.pdf",
+    "file_size": 187531,
+    "processing_date": "2025-10-09T16:20:53.896773",
+    "text_length": 6795,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "wengermichel@bluewin.ch"
+    ],
+    "phones": [],
+    "names": [
+      "Miche"
+    ],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Danfoss Heating Solutions",
+    "Danfoss Heating \nSolutions"
+  ],
+  "job_titles": [
+    "Manager"
+  ],
+  "text_sample": "CV MIW  September 2022 Seite 1 Curriculum Vitae \n \nName:  Miche l Wenger   \nAdresse:  Feldmatt 35, 6246 Altishofen   \nTelefonnummer:  +41 79 688 93 11  \nE-Mail:  wengermichel@bluewin.ch  \nGeburtsdatum:  \nZivilstand:  08.01.1979  \nVerheiratet (3 Kinder /  16,14,11 \nJahre alt)  \n \nKompetenzen  \n \nStrukturierte Denk -Arbeitsweise, flexibel, belastbar, zuverlässig, dynamisch, kommunikativ, \noffen, analytisch stark, positiv und lösungsorientiert, ü berzeugungsfähig, durchsetzungsfähig, \nkonfliktfähig...",
+  "skills_detected": {
+    "finance": [
+      "SAP"
+    ],
+    "soft_skills": [
+      "Leadership"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "education",
+    "industry_scores": {
+      "education": 2,
+      "consulting": 1
+    },
+    "confidence": 0.3333333333333333
+  }
+}

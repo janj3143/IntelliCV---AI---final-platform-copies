@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "file_name": "CV_Andrea Francesco Perini 2022_ENG.pdf",
+    "file_size": 178827,
+    "processing_date": "2025-10-09T16:20:57.332898",
+    "text_length": 3202,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "andreafrancesco.perini@gmail.com"
+    ],
+    "phones": [
+      "56 5388186"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [],
+  "job_titles": [
+    "Manager",
+    "Director",
+    "Specialist"
+  ],
+  "text_sample": "    \n \nANDREA FRANCESCO PERINI  \n \nGreen Community West – Dubai  \n+9715 56 5388186  \nandreafrancesco.perini@gmail.com  \nMay 10th, 1980  \nMarried, two children  \n \n \n \nWORKING EXPERIENCE   \n  \nMAPEI GROUP   \nCONSTRUCTION CHEMICALS  www.mapei.com  \n  \n05.2018- Currently  \n Regional Area Manager - Middle East and East Africa Region al Office (Dubai)  \n▪ Business development in Egypt , KSA  and East Africa t hrough newly established company , coordinating  \nwith both local, regional and corporate fu...",
+  "skills_detected": {
+    "soft_skills": [
+      "Strategic Planning"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 1,
+      "consulting": 3
+    },
+    "confidence": 0.5
+  }
+}

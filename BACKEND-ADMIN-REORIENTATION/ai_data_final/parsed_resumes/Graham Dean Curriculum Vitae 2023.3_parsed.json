@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "file_name": "Graham Dean Curriculum Vitae 2023.3.pdf",
+    "file_size": 192500,
+    "processing_date": "2025-10-09T16:21:02.199744",
+    "text_length": 5287,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "grahamdean2017@gmail.com"
+    ],
+    "phones": [
+      "971 54 455 7349"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [],
+  "job_titles": [
+    "Manager"
+  ],
+  "text_sample": "GRAHAM DEAN  \n \nRegional Business Development  Extensive experience in identifying  growth opportunities in challenging \nmarkets and forming business relationships  to develop these.  \nCountry Management  Managing  the introduction  and distribution of construction chemicals in \ndeveloping markets, through Direct and Indirect  routes to market.  \nAfrica n experience  A 25-year  track  record  of increasing  the sales and margins  of construction \nchemical  manufacturers  in Africa.  \nSales Manag...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "finance": [
+      "Excel"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "finance",
+    "industry_scores": {
+      "technology": 1,
+      "finance": 2,
+      "manufacturing": 1,
+      "education": 2,
+      "consulting": 2,
+      "sales": 2
+    },
+    "confidence": 0.2857142857142857
+  }
+}

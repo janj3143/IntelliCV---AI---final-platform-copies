@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "file_name": "cv_English.docx",
+    "file_size": 1996281,
+    "processing_date": "2025-10-09T16:20:57.513604",
+    "text_length": 60,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [],
+    "phones": [],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [],
+  "job_titles": [],
+  "text_sample": "C U R R I C U L U M    V I T A E\n\n\n\n\n\n\t\t\t\n\n\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+  "skills_detected": {},
+  "industry_analysis": {
+    "primary_industry": "unknown",
+    "industry_scores": {},
+    "confidence": 0
+  }
+}

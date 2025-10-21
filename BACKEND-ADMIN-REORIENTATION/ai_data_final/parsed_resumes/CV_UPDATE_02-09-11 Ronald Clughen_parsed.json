@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "file_name": "CV_UPDATE_02-09-11 Ronald Clughen.docx",
+    "file_size": 31587,
+    "processing_date": "2025-10-09T16:21:00.202486",
+    "text_length": 16987,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "r.clughen@sky.com"
+    ],
+    "phones": [
+      "7971 291499"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": [
+      "PURCHASING",
+      "SENIOR BUYER",
+      "SENIOR  LOGISTICS CO",
+      "SENIOR  LOGISTICS MANAGER",
+      "MATERIAL AND LOGISTICS MANAGER",
+      "MATERIAL CO",
+      "Senior Materials Controller",
+      "Senior Materials Controller",
+      "Materials Controller",
+      "Senior Materials Controller",
+      "Materials Controller",
+      "Materials Controller",
+      "Offshore Reconciliation Controller",
+      "Materials Controller",
+      "Materials Controller",
+      "Assistant Senior Materials Controller",
+      "Materials Controller",
+      "Materials Controller",
+      "Foreman Material Controller",
+      "Materials Controller"
+    ]
+  },
+  "companies": [
+    "Offshore Co"
+  ],
+  "job_titles": [
+    "Senior",
+    "SENIOR",
+    "lead",
+    "Chief",
+    "Manager",
+    "MANAGER"
+  ],
+  "text_sample": "CURRICULUM VITAE.\n\nNAME:\tRonald Clughen\n\nADDRESS:\t\n\t.\n\nCONTACT Nos: \t +44 (0) 7971 291499\t  \t\n\tE/mail: r.clughen@sky.com  \n\t\nDATE OF BIRTH: \t15.02.1954\n\nMARITAL STATUS:\tMarried (two children)\n\nNATIONALITY:\tBritish\n\nEDUCATION:\t\tFinal year of MSC in ‘Procurement and Supply Chain Management from Robert Gordon University, Aberdeen.\n\nCOURSES ATTENDED:\tWindows 2000, including Word, Excel and Access.  Basic Computing, Maximo, Powerpoint, Microsoft Project.\n\nEMPLOYMENT HISTORY:\n\nMay ‘ 10- Present\tTULLOW...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "finance": [
+      "Excel",
+      "SAP",
+      "Compliance"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "manufacturing",
+    "industry_scores": {
+      "technology": 2,
+      "finance": 2,
+      "manufacturing": 3,
+      "education": 1,
+      "consulting": 1,
+      "sales": 2
+    },
+    "confidence": 0.5
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "file_name": "FO-CV and Cover_Letter_E_Oct 2011.pdf",
+    "file_size": 129652,
+    "processing_date": "2025-10-09T16:21:01.717094",
+    "text_length": 18256,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "fabio_osculati@hotmail.com"
+    ],
+    "phones": [
+      "1994-2000",
+      "1994-1998",
+      "2003-2004"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Defining KPIs for manufacturing processes for the w hole Company",
+    "Control Systems",
+    "Carrier Global Technology",
+    "Chain and in the \nTechnology",
+    "I report to the Director of Global Technology"
+  ],
+  "job_titles": [
+    "consultant",
+    "Senior",
+    "Junior",
+    "Vice President",
+    "Director",
+    "Consultant",
+    "lead",
+    "Manager"
+  ],
+  "text_sample": "Dear Sir/Madame, I send you this cover letter, and in attachment you find my CV, to briefly introduce myself, in order to evaluate any \nopening you should have at present, responding to m y competences and in line with my career developmen t. \n \nMy name is Fabio Osculati, I’m Italian, 49 years old .  \nI got a University degree in a top Italian Universi ty, and several specialization courses in France, U K, USA.  \nI am a certified Six Sigma Master Black Belt, I pra cticed Operational-Excellence a...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "finance": [
+      "Excel"
+    ],
+    "soft_skills": [
+      "Leadership"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "manufacturing",
+    "industry_scores": {
+      "technology": 2,
+      "finance": 2,
+      "marketing": 2,
+      "manufacturing": 4,
+      "education": 2,
+      "consulting": 2
+    },
+    "confidence": 0.6666666666666666
+  }
+}

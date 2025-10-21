@@ -1,0 +1,23 @@
+{
+  "enrichment_status": {},
+  "model_versions": {},
+  "training_runs": {},
+  "predictions": {},
+  "performance_metrics": {},
+  "consolidation_history": [
+    {
+      "timestamp": "2025-10-09T15:43:27.851223",
+      "stats": {
+        "files_consolidated": 8,
+        "total_size_mb": 0.09387874603271484,
+        "sources_processed": 3,
+        "consolidation_summary": {
+          "ai_data": 0,
+          "ai_data_final": 7
+        }
+      }
+    }
+  ],
+  "last_consolidation": "2025-10-09T15:43:27.851223",
+  "total_consolidated_files": 8
+}

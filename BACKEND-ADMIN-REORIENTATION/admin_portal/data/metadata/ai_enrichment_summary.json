@@ -1,0 +1,16 @@
+{
+  "total_profiles": 1535,
+  "profiles_by_career_stage": {
+    "entry": 1535
+  },
+  "profiles_by_industry": {
+    "general": 1535
+  },
+  "average_ai_score": 0.277,
+  "score_distribution": {
+    "low": 1535,
+    "medium": 0,
+    "high": 0
+  },
+  "generated_at": "2025-08-11T10:43:25.429815"
+}

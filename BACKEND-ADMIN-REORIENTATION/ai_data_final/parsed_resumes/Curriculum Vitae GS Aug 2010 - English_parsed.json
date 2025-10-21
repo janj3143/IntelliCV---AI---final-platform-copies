@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "file_name": "Curriculum Vitae GS Aug 2010 - English.pdf",
+    "file_size": 44307,
+    "processing_date": "2025-10-09T16:20:51.942024",
+    "text_length": 5570,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "Schrijnemakersg@skynet.be"
+    ],
+    "phones": [
+      "2 7678900",
+      "477630422"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "American \nStandard Companies Inc",
+    "American Standard \nCompanies Inc",
+    "American Standard Companies Inc",
+    "WABCO Automotive division and the other divisions o f American \nStandard Companies Inc",
+    "European Headquarte rs of American \nStandard Companies Inc",
+    "Demand Flow Technology"
+  ],
+  "job_titles": [
+    "Senior",
+    "Engineer",
+    "Vice President",
+    "Director",
+    "manager",
+    "lead",
+    "Coordinator",
+    "Manager"
+  ],
+  "text_sample": " \nCurriculum Vitae Ing. G.J.J.M. Schrijnemakers        (Confidential) \n \n Page 1 of 4  Personal data:  \n \nLast name: Schrijnemakers \n \nChristian names: Guillaume Joseph Jean Marie \n \nDate of birth: January 21 st , 1965 \n \nPlace of birth: Tilburg, the Netherlands \n \nNationality: Dutch \n \nAddress: Daloensdelle 37 \n B-3090 Overijse \n Belgium \n \nTelephone: +32 (0)2 7678900 \n +32 (0)477630422 \n \nE-mail: Schrijnemakersg@skynet.be \n \nCivil status: Married \n \nTitle: Ing. (Dutch college degree in Mechani...",
+  "skills_detected": {
+    "project_management": [
+      "MS Project"
+    ],
+    "finance": [
+      "Excel"
+    ],
+    "soft_skills": [
+      "Leadership"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "manufacturing",
+    "industry_scores": {
+      "technology": 1,
+      "manufacturing": 5,
+      "education": 1
+    },
+    "confidence": 0.8333333333333334
+  }
+}

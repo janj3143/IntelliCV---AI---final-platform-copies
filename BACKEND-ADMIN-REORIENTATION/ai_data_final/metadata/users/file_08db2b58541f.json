@@ -1,0 +1,151 @@
+{
+  "file_id": "file_08db2b58541f",
+  "source_path": "C:\\IntelliCV\\data\\Crib Sheet - OT Cyber Security.docx",
+  "extracted_at": "2025-08-10T16:25:18.242945",
+  "text": "IT-OT / IoT\t\t\t     Managed SOC      \t    NERC CIP\nOT / Operational Technology           Network Monitoring      CISSP                                            * Sales Engineer / Pre-Sales Engineer / Tech Sales Engineer / Systems Eng.\nICS / Ind. Control Systems                 Network Visualization   GICSP                                        \t* KAM / EAM / CTO (Ninja) / Solutions Delivery Engineer / Prof Service Engineer.\nConvergence \t                                  Passive monitoring         NIS Directive                              * Solutions Architect / Systems Architect / R&D Eng.\nSOAR\t\t\t            \t     Purdue Model\t     Petya                                         \t* Analyst / Consultant (Senior / Principal etc)\nSIEM                                                      Thre IT-OT / IoT\t\t\t     Managed SOC      \t    NERC CIP\nOT / Operational Technology           Network Monitoring      CISSP                                            * Sales Engineer / Pre-Sales Engineer / Tech Sales Engineer / Systems Eng.\nICS / Ind. Control Systems                 Network Visualization   GICSP                                        \t* KAM / EAM / CTO (Ninja) / Solutions Delivery Engineer / Prof Service Engineer.\nConvergence \t                                  Passive monitoring         NIS Directive                              * Solutions Architect / Systems Architect / R&D Eng.\nSOAR\t\t\t            \t     Purdue Model\t     Petya                                         \t* Analyst / Consultant (Senior / Principal etc)\nSIEM                                                      Threat landscape            DarkSide                         \t            * CTO\nVulnerability Assessment / Mgmt   Endpoint security            WannaCry\nAnomaly / Threat Detection             ISA/IEC 62443                  CNI (Crit Nat. Infra)\nIntrusion detection                             NIST\nMDR (Managed Detection & Response)\nSoftware:\nNozomi Networks – Mike Dugent & Stefano Galli\t“ICS” or “OT” or “IT-OT” or “operational technology” or “industrial control\nClaroty – David van Crout & Natalie Katester\tsystems”) AND (“security” or “cybersecurity” or “cyber”) AND (“CNI” or\nIndustrial Defender – George Kalavantis & Jim Crowley\t“industrial” or “energy” or “utilities” or “manufacturing” or “oil” or “gas” or\nVectra AI – Gregory Cardiet                                                                                                                          “O&G” or “chemicals” or “pharma” or “pharmaceutical” or “transportation”)\nConsultancy:\nAtkins – Ian Buffey\t(“OT security” or “ICS security”) and (“ISA/IEC 62443” or “NIS” or “NIST” or\nPA Consulting – Andy Clapham\t“GICSP”)\nLagoni / Belcan – Sarah McLaughlin & Mo Javadi\nLong list of other industry players on Goldilocks sheet ",
+  "emails": [],
+  "phones": [],
+  "names": [
+    "Network Visualization",
+    "Ian Buffey",
+    "Threat Detection"
+  ],
+  "work_history": [],
+  "title": "",
+  "company": "",
+  "location": "",
+  "experience_years": 0,
+  "career_stage": "entry",
+  "industries": [
+    "general"
+  ],
+  "skills": [
+    "ai"
+  ],
+  "ai_scores": {
+    "experience_years": 0.0,
+    "title_progression": 0.5,
+    "company_prestige": 0.5,
+    "location_mobility": 0.5,
+    "skill_diversity": 0.1,
+    "network_strength": 0.3
+  },
+  "ai_final_score": 0.285,
+  "ai_processed_at": "2025-08-11T10:42:06.672575",
+  "similar_users": [
+    {
+      "user_id": "file_002a746786ae",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.285,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_00712ee6c7f2",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.285,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_027109a8b87b",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.285,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_02f7e7d2c8b1",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.285,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_04294f989b58",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.285,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_04616388d705",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.285,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_04ea4eda87b4",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.285,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_05d5423305d7",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.285,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_065fd472fa7a",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.285,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_06ae3a824a08",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.285,
+      "experience_years": 0
+    }
+  ],
+  "recommendations": {
+    "career_advancement": [
+      "Focus on building core technical skills",
+      "Seek mentorship from senior team members",
+      "Take on challenging projects to gain experience"
+    ],
+    "skill_development": [],
+    "company_targets": [
+      "Mid-size companies with growth potential",
+      "Startups in emerging industries",
+      "Companies known for employee development"
+    ],
+    "networking": []
+  }
+}

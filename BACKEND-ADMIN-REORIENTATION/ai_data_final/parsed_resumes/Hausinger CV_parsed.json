@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "file_name": "Hausinger CV.pdf",
+    "file_size": 92502,
+    "processing_date": "2025-10-09T16:21:02.343346",
+    "text_length": 3739,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "guenterhausinger@web.de"
+    ],
+    "phones": [],
+    "names": [
+      "Dr"
+    ],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Secondment of three months to United Catalysts Inc",
+    "Germany  \n \n Professional Skills  \n Global product management of industrial c atalysts  \n Sales of industrial catalysts in EMEA and China  \n Formulation and negotiation of commercial contracts  \n Co"
+  ],
+  "job_titles": [
+    "Manager"
+  ],
+  "text_sample": "CURRICULUM VITAE  \nName  Dr. Günter Hausinger  \nAddress Untertaxetweg 29, 82131 Gauting, Germany  \nPhone  +49  89  850 28 69  \nE-mail guenterhausinger@web.de  \n \n  \n Employment History  \nOct 2003 -  present  Süd- Chemie AG, Munich, Germany \n Global Product Manager Styrene of Süd -Chemie Group (2006 – \npresent)  \n China as additional sales region on temporary basis due to group reorganisation (2006 – 2007)  \n Sales & Product Manager Petrochemical Catalysts Styrene EMEA (Nov 2003 –  present)  \n Sa...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "web_development": [
+      "React"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "finance": [
+      "SAP"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 2,
+      "manufacturing": 2,
+      "education": 2,
+      "consulting": 1
+    },
+    "confidence": 0.2857142857142857
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "locations": [
+    {
+      "id": "loc_001",
+      "city": "Seattle",
+      "state": "WA", 
+      "country": "USA",
+      "job_market_strength": "High",
+      "tech_companies": 150,
+      "average_salary": "$125,000",
+      "cost_of_living": "High"
+    },
+    {
+      "id": "loc_002", 
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA",
+      "job_market_strength": "Very High",
+      "tech_companies": 300,
+      "average_salary": "$145,000", 
+      "cost_of_living": "Very High"
+    },
+    {
+      "id": "loc_003",
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA", 
+      "job_market_strength": "High",
+      "tech_companies": 120,
+      "average_salary": "$110,000",
+      "cost_of_living": "Medium"
+    },
+    {
+      "id": "loc_004",
+      "city": "New York",
+      "state": "NY",
+      "country": "USA",
+      "job_market_strength": "High", 
+      "tech_companies": 200,
+      "average_salary": "$130,000",
+      "cost_of_living": "Very High"
+    },
+    {
+      "id": "loc_005",
+      "city": "Boston", 
+      "state": "MA",
+      "country": "USA",
+      "job_market_strength": "High",
+      "tech_companies": 90,
+      "average_salary": "$115,000",
+      "cost_of_living": "High"
+    }
+  ],
+  "total_locations": 5,
+  "last_sync": "2025-10-14T08:15:00Z",
+  "data_source": "IntelliCV Location Intelligence"
+}

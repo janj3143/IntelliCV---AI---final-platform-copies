@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "file_name": "Burcu Demir Sanli- New CV.pdf",
+    "file_size": 197766,
+    "processing_date": "2025-10-09T16:20:50.387345",
+    "text_length": 4333,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "burcudemir1985@gmail.com"
+    ],
+    "phones": [
+      "90 533 573",
+      "2010-2014"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [],
+  "job_titles": [
+    "Manager",
+    "Lead",
+    "MANAGER"
+  ],
+  "text_sample": " EXPERIENCE  \nSALES MANAGER, SUMITOMO CHEMICAL TURKEY \nKIMYA SAN. VE TIC. A.S.  \n2017 -PRESENT   \n• Successfully reached /exceed annual  sales targets at Petro \nChemical Business at direct and warehouse.  \nProducts: PP Hopol, PP Copol, LLDPE, LDPE (lamination ), \nTerpolymer , RCP , EVA  in key industry segments as Food \nPacking (BOPP Film, PE Film, PP -IM), Industrial Packing, \nWhite Good, Automotive, Textile, Cable etc.  \n• Successfully Manage and exceed annual sales targets at \nMethionine (ami...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "finance": [
+      "Excel",
+      "SAP"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Communication",
+      "Problem Solving",
+      "Team Management"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 1,
+      "manufacturing": 1,
+      "consulting": 2,
+      "sales": 1
+    },
+    "confidence": 0.3333333333333333
+  }
+}

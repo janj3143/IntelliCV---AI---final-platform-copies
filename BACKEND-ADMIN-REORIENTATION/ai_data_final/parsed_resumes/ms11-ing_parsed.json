@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "file_name": "ms11-ing.docx",
+    "file_size": 17684,
+    "processing_date": "2025-10-09T16:21:05.762640",
+    "text_length": 7316,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "m.stradini@libero.it"
+    ],
+    "phones": [
+      "0039-338",
+      "1683906",
+      "339-3335965",
+      "1978-1982",
+      "1983-1989",
+      "2008-2010",
+      "1989-1990",
+      "1995-1996"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [],
+  "job_titles": [
+    "Manager",
+    "Director",
+    "coordinator",
+    "Coordinator"
+  ],
+  "text_sample": "Curriculum vitae:\nMARCELLO STRADINI\tTel.    0039-338-1683906 or 0039- 339-3335965\n\t\t      \t\tE-mail: m.stradini@libero.it\n\n\t\nPERSONAL INFORMATION\n\nName and surname\t\tMarcello Stradini\nDate and place of birth\t16th January 1963, \nAddress\t\t\tVia Modenese 464/2 , 41058 Vignola ( Mo)\nMarital status\t\t\tMarried\nNationality\t\t\tItalian\n \n\nSTUDY PROFILE\n\n1978-1982\t\t\t“G. Natta” Industrial Technical Institute \n\t\t\t            Sestri Levante (Genoa)\n\t\t\t            Grade: 46/60\n\n1983-1989                           ...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "databases": [
+      "Redis"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "finance": [
+      "Excel"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 2,
+      "healthcare": 1,
+      "manufacturing": 2,
+      "education": 1
+    },
+    "confidence": 0.2857142857142857
+  }
+}

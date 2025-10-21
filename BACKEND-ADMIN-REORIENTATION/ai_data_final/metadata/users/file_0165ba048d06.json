@@ -1,0 +1,151 @@
+{
+  "file_id": "file_0165ba048d06",
+  "source_path": "C:\\IntelliCV\\data\\doc_data_converted_docx\\New vendor registration form.docx",
+  "extracted_at": "2025-08-10T16:26:37.313540",
+  "text": "ADD/AMEND EMEA VENDOR APPLICATION FORM\nThe Air Products buyer or originator is responsible for providing all necessary data\nEverything with * is mandatory Data, otherwise form will be returned for completion\nPlease, always provide the form in digital version, not handwritten\nBy completing this application, we agree to abide by the Air Products’ Code of Conduct in our dealings with Air Products, which is available at https://www.airproducts.com/company/governance/code-of-conduct, and we confirm that we accept Air Products Terms and Conditions, which are available at https://www.airproducts.com/company/suppliers/general-conditions-of-purchase, unless other terms and conditions are explicitly agreed in writing between the parties.\nWithholding tax: It’s the income tax paid to the government by ADD/AMEND EMEA VENDOR APPLICATION FORM\nThe Air Products buyer or originator is responsible for providing all necessary data\nEverything with * is mandatory Data, otherwise form will be returned for completion\nPlease, always provide the form in digital version, not handwritten\nBy completing this application, we agree to abide by the Air Products’ Code of Conduct in our dealings with Air Products, which is available at https://www.airproducts.com/company/governance/code-of-conduct, and we confirm that we accept Air Products Terms and Conditions, which are available at https://www.airproducts.com/company/suppliers/general-conditions-of-purchase, unless other terms and conditions are explicitly agreed in writing between the parties.\nWithholding tax: It’s the income tax paid to the government by the payer of the income rather than by the recipient of the income, different from VAT. The tax is thus withheld or deducted from the income due to the recipient. It is applicable only in some countries and not for all vendors/companies. Typically, the withheld tax is treated as a payment on account of the recipient's final tax liability when the withholding is made in advance. It may be refunded if it is determined.\nCOUNTRY SPECIFICS (GB & SPAIN only):\nAttach copy of certificate(s) with your completed application\nEverything with * is mandatory Data, otherwise form will be returned for completion\nEverything with * is mandatory Data, otherwise form will be returned for completion\nTYPE OF VENDORS:\nSTANDARD VENDOR:\nIs a person or company that provides and sells Services or Goods to Air Products. This is the most common type of vendor and doesn’t require specific settings in SAP.\nThose vendors are available for Purchase Order use and can be available for Non-Purchase Order tools on decision of the Procurement Team.\nLBSHELL:\nVendors who are Competitors of Air Products, from which we buy Liquid Bulk Gases and for which product pickups are scheduled through the LBShell interface. They are marked as “LBSHELL” in the Vendor Master Data.\nIf a vendor supplies both LBShell and non-LBShell products (e.g., packaged gas, hard goods, third party bulk shipment), two vendors numbers need to be created:\none set up for LBShell (marked as LBSHELL)\none set up for non-LBShell (marked as NOT LBSHELL)\nSUBCONTRACTOR:\nSubcontracting is where Air Products will supply some or all the components for an End Product that the Subcontracting Vendor will make for us. Air Products has some vendors that supply different types of Materials. These vendors will supply Acetylene, Hydrogen, service on Cylinder testing, etc. In order to allow the Vendor to fill or to test cylinders, Dewars, etc., Air Products first needs to send the empty containers to the Vendor. Vendors that require Air Products containers in order to deliver are called “Subcontracting Vendors”. Because SAP is an integrated system, the Vendor needs to be created in Vendor Master, so invoices can be paid, and a customer needs to be created in Customer Master, so the empty containers can be sent to the Vendor.\nAGENT:\nAgents are representatives who sell goods & services on behalf of Air Products. This ranges from dive shops selling oxygen cylinders to representatives selling gases to clients on behalf of Air Products but under their own company.\nBATCHLOAD:\nVendor is part of a process called Batchload which is used for vendors with high volume of invoices (e.g., temporary labour, fuel, etc.).\nThe vendor sends a file to a contact person in Air Products. The file then goes via Econnection for processing.\nIf the vendor you want to create is related to this process, please confirm you have checked it with the Econnection Team (E Connections Support ECONNECT@airproducts.com). ",
+  "emails": [
+    "ECONNECT@airproducts.com"
+  ],
+  "phones": [],
+  "names": [
+    "Liquid Bulk",
+    "Purchase Order",
+    "Procurement Team"
+  ],
+  "work_history": [],
+  "title": "",
+  "company": "",
+  "location": "",
+  "experience_years": 0,
+  "career_stage": "entry",
+  "industries": [
+    "general"
+  ],
+  "skills": [],
+  "ai_scores": {
+    "experience_years": 0.0,
+    "title_progression": 0.5,
+    "company_prestige": 0.5,
+    "location_mobility": 0.5,
+    "skill_diversity": 0.0,
+    "network_strength": 0.3
+  },
+  "ai_final_score": 0.27,
+  "ai_processed_at": "2025-08-11T10:42:06.532753",
+  "similar_users": [
+    {
+      "user_id": "file_0003865a7c4a",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.27,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_000a12cbb771",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.27,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_00344b0836c2",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.27,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_0086ec6f1b90",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.27,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_008dcceee73c",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.27,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_00e4daf72a60",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.27,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_00f1ad8aa85c",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.27,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_00f585667d18",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.27,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_010f7e646664",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.27,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_012ae853275f",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.27,
+      "experience_years": 0
+    }
+  ],
+  "recommendations": {
+    "career_advancement": [
+      "Focus on building core technical skills",
+      "Seek mentorship from senior team members",
+      "Take on challenging projects to gain experience"
+    ],
+    "skill_development": [],
+    "company_targets": [
+      "Mid-size companies with growth potential",
+      "Startups in emerging industries",
+      "Companies known for employee development"
+    ],
+    "networking": []
+  }
+}

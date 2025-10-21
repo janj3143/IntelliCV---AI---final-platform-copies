@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "file_name": "CV_Alberto_LOZANO_Dec 2010.pdf",
+    "file_size": 59415,
+    "processing_date": "2025-10-09T16:20:56.778567",
+    "text_length": 7364,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "alozanoballesteros@hotmail.com"
+    ],
+    "phones": [
+      "2005-2007",
+      "2003-2004",
+      "2003-2004",
+      "2002-2003",
+      "1995-2002"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "French Oil Company",
+    "IFP Group Technologies",
+    "Spanish Oil Company",
+    "Technologies and skills Technologies and skills Technologies and skills Technologies",
+    "KBC Advanced Technologies"
+  ],
+  "job_titles": [
+    "Manager",
+    "Consultant",
+    "manager",
+    "Engineer"
+  ],
+  "text_sample": "    \n \nCURRICULUM VITAE  Alberto LOZANO Alberto LOZANO Alberto LOZANO Alberto LOZANO \n    \nPersonal Details Personal Details Personal Details Personal Details    \n \n• E-mail                                :  /envelopeback alozanoballesteros@hotmail.com \n• Date of Birth                      :  Madrid, 13 August 1977, Spain.  \n \nProfessional Experience Professional Experience Professional Experience Professional Experience    \n \n• 2007-present : « « « « KBC Advanced Technologies     », », », », Lo...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "web_development": [
+      "React"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 2,
+      "manufacturing": 1,
+      "education": 2,
+      "consulting": 1
+    },
+    "confidence": 0.2857142857142857
+  }
+}

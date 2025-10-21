@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "file_name": "Omar Al-Hamadani Resume.pdf - 1.pdf",
+    "file_size": 274928,
+    "processing_date": "2025-10-09T16:21:06.623090",
+    "text_length": 7097,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "hamadani7@gmail.com"
+    ],
+    "phones": [
+      "97152-975-4575"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "China National  Petroleum  Company",
+    "China Petroleum  Engineering  Company",
+    "Go for Technology"
+  ],
+  "job_titles": [
+    "Junior",
+    "Engineer",
+    "engineer"
+  ],
+  "text_sample": "Omar Al -Hamadani  \n(+1)97152-975-4575  \nOmar. hamadani7@gmail.com   \nProcess /Commissioning  Eng.   \n \nPERSONAL INFORMATION  \n• Nationality:   Canada    \n• Marital Status:  Single    \n• Date of Birth:   6th April,1992 \n•  \nSummary  \n \nEnthus iastic Process En gineer, successful at operating in both self-directed and team-based capacities. \nFamiliar with running Aspen HYSYS Simulation program. Decisive problem solver, clear communicator, \nand ana lytical thinker. \n \nSkills & Q ualification  \n \n•...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "web_development": [
+      "React"
+    ],
+    "finance": [
+      "Excel"
+    ],
+    "soft_skills": [
+      "Leadership"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 1,
+      "manufacturing": 1,
+      "consulting": 1,
+      "sales": 1
+    },
+    "confidence": 0.14285714285714285
+  }
+}

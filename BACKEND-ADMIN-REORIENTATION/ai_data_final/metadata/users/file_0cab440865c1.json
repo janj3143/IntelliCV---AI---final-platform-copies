@@ -1,0 +1,154 @@
+{
+  "file_id": "file_0cab440865c1",
+  "source_path": "C:\\IntelliCV\\data\\resume_versions\\uploads\\61270 Felix Marks\\CV ORIG Felix Marks CV 2020.docx",
+  "extracted_at": "2025-08-10T16:27:08.192289",
+  "text": "Felix Marks\n61 York Mansions, London, SW11 4BW, England | 07545 293 325 | felixmarksuk@gmail.com\nI am passionate about helping organisations protect themselves from the latest and severest forms of cyber attack. I have enjoyed a highly successful career in technical sales (presales) with disciplines including Cyber Security, Network Management and IT Systems Management. I have been spearheading the use of Ethical Hacking tools and techniques at IBM to demonstrate QRadar's ability to detect advanced cyber threat, and created the QRadar ATT&CK Demo, for which I won a 2019 IBM Outstanding Technical Achievement Award and a 2020 IBM EMEA Oscar. I have excellent interpersonal and presentation skills with a creative edge, including a patent award. I am currently working towards CREST Certified In Felix Marks\n61 York Mansions, London, SW11 4BW, England | 07545 293 325 | felixmarksuk@gmail.com\nI am passionate about helping organisations protect themselves from the latest and severest forms of cyber attack. I have enjoyed a highly successful career in technical sales (presales) with disciplines including Cyber Security, Network Management and IT Systems Management. I have been spearheading the use of Ethical Hacking tools and techniques at IBM to demonstrate QRadar's ability to detect advanced cyber threat, and created the QRadar ATT&CK Demo, for which I won a 2019 IBM Outstanding Technical Achievement Award and a 2020 IBM EMEA Oscar. I have excellent interpersonal and presentation skills with a creative edge, including a patent award. I am currently working towards CREST Certified Infrastructure Tester certification.\nMSc Concurrent Engineering in Electronic Systems, Bournemouth University / 1995\nBA (Hons) Philosophy, University of East Anglia / 1992\nIBM, London, England\nQRadar Cyber Security Analytics Specialist / 2017 - present\nWorking in the UK & Ireland with SOC customers including financial services, mining, government, utilities, healthcare and telco, IBM business partners and IBM MSSPs:\nTechnical sales architect for the QRadar SIEM, Resilient SOAR and X-Force Threat Intelligence Insights toolset to secure on-prem and cloud technologies including Windows, Linux and IP networking, Next Generation Firewalls, EDR, IDPS, Antivirus, Proxies, and Operational Technology (OT)\nCreating and delivering my MITRE aligned QRadar ATT&CK Demo using hacking tools such as Metasploit, PowerShell Empire, Mimikatz, dnscat2 and Nishang, to demonstrate QRadar's ability to detect advanced cyber threat, including PowerShell exploits and DNS Tunneling\nPromoting cognitive and machine learning capabilities including Network Behaviour Anomaly Detection (NBAD), User Behaviour Analytics (UBA), DNS Analytics and Watson Advisor (automatic attack anatomisation and MITRE mapping)\nResearching and reporting PowerShell based Windows vulnerabilities\nTeaching Ethical Hacking to IBM’s Security Business Unit\nSupporting the CyberFirst initiative, a UK Government and IBM partnership student scheme, inspired and led by the National Cyber Security Centre (NCSC) which aims to support and prepare undergraduates for a career in cyber security\nIBM, London, England\nTivoli Netcool Architect / 2006 - 2017\nPre-sales architect and account management for Tivoli Cyber Security, Network Management, and ITSM activities for the UK Telco Sector, including Vodafone Mobile, Vodafone Enterprise, British Telecom, O2 UK, Virgin Media, Everything Everywhere, Easynet and Sky Network Services:\nLeading customer engagements with cutting-edge Telco Predictive Network Analytics, Netcool Network Security Compliance and NFV/SDN Management capabilities\nPerforming presales of Network and Endpoint Compliance Management, SIEM, Fault Management, ITSM and Network Performance Management solutions\nDelivering complex multi-product presentations, Proof of Technologies, Proof of Concepts, RFIs and RFPs\nIdentifying new software sales opportunities\nOwning strategic customer relationships\nCreating customer references\nMicromuse, Sydney, Australia\nNetcool Presales Lead / 2003 - 2006\nLed Netcool pre-sales activities (Cyber Security, Fault and Performance Management) in Telstra, Vodafone (Australia and New Zealand) and Telecom New Zealand:\nWon against Micromuse’s biggest competitor to establish Netcool as Telstra’s strategic network management standard\nRecruited and managed local technical team\nNew customers included Telstra Mobile, Telstra DSL, Telstra Kaz, Vodafone Australia and Vodafone NZ. Incremental business was acquired from Telstra BCNM, Telstra SSDM, Telecom New Zealand and Telstra Clear\nActed as Micromuse’s regional spokesperson, giving published press interviews with Technology and Business, Computerworld, Infoworld, CommsWorld\nMicromuse, London, England\nNetcool Presales Lead, London, England / 1998 - 2002\nPerformed Netcool pre-sales as well as creating and managing a successful team of geographically dispersed pre-sales engineers:\nHelped develop Micromuse’s first SIEM offering with British ",
+  "emails": [
+    "felixmarksuk@gmail.com"
+  ],
+  "phones": [],
+  "names": [
+    "Tivoli Netcool",
+    "British Telecom",
+    "Electronic Systems"
+  ],
+  "work_history": [],
+  "title": "",
+  "company": "",
+  "location": "",
+  "experience_years": 0,
+  "career_stage": "entry",
+  "industries": [
+    "general"
+  ],
+  "skills": [
+    "machine learning",
+    "analytics"
+  ],
+  "ai_scores": {
+    "experience_years": 0.0,
+    "title_progression": 0.5,
+    "company_prestige": 0.5,
+    "location_mobility": 0.5,
+    "skill_diversity": 0.2,
+    "network_strength": 0.3
+  },
+  "ai_final_score": 0.3,
+  "ai_processed_at": "2025-08-11T10:42:06.772899",
+  "similar_users": [
+    {
+      "user_id": "file_03a6b852a8c4",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.3,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_051097a5305f",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.3,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_0a18a97bcfd0",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.3,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_0beaec8ab0a1",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.3,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_0dfd8954822a",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.3,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_0ff523b92ee7",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.3,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_10d56f91128e",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.3,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_12590c739be9",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.3,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_12df452c4021",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.3,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_13005a9faaad",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.3,
+      "experience_years": 0
+    }
+  ],
+  "recommendations": {
+    "career_advancement": [
+      "Focus on building core technical skills",
+      "Seek mentorship from senior team members",
+      "Take on challenging projects to gain experience"
+    ],
+    "skill_development": [],
+    "company_targets": [
+      "Mid-size companies with growth potential",
+      "Startups in emerging industries",
+      "Companies known for employee development"
+    ],
+    "networking": []
+  }
+}

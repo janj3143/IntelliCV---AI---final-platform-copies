@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "file_name": "CV_Reto.Sturzenegger_short_en (1).pdf",
+    "file_size": 60097,
+    "processing_date": "2025-10-09T16:20:59.745411",
+    "text_length": 5265,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "rsturzenegger@bluewin.ch"
+    ],
+    "phones": [
+      "41 79 351 9088",
+      "2019-2020",
+      "2022-2023"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "ZEAG  Ltd"
+  ],
+  "job_titles": [
+    "Manager",
+    "Director",
+    "consultant",
+    "engineer"
+  ],
+  "text_sample": " Curriculum Vitae  \n  Page  1 of 3 \n PERSONAL DETAILS  \n \nReto Sturzenegger  \nIm Guet 5  \nCH-8197 Rafz  \nMobile +41 79 351 9088  \nSkype: reto.sturzenegger   \n17.01.1973  \nMarried / 1 child  \nSwiss citizen   \nrsturzenegger@bluewin.ch   \n \nXing:     http://www.xing.com/profile/Reto_Sturzenegger2  \nLiked In: http://ch.linkedin.com/pub/reto -sturzenegger/13/847/954  \n \nPERSONAL PROFILE  \n \nVery experienced professional in deploying physical security systems across international and \nnational organiz...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "finance": [
+      "Excel",
+      "SAP"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 2,
+      "finance": 1,
+      "marketing": 1,
+      "education": 1,
+      "consulting": 3
+    },
+    "confidence": 0.5
+  }
+}

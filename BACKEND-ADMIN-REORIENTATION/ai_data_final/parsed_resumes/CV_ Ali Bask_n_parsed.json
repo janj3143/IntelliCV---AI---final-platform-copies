@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "file_name": "CV_ Ali Bask_n.pdf",
+    "file_size": 102849,
+    "processing_date": "2025-10-09T16:20:56.330095",
+    "text_length": 6523,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "ali.baskin@outlook.com"
+    ],
+    "phones": [
+      "0090 541 204"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [],
+  "job_titles": [
+    "Manager",
+    "senior",
+    "MANAGER"
+  ],
+  "text_sample": " \nALİ BASKIN  \n \nINTERNATIONAL  SALES MANAGER  \n \n \nWORK EXPERIENCE  \nINTERNATIONAL  SALES MANAGER  \n \nBRIDGESTONE SABANCI TYRE MANUFACTURING AND TRADIND INC.   \nNovember 2018 – December 2023 (5+ Years )  \n \n \nManag ed and execut ed a 90 Million EUR sales activity  in 40+ countries.  \n \nIncreased sales by 270 % in 5 year s. \n \nAlign ed sales organization’s objectives with firm business strategy \nthrough active participation in corporate strategic planning, sales \nstrategy development, forecastin...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "finance": [
+      "Risk Management"
+    ],
+    "soft_skills": [
+      "Team Management",
+      "Strategic Planning"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 1,
+      "finance": 3,
+      "marketing": 1,
+      "education": 1,
+      "consulting": 5,
+      "sales": 1
+    },
+    "confidence": 0.8333333333333334
+  }
+}

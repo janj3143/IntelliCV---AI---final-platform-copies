@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "file_name": "John Sanders -1.docx",
+    "file_size": 63431,
+    "processing_date": "2025-10-09T16:21:03.318983",
+    "text_length": 3366,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [],
+    "phones": [],
+    "names": [
+      "John Sanders"
+    ],
+    "locations": [
+      "Formby"
+    ],
+    "job_titles": []
+  },
+  "companies": [
+    "Chartered Accountant\nChadwick & Co",
+    "Gorst & Co"
+  ],
+  "job_titles": [
+    "Senior",
+    "junior",
+    "manager",
+    "Manager",
+    "senior"
+  ],
+  "text_sample": "Candidate Name:\t\t\tJohn Sanders\n\nProfile:\n\nFCCA Qualified Accounts and Audit Senior based in Formby looking for a new challenge with a progressive firm of accountants in the Northwest. \nThis candidate has over 30 years’ experience in practice gained with owner managed businesses and not-for profit organisations in the fields of audit, accountancy and corporation tax.\nCurrently at a leading regional Top 100 firm of accountants in an audit weighted role where they are responsible for leading audits...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "finance",
+    "industry_scores": {
+      "technology": 1,
+      "finance": 2,
+      "consulting": 1
+    },
+    "confidence": 0.2857142857142857
+  }
+}

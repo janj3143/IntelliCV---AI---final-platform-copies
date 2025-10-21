@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "file_name": "CV ENG 112010.docx",
+    "file_size": 16532,
+    "processing_date": "2025-10-09T16:20:53.517418",
+    "text_length": 3903,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [],
+    "phones": [],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [],
+  "job_titles": [
+    "Manager",
+    "Engineer"
+  ],
+  "text_sample": "\n\nName, First name:\t\t\t\tLIEKENDAEL,  Stephane\nAddress:\t\t\t\t\tRepingenstraat 23, 1570 Vollezele\nTelephone:\t\t\t\t\t+32 (0)473/68 29 92\nBirth place-and date:\t\t\t\t, 9th of December 1974\n\n\nEducation:\n\t\t\t\t\t\nCollege of Advanced Education (HOBU):\n\nBME-CTL, Ghent\tIndustrial Engineer in Chemicals, \nOption Biochemicals, \nSpecialisation Environmental Technics.\nDegree achieved in 1998.\n\nPost-University\n\nEHSAL Management School\t\t\tSales Management\n\t\t\t\t\t\tAcademic year 2002 - 2003\n\n\nComputer Knowledge:\n\nWord & Excel\nPo...",
+  "skills_detected": {
+    "finance": [
+      "Excel",
+      "SAP"
+    ],
+    "soft_skills": [
+      "Leadership"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 1,
+      "education": 1,
+      "consulting": 2
+    },
+    "confidence": 0.3333333333333333
+  }
+}

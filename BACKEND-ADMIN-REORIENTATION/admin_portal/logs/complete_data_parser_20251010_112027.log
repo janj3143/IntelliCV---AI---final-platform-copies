@@ -1,0 +1,473 @@
+2025-10-10 11:20:27,748 | INFO | setup_logging:50 | Complete Data Parser initialized - Log file: C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\logs\complete_data_parser_20251010_112027.log
+2025-10-10 11:20:27,762 | INFO | _discover_data_directories:158 | Found data directory: C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data
+2025-10-10 11:20:27,762 | INFO | _discover_data_directories:158 | Found data directory: C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\ai_data
+2025-10-10 11:20:27,762 | INFO | _discover_data_directories:158 | Found data directory: C:\IntelliCV-AI\IntelliCV\SANDBOX\data
+2025-10-10 11:20:27,762 | INFO | _discover_data_directories:158 | Found data directory: C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data
+2025-10-10 11:20:27,762 | INFO | __init__:118 | Complete Data Parser initialized
+2025-10-10 11:20:27,762 | INFO | __init__:119 | Base path: C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal
+2025-10-10 11:20:27,762 | INFO | __init__:120 | Output directory: C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\ai_data\complete_parsing_output
+2025-10-10 11:20:27,762 | INFO | __init__:121 | Data directories discovered: 4
+2025-10-10 11:20:27,762 | INFO | process_all_data:305 | Starting complete data processing...
+2025-10-10 11:20:27,762 | INFO | scan_all_data_sources:167 | Starting comprehensive data source scan...
+2025-10-10 11:20:27,762 | INFO | scan_all_data_sources:184 | Scanning directory: C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data
+2025-10-10 11:20:27,796 | INFO | scan_all_data_sources:184 | Scanning directory: C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\ai_data
+2025-10-10 11:20:27,796 | INFO | scan_all_data_sources:184 | Scanning directory: C:\IntelliCV-AI\IntelliCV\SANDBOX\data
+2025-10-10 11:20:27,796 | INFO | scan_all_data_sources:184 | Scanning directory: C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data
+2025-10-10 11:20:27,832 | INFO | scan_all_data_sources:232 | Data source scan completed. Found 822 files across 4 directories
+2025-10-10 11:20:27,832 | INFO | scan_all_data_sources:233 | Inventory saved to: C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\ai_data\complete_parsing_output\data_inventory_20251010_112027.json
+2025-10-10 11:20:27,832 | INFO | _process_cv_documents:365 | Processing 474 CV documents...
+2025-10-10 11:20:27,832 | WARNING | _extract_text_from_file:498 | Unsupported file type for text extraction: .py
+2025-10-10 11:20:27,832 | WARNING | _extract_text_from_file:498 | Unsupported file type for text extraction: .ipynb
+2025-10-10 11:20:27,894 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:27,894 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,565 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\110301_CV_Stefano_Cicetti.doc: File is not a zip file
+2025-10-10 11:20:28,575 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,577 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,577 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\20110417_CV_ janj.doc: File is not a zip file
+2025-10-10 11:20:28,577 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,577 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\aacv091210eng.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\aacv091210eng.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:28,586 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,586 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,586 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,591 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Akutin Sergey`s Curriculum Vitae.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Akutin Sergey`s Curriculum Vitae.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:28,594 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,596 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Andrew Batchelor-CV-240910.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Andrew Batchelor-CV-240910.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:28,596 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Angus_Hall_CV-sales__marketing_Director _Rev_1 6.doc: File is not a zip file
+2025-10-10 11:20:28,596 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,596 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,596 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,596 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Backup of Curriculum Vitae .doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Backup of Curriculum Vitae .doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:28,596 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,607 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Business+Information+CV[1].doc: File is not a zip file
+2025-10-10 11:20:28,607 | WARNING | _extract_text_from_file:498 | Unsupported file type for text extraction: .pptx
+2025-10-10 11:20:28,607 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,611 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,611 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,611 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,617 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,617 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Curriculum Vitae - Rustam Ismagilov March 2011.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Curriculum Vitae - Rustam Ismagilov March 2011.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:28,617 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,617 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Curriculum Vitae 2011 Joanne Why.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Curriculum Vitae 2011 Joanne Why.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:28,617 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,617 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Curriculum Vitae Akutin O.S..doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Curriculum Vitae Akutin O.S..doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:28,627 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,628 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,628 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,628 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Curriculum Vitae AW 2011-03 rev0.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Curriculum Vitae AW 2011-03 rev0.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:28,649 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,649 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,649 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,649 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Curriculum Vitae Graham Nash.doc: File is not a zip file
+2025-10-10 11:20:28,649 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,663 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,663 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CURRICULUM VITAE NOV 09 ENGLISH.doc: File is not a zip file
+2025-10-10 11:20:28,663 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Curriculum Vitae of Deon Engelbrecht.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Curriculum Vitae of Deon Engelbrecht.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:28,663 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,663 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,683 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Curriculum Vitae Sean.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Curriculum Vitae Sean.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:28,683 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Curriculum vitae.doc: File is not a zip file
+2025-10-10 11:20:28,684 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,684 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,684 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Curriculum_Vitae_in_inglese.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Curriculum_Vitae_in_inglese.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:28,691 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CURRICULUM_VITAE_KAH_July 2010.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CURRICULUM_VITAE_KAH_July 2010.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:28,694 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV - Arjan van Ginkel_SEP10.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV - Arjan van Ginkel_SEP10.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:28,695 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,695 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV - Dan Svensson - English.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV - Dan Svensson - English.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:28,695 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,701 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV - Stefanos Mastrogiannis.doc: File is not a zip file
+2025-10-10 11:20:28,701 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV - Tim Lowe - October 2010.doc: File is not a zip file
+2025-10-10 11:20:28,701 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,701 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,706 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,706 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV a .doc: File is not a zip file
+2025-10-10 11:20:28,706 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV Atle Idland 2011.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV Atle Idland 2011.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:28,710 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV BdB 2011.doc: File is not a zip file
+2025-10-10 11:20:28,712 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,712 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,712 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV de Waard.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV de Waard.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:28,712 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,712 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV DH 2011.doc: File is not a zip file
+2025-10-10 11:20:28,712 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,727 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV ESTESO220211.doc: File is not a zip file
+2025-10-10 11:20:28,744 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV for HSE ADVISOR of Shahid.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV for HSE ADVISOR of Shahid.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:28,744 | WARNING | _extract_text_from_file:498 | Unsupported file type for text extraction: .zip
+2025-10-10 11:20:28,744 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV Henry Prasula.doc: File is not a zip file
+2025-10-10 11:20:28,744 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\cv j vere eng.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\cv j vere eng.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:28,744 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV Jose Gregorio Ayala Briceño  2011.doc: File is not a zip file
+2025-10-10 11:20:28,744 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV Lorenzo Cucia EU.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV Lorenzo Cucia EU.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:28,744 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV Mansour Belhadj - April 2011.doc: File is not a zip file
+2025-10-10 11:20:28,744 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,744 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV MMcC 2010 R1.doc: File is not a zip file
+2025-10-10 11:20:28,744 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV Nick Laming 081211.doc: File is not a zip file
+2025-10-10 11:20:28,744 | WARNING | _extract_text_from_file:498 | Unsupported file type for text extraction: .rtf
+2025-10-10 11:20:28,754 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV of Shahabuddin SAFETY Officer.doc: File is not a zip file
+2025-10-10 11:20:28,754 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,754 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,760 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,761 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,765 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,765 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,765 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,765 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,765 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV version 4 2010.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV version 4 2010.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:28,765 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,765 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV Zennaro Carlo June_2011_UK.doc: File is not a zip file
+2025-10-10 11:20:28,775 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,777 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,777 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,777 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV-MUSTAFA SELCUK EKSIOGLU (002).doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV-MUSTAFA SELCUK EKSIOGLU (002).doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:28,777 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV-MUSTAFA SELCUK EKSIOGLU.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV-MUSTAFA SELCUK EKSIOGLU.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:28,777 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV-PJ_engl3.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV-PJ_engl3.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:28,786 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV-Process Engineer Sohail Akhtar - 1.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV-Process Engineer Sohail Akhtar - 1.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:28,786 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV-Process Engineer Sohail Akhtar.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV-Process Engineer Sohail Akhtar.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:28,786 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,791 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,794 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,794 | WARNING | _extract_text_from_file:498 | Unsupported file type for text extraction: .zip
+2025-10-10 11:20:28,796 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV04_(2011).doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV04_(2011).doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:28,796 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CVDAH.doc: File is not a zip file
+2025-10-10 11:20:28,796 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CVDec09 v1.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CVDec09 v1.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:28,796 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CVKMinksRev2.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CVKMinksRev2.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:28,796 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,796 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CVRemVeen.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CVRemVeen.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:28,807 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,807 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,817 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,827 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,827 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,827 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV_Alex George-Kyriakou_last updated on 251110 at 2243.doc: File is not a zip file
+2025-10-10 11:20:28,827 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,827 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV_C FERNANDEZ.doc: File is not a zip file
+2025-10-10 11:20:28,827 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,838 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,838 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV_Honewell_Johnston-Vere.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV_Honewell_Johnston-Vere.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:28,838 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,844 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,844 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,848 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,848 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,867 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,869 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,869 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,869 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\cv_sampaolesi_roberto_2011_04.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\cv_sampaolesi_roberto_2011_04.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:28,869 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,877 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,880 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV_S_Voulon_english_September2011.doc: File is not a zip file
+2025-10-10 11:20:28,880 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,912 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,932 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,932 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\DJBcvMay11.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\DJBcvMay11.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:28,932 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\DSL CV Aug 2011.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\DSL CV Aug 2011.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:28,932 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\English CURRICULUM VITAE[1]-1.doc: File is not a zip file
+2025-10-10 11:20:28,963 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,974 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,977 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,977 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Frank Ponsonby CV 29 Mar 11.doc: File is not a zip file
+2025-10-10 11:20:28,977 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,984 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Gorbachev_CV_eng.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Gorbachev_CV_eng.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:28,984 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,984 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Gufran CV For Mechanical Piping Forman.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Gufran CV For Mechanical Piping Forman.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:28,984 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Hans PAUL CV 2011.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Hans PAUL CV 2011.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:28,984 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Hayley Profile.doc: File is not a zip file
+2025-10-10 11:20:28,984 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\HHartsiotisCVSept2010.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\HHartsiotisCVSept2010.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:28,992 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:28,992 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Huw Parry CV January 2011.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Huw Parry CV January 2011.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,005 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Jans CVs wc 7.3.11.doc: File is not a zip file
+2025-10-10 11:20:29,005 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\JJ CVs wc 4.1.11.doc: File is not a zip file
+2025-10-10 11:20:29,005 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\JJs CVs 10.1.11.doc: File is not a zip file
+2025-10-10 11:20:29,010 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\JJs CVs 14.2.11.doc: File is not a zip file
+2025-10-10 11:20:29,011 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\JJs CVs 17.1.11.doc: File is not a zip file
+2025-10-10 11:20:29,011 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\JJs CVs 24.1.11.doc: File is not a zip file
+2025-10-10 11:20:29,011 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\JJs CVs wc 13.12.10.doc: File is not a zip file
+2025-10-10 11:20:29,011 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\JJs CVs wc 21.2.11.doc: File is not a zip file
+2025-10-10 11:20:29,011 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\JJs CVs wc 28.2.11.doc: File is not a zip file
+2025-10-10 11:20:29,015 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\JJs CVs wc 31.1.11.doc: File is not a zip file
+2025-10-10 11:20:29,015 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\JJs CVs wc 7.2.11.doc: File is not a zip file
+2025-10-10 11:20:29,015 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,015 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\JR_CV2010.doc: File is not a zip file
+2025-10-10 11:20:29,015 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Justin Kingston -Current 2011[1].11 CV.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Justin Kingston -Current 2011[1].11 CV.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,130 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\J_Claassen_CV_Feb 2011.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\J_Claassen_CV_Feb 2011.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,130 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,152 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,152 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,161 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Marketing Executive CV.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Marketing Executive CV.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,163 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,163 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,163 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,163 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Mike_Croot_CV_2011.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Mike_Croot_CV_2011.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,163 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Mohamed_Hafez_CV_DEC2021 copy.docx: File is not a zip file
+2025-10-10 11:20:29,163 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,163 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,173 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Morrison PJ slim cv Sept 10.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Morrison PJ slim cv Sept 10.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,176 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,183 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,192 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\MY CV File.doc: File is not a zip file
+2025-10-10 11:20:29,194 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\My CV.doc: File is not a zip file
+2025-10-10 11:20:29,194 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Naldi Christian - CV to Jan Johnston.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Naldi Christian - CV to Jan Johnston.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,194 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,194 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Oliver Doerle CV short version.doc: File is not a zip file
+2025-10-10 11:20:29,194 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,194 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\organisational development CVs.doc: File is not a zip file
+2025-10-10 11:20:29,214 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Resume GS - English.doc: File is not a zip file
+2025-10-10 11:20:29,214 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Resume of Dr. Parvez for HSE Advisor.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Resume of Dr. Parvez for HSE Advisor.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,214 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,214 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,226 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\RicBlackwellCV.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\RicBlackwellCV.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,227 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\ROMEO C_CV_2011-E-DesEngLeader.doc: File is not a zip file
+2025-10-10 11:20:29,227 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,227 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,227 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,245 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\SK CV Feb2011.doc: File is not a zip file
+2025-10-10 11:20:29,245 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,245 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Steve CV II.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Steve CV II.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,256 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,256 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\TONY SLADE CV 2010.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\TONY SLADE CV 2010.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,259 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\TONY SLADE CV 2011.doc: File is not a zip file
+2025-10-10 11:20:29,260 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,260 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,260 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,260 | WARNING | _extract_text_from_file:498 | Unsupported file type for text extraction: .json
+2025-10-10 11:20:29,260 | WARNING | _extract_text_from_file:498 | Unsupported file type for text extraction: .py
+2025-10-10 11:20:29,260 | WARNING | _extract_text_from_file:498 | Unsupported file type for text extraction: .ipynb
+2025-10-10 11:20:29,260 | WARNING | _extract_text_from_file:498 | Unsupported file type for text extraction: .py
+2025-10-10 11:20:29,260 | WARNING | _extract_text_from_file:498 | Unsupported file type for text extraction: .ipynb
+2025-10-10 11:20:29,266 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,266 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,266 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\110301_CV_Stefano_Cicetti.doc: File is not a zip file
+2025-10-10 11:20:29,266 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,266 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,266 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\20110417_CV_ janj.doc: File is not a zip file
+2025-10-10 11:20:29,266 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,266 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\aacv091210eng.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\aacv091210eng.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,275 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,278 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,278 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,278 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Akutin Sergey`s Curriculum Vitae.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Akutin Sergey`s Curriculum Vitae.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,278 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,278 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Andrew Batchelor-CV-240910.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Andrew Batchelor-CV-240910.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,278 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Angus_Hall_CV-sales__marketing_Director _Rev_1 6.doc: File is not a zip file
+2025-10-10 11:20:29,288 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,288 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,288 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,293 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Backup of Curriculum Vitae .doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Backup of Curriculum Vitae .doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,293 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,293 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Business+Information+CV[1].doc: File is not a zip file
+2025-10-10 11:20:29,293 | WARNING | _extract_text_from_file:498 | Unsupported file type for text extraction: .pptx
+2025-10-10 11:20:29,293 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,298 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,298 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,298 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,298 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,298 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Curriculum Vitae - Rustam Ismagilov March 2011.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Curriculum Vitae - Rustam Ismagilov March 2011.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,298 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,298 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Curriculum Vitae 2011 Joanne Why.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Curriculum Vitae 2011 Joanne Why.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,298 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,298 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Curriculum Vitae Akutin O.S..doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Curriculum Vitae Akutin O.S..doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,312 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,313 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,313 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,313 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Curriculum Vitae AW 2011-03 rev0.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Curriculum Vitae AW 2011-03 rev0.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,330 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,330 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,330 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,330 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Curriculum Vitae Graham Nash.doc: File is not a zip file
+2025-10-10 11:20:29,330 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,330 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,330 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CURRICULUM VITAE NOV 09 ENGLISH.doc: File is not a zip file
+2025-10-10 11:20:29,330 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Curriculum Vitae of Deon Engelbrecht.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Curriculum Vitae of Deon Engelbrecht.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,330 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,340 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,350 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Curriculum Vitae Sean.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Curriculum Vitae Sean.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,350 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Curriculum vitae.doc: File is not a zip file
+2025-10-10 11:20:29,350 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,350 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,350 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Curriculum_Vitae_in_inglese.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Curriculum_Vitae_in_inglese.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,350 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CURRICULUM_VITAE_KAH_July 2010.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CURRICULUM_VITAE_KAH_July 2010.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,350 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV - Arjan van Ginkel_SEP10.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV - Arjan van Ginkel_SEP10.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,350 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,350 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV - Dan Svensson - English.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV - Dan Svensson - English.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,361 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,361 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV - Stefanos Mastrogiannis.doc: File is not a zip file
+2025-10-10 11:20:29,361 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV - Tim Lowe - October 2010.doc: File is not a zip file
+2025-10-10 11:20:29,361 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,361 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,361 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,361 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV a .doc: File is not a zip file
+2025-10-10 11:20:29,361 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV Atle Idland 2011.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV Atle Idland 2011.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,361 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV BdB 2011.doc: File is not a zip file
+2025-10-10 11:20:29,371 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,371 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,371 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV de Waard.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV de Waard.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,371 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,371 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV DH 2011.doc: File is not a zip file
+2025-10-10 11:20:29,377 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,381 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV ESTESO220211.doc: File is not a zip file
+2025-10-10 11:20:29,392 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV for HSE ADVISOR of Shahid.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV for HSE ADVISOR of Shahid.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,392 | WARNING | _extract_text_from_file:498 | Unsupported file type for text extraction: .zip
+2025-10-10 11:20:29,393 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV Henry Prasula.doc: File is not a zip file
+2025-10-10 11:20:29,394 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\cv j vere eng.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\cv j vere eng.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,394 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV Jose Gregorio Ayala Briceño  2011.doc: File is not a zip file
+2025-10-10 11:20:29,394 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV Lorenzo Cucia EU.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV Lorenzo Cucia EU.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,394 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV Mansour Belhadj - April 2011.doc: File is not a zip file
+2025-10-10 11:20:29,394 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,394 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV MMcC 2010 R1.doc: File is not a zip file
+2025-10-10 11:20:29,394 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV Nick Laming 081211.doc: File is not a zip file
+2025-10-10 11:20:29,394 | WARNING | _extract_text_from_file:498 | Unsupported file type for text extraction: .rtf
+2025-10-10 11:20:29,394 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV of Shahabuddin SAFETY Officer.doc: File is not a zip file
+2025-10-10 11:20:29,394 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,394 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,402 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,402 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,402 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,402 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,402 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,410 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,412 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV version 4 2010.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV version 4 2010.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,412 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,412 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV Zennaro Carlo June_2011_UK.doc: File is not a zip file
+2025-10-10 11:20:29,412 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,412 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,412 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,412 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV-MUSTAFA SELCUK EKSIOGLU (002).doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV-MUSTAFA SELCUK EKSIOGLU (002).doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,412 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV-MUSTAFA SELCUK EKSIOGLU.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV-MUSTAFA SELCUK EKSIOGLU.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,412 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV-PJ_engl3.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV-PJ_engl3.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,412 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV-Process Engineer Sohail Akhtar - 1.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV-Process Engineer Sohail Akhtar - 1.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,412 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV-Process Engineer Sohail Akhtar.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV-Process Engineer Sohail Akhtar.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,423 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,423 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,427 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,427 | WARNING | _extract_text_from_file:498 | Unsupported file type for text extraction: .zip
+2025-10-10 11:20:29,427 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV04_(2011).doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV04_(2011).doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,427 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CVDAH.doc: File is not a zip file
+2025-10-10 11:20:29,427 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CVDec09 v1.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CVDec09 v1.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,427 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CVKMinksRev2.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CVKMinksRev2.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,427 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,433 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CVRemVeen.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CVRemVeen.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,433 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,433 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,447 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,452 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,454 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,454 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV_Alex George-Kyriakou_last updated on 251110 at 2243.doc: File is not a zip file
+2025-10-10 11:20:29,454 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,454 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV_C FERNANDEZ.doc: File is not a zip file
+2025-10-10 11:20:29,460 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,460 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,465 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV_Honewell_Johnston-Vere.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV_Honewell_Johnston-Vere.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,465 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,465 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,469 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,471 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,473 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,487 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,489 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,492 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,493 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\cv_sampaolesi_roberto_2011_04.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\cv_sampaolesi_roberto_2011_04.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,496 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,498 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,498 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\CV_S_Voulon_english_September2011.doc: File is not a zip file
+2025-10-10 11:20:29,501 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,528 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,549 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,549 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\DJBcvMay11.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\DJBcvMay11.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,549 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\DSL CV Aug 2011.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\DSL CV Aug 2011.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,549 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\English CURRICULUM VITAE[1]-1.doc: File is not a zip file
+2025-10-10 11:20:29,580 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,580 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,580 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,580 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Frank Ponsonby CV 29 Mar 11.doc: File is not a zip file
+2025-10-10 11:20:29,580 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,580 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Gorbachev_CV_eng.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Gorbachev_CV_eng.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,580 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,580 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Gufran CV For Mechanical Piping Forman.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Gufran CV For Mechanical Piping Forman.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,580 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Hans PAUL CV 2011.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Hans PAUL CV 2011.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,580 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Hayley Profile.doc: File is not a zip file
+2025-10-10 11:20:29,580 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\HHartsiotisCVSept2010.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\HHartsiotisCVSept2010.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,590 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,590 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Huw Parry CV January 2011.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Huw Parry CV January 2011.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,601 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Jans CVs wc 7.3.11.doc: File is not a zip file
+2025-10-10 11:20:29,601 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\JJ CVs wc 4.1.11.doc: File is not a zip file
+2025-10-10 11:20:29,601 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\JJs CVs 10.1.11.doc: File is not a zip file
+2025-10-10 11:20:29,601 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\JJs CVs 14.2.11.doc: File is not a zip file
+2025-10-10 11:20:29,601 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\JJs CVs 17.1.11.doc: File is not a zip file
+2025-10-10 11:20:29,601 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\JJs CVs 24.1.11.doc: File is not a zip file
+2025-10-10 11:20:29,601 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\JJs CVs wc 13.12.10.doc: File is not a zip file
+2025-10-10 11:20:29,601 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\JJs CVs wc 21.2.11.doc: File is not a zip file
+2025-10-10 11:20:29,601 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\JJs CVs wc 28.2.11.doc: File is not a zip file
+2025-10-10 11:20:29,601 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\JJs CVs wc 31.1.11.doc: File is not a zip file
+2025-10-10 11:20:29,601 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\JJs CVs wc 7.2.11.doc: File is not a zip file
+2025-10-10 11:20:29,601 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,601 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\JR_CV2010.doc: File is not a zip file
+2025-10-10 11:20:29,601 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Justin Kingston -Current 2011[1].11 CV.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Justin Kingston -Current 2011[1].11 CV.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,705 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\J_Claassen_CV_Feb 2011.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\J_Claassen_CV_Feb 2011.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,705 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,729 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,729 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,729 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Marketing Executive CV.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Marketing Executive CV.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,737 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,737 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,737 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,737 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Mike_Croot_CV_2011.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Mike_Croot_CV_2011.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,737 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Mohamed_Hafez_CV_DEC2021 copy.docx: File is not a zip file
+2025-10-10 11:20:29,737 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,745 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,745 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Morrison PJ slim cv Sept 10.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Morrison PJ slim cv Sept 10.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,747 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,759 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,760 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\MY CV File.doc: File is not a zip file
+2025-10-10 11:20:29,760 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\My CV.doc: File is not a zip file
+2025-10-10 11:20:29,760 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Naldi Christian - CV to Jan Johnston.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Naldi Christian - CV to Jan Johnston.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,763 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,763 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Oliver Doerle CV short version.doc: File is not a zip file
+2025-10-10 11:20:29,763 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,763 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\organisational development CVs.doc: File is not a zip file
+2025-10-10 11:20:29,779 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Resume GS - English.doc: File is not a zip file
+2025-10-10 11:20:29,779 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Resume of Dr. Parvez for HSE Advisor.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Resume of Dr. Parvez for HSE Advisor.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,782 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,782 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,782 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\RicBlackwellCV.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\RicBlackwellCV.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,782 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\ROMEO C_CV_2011-E-DesEngLeader.doc: File is not a zip file
+2025-10-10 11:20:29,782 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,789 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,789 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,803 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\SK CV Feb2011.doc: File is not a zip file
+2025-10-10 11:20:29,803 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,803 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Steve CV II.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Steve CV II.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,811 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,811 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\TONY SLADE CV 2010.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\TONY SLADE CV 2010.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,811 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\TONY SLADE CV 2011.doc: File is not a zip file
+2025-10-10 11:20:29,811 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,811 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,811 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,811 | WARNING | _extract_text_from_file:498 | Unsupported file type for text extraction: .json
+2025-10-10 11:20:29,811 | INFO | _process_cv_documents:402 | CV processing completed. 50 files processed successfully
+2025-10-10 11:20:29,811 | INFO | _process_company_data:579 | Processing 0 company data files...
+2025-10-10 11:20:29,811 | INFO | _process_company_data:607 | Company data processing completed. 0 files processed
+2025-10-10 11:20:29,811 | INFO | _process_contact_data:681 | Processing 6 contact data files...
+2025-10-10 11:20:29,811 | INFO | _process_contact_data:717 | Contact data processing completed. 0 files processed
+2025-10-10 11:20:29,811 | INFO | _process_email_data:792 | Processing 0 email-related files...
+2025-10-10 11:20:29,811 | INFO | _process_email_data:827 | Email data processing completed. 0 files processed
+2025-10-10 11:20:29,811 | INFO | _process_historical_data:893 | Processing 22 historical data files...
+2025-10-10 11:20:29,821 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Graham_A_Lock1272011_65244_PM.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Graham_A_Lock1272011_65244_PM.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,821 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Grzegorz_Ligier10282010_111100_AM.doc: File is not a zip file
+2025-10-10 11:20:29,845 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,845 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Khairul_Anuar1222010_42608_AM.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Khairul_Anuar1222010_42608_AM.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,845 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,873 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,877 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Simone_Turina2162011_105648_AM.doc: File is not a zip file
+2025-10-10 11:20:29,879 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\SueGedrych August 2011.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\SueGedrych August 2011.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,879 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,883 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Graham_A_Lock1272011_65244_PM.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Graham_A_Lock1272011_65244_PM.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,883 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Grzegorz_Ligier10282010_111100_AM.doc: File is not a zip file
+2025-10-10 11:20:29,901 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,902 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Khairul_Anuar1222010_42608_AM.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Khairul_Anuar1222010_42608_AM.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,904 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,925 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,926 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\Simone_Turina2162011_105648_AM.doc: File is not a zip file
+2025-10-10 11:20:29,929 | ERROR | _extract_text_from_file:478 | Error reading DOCX file C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\SueGedrych August 2011.doc: file 'C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\data\centralized\IntelliCV-data\SueGedrych August 2011.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2025-10-10 11:20:29,934 | WARNING | _extract_text_from_file:491 | PyPDF2 not available, skipping PDF files
+2025-10-10 11:20:29,934 | INFO | _process_historical_data:927 | Historical data processing completed. 4 files processed
+2025-10-10 11:20:29,934 | INFO | _process_historical_data:928 | Years covered: [2011]
+2025-10-10 11:20:29,957 | INFO | process_all_data:359 | Complete data processing finished. Results saved to: C:\IntelliCV-AI\IntelliCV\SANDBOX\admin_portal\ai_data\complete_parsing_output\complete_processing_results_20251010_112029.json
+2025-10-10 11:20:29,957 | INFO | save_extracted_data:1088 | Saving extracted data to files...
+2025-10-10 11:20:30,886 | INFO | save_extracted_data:1147 | Extracted data saved to 3 files

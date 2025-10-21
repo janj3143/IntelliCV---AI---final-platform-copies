@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "file_name": "Murat HACIBEKIR - Resume MARCH 2024 - BASF.pdf",
+    "file_size": 452094,
+    "processing_date": "2025-10-09T16:21:05.845725",
+    "text_length": 4984,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "mhacibekir@gmail.com"
+    ],
+    "phones": [
+      "90 533 810 6108"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [],
+  "job_titles": [
+    "Manager"
+  ],
+  "text_sample": " \nMurat HACIBEKIR \nmhacibekir@gmail.com \nGoztepe Mahallesi Hattat Bahattin Sk No 14 Park Palas Apt Kat 4 No 7 Istanbul TURKEY \nMobile: +90 533 810 6108  \n \nPROFESSIONAL OBJECTIVE \nBusiness Manager/Market Manager position within a global chemical company, preferably through expatriation \nposition (USA, Europe, Middle East) \n \nEXPERIENCE \nRegional Sales Manager – ARKEMA - Turkey & MENA                      May 2021 - Current \n Marketing and sales of All FLUP (%50) and SPA (%50) (Specialty Polyami...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "finance": [
+      "Excel",
+      "SAP"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 1,
+      "finance": 2,
+      "marketing": 1,
+      "manufacturing": 2,
+      "consulting": 3,
+      "sales": 1
+    },
+    "confidence": 0.5
+  }
+}

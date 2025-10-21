@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "file_name": "Resume SÜLEYMAN CAHİT UĞURSES (2).pdf",
+    "file_size": 499870,
+    "processing_date": "2025-10-09T16:21:07.111618",
+    "text_length": 6557,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "suleymanugurses@gmail.com"
+    ],
+    "phones": [
+      "552 400 4085"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Management of Technology"
+  ],
+  "job_titles": [
+    "Manager",
+    "Coordinator",
+    "Specialist"
+  ],
+  "text_sample": "SÜLEYMAN CAHİT UĞURSES\nSales & Marketing - Business Development & Automotive Professional \nPersonal details\nName\nSÜLEYMAN CAHİT UĞURSES\nEmail address \nsuleymanugurses@gmail.com\nPhone number\n+90 (0) 552 400 4085\nAddress\nIstanbul, Turkey\nLinkedIn\nlinkedin.com/in/cahitugurses\nSkills\nPlastics and Chemical \nEconomics of Strategy \nSales and Marketing \nBusiness Development \nPlastics & Automotive Industry  \n6 Sigma Green Belt\nAutomotive Aftersales\nLanguages\nEnglish\nTurkishEmployment\nMarketing & Sales Ma...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "finance": [
+      "Excel",
+      "SAP"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "finance",
+    "industry_scores": {
+      "technology": 1,
+      "healthcare": 1,
+      "finance": 3,
+      "marketing": 1,
+      "manufacturing": 2,
+      "education": 2,
+      "consulting": 3,
+      "sales": 1
+    },
+    "confidence": 0.42857142857142855
+  }
+}

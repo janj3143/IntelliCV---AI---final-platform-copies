@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "file_name": "Johnston Vere Switzerland Recruitment (Perm) Contract 25.10.2022.docx",
+    "file_size": 71255,
+    "processing_date": "2025-10-09T16:21:03.398240",
+    "text_length": 56913,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [],
+    "phones": [
+      "03858952",
+      "205-209",
+      "1-800-250-7830"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Personal Data by virtue of providing the Services",
+    "Personal Data that is or was Processed by AGENCY on behalf of JOHNSON CONTROLS or in connection with the Services",
+    "AG\t\t\tJohnston Vere Consultancy Ltd",
+    "Principles of Co",
+    "Personal Data Processed by AGENCY as part of the provision by AGENCY of the Services",
+    "Processor shall only Process Personal Data for the business purpose of providing the Services",
+    "Personal Data to JOHNSON CONTROLS for the purpose of providing the Services"
+  ],
+  "job_titles": [
+    "manager",
+    "consultant"
+  ],
+  "text_sample": "Agreement for the Recruitment of Permanent and Fixed Term Contract Employees\n\nTHIS AGREEMENT (\"Agreement\") is entered into as of the last date of signature herein (\"Effective Date\") by and between:\n\n  Tyco Integrated Fire & Security (Schweiz) AG a company registered in Switzerland with company number CHE-106.831.135    with its registered address at Bahnweg 11, CH - 8808 Pfäffikon / SZ (\"JOHNSON CONTROLS\") and\n\nJohnston Vere Consultancy incorporated and registered in United Kingdom company numbe...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "cloud": [
+      "AWS"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "finance": [
+      "Compliance"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "finance",
+    "industry_scores": {
+      "technology": 1,
+      "finance": 3,
+      "marketing": 2,
+      "manufacturing": 2,
+      "education": 1,
+      "consulting": 2,
+      "sales": 1
+    },
+    "confidence": 0.42857142857142855
+  }
+}

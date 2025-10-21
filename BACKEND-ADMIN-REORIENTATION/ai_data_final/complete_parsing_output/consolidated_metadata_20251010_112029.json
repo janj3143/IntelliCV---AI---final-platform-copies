@@ -1,0 +1,26 @@
+{
+  "skills": [
+    "excel",
+    "html",
+    "matlab",
+    "sql",
+    "go",
+    "sap",
+    "express",
+    "salesforce",
+    "react",
+    "c++",
+    "rust",
+    "c#",
+    "r",
+    "git",
+    "php",
+    "project management"
+  ],
+  "job_titles": [],
+  "locations": [],
+  "extraction_timestamp": "2025-10-10T11:20:30.886942",
+  "total_unique_skills": 16,
+  "total_unique_job_titles": 0,
+  "total_unique_locations": 0
+}

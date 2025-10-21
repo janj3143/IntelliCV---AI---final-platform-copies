@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "file_name": "Roy Botha CV Oct'11.pdf",
+    "file_size": 269777,
+    "processing_date": "2025-10-09T16:21:07.816466",
+    "text_length": 25559,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "roybotha@hotmail.com",
+      "Mark.Tapson@Emerson.com",
+      "David.Kraft@Emerson.com",
+      "Richard.Lepper@Emerson.com"
+    ],
+    "phones": [
+      "973 77040900",
+      "973 38395486"
+    ],
+    "names": [
+      "Abraham Le Roux Botha"
+    ],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Ltd  \n Information Technology Solutions",
+    "PAS Operator and Automation Effectiveness Solutions \nand Services",
+    "Sasol Alliance \nnegotiations supported by the Industry Solutions",
+    "Advanced Solutions",
+    "IBM Manufacturing Solutions",
+    "Ltd  Industry Solutions",
+    "Ltd Industry \nSolutions",
+    "To Present  Process Automation Services",
+    "National Systems",
+    "IBM Production Solutions",
+    "Compaq Solutions",
+    "Full financial responsibility for the Honeywell Process \nSolutions",
+    "Ltd  \n Industrial Process  Solutions",
+    "Manufacturing \nSolutions",
+    "Publisher & \nProject  \n \nControl Systems",
+    "Honeywell Process Solutions",
+    "Hybrid \nControl Systems",
+    "Ltd Industri al \nProcess Solutions",
+    "GM \ntargets for Industry Solutions",
+    "David Kraft   Process Systems & Solutions",
+    "Leadership responsibility for Process Systems and \nSolutions",
+    "IBM Solutions",
+    "Industrial Systems",
+    "Senior local Industry Solutions",
+    "Historian and Integrated Building \nManagement and Access Control Systems",
+    "P rocess  Systems & Solutions"
+  ],
+  "job_titles": [
+    "Senior",
+    "Director",
+    "manager",
+    "lead",
+    "Coordinator",
+    "Manager",
+    "Lead",
+    "senior",
+    "MANAGER"
+  ],
+  "text_sample": "1 \n Curriculum Vitae  \n \n \nName:   Abraham Le Roux Botha (Roy)  \n \nE-mail: roybotha@hotmail.com  \n \nLanguages: English  and Afrikaans  \n \nHealth :  Excellent  \n \nSport :  Golf, Squash, Gym  \n \nHobbies & Professional Interests : Music, Gar dening, Rugby, Motor Sport                                                                               \n               \nProfessional Membership :  South African Instrumentation and Control (SAIMC ) South African \nEquivalent of ISA  \n \nQualifications:  Enginee...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "finance": [
+      "Excel",
+      "SAP"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "manufacturing",
+    "industry_scores": {
+      "technology": 2,
+      "healthcare": 1,
+      "finance": 1,
+      "marketing": 1,
+      "manufacturing": 3,
+      "education": 1,
+      "consulting": 3,
+      "sales": 2
+    },
+    "confidence": 0.5
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "file_name": "Ahmed Marjan_18532464_cv-library.pdf",
+    "file_size": 165127,
+    "processing_date": "2025-10-09T16:20:48.833816",
+    "text_length": 8335,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "ahmed.mmarjan@gmail.com"
+    ],
+    "phones": [],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Arvia Technology",
+    "Lab based and pilot plant research topics  include  Liqui d Mixing Systems",
+    "Reactors & Catalysis  and Fuel Cell Technology"
+  ],
+  "job_titles": [
+    "lead",
+    "Engineer",
+    "engineer"
+  ],
+  "text_sample": " \n Ahmed  Marjan  MEng MSc Chemical Engineer\nWork Experience  \nProcess Engineer : Stantec , Leeds , Yorkshire , UK                                              Oct 2019  – Present  \n• Further develop ing in depth  knowledge  and experience in deliver ing innovative, sustainable, and ef ficient engineering solutions in \nthe water industry  \n• Taking a lead process role, as pa rt of a multi -disciplinary  project t eam, delivering WINE P projects for the  AMP7 program s. \n• Prepar ing detailed des...",
+  "skills_detected": {
+    "web_development": [
+      "React"
+    ],
+    "finance": [
+      "Excel",
+      "Compliance"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "finance",
+    "industry_scores": {
+      "technology": 2,
+      "healthcare": 1,
+      "finance": 3,
+      "manufacturing": 1,
+      "education": 1,
+      "consulting": 2
+    },
+    "confidence": 0.42857142857142855
+  }
+}

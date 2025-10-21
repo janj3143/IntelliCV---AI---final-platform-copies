@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "file_name": "Marek-Sinski-CV-English-1011.pdf",
+    "file_size": 439960,
+    "processing_date": "2025-10-09T16:21:04.410446",
+    "text_length": 15026,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "marek_sinski@poczta.onet.pl"
+    ],
+    "phones": [
+      "48 600 468478"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": [
+      " "
+    ]
+  },
+  "companies": [
+    "Automation & Drives                      Solutions",
+    "Poland  \nHoneywell Sales Manager  at Polymark Ltd",
+    "Precision Data Acquisition and Control Solutions  \n                       Machine Vision Systems",
+    "Honeywell Sales Manager  at Polymark Ltd",
+    "Foreign Trade \nCompany",
+    "Autom ation Systems",
+    "TIP Solutions",
+    "Distributed Control \nSystems",
+    "Customer relationship and  \nKey Account management  \no Sales and S ervice Team building  \no Manufacturing Automation and Process \nControl architecture development  o Company management  \no Company"
+  ],
+  "job_titles": [
+    "Manager",
+    "Consultant",
+    "Engineer"
+  ],
+  "text_sample": " Curriculum Vitae  \n MAREK SIŃSKI  \nMarek -Sinski -CV-English -1011   Page 1 of 6 EEXXEECCUUTTIIVVEE  SSUUMMMMAARRYY  \nHighlights  \n 15+ years of Country - and B2B Sales Manage ment  \nand Business  Development  experience  \n focus on  Sales and Marketing  of High -Tech  capital goods  \n studied Executive MBA  \n M.Sc., Electr. Engineer,  Industrial Automation & Control  \n Key A ssets  \n Business Management Skills.  \nLong-term track of successful business development and B2B sales & marketing...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "cloud": [
+      "AWS"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "finance": [
+      "Excel"
+    ],
+    "soft_skills": [
+      "Leadership"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 2,
+      "healthcare": 1,
+      "finance": 2,
+      "marketing": 1,
+      "education": 1,
+      "consulting": 2,
+      "sales": 1
+    },
+    "confidence": 0.2857142857142857
+  }
+}

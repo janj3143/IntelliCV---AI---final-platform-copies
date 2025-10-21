@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "file_name": "Curriculum Vitae Eng.docx",
+    "file_size": 23656,
+    "processing_date": "2025-10-09T16:20:51.566196",
+    "text_length": 5179,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "buonincontro1@hotmail.com"
+    ],
+    "phones": [
+      "3351300278",
+      "335 376977"
+    ],
+    "names": [
+      "Aniello",
+      "Buonincontro"
+    ],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "I consider people as a Company"
+  ],
+  "job_titles": [
+    "Manager",
+    "lead",
+    "Engineer",
+    "engineer"
+  ],
+  "text_sample": " \n\n\n\n\n\n\n\n\n\n\n\n\nI’m an Aeronautical Engineer. I’ve built my skills, in Production, Lean Manufacturing  and Project Management, working with Companies that are Leaders in their market.\nI had the luck of entering the working environment of either domestic and foreign Customers and Supplier. Companies as Boeing, Procter & Gamble and Lean consulting Shingijutsu.\nGoal oriented, I consider people as a Company main value.\nEnthusiastic about facing new challenges. Nothing is really bad if you find the way...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "project_management": [
+      "Kanban"
+    ],
+    "marketing": [
+      "SEM"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "education",
+    "industry_scores": {
+      "finance": 1,
+      "manufacturing": 2,
+      "education": 3,
+      "consulting": 2
+    },
+    "confidence": 0.5
+  }
+}

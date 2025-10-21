@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "file_name": "Curriculum vitae Giancarlo PorchiaEN.pdf",
+    "file_size": 53535,
+    "processing_date": "2025-10-09T16:20:51.889726",
+    "text_length": 9895,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "giancarlo.porchia@gmail.com",
+      "giancarlo.porchia@gmail.com",
+      "giancarlo.porchia@gmail.com",
+      "giancarlo.porchia@gmail.com",
+      "giancarlo.porchia@gmail.com",
+      "giancarlo.porchia@gmail.com"
+    ],
+    "phones": [
+      "39 34 53027401",
+      "39 34 53027401",
+      "39 34 53027401",
+      "39 34 53027401",
+      "39 34 53027401",
+      "39 34 53027401"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Milan  \nLiftGas Project for Qatar Petroleum Company"
+  ],
+  "job_titles": [
+    "Engineer",
+    "manager",
+    "Chief",
+    "Lead",
+    "specialist",
+    "engineer"
+  ],
+  "text_sample": " \n \n \nVia Giuseppe dalla Vedova, 40  \n00176 – Rome - Italy  \nMobile +39 34 53027401  \ne_mail: giancarlo.porchia@gmail.com  \n Giancarlo Porchia  \n \n                            Page 1 of 5 \n \n POSITION:  Leed Project Engineer /  \nControl & Safety system specialist  \n \n \nFAMILY NAME:     PORCHIA  \n \nFIRST NAMES:    GIANCARLO  \nDATE OF BIRTH:    03/01/1979  \n \nNATIONALITY:    Italian  \nSTATUS :   Married  \nEDUCATION:  University of Rome “ UTI NETTUNO ”, Faculty  of En gineering  & \nManagement , insc...",
+  "skills_detected": {
+    "project_management": [
+      "MS Project"
+    ],
+    "soft_skills": [
+      "Communication",
+      "Problem Solving"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 2,
+      "healthcare": 1,
+      "consulting": 1,
+      "sales": 1
+    },
+    "confidence": 0.2857142857142857
+  }
+}

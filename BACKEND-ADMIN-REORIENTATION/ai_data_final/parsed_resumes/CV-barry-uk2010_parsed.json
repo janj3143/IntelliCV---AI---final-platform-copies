@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "file_name": "CV-barry-uk2010.pdf",
+    "file_size": 145546,
+    "processing_date": "2025-10-09T16:20:55.747114",
+    "text_length": 6315,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "barry@vderark.nl"
+    ],
+    "phones": [
+      "390 2027"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Multi  vendor Services",
+    "Services Sales Manager  \nSTOR K Industry Services",
+    "Lucent Services",
+    "Team lead Nyenrode Sponsor Acquisition and Nyenrode Broadcast Company",
+    "Stork Industry Services",
+    "Lucent                                      Services"
+  ],
+  "job_titles": [
+    "Developer",
+    "Director",
+    "manager",
+    "lead",
+    "Manager",
+    "senior"
+  ],
+  "text_sample": " \n \n \nCV Barry van der Ark  \nPage 1 of 3 \n  \nCurriculum Vitae  \n \nB.A. (Barry) van der Ark , Msc ., Bsc . \n \n \nPERSONAL DETAILS:  \nPrins Bernardstraat 26   Date of birth  : August 17, 1974 (Sassenheim)  \n2171 XH Sassenheim   Marital status  : Partner , 1 son  \n+31 (0) 62  390 2027   Nationality  : Dutch  \nbarry@vderark.nl   Driver license  : A-B \n \nPROFIL E: \nBusiness driven Strategist , Progressive and Innovating.  Leading in building a win-win relation based upon \nhonesty and integrity . Activ...",
+  "skills_detected": {
+    "programming": [
+      "Go",
+      "Rust"
+    ],
+    "finance": [
+      "Excel"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 2,
+      "finance": 1,
+      "education": 2,
+      "consulting": 3,
+      "sales": 2
+    },
+    "confidence": 0.5
+  }
+}

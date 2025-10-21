@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "file_name": "Kaan Suner_OnePage_CV_12_03_2024.pdf",
+    "file_size": 124552,
+    "processing_date": "2025-10-09T16:21:03.702821",
+    "text_length": 4349,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "kaan.suner@gmail.com"
+    ],
+    "phones": [
+      "90 541 748 1234",
+      "58385762"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [],
+  "job_titles": [
+    "Senior",
+    "Engineer",
+    "junior",
+    "VP",
+    "Specialist",
+    "Manager"
+  ],
+  "text_sample": "KAAN SÜNER  \n \n \n \n \nContact  Information  \n \n \nAddress:  \nKocaeli  , Istanbul  \n \nPhone:  \n+90 541 748 1234  \n \nEmail:  \nkaan.suner@gmail.com  \n \nLinkedIn : \nwww.linkedin.com/in/kaan -\nsüner-58385762  \nPersonal  Information  \n \n \nDate  of Birth:  \n01.11.1988, Istanbul  \n \nEducation  Status:  \nBachelor  \n \nWorking  Status:  \nWorking  \n \nMarital  Status:  \nMarried  \nLanguages  \n \n \nTurkish – Native  \nEnglish – Fluent  \nReferences  \n \n \nAvailable on \nrequest  \n  \nSummary  \n \nStrategic -minded, har...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "finance": [
+      "Excel"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Communication",
+      "Strategic Planning"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "manufacturing",
+    "industry_scores": {
+      "technology": 1,
+      "manufacturing": 2,
+      "consulting": 2,
+      "sales": 1
+    },
+    "confidence": 0.3333333333333333
+  }
+}

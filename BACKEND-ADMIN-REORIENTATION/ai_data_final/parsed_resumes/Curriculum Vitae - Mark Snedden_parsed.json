@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "Curriculum Vitae - Mark Snedden.pdf",
+    "file_size": 36565,
+    "processing_date": "2025-10-09T16:20:51.223012",
+    "text_length": 8151,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [],
+    "phones": [
+      "1988-1990"
+    ],
+    "names": [
+      "Mark Snedden"
+    ],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Halliburton Measureme nt Systems",
+    "Currently undertaking a NVQ Diploma in Oil and Gas Production Technology",
+    "I was \nprimarily responsible for the sales and management of Halliburton Measurement Systems",
+    "Tyco Fire & Integrated Solutions",
+    "Circor Instrumentation Limited",
+    "Tyco Fire & Integrated Solutions Limited",
+    "Rhomax Engineering Limited",
+    "Petrofac Offshore Engineerin g & Operations \nformerly Stephen Gillespie Consultants Limited",
+    "Halliburton Manufacturing & Services"
+  ],
+  "job_titles": [
+    "Senior",
+    "Director",
+    "Manager",
+    "specialist",
+    "director"
+  ],
+  "text_sample": "Curriculum Vitae \n \nName:     Mark Snedden \nDate of Birth:    20 March 1972 (Age 39) \nPlace of Birth:    Paisley, United Kingdom \nMarital Status: Married to Stacey \nwith three children (Elizabeth 8, Kirsty 6 and Harr ison 4) \n \nHome Address:   2 Meylea Street, \n     Wester Inch Village, \n     Bathgate \n     West Lothian EH48 2SQ \n     United Kingdom \n \nDriving License:   Full UK License with no endorsem ents \n \nSummary: An experienced business development profes sional with a \n15-year plus prove...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 1,
+      "healthcare": 1,
+      "manufacturing": 2,
+      "education": 1,
+      "consulting": 3,
+      "sales": 2
+    },
+    "confidence": 0.5
+  }
+}

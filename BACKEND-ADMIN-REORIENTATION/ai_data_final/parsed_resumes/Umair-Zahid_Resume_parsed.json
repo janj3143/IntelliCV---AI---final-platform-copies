@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "file_name": "Umair-Zahid_Resume.pdf",
+    "file_size": 679871,
+    "processing_date": "2025-10-09T16:21:10.707744",
+    "text_length": 10906,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "umairzahid@live.com"
+    ],
+    "phones": [
+      "56-1698649"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Working  in close  liaison  with  Nippon  Paint  Malaysia  & Nippon  Paint  India  for localization  of new  products  \nand Technology",
+    "Pakistan working  in close  liaison  with  Pak Suzuki  Motors  Co Ltd",
+    "Pak Suzuki Motors  Co"
+  ],
+  "job_titles": [
+    "Manager",
+    "Associate"
+  ],
+  "text_sample": " \nUMAIR  ZAHID  \n+971 -56-1698649  • umairzahid@live.com  • pk.linkedin.com/in/umairzahid1  \n \n \nEDUCATION_______________________________________________________________________________________  \nINSTITUTE  OF BUSINESS  ADMINSTRATION                                                                                                             Lahore , Pakistan  \nExecutive  MBA      Nov 2021 - Oct 2024  \nUNIVERSITY  OF ENGINEERING  & TECHNOLOG                                                         ...",
+  "skills_detected": {
+    "finance": [
+      "Excel",
+      "SAP"
+    ],
+    "soft_skills": [
+      "Leadership"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 1,
+      "marketing": 2,
+      "manufacturing": 1,
+      "education": 2,
+      "consulting": 3,
+      "sales": 1
+    },
+    "confidence": 0.5
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "file_name": "Lars Wallstein Jan 2011_sent to Jan Johnston.pdf",
+    "file_size": 113673,
+    "processing_date": "2025-10-09T16:21:04.084706",
+    "text_length": 8736,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "lars.wallstein@gmx.net",
+      "janj@johnston-vere.co.uk",
+      "lars.wallstein@gmx.net",
+      "lars.wallstein@gmx.net",
+      "lars.wallstein@gmx.net",
+      "lars.wallstein@gmx.net"
+    ],
+    "phones": [
+      "2628 724",
+      "2628 724",
+      "2628 724",
+      "2628 724",
+      "2628 724",
+      "1994-1995"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "PolymerLatex GmbH & Co",
+    "Business Analyst  \nPolymerLatex GmbH & Co",
+    "Assistant to the CEO  \nPolymerLatex GmbH & Co",
+    "PolymerLatex Ltd"
+  ],
+  "job_titles": [
+    "Analyst",
+    "Senior",
+    "analyst",
+    "Director",
+    "manager",
+    "Manager"
+  ],
+  "text_sample": "Lars Wallstein \n \nRehweg 14 ● D- 45721 Haltern am See \nMobil: +49 (0) 175 – 2628 724 ● Email: lars.wallstein@gmx.net  \n \nLars Wallstein ● Rehweg 14 ● D-45721 Haltern am See \n \nVia Email \n \nMr. \nJan Johnston \njanj@johnston-vere.co.uk \n \n \n          2011-01-03 \n \nYour contact / My profile \n \n \nJan, \n \nI hope your December trip to Russia was as good as mine to Dubai. Thanks a lot again for \nhaving contacted me early in December and consideri ng me for the Asphalt-Business \nDevelopment-Opportunity i...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "finance": [
+      "Excel",
+      "SAP"
+    ],
+    "soft_skills": [
+      "Leadership"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 1,
+      "healthcare": 1,
+      "finance": 1,
+      "education": 1,
+      "consulting": 1,
+      "sales": 1
+    },
+    "confidence": 0.14285714285714285
+  }
+}

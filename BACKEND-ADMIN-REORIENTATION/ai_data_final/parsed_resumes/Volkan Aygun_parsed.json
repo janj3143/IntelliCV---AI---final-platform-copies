@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "file_name": "Volkan Aygun.pdf",
+    "file_size": 263804,
+    "processing_date": "2025-10-09T16:21:10.832002",
+    "text_length": 5221,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "volkan.aygun@gmail.com",
+      "volkan.aygun@gmail.com",
+      "volkan.aygun@gmail.com"
+    ],
+    "phones": [
+      "90 532 2559168",
+      "90 532 2559168",
+      "90 532 2559168",
+      "39 335 709 1706",
+      "90 532 246 0360",
+      "39 335 632 6781",
+      "49 162 885 7095",
+      "49 151 111"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Sales and Technical Services",
+    "Country Manager Turkey for Avient Corporation"
+  ],
+  "job_titles": [
+    "Senior",
+    "Engineer",
+    "Vice President",
+    "manager",
+    "Specialist",
+    "Manager"
+  ],
+  "text_sample": "VOLKAN AYGUN \nSengul Sok. Cagla Apt. No:3 Daire: 23 Bostanci, Kadıkoy, İstanbul Tel: +90 532 2559168 volkan.aygun@gmail.com \n \n \nPERSONAL PROFILE \n \nAn energetic, motivated and highly dynamic sales manager with good strategic, sales and \nmarketing skills and extensive experience and proven success in developing new business. Have \nstrong analytical skills with the capability of assessing conditions and implementing appropriate \nintervention. Is a resourceful thinker who can discover solutions fo...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 1,
+      "consulting": 2
+    },
+    "confidence": 0.3333333333333333
+  }
+}

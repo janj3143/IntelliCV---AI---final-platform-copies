@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "file_name": "CV_Nina Schäfer_2022_EN.pdf",
+    "file_size": 160556,
+    "processing_date": "2025-10-09T16:20:58.071685",
+    "text_length": 4175,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [],
+    "phones": [
+      "49 1712178364"
+    ],
+    "names": [
+      "Nina Sch"
+    ],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [],
+  "job_titles": [
+    "Manager",
+    "Lead"
+  ],
+  "text_sample": "NI N A  SC H Ä F E R  \n \n \n \nPage 1 of 3 Curriculum Vitae  \n \n \n \n    7 years working experience with 5 years Sales Management  \n    (Cosmetic  raw materials)  \n \n    MBA & Cosmetic Scientist  \n \n    Structure loving enthusiast with passion for personal development,  \n    cosmetics, cultures & people  \n \n \nPersonal Details  \nName     Nina Schäfer   \n \nBirth date    29. April 1993    \n \nResidence    Wiesbaden  \n \nNationality    German  \n \nContact data    Klingerstr. 6a  \n    65195 Wiesbaden  \n \n ...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 1,
+      "education": 1,
+      "consulting": 3,
+      "sales": 1
+    },
+    "confidence": 0.5
+  }
+}

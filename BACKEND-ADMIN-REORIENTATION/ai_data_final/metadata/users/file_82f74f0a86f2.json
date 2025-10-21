@@ -1,0 +1,152 @@
+{
+  "file_id": "file_82f74f0a86f2",
+  "source_path": "C:\\IntelliCV\\data\\doc_data_converted_docx\\JVCL Templates-20250708T125322Z-1-001\\JVCL Templates\\JVC - invoice template.docx",
+  "extracted_at": "2025-08-10T16:26:46.807183",
+  "text": "Invoice\nMake all cheques payable to Johnston Vere Consultancy, Suite 205-209 Malthouse Business Park, 48 Southport Road, Ormskirk, Lancs L39 1QR\n(+44) 1695 570696; julie.smith@johnston-vere.co.uk\nIf you wish to pay by BACS transfer, our account details are:\nStarling Bank\nAccount 57202178\nSort Code 60-83-71\nSwift: SRLGGB2L\nIBAN: GB27SRLG60837157202178 Invoice\nMake all cheques payable to Johnston Vere Consultancy, Suite 205-209 Malthouse Business Park, 48 Southport Road, Ormskirk, Lancs L39 1QR\n(+44) 1695 570696; julie.smith@johnston-vere.co.uk\nIf you wish to pay by BACS transfer, our account details are:\nStarling Bank\nAccount 57202178\nSort Code 60-83-71\nSwift: SRLGGB2L\nIBAN: GB27SRLG60837157202178 ",
+  "emails": [],
+  "phones": [
+    "+44) 1695 570696",
+    "60837157202178"
+  ],
+  "names": [
+    "Malthouse Business",
+    "Johnston Vere",
+    "Starling Bank"
+  ],
+  "work_history": [],
+  "title": "",
+  "company": "",
+  "location": "",
+  "experience_years": 0,
+  "career_stage": "entry",
+  "industries": [
+    "general"
+  ],
+  "skills": [],
+  "ai_scores": {
+    "experience_years": 0.0,
+    "title_progression": 0.5,
+    "company_prestige": 0.5,
+    "location_mobility": 0.5,
+    "skill_diversity": 0.0,
+    "network_strength": 0.3
+  },
+  "ai_final_score": 0.27,
+  "ai_processed_at": "2025-08-11T10:42:10.983167",
+  "similar_users": [
+    {
+      "user_id": "file_0003865a7c4a",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.27,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_000a12cbb771",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.27,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_00344b0836c2",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.27,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_0086ec6f1b90",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.27,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_008dcceee73c",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.27,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_00e4daf72a60",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.27,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_00f1ad8aa85c",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.27,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_00f585667d18",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.27,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_010f7e646664",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.27,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_012ae853275f",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.27,
+      "experience_years": 0
+    }
+  ],
+  "recommendations": {
+    "career_advancement": [
+      "Focus on building core technical skills",
+      "Seek mentorship from senior team members",
+      "Take on challenging projects to gain experience"
+    ],
+    "skill_development": [],
+    "company_targets": [
+      "Mid-size companies with growth potential",
+      "Startups in emerging industries",
+      "Companies known for employee development"
+    ],
+    "networking": []
+  }
+}

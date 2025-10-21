@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "file_name": "CV_Sebastian Franke.pdf",
+    "file_size": 227078,
+    "processing_date": "2025-10-09T16:20:59.826037",
+    "text_length": 5454,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "jenssebastianfranke@gmail.com"
+    ],
+    "phones": [
+      "172 6188913"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [],
+  "job_titles": [
+    "junior",
+    "consultant",
+    "lead",
+    "Analyst"
+  ],
+  "text_sample": " \n1 – Curriculum Vitae  – \nSebastian Franke, M.A.  \nPasteurstr. 20 , 10407 Berlin, Germany  \n+49(0)  172 6188913  \njenssebastianfranke@gmail.com  \nBorn on March 22nd, 1982  \nGerman national  \nMarried , 2 children  \n \nPersonal Profile  \n• Over  14 years of practical experience  in governmental relations management . Traceable success in  cross-\nfunc tional strategy development and effective advocacy . \n• Energy  and mobility  policy  and economics  expert . Passionate  about policy  solutions  le...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "finance": [
+      "Excel"
+    ],
+    "soft_skills": [
+      "Communication",
+      "Strategic Planning"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "education",
+    "industry_scores": {
+      "technology": 1,
+      "marketing": 1,
+      "education": 5,
+      "consulting": 3
+    },
+    "confidence": 0.8333333333333334
+  }
+}

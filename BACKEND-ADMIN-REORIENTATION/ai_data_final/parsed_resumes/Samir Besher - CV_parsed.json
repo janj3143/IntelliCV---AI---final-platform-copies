@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "file_name": "Samir Besher - CV.pdf",
+    "file_size": 136274,
+    "processing_date": "2025-10-09T16:21:07.993506",
+    "text_length": 7815,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "samirbesher@yahoo.com"
+    ],
+    "phones": [
+      "971 557008343"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Ecocem & Lafarge International Limited",
+    "Annual S alary review program for staff and Company"
+  ],
+  "job_titles": [
+    "Manager",
+    "Senior",
+    "manager"
+  ],
+  "text_sample": "Page 1 of 3 Samir Besher  \n \n \nPresent Address:  \nCorniche  Al Bohera , Sharjah , UAE  \n \n \nEmail : samirbesher@yahoo.com  \n \n  \nMob: +971 557008343  \n \n \nResults -Oriented HR Professional with  Successful Career Spanning 20+ Yrs   \n \nProfile Summary : \n• COMPENSATION AND BENEFITS    \n• PAYROLL MANAGEMENT  \n• HR  OPERATIONS  \n• ACCOUNTING   \n• HRIS  ( SAP   ) \n \n \nOBJECTIVE  \nTo drive the Organization’s Performance to W orld-class levels, by using  strong  technical  & Accounting  \nexpertise and...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "databases": [
+      "Oracle"
+    ],
+    "finance": [
+      "Excel",
+      "SAP",
+      "Compliance"
+    ],
+    "soft_skills": [
+      "Leadership"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "finance",
+    "industry_scores": {
+      "technology": 1,
+      "healthcare": 1,
+      "finance": 3,
+      "manufacturing": 1,
+      "consulting": 2
+    },
+    "confidence": 0.42857142857142855
+  }
+}

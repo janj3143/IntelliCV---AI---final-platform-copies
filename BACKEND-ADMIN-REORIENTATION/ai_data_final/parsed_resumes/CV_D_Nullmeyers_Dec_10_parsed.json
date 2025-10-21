@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "file_name": "CV_D_Nullmeyers_Dec_10.pdf",
+    "file_size": 106749,
+    "processing_date": "2025-10-09T16:20:57.475576",
+    "text_length": 6836,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [],
+    "phones": [
+      "07968 864714",
+      "0208 6694276"
+    ],
+    "names": [
+      "Darran Stephen Nullmeyers"
+    ],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Cegedim Dendrite  Ltd"
+  ],
+  "job_titles": [
+    "Senior",
+    "Specialist",
+    "Manager",
+    "Lead",
+    "specialist"
+  ],
+  "text_sample": "Darran Nullmeyers                                                                        Curriculum Vitae  \nnullmeyers@ gmail.com  \nPERSONAL DETAILS  \n \nName :    Darran Stephen Nullmeyers  \nDate of Birth :   24th February 1977  \nHome Address :  13 Guy Road  \n   Wallington  \n   Surrey , SM6 7LZ  \nTelephone :  07968 864714  – Work Mobile  \n   0208 6694276 – Home  \nNationality :  British   \n \nEDUCATION & WORK EXPE RIENCE  \n \n Jan 2010 – Present: Sales Manager, Life Sciences, EMEA  – StayinFront (...",
+  "skills_detected": {
+    "programming": [
+      "Go",
+      "Rust"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "finance": [
+      "Excel"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Team Management"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "healthcare",
+    "industry_scores": {
+      "technology": 2,
+      "healthcare": 3,
+      "finance": 2,
+      "manufacturing": 3,
+      "education": 2,
+      "consulting": 3,
+      "sales": 2
+    },
+    "confidence": 0.5
+  }
+}

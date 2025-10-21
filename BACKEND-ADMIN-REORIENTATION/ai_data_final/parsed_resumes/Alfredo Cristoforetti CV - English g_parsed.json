@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "file_name": "Alfredo Cristoforetti CV - English g.pdf",
+    "file_size": 215985,
+    "processing_date": "2025-10-09T16:20:49.097159",
+    "text_length": 4536,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "alfredo.cristoforetti@gmail.com"
+    ],
+    "phones": [
+      "1852963"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Manufacturing Execution Systems",
+    "Mark eting Manager Automation Systems",
+    "Other experiences  \n \n \nActually   PRAMAC  \n   Leading European Company",
+    "Typically working with the EMEA subsidiaries of Multinational Corporation",
+    "MICROSOFT  \n   Leading IT Corporation",
+    "Ricercatore  \n   Master in Applied Technology",
+    "MES Solutions"
+  ],
+  "job_titles": [
+    "Director",
+    "lead",
+    "Manager",
+    "Lead",
+    "Principal"
+  ],
+  "text_sample": "ALFREDO CRISTOFORETTI  \nAddress: Via Brugo, 5 – 10041 Carignano (To) – Italy \nMobile: +39.335.1852963  \nE-mail: alfredo.cristoforetti@gmail.com   \n \nPersonal Profile  \n \nA successful experience as Marketing, Business Development and Sales Lead in the IT space with \nspecific reference to Manufacturing and Retail sector. Proven ability to work with high level \ninternational customers and identify new business opportunity. Excellent team player skills and \nenvisioning attitude. Like to win business...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "finance": [
+      "Excel"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 2,
+      "marketing": 1,
+      "manufacturing": 1,
+      "consulting": 3,
+      "sales": 3
+    },
+    "confidence": 0.5
+  }
+}

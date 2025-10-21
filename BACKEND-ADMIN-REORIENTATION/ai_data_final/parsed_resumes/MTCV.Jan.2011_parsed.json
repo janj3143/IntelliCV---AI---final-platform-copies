@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "MTCV.Jan.2011.docx",
+    "file_size": 19389,
+    "processing_date": "2025-10-09T16:21:05.774496",
+    "text_length": 6235,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "mataylor2310@btinternet.com"
+    ],
+    "phones": [
+      "07807 868834",
+      "01254 392739"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Lancashire\n\t\tPromoted within Express Gifts Group for Delgado Ltd",
+    "Fibox Ltd",
+    "QUALIFICATIONS\nGCE\t\tMetalwork and Technology",
+    "Solarglass Ltd",
+    "Rittal Ltd",
+    "Express Gifts Ltd"
+  ],
+  "job_titles": [
+    "manager",
+    "consultant",
+    "Manager",
+    "PRINCIPAL"
+  ],
+  "text_sample": "CURRICULUM VITAE\n\nNAME\t\t\t\t\tMARK ANTHONY TAYLOR\nADDRESS\t\t\t\t48 Bluebell Way\n\t\t\t\t\tHuncoat\n\t\t\t\t\tAccrington\n\t\t\t\t\tLancashire, U.K.\n\t\t\t\t\tBB5 6TD\t\t(Willing to Re-locate)\nTELEPHONE No’s\t\t\tMobile – 07807 868834 - Home – 01254 392739\nE-Mail\t\t\t\t\tmataylor2310@btinternet.com \nNATIONALITY\t\t\t\tBritish\nMARITAL STATUS\t\t\tEngaged\n--------------------------------------------------------------------------------------------------------------------------\nPROFILE\n\t\tI am a committed professional with excellent communicati...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "finance": [
+      "Excel"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 2,
+      "healthcare": 1,
+      "manufacturing": 1,
+      "education": 2,
+      "consulting": 2,
+      "sales": 1
+    },
+    "confidence": 0.2857142857142857
+  }
+}

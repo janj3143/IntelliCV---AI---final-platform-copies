@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "file_name": "JVCV - SHAKEEL ABDUL VAKKIL.docx",
+    "file_size": 83124,
+    "processing_date": "2025-10-09T16:21:03.616695",
+    "text_length": 3512,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "janj@johnston-vere.co.uk"
+    ],
+    "phones": [
+      "01695 570 696"
+    ],
+    "names": [],
+    "locations": [
+      "UAE"
+    ],
+    "job_titles": []
+  },
+  "companies": [],
+  "job_titles": [
+    "ENGINEER",
+    "Engineer"
+  ],
+  "text_sample": "\n\n\nCANDIDATE \n\nSHAKEEL ABDUL VAKKIL\n\n\nPERSONAL DETAILS\n\nLocation: UAE\n\n\nQUALIFICATIONS\n\nMSc CHEMICAL ENGINEERING UNIVERSITY OF NOTTINGHAM\n\n\nCAREER SUMMARY\n\n2022 – PRESENT\nPROCESS ENGINEER\nWOOD\n\n• Mayden Mazen and Bul Hanine Offshore Field Redevelopment (MMBH) – Qatar\nEnergy, FEED, QATAR\n\nResponsibility – Flare System Network design. Performed Blowdown Calculations and RO sizing using Blowdown Utility in ASPEN HYSYS. Developed the Flare network in ASPEN FLARENET. Developed P&IDs, PFDs of Well Hea...",
+  "skills_detected": {},
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 1,
+      "manufacturing": 1,
+      "sales": 1
+    },
+    "confidence": 0.14285714285714285
+  }
+}

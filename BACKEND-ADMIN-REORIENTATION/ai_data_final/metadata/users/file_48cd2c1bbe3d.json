@@ -1,0 +1,153 @@
+{
+  "file_id": "file_48cd2c1bbe3d",
+  "source_path": "C:\\IntelliCV\\data\\60972liam-faulkner-cv.docx",
+  "extracted_at": "2025-08-10T16:09:04.003078",
+  "text": "A highly driven student of maths and data science with a background in industry as a Chemical Engineer.  Quick to develop relationships with customers and colleagues.  Supportive and Collaborative as a team member.  Happy to work under my own initiative in high pressure environments.\nEducation\nMSC Mathematics and Data Science, University of Stirling\nSeptember 2019 – September 2020\nA 12-month master’s providing a solid foundation in the mathematical analysis of data-driven systems and development of the computing skills necessary to apply analytical techniques on a large scale.  A focus on the techniques used to approach data using computational analysis and understand the mathematics underpinning these techniques.  Analysis with the use of Python, R, and Weka. Modules include:\nStatistics f A highly driven student of maths and data science with a background in industry as a Chemical Engineer.  Quick to develop relationships with customers and colleagues.  Supportive and Collaborative as a team member.  Happy to work under my own initiative in high pressure environments.\nEducation\nMSC Mathematics and Data Science, University of Stirling\nSeptember 2019 – September 2020\nA 12-month master’s providing a solid foundation in the mathematical analysis of data-driven systems and development of the computing skills necessary to apply analytical techniques on a large scale.  A focus on the techniques used to approach data using computational analysis and understand the mathematics underpinning these techniques.  Analysis with the use of Python, R, and Weka. Modules include:\nStatistics for Data Science\nNetworks & Graph Theory\nRepresenting and Manipulating Data\nCommercial and Scientific Applications\nStochastic Processes and Optimisation\nData Analytics\nModelling in Financial and Medical Systems\nMEng Chemical and Process Engineering, University of Strathclyde\nSeptember 2007 – September 2012\nWork Experience ",
+  "emails": [],
+  "phones": [],
+  "names": [
+    "Data Analytics",
+    "Chemical Engineer",
+    "Stochastic Processes"
+  ],
+  "work_history": [],
+  "title": "",
+  "company": "",
+  "location": "",
+  "experience_years": 0,
+  "career_stage": "entry",
+  "industries": [
+    "general"
+  ],
+  "skills": [
+    "python",
+    "analytics",
+    "data science"
+  ],
+  "ai_scores": {
+    "experience_years": 0.0,
+    "title_progression": 0.5,
+    "company_prestige": 0.5,
+    "location_mobility": 0.5,
+    "skill_diversity": 0.3,
+    "network_strength": 0.3
+  },
+  "ai_final_score": 0.315,
+  "ai_processed_at": "2025-08-11T10:42:08.545238",
+  "similar_users": [
+    {
+      "user_id": "file_11582e1b0350",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.315,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_222f477f7076",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.315,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_3b52d4ee4d6d",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.315,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_409398fdfaae",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.315,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_43e6336db236",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.315,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_4f6523f47651",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.315,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_73b4950bb7a6",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.315,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_8db9a8c9dab1",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.315,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_a110e0cb227a",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.315,
+      "experience_years": 0
+    },
+    {
+      "user_id": "file_a1390d7a022e",
+      "similarity_score": 1.0,
+      "career_stage": "entry",
+      "industries": [
+        "general"
+      ],
+      "ai_score": 0.315,
+      "experience_years": 0
+    }
+  ],
+  "recommendations": {
+    "career_advancement": [
+      "Focus on building core technical skills",
+      "Seek mentorship from senior team members",
+      "Take on challenging projects to gain experience"
+    ],
+    "skill_development": [],
+    "company_targets": [
+      "Mid-size companies with growth potential",
+      "Startups in emerging industries",
+      "Companies known for employee development"
+    ],
+    "networking": []
+  }
+}

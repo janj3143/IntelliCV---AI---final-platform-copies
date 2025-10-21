@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "file_name": "cvnm1_eng.pdf",
+    "file_size": 63867,
+    "processing_date": "2025-10-09T16:20:56.243223",
+    "text_length": 7327,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "nmurgano@hotmail.com"
+    ],
+    "phones": [
+      "+39 3931192827",
+      "1989-1995 110",
+      "2000-2004",
+      "1998-2000",
+      "1996 1998"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Within one year I became Marketing Communication Ma nager in the same Company",
+    "Preparing the budget in accordance with the Company",
+    "Competitive analysis \n \n \nCompany",
+    "Management of the Emea PR Agency based in UK  \n \n \n \nCompany",
+    "Marketing \nCommunication Assistant for an Italian ICT Company",
+    "Highest rates  \n        \nProfessional Experience and Significant Achievements  \n  \nCompany",
+    "Competitive analysis \n \n \n \nCompany"
+  ],
+  "job_titles": [
+    "Manager",
+    "Director",
+    "Lead"
+  ],
+  "text_sample": "Curriculum Vitae  \nPatricia Natalie Diana Murgano  \nBorn in Germany, 22 Oct. 1970 \nItalian nationality \nFemale, divorced, no children, \nPersonal mobile+39 3931192827 \nnmurgano@hotmail.com  \n \n \nShort profile  \n \nI spent  the first 8 years  in Marketing and Marketing C ommunication , 7 years  in the Sales Area \nManagement and Key Account Management . \n \nI started working on a regular basis in 1996, soon after the post-degree Master, as Marketing \nCommunication Assistant for an Italian ICT Company...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "finance": [
+      "SAP"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "sales",
+    "industry_scores": {
+      "technology": 2,
+      "marketing": 2,
+      "education": 2,
+      "consulting": 2,
+      "sales": 3
+    },
+    "confidence": 0.5
+  }
+}

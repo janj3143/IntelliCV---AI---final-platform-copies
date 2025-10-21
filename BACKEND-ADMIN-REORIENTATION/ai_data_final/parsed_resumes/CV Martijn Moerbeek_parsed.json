@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "file_name": "CV Martijn Moerbeek.pdf",
+    "file_size": 417177,
+    "processing_date": "2025-10-09T16:20:53.755703",
+    "text_length": 10803,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "martijn.moerbeek@gmail.com",
+      "martijn.moerbeek@gmail.com"
+    ],
+    "phones": [
+      "1298 747",
+      "1298 747",
+      "77 8976 6425",
+      "1298 747"
+    ],
+    "names": [],
+    "locations": [
+      "Willing to relocate either nationally or internationally"
+    ],
+    "job_titles": []
+  },
+  "companies": [],
+  "job_titles": [
+    "consultant",
+    "Senior",
+    "Director",
+    "Consultant",
+    "lead",
+    "Manager",
+    "senior",
+    "specialist"
+  ],
+  "text_sample": " \n \n \n \n \n \n \n \n \n \n23 May 2011  \n \n \n \nDear Sir or Madam,       \n \nRe:  Potential opportunities  \n \nI would like to take this opportunity to  introduce myself to you and your organisation .  \n \nAs the attached curriculum vitae indicates, I of fer a consistent track record of improving organisational \nperformance, increasing revenues and achieving high quality, cost efficient functionality within complex \nenvironments. Through the experiences in my career, I have developed exceptional analytical...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "finance": [
+      "Excel"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Communication",
+      "Strategic Planning"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 2,
+      "finance": 1,
+      "manufacturing": 1,
+      "education": 2,
+      "consulting": 3,
+      "sales": 1
+    },
+    "confidence": 0.5
+  }
+}

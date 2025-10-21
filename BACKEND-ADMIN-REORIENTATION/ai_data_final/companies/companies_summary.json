@@ -1,0 +1,26 @@
+{
+  "total_companies": 35735,
+  "companies_by_industry": {
+    "technology": 7151,
+    "general": 24775,
+    "manufacturing": 1179,
+    "finance": 767,
+    "consulting": 2652,
+    "government": 436,
+    "nonprofit": 265,
+    "retail": 422,
+    "education": 698,
+    "healthcare": 587,
+    "media": 201
+  },
+  "companies_by_size": {
+    "unknown": 34549,
+    "enterprise": 1142,
+    "startup": 44
+  },
+  "companies_by_source": {
+    "text_extraction": 35684,
+    "email_domain": 58
+  },
+  "generated_at": "2025-08-11T10:41:55.505297"
+}

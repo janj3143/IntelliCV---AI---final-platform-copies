@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "file_name": "JVCV - Nikita Mokashi (1).docx",
+    "file_size": 82530,
+    "processing_date": "2025-10-09T16:21:03.585007",
+    "text_length": 2156,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "janj@johnston-vere.co.uk"
+    ],
+    "phones": [
+      "01695 570 696"
+    ],
+    "names": [],
+    "locations": [
+      "UAE"
+    ],
+    "job_titles": []
+  },
+  "companies": [],
+  "job_titles": [
+    "lead",
+    "Senior",
+    "Engineer"
+  ],
+  "text_sample": "\n\n\nCANDIDATE \n\nNikita Mokashi\n\n\nPERSONAL DETAILS\n\nLocation: UAE\n\n\nQUALIFICATIONS\n\nSSLC DHSS KANHANGAD STATE BOARD KERALA\n\n\nCAREER SUMMARY\n\n2022 – Present\nProcess Eng.\t\t\t\t\t\t\tTechnip\n\t\nWorking on detailed engineering of Sour Gas Processing Plant\nDeveloped Process Flow Diagram (PFD), Piping and Instrumentation Diagram (P&ID)\nPerformed two phase and three phase gas-liquid separator sizing \nSafety Valve Scenario Identification, Calculations using API 520/521, ASME B 31.5 & Section VIII standards and ...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "finance": [
+      "Excel"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "healthcare",
+    "industry_scores": {
+      "healthcare": 1
+    },
+    "confidence": 0.16666666666666666
+  }
+}

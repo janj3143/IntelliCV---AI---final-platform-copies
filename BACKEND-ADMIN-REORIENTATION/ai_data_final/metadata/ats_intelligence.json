@@ -1,0 +1,218 @@
+{
+  "last_updated": "2025-08-12",
+  "ats_intelligence": {
+    "keyword_databases": {
+      "technology": {
+        "programming_languages": [
+          "python", "java", "javascript", "typescript", "c++", "c#", "go", "rust",
+          "scala", "kotlin", "swift", "objective-c", "php", "ruby", "perl"
+        ],
+        "frameworks_libraries": [
+          "react", "angular", "vue.js", "node.js", "express", "django", "flask",
+          "spring", "spring boot", "hibernate", ".net", "asp.net", "laravel"
+        ],
+        "databases": [
+          "sql", "mysql", "postgresql", "mongodb", "redis", "cassandra", "elasticsearch",
+          "oracle", "sql server", "sqlite", "dynamodb", "firebase"
+        ],
+        "cloud_devops": [
+          "aws", "azure", "gcp", "google cloud", "docker", "kubernetes", "jenkins",
+          "gitlab", "github actions", "terraform", "ansible", "puppet", "chef"
+        ],
+        "methodologies": [
+          "agile", "scrum", "kanban", "devops", "ci/cd", "continuous integration",
+          "continuous deployment", "microservices", "api", "rest", "graphql"
+        ],
+        "tools": [
+          "git", "jira", "confluence", "slack", "docker", "visual studio code",
+          "intellij", "eclipse", "postman", "swagger", "kubernetes"
+        ]
+      },
+      "data_science": {
+        "core_skills": [
+          "python", "r", "sql", "statistics", "machine learning", "deep learning",
+          "data analysis", "data mining", "predictive modeling", "statistical analysis"
+        ],
+        "libraries_frameworks": [
+          "pandas", "numpy", "scikit-learn", "tensorflow", "pytorch", "keras",
+          "matplotlib", "seaborn", "plotly", "dash", "jupyter", "spark"
+        ],
+        "visualization": [
+          "tableau", "power bi", "qlikview", "d3.js", "bokeh", "ggplot2",
+          "data visualization", "dashboard", "reporting", "analytics"
+        ],
+        "big_data": [
+          "hadoop", "spark", "kafka", "airflow", "snowflake", "databricks",
+          "etl", "data pipeline", "data warehouse", "data lake"
+        ],
+        "ml_ops": [
+          "mlops", "model deployment", "model monitoring", "feature engineering",
+          "hyperparameter tuning", "cross-validation", "a/b testing"
+        ]
+      },
+      "finance": {
+        "core_skills": [
+          "financial analysis", "financial modeling", "valuation", "risk management",
+          "portfolio management", "investment analysis", "credit analysis"
+        ],
+        "regulations_compliance": [
+          "sox", "gaap", "ifrs", "basel", "dodd-frank", "mifid", "gdpr",
+          "aml", "kyc", "compliance", "audit", "internal controls"
+        ],
+        "tools_systems": [
+          "bloomberg", "reuters", "factset", "matlab", "sas", "r", "python",
+          "excel", "vba", "sql", "tableau", "power bi"
+        ],
+        "products": [
+          "derivatives", "options", "futures", "bonds", "equities", "forex",
+          "commodities", "structured products", "etf", "mutual funds"
+        ],
+        "methodologies": [
+          "dcf", "monte carlo", "var", "stress testing", "scenario analysis",
+          "sensitivity analysis", "backtesting", "quantitative analysis"
+        ]
+      },
+      "marketing": {
+        "digital_marketing": [
+          "digital marketing", "seo", "sem", "ppc", "google ads", "facebook ads",
+          "social media marketing", "content marketing", "email marketing"
+        ],
+        "analytics": [
+          "google analytics", "adobe analytics", "mixpanel", "segment",
+          "conversion optimization", "a/b testing", "funnel analysis", "cohort analysis"
+        ],
+        "tools_platforms": [
+          "hubspot", "salesforce", "marketo", "mailchimp", "hootsuite", "buffer",
+          "canva", "adobe creative suite", "wordpress", "shopify"
+        ],
+        "strategies": [
+          "brand management", "product marketing", "growth hacking", "lead generation",
+          "customer acquisition", "retention marketing", "lifecycle marketing"
+        ]
+      },
+      "healthcare": {
+        "clinical": [
+          "clinical research", "patient care", "nursing", "medical", "pharmacy",
+          "clinical trials", "gcp", "ich", "fda", "regulatory affairs"
+        ],
+        "systems": [
+          "epic", "cerner", "allscripts", "ehr", "emr", "his", "ris", "pacs",
+          "telemedicine", "telehealth", "mhealth"
+        ],
+        "compliance": [
+          "hipaa", "hitech", "gdpr", "phi", "clinical data management",
+          "quality assurance", "good clinical practice", "iso 13485"
+        ],
+        "analytics": [
+          "healthcare analytics", "population health", "clinical informatics",
+          "biostatistics", "epidemiology", "health economics", "outcomes research"
+        ]
+      }
+    },
+    "power_words": {
+      "achievement_words": [
+        "achieved", "accomplished", "delivered", "exceeded", "generated", "increased",
+        "improved", "reduced", "saved", "streamlined", "optimized", "enhanced"
+      ],
+      "leadership_words": [
+        "led", "managed", "directed", "supervised", "coordinated", "orchestrated",
+        "spearheaded", "initiated", "launched", "established", "founded", "built"
+      ],
+      "action_words": [
+        "developed", "created", "designed", "implemented", "executed", "deployed",
+        "automated", "integrated", "migrated", "scaled", "transformed", "revolutionized"
+      ],
+      "impact_words": [
+        "strategic", "innovative", "cutting-edge", "scalable", "robust", "efficient",
+        "cost-effective", "high-performance", "mission-critical", "enterprise-grade"
+      ]
+    },
+    "weak_phrases_to_avoid": [
+      "responsible for", "duties included", "worked on", "helped with", "assisted",
+      "participated in", "involved in", "familiar with", "exposure to", "some experience"
+    ],
+    "ats_best_practices": {
+      "formatting": [
+        "Use standard fonts (Arial, Calibri, Times New Roman)",
+        "Avoid headers/footers with important information",
+        "Use standard section headings (Experience, Skills, Education)",
+        "Save as .docx or .pdf format",
+        "Avoid tables, text boxes, graphics"
+      ],
+      "keyword_optimization": [
+        "Mirror job description language exactly",
+        "Include both acronyms and full terms (SEO and Search Engine Optimization)",
+        "Use keywords naturally throughout the document",
+        "Include keywords in multiple sections",
+        "Focus on 6-8 core keywords per application"
+      ],
+      "structure": [
+        "Put most important information first",
+        "Use bullet points for easy scanning",
+        "Keep consistent formatting throughout",
+        "Use quantifiable achievements with numbers",
+        "Include relevant certifications prominently"
+      ]
+    }
+  },
+  "scoring_algorithms": {
+    "ats_compatibility": {
+      "keyword_density": {
+        "weight": 0.4,
+        "optimal_range": [2, 5],
+        "description": "Percentage of relevant keywords in content"
+      },
+      "keyword_variety": {
+        "weight": 0.3,
+        "optimal_range": [8, 15],
+        "description": "Number of unique relevant keywords"
+      },
+      "formatting_score": {
+        "weight": 0.2,
+        "penalties": {
+          "graphics": -10,
+          "tables": -5,
+          "unusual_fonts": -5,
+          "headers_footers": -8
+        }
+      },
+      "power_word_usage": {
+        "weight": 0.1,
+        "minimum_threshold": 5,
+        "description": "Usage of action/achievement words"
+      }
+    }
+  },
+  "industry_trends_2025": {
+    "hot_keywords": {
+      "ai_ml": {
+        "keywords": ["artificial intelligence", "machine learning", "llm", "generative ai", "prompt engineering", "vector databases"],
+        "growth_rate": 156,
+        "salary_premium": 35000
+      },
+      "cybersecurity": {
+        "keywords": ["zero trust", "cloud security", "devsecops", "threat hunting", "incident response"],
+        "growth_rate": 89,
+        "salary_premium": 28000
+      },
+      "sustainability": {
+        "keywords": ["esg", "carbon footprint", "sustainable development", "green technology", "circular economy"],
+        "growth_rate": 78,
+        "salary_premium": 15000
+      },
+      "remote_work": {
+        "keywords": ["remote collaboration", "virtual team management", "digital communication", "async work"],
+        "growth_rate": 45,
+        "salary_premium": 8000
+      }
+    },
+    "declining_keywords": {
+      "legacy_tech": [
+        "flash", "silverlight", "internet explorer", "jquery mobile", "phonegap"
+      ],
+      "outdated_practices": [
+        "waterfall methodology", "monolithic architecture", "on-premise only"
+      ]
+    }
+  }
+}

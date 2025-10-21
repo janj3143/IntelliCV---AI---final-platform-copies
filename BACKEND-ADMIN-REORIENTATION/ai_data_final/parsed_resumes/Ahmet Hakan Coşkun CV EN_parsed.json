@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "file_name": "Ahmet Hakan Coşkun CV EN.docx",
+    "file_size": 152331,
+    "processing_date": "2025-10-09T16:20:48.866439",
+    "text_length": 9493,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "hakancoskun_413@hotmail.com"
+    ],
+    "phones": [
+      "90 5373948071",
+      "05322559168",
+      "05427663537",
+      "05323511864",
+      "05457906985",
+      "492117974036"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "BU Masterbatches \n\nAvient Corporation",
+    "Former Polyone & Former Clariant Masterbatches\n\t\t\tRegional Key Account Manager  \n\nAvient Corporation",
+    "Avient Corporation"
+  ],
+  "job_titles": [
+    "Manager",
+    "Engineer"
+  ],
+  "text_sample": "Ahmet Hakan Coskun\nM.S.C Mechanical Engineer\n\n\n   Address\t\t: Atatürk Mah. Mimoza 4/9 Ataşehir/İstanbul/Turkey\n   Mobile Phone\t: +90 5373948071\nE-mail\t\t: hakancoskun_413@hotmail.com\nDate of Birth\t: 19.12.1982\nPlace of Birth\t: Istanbul\nMarital Status\t: Married\nDriving License\t: B  \nNationality\t: T.C.\n\n\nSummary\t\t\t\t\t\t\t\t                                         \t\t \n           \nAn energetic , motivated, higly dynamic Account Manager with strong sales and marketing skills, proven experience for developi...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "finance": [
+      "Excel",
+      "SAP",
+      "Risk Management"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "manufacturing",
+    "industry_scores": {
+      "technology": 1,
+      "finance": 1,
+      "manufacturing": 2,
+      "consulting": 1,
+      "sales": 1
+    },
+    "confidence": 0.3333333333333333
+  }
+}

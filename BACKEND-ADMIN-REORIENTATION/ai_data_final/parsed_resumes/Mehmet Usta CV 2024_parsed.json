@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "file_name": "Mehmet Usta CV 2024.pdf",
+    "file_size": 225564,
+    "processing_date": "2025-10-09T16:21:04.843953",
+    "text_length": 8891,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      ".usta@saint-gobain.com"
+    ],
+    "phones": [
+      "0531 250",
+      "2005-2010"
+    ],
+    "names": [
+      "Mehmet Fatih Hakk"
+    ],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Power Systems"
+  ],
+  "job_titles": [
+    "Manager",
+    "Principal",
+    "Engineer",
+    "engineer"
+  ],
+  "text_sample": " \n \nPage 1 - Curriculum vi tae of  \nM.F.Hakkı USTA   \n    \n \n \nPERSONAL INFORMATION  \n \nName   Mehmet Fatih Hakkı USTA  \n                                                 GSM  \n     0531 250 6 4 67 \n   \n                                                E-mail  mehmet .usta@saint-gobain.com   \nmfhusta@ gmai l.com   \n \n                                                Date of Birth             16.10.1988  \n                                                Birth Place                 KOCAELİ  \n           ...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "finance": [
+      "Excel"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "finance",
+    "industry_scores": {
+      "finance": 1,
+      "marketing": 1,
+      "manufacturing": 1,
+      "education": 1
+    },
+    "confidence": 0.14285714285714285
+  }
+}

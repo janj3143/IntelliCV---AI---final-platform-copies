@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "file_name": "CV_MAZOIR_English.pdf",
+    "file_size": 119073,
+    "processing_date": "2025-10-09T16:20:57.984821",
+    "text_length": 7535,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "mohammed.mazoir@gmail.com"
+    ],
+    "phones": [],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "French University Diploma of Technology"
+  ],
+  "job_titles": [
+    "consultant",
+    "Senior",
+    "Engineer",
+    "lead",
+    "specialist",
+    "director"
+  ],
+  "text_sample": "Mohammed  Mazoir\nFrench / Moroccan\nAge:  35 (Date of birth: July 11th, 1975) \nMarried (2 children)\nTelephone  - Cellular:  +33 (0)6.17.01.36.19 - Home:  +33(0)4.42.63.28.36\nEmail:  mohammed.mazoir@gmail.com\nAddress  :   Résidence Tivoli, Bâtiment 31, 6 allée des Peupliers, 13090 Aix en Provence, France\nOBJECTIVE:\nSenior Electronics Engineer certified Lean Six Sigma Black Belt with 14+ years of experience  \n(France and Morocco). I am specialized in transverse continuous improvement, industrial pe...",
+  "skills_detected": {
+    "programming": [
+      "Python",
+      "C++",
+      "Go"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "finance": [
+      "Excel"
+    ],
+    "soft_skills": [
+      "Leadership"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 3,
+      "finance": 1,
+      "manufacturing": 3,
+      "education": 2,
+      "consulting": 1
+    },
+    "confidence": 0.42857142857142855
+  }
+}

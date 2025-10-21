@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "file_name": "Curriculum Vitae _HansRILL_EN.pdf",
+    "file_size": 50553,
+    "processing_date": "2025-10-09T16:20:52.182239",
+    "text_length": 4154,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "hansrill67@gmail.com"
+    ],
+    "phones": [
+      "31 383314220"
+    ],
+    "names": [
+      "Johan Antonie"
+    ],
+    "locations": [
+      "Kampen  "
+    ],
+    "job_titles": []
+  },
+  "companies": [],
+  "job_titles": [
+    "Manager",
+    "manager",
+    "Engineer"
+  ],
+  "text_sample": "Curriculum Vitae  \n \nPersonal:  \n \nSurname: Rill  \nName: Johan Antonie (Hans)  \nAddress: Fidelio 6 \nZip: 8265 TA  \nLocation: Kampen  \nPhone: +31 383314220  \nEmail: hansrill67@gmail.com  \nNationality: Dutch  \nRelationship status: Married  \nBirth date : 03/09/1967  \n \nEducat ion:  \n2008  Atlas Business training.  \n2004  Miller Heiman training.  \n1989 - Internal training s in areas of field buses  like Foundation Fieldbus and  MODBUS TCP ,                                                        \n   ...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "marketing": [
+      "SEM"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 1,
+      "marketing": 1,
+      "manufacturing": 1,
+      "education": 1,
+      "consulting": 1,
+      "sales": 1
+    },
+    "confidence": 0.14285714285714285
+  }
+}

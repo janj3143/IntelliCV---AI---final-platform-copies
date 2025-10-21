@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "file_name": "Mohamed_Hafez 1.pdf",
+    "file_size": 785997,
+    "processing_date": "2025-10-09T16:21:05.202695",
+    "text_length": 8935,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "Mohamed.hafez1283@gmail.com"
+    ],
+    "phones": [
+      "971582863693"
+    ],
+    "names": [],
+    "locations": [
+      "Dubai, UAE "
+    ],
+    "job_titles": []
+  },
+  "companies": [],
+  "job_titles": [
+    "Manager",
+    "Lead",
+    "Specialist"
+  ],
+  "text_sample": "Mohamed Hafez | Sales Manager powder coatings at Jotun MENA \nLocation: Dubai, UAE \nTelephone:  +971582863693 \nEmail: Mohamed.hafez1283@gmail.com  \nProfessional profile \n15 years of experience working in Automotive refinish market with exposure to more than 30 \ndifferent countries markets in Africa, EU, Middle East, and Brazil. Along with different market \nsegments which gave me a broad knowledge of the market Dynamics of the paint industry.  \nSpecialized in account management, and International ...",
+  "skills_detected": {
+    "programming": [
+      "Go",
+      "Rust"
+    ],
+    "finance": [
+      "Excel",
+      "SAP"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "consulting",
+    "industry_scores": {
+      "technology": 2,
+      "finance": 2,
+      "marketing": 1,
+      "education": 1,
+      "consulting": 4,
+      "sales": 1
+    },
+    "confidence": 0.6666666666666666
+  }
+}

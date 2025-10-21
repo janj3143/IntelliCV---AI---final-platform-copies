@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "English-Curriculum_Vitae_Rodney_Poldner_2010[1].docx",
+    "file_size": 18323,
+    "processing_date": "2025-10-09T16:21:00.719908",
+    "text_length": 3765,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "rodney.poldner@hotmail.com"
+    ],
+    "phones": [
+      "6-10871918",
+      "6-46006113",
+      "1990-1993",
+      "1987-1989",
+      "2006-2007",
+      "1998-1999",
+      "1997-1998",
+      "1994-1995",
+      "1988-1990"
+    ],
+    "names": [
+      "Rodney Paul Philippe Poldner"
+    ],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Commercial Diving Company",
+    "HTS Chemical Technology",
+    "MTS Process Technology",
+    "Technical Supervisor \nRea Sea Diving Ltd",
+    "Wines and Cooking\t\tMensa International Ltd"
+  ],
+  "job_titles": [
+    "Manager",
+    "Coordinator",
+    "Engineer"
+  ],
+  "text_sample": "Curriculum Vitae Rodney P. Ph. Poldner (page 1 of 2)\n\n\nName:\t\t\t\tRodney Paul Philippe Poldner\nAddress:\t\t\t\tBavelselaan 35\n\t\t\t\t4835 GP \nGSM:\t\t\t\t+31-6-10871918 ( Business) / +31-6-46006113 ( Private)\nE-mail:\t\t\t\trodney.poldner@hotmail.com\nPlace of birth, date:\t\t, June 18, 1969\nNationality:\t\t\tDutch\nDriving license:\t\t\tB / C\n\n\nEducation\n\nStarted Sept 2009:\tHigher Business Administration (pre-MBA), ISBW, Rotterdam.\n\n1990-1993\t\tBsc. / HTS Chemical Technology, Avans Hogeschool, .\n\n1987-1989\t\tMTS Process Te...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "databases": [
+      "Oracle"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "education",
+    "industry_scores": {
+      "education": 1,
+      "consulting": 1
+    },
+    "confidence": 0.16666666666666666
+  }
+}

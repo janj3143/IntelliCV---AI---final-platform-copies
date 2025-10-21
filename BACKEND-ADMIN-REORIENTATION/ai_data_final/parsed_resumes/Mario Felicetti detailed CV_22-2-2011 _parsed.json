@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "file_name": "Mario Felicetti detailed CV_22-2-2011 .pdf",
+    "file_size": 54891,
+    "processing_date": "2025-10-09T16:21:04.593527",
+    "text_length": 7227,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "mario.felicetti@albemarle.com",
+      "smeetsflo@hotmail.com"
+    ],
+    "phones": [
+      "20 6347064",
+      "6 51873605",
+      "20 4160627"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Technical Services",
+    "Shell Global Solutions",
+    "Italian Energy Distribution \nCompany",
+    "Environmental Technology",
+    "Board European Student of \nTechnology"
+  ],
+  "job_titles": [
+    "Senior",
+    "Engineer",
+    "Junior",
+    "manager",
+    "lead",
+    "Coordinator",
+    "Specialist"
+  ],
+  "text_sample": "CURRICULUM VITAE \n \nName/Surname: Mario Felicetti \nBirth:   January 18 1968 \nCivil Status:  Married (one child) \nAddresse:  Sem Presserhof 109, 1087 JE Amsterdam – The Netherlands   \nOffice:   +31 (0)20 6347064 \nMobile:  +31 (0)6 51873605 \nHome:   +31 (0)20 4160627   \nE-mails:  mario.felicetti@albemarle.com smeetsflo@hotmail.com \n \nEducation \n\u0001 Dec 2008:  Executive Master in Business Administration  \nRotterdam School of Management. Erasmus university, Rotterdam (NL) \n\u0001 May 1998:  Master Chemical...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "finance": [
+      "Excel",
+      "SAP"
+    ],
+    "soft_skills": [
+      "Leadership"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "education",
+    "industry_scores": {
+      "technology": 2,
+      "manufacturing": 2,
+      "education": 3,
+      "consulting": 2,
+      "sales": 1
+    },
+    "confidence": 0.5
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "file_name": "JVCV - VOLKAN AYGUN.docx",
+    "file_size": 83305,
+    "processing_date": "2025-10-09T16:21:03.631724",
+    "text_length": 3042,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "janj@johnston-vere.co.uk"
+    ],
+    "phones": [
+      "01695 570 696"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Sales and Technical Services"
+  ],
+  "job_titles": [
+    "manager",
+    "Manager",
+    "Specialist"
+  ],
+  "text_sample": "\n\n\nCANDIDATE \n\nVOLKAN AYGUN\n\n\nPERSONAL DETAILS\n\n\nLOCATION \t\t\n\nİstanbul\n\n\nQUALIFICATIONS\n\nGALATASARAY UNIVERSITY 08.2005-08.2006\nEngineering Faculty, Engineering Management\n\nISTANBUL TECHNICAL UNIVERSITY 09.2001-05.2005\nChemistry-Metallurgy Faculty, Chemical Engineering\n\n\nCAREER SUMMARY\n\n\nLanxess 10.2019-Present\nSales Manager, BU Rhein Chemie, Turkey\n\nDevelops local strategies for sales activities in accordance with BU's policies and strategies\nSteers local sales organization of 2 colleagues\nExec...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 1,
+      "consulting": 1
+    },
+    "confidence": 0.14285714285714285
+  }
+}

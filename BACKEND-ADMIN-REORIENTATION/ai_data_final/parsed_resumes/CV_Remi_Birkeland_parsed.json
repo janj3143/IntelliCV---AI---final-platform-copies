@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "file_name": "CV_Remi_Birkeland.pdf",
+    "file_size": 176279,
+    "processing_date": "2025-10-09T16:20:59.663237",
+    "text_length": 14435,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [],
+    "phones": [
+      "1 8356 888",
+      "1 4778 697",
+      "0\n200\n200\n200",
+      "199\n199\n199\n198",
+      "198\n198"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Grou p\nt Engineer \nnt to the Proj e\nntrolled progr e\nordinated the \njects profit d o\ned de facto P r\n         ENGI N\niary of the No r\nSystems",
+    "Roch Pa r\namber of Co",
+    "Memb e\nDale C a\nNorwe g\nCo",
+    "U n\nof the IT Co",
+    "Bra z\ny resulted in a \nker Solutions",
+    "Engenhar i\nP Pte Ltd",
+    "Controls\nea Ltd"
+  ],
+  "job_titles": [
+    "Manager",
+    "Director",
+    "Senior",
+    "Engineer"
+  ],
+  "text_sample": "Ré\n \n \n \n \n  \n \n \n \n1 \n \nDec\n \n  \n \n \n \n \n \n \n \n \n \n \n \n \némi  BIRK E\n \nFOCUS E\n \nWORK E X\nc 09 – today  \n \nDec 09 - to d\n \n  \n \n  \nELAND      \n  \n  \n \n  \n  \n  \n  \nED ON STR\nBUILDI N\nXPERIENC E\n            \n World \nl\n(US$ 8 b\nday Senior \nRespo n\nSubsea \nnew ta r\nRespo n\nindustr y\nanalysi s\nRespo n\nstrategicompe\nt\ncontrac\nRespo n\nexhibit i\nDevelo p\nSubsea Respo\nn\n \nPositio n\n• Me\n• Rep\n               \n  \n \nDYNA M\nRATEGY  A\nNG ON 20+ \nE \n        ( www.t e\nleader in engi\nbn turnover - \nVice Presid ...",
+  "skills_detected": {
+    "programming": [
+      "Go",
+      "Rust"
+    ],
+    "marketing": [
+      "SEM"
+    ],
+    "finance": [
+      "Excel"
+    ],
+    "soft_skills": [
+      "Leadership"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "technology",
+    "industry_scores": {
+      "technology": 2,
+      "marketing": 1,
+      "manufacturing": 1,
+      "consulting": 1
+    },
+    "confidence": 0.2857142857142857
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "file_name": "Suzan Karabulut CV.pdf",
+    "file_size": 73581,
+    "processing_date": "2025-10-09T16:21:09.400868",
+    "text_length": 2971,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "suzan.karabulut@henkel.com"
+    ],
+    "phones": [
+      "0090 532",
+      "4219894",
+      "08113658"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Loctite  Sales  Excellence  for DSE program  trainer  and lead in my region  \n \nSales  Engineer  at Adhesive  Technologies"
+  ],
+  "job_titles": [
+    "Manager",
+    "lead",
+    "Principal",
+    "Engineer"
+  ],
+  "text_sample": "Page  1 of 2   \n \n \nContact Information  \n0090 532 4219894  (Mobile)  \nsuzan.karabulut@henkel.com  \nwww.linkedin.com/in/suzan - \nkarabulut -08113658  (LinkedIn)  \n \nAbilities  \nAutomotive  \nContinuous Improvement  \nLean  Manufacturing  \n \nLanguages  \nAlmanca  (Limited  Working)  \nİngilizce  (Full Professional)  \n \nCourses& Trainings  \n \nCoaching for Sales Manager    \nProfessional Sales Leadership     \nDistribution Management          \nPrice Management MEA            \nProfessional Sales 2 IMEA   ...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "finance": [
+      "Excel"
+    ],
+    "soft_skills": [
+      "Leadership"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "manufacturing",
+    "industry_scores": {
+      "technology": 1,
+      "marketing": 1,
+      "manufacturing": 2,
+      "consulting": 1
+    },
+    "confidence": 0.3333333333333333
+  }
+}

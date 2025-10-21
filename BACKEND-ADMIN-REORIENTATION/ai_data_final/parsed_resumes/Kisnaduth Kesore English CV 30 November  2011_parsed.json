@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "file_name": "Kisnaduth Kesore English CV 30 November  2011.pdf",
+    "file_size": 180792,
+    "processing_date": "2025-10-09T16:21:03.949887",
+    "text_length": 7218,
+    "parser_version": "consolidated_v1.0"
+  },
+  "contact_info": {
+    "emails": [
+      "k.kesore@t-online.de",
+      "k.kesore@t-online.de",
+      "k.kesore@t-online.de",
+      "k.kesore@t-online.de",
+      "k.kesore@t-online.de"
+    ],
+    "phones": [
+      "89 12473054",
+      "173 9575212",
+      "0173 9575212",
+      "89 12473054",
+      "173 9575212",
+      "89 12473054",
+      "173 9575212",
+      "89 12473054",
+      "173 9575212",
+      "2001-2005",
+      "2005-2007"
+    ],
+    "names": [],
+    "locations": [],
+    "job_titles": []
+  },
+  "companies": [
+    "Head  of Analytical Department  and Services",
+    "Germany \nBusiness Unit Catalytic Technologies",
+    "Membra ne Technology",
+    "Network of Excellence  \nCo"
+  ],
+  "job_titles": [
+    "Manager",
+    "specialist",
+    "Senior",
+    "Specialist"
+  ],
+  "text_sample": "1 Dr. KISNADUTH KESORE \nRotbuchenstrasse 1a, 81547 Munich, Germany. Home: + 49 (0)89 12473054. Mobile: +49 (0) 173 9575212. E-mail: k.kesore@t-online.de  \n \n \n \nCurriculum Vitae \n \n \nObjective \nSeeking a challenging position in Marketing & Sales , Research & Development or related field that \noffers the opportunity to explore new avenues in th e corporate world by utilizing my experience, \nknowledge and network in the Chemical Industry and Associations. \n \n \n \n \nKisnaduth Kesore \nMSc, PhD (Techn...",
+  "skills_detected": {
+    "programming": [
+      "Go"
+    ],
+    "finance": [
+      "Excel"
+    ],
+    "soft_skills": [
+      "Leadership"
+    ]
+  },
+  "industry_analysis": {
+    "primary_industry": "education",
+    "industry_scores": {
+      "technology": 1,
+      "education": 3,
+      "consulting": 3
+    },
+    "confidence": 0.5
+  }
+}
