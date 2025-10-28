@@ -1,0 +1,110 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+env310/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+*.env
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Jupyter Notebooks
+*.ipynb
+.ipynb_checkpoints/
+
+# ALL JSON DATA FILES (exclude all JSON files)
+*.json
+!package.json
+!tsconfig.json
+!.vscode/*.json
+
+# ENTIRE IntelliCV-data folder and all ai_data_final folders
+**/IntelliCV-data/
+**/ai_data_final/
+Full system/ai_data_final/
+ai_data_final/
+
+# Centralized data (embedded git repo)
+Full system/admin_portal/data/centralized/
+BACKEND-ADMIN-REORIENTATION/admin_portal/data/centralized/
+
+# Large file types
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+
+# Large CSV exports
+**/extracted_candidates*.csv
+**/*candidates*.csv
+
+# Old/backup folders
+**/*old*/
+**/*OLD*/
+**/*backup*/
+**/*BACKUP*/
+**/*bak*/
+
+# Test data
+**/test_data/
+**/sample_data/
+
+# Cache
+.cache/
+*.cache
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/

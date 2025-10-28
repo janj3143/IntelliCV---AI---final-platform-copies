@@ -1,2 +1,0 @@
-2025-10-18 07:32:36 - NeuralNetworkEngine - INFO - Neural Network Engine initialized with config: {'embedding_dim': 768, 'max_sequence_length': 512, 'batch_size': 32, 'learning_rate': 0.001, 'dropout_rate': 0.1, 'confidence_thresholds': {'high': 0.85, 'medium': 0.65, 'low': 0.45}, 'min_training_samples': 100, 'feedback_buffer_size': 1000, 'auto_retrain_threshold': 500}
-2025-10-18 07:32:36 - NeuralNetworkEngine - INFO - No pre-trained model found. Will initialize on first use.

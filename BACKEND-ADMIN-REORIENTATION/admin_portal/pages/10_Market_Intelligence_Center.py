@@ -692,12 +692,13 @@ def render():
         st.metric("🏠 Remote Work", "80%", "Hybrid + Remote")
     
     # Main interface tabs
-    tab1, tab2, tab3, tab4, tab5 = st.tabs([
+    tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs([
         "🎯 Hot Skills",
         "📊 Job Trends",
         "💵 Salary Forecasts",
         "🌟 Emerging Skills",
-        "🏭 Industry Growth"
+        "🏭 Industry Growth",
+        "🌐 Exa Intelligence"
     ])
     
     with tab1:
@@ -715,6 +716,9 @@ def render():
     with tab5:
         market_intelligence.render_industry_growth()
     
+    with tab6:
+        render_exa_intelligence_tab()
+    
     # Integration status
     st.markdown("---")
     with st.expander("🔗 Integration Status"):
@@ -722,8 +726,96 @@ def render():
         if integration_hooks:
             st.success("✅ Lockstep integration active - Market intelligence synced with user portal")
             st.info("🔄 Industry insights integrated with strategic planning")
+            st.info("🌐 Exa deep web intelligence available via Admin Page 27")
         else:
             st.warning("⚠️ Integration hooks not available")
+
+def render_exa_intelligence_tab():
+    """Render Exa deep web intelligence integration."""
+    st.markdown("### 🌐 Exa Deep Web Intelligence")
+    st.info("💡 **New Feature**: Deep web company enrichment powered by Exa AI")
+    
+    st.markdown("""
+    **What is Exa Intelligence?**
+    
+    Exa is an AI-powered deep web search engine that goes beyond traditional search to discover:
+    - 🎯 **Careers Pages**: Real job postings and requirements from company websites
+    - 🚀 **Product Pages**: Technology stacks, solutions, and platforms
+    - 📖 **Company Background**: Leadership, funding, culture, and growth data
+    
+    This data enhances market intelligence by providing:
+    - Real-time company insights
+    - Competitive technology stack analysis  
+    - Hiring trends and job market signals
+    - Product/service evolution tracking
+    """)
+    
+    # Quick access to Exa dashboard
+    st.markdown("---")
+    st.markdown("### 🚀 Quick Actions")
+    
+    col1, col2 = st.columns(2)
+    
+    with col1:
+        st.markdown("**🔍 Search Companies**")
+        st.markdown("Go to **Admin Page 27** to:")
+        st.markdown("- Search and enrich company data")
+        st.markdown("- Browse company corpora")
+        st.markdown("- View search history")
+        if st.button("→ Open Exa Dashboard", key="goto_exa"):
+            st.info("Navigate to **Page 27: Exa Web Intelligence** in the sidebar")
+    
+    with col2:
+        st.markdown("**📊 Integration Status**")
+        
+        # Check if Exa data is available
+        try:
+            import sys
+            from pathlib import Path
+            corpus_dir = Path(__file__).parent.parent.parent / "ai_data_final" / "company_corpora"
+            
+            if corpus_dir.exists():
+                domains = [d.name for d in corpus_dir.iterdir() if d.is_dir()]
+                st.metric("Companies Enriched", len(domains))
+                
+                if domains:
+                    st.success(f"✅ {len(domains)} companies in corpus")
+                    with st.expander("View enriched companies"):
+                        for domain in sorted(domains)[:10]:
+                            st.write(f"• {domain}")
+                        if len(domains) > 10:
+                            st.write(f"... and {len(domains) - 10} more")
+                else:
+                    st.info("No companies enriched yet")
+            else:
+                st.warning("Corpus directory not found")
+        
+        except Exception as e:
+            st.error(f"Error loading corpus: {e}")
+    
+    # Sample insights (if data available)
+    st.markdown("---")
+    st.markdown("### 📈 Exa-Enhanced Market Insights")
+    st.info("💡 Market intelligence enhanced with real company data from deep web search")
+    
+    st.markdown("""
+    **How Exa Enhances Market Intelligence:**
+    
+    1. **Real-Time Tech Stack Trends**  
+       Discover what technologies companies are actually using, not just what's popular in surveys
+    
+    2. **Hiring Signal Detection**  
+       Analyze careers pages to identify which skills companies are actively hiring for
+    
+    3. **Competitive Product Analysis**  
+       Track product launches, feature updates, and competitive positioning
+    
+    4. **Geographic Expansion Tracking**  
+       Monitor which cities/regions companies are expanding into based on job postings
+    
+    5. **Compensation Intelligence**  
+       Extract salary data and benefits information from actual job postings
+    """)
 
 if __name__ == "__main__":
     render()

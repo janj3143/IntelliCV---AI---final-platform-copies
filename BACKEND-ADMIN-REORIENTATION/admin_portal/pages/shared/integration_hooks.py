@@ -127,7 +127,7 @@ class LockstepManager:
         
         if target == 'user_portal' and update_type and data:
             self._sync_to_user_portal(update_type, data)
-        elif target == 'backend_final' and update_type and data:
+        elif target == 'shared_backend' and update_type and data:
             self._sync_to_backend(update_type, data)
         elif target == 'admin_state' and update_type and data:
             self._sync_admin_state(update_type, data)
@@ -288,7 +288,7 @@ class UserPortalIntegration:
 
 class BackendIntegration:
     """
-    Manages integration with backend_final services.
+    Manages integration with shared_backend services.
     Handles API calls, data persistence, and service coordination.
     """
     
@@ -328,9 +328,9 @@ class BackendIntegration:
         self.logger.info(f"Syncing system event to backend: {data.get('event_type')}")
     
     def push_backend_update(self, update_type: str, data: Dict[str, Any]) -> bool:
-        """Push updates to backend_final."""
+        """Push updates to shared_backend."""
         try:
-            self.lockstep_manager.queue_update(update_type, 'backend_final', data)
+            self.lockstep_manager.queue_update(update_type, 'shared_backend', data)
             return True
         except Exception as e:
             self.logger.error(f"Failed to push backend update: {e}")
@@ -416,6 +416,541 @@ class IntegrationHooksManager:
             'config_value': config_value
         })
     
+    # =============================================================================
+    # EXTENDED PAGE SUPPORT (Pages 10-15)
+    # =============================================================================
+    
+    def sync_page_10_resume_data(self, user_id: str, resume_data: Dict[str, Any]):
+        """[DEPRECATED] Sync page 10 (Current Resume) data across systems.
+        
+        NOTE: User Portal page 10 is now UMarketU Suite (consolidated pages 12,20,21,24,25,27).
+        Resume data is now part of the UMarketU Suite sync.
+        
+        Use sync_umarketu_suite_data() instead.
+        This method maintained for backward compatibility only.
+        """
+        self.logger.warning(f"DEPRECATED: sync_page_10_resume_data called. Use sync_umarketu_suite_data instead.")
+        
+        # Forward to new method
+        suite_data = {
+            'resume_tuning': {
+                'resume_content': resume_data.get('content', ''),
+                'filename': resume_data.get('filename', ''),
+                'version': resume_data.get('version', '1.0'),
+                'ai_builder_suggestions': resume_data.get('ai_suggestions', [])
+            }
+        }
+        self.sync_umarketu_suite_data(user_id, suite_data)
+    
+    def sync_page_11_career_intelligence(self, user_id: str, analysis_data: Dict[str, Any]):
+        """[DEPRECATED] Sync page 11 (Career Intelligence Suite) analysis across systems.
+        
+        NOTE: User Portal pages consolidated. Career intelligence is now part of:
+        - Page 10: UMarketU Suite (fit analysis, career tracking)
+        - Page 11: Coaching Hub (career coaching)
+        
+        Use sync_umarketu_suite_data() or sync_coaching_hub_data() instead.
+        This method maintained for backward compatibility only.
+        """
+        self.logger.warning(f"DEPRECATED: sync_page_11_career_intelligence called. Use new consolidated methods.")
+        
+        # Forward to UMarketU Suite
+        suite_data = {
+            'fit_analysis': {
+                'career_score': analysis_data.get('career_score', 0),
+                'market_position': analysis_data.get('market_position', ''),
+                'trajectory_prediction': analysis_data.get('trajectory', []),
+                'peer_comparison': analysis_data.get('peer_comparison', {}),
+                'admin_ai_enriched': True
+            }
+        }
+        self.sync_umarketu_suite_data(user_id, suite_data)
+    
+    def sync_page_12_application_tracking(self, user_id: str, application_data: Dict[str, Any]):
+        """[DEPRECATED] Sync page 12 (Application Tracker) data across systems.
+        
+        NOTE: Application Tracker is now part of UMarketU Suite (User Portal Page 10).
+        
+        Use sync_umarketu_suite_data() instead.
+        This method maintained for backward compatibility only.
+        """
+        self.logger.warning(f"DEPRECATED: sync_page_12_application_tracking called. Use sync_umarketu_suite_data.")
+        
+        # Forward to UMarketU Suite
+        suite_data = {
+            'application_tracker': {
+                'application_id': application_data.get('application_id', ''),
+                'status': application_data.get('status', ''),
+                'timeline_events': application_data.get('timeline', []),
+                'real_time_notification': True
+            }
+        }
+        self.sync_umarketu_suite_data(user_id, suite_data)
+    
+    def sync_page_13_market_visualization(self, user_id: str, visualization_data: Dict[str, Any]):
+        """[DEPRECATED] Sync page 13 (Job Title Word Cloud) visualization data.
+        
+        NOTE: Job Title Word Cloud is now part of:
+        - User Portal Page 10: UMarketU Suite (fit analysis, resume tuning)
+        - User Portal Page 13: Dual Career Suite (market visualization)
+        - Admin Portal Page 21: Job Title Overlap Cloud (source of data)
+        
+        Use sync_dual_career_suite_data() or sync_job_title_overlap_cloud() instead.
+        This method maintained for backward compatibility only.
+        """
+        self.logger.warning(f"DEPRECATED: sync_page_13_market_visualization called. Use sync_dual_career_suite_data.")
+        
+        # Forward to Dual Career Suite
+        partner_data = {
+            'market_visualization': {
+                'word_cloud_keywords': visualization_data.get('keywords', []),
+                'trending_titles': visualization_data.get('trends', []),
+                'market_analysis': visualization_data.get('analysis', {})
+            }
+        }
+        self.sync_dual_career_suite_data(user_id, partner_data)
+    
+    def sync_page_14_resume_suite(self, user_id: str, suite_data: Dict[str, Any]):
+        """Sync page 14 (Resume Suite) comprehensive data across systems."""
+        self.logger.info(f"Syncing page 14 resume suite for user {user_id}")
+        
+        # Sync to user portal
+        self.user_portal.push_admin_update('page_14_resume_suite', {
+            'user_id': user_id,
+            'resume_management': suite_data.get('management_data', {}),
+            'ai_tuning_results': suite_data.get('tuning_results', {}),
+            'version_comparison': suite_data.get('comparison', {}),
+            'feedback_analysis': suite_data.get('feedback', {}),
+            'salary_intelligence': suite_data.get('salary_data', {})
+        })
+        
+        # Sync to backend with complete integration
+        self.backend.push_backend_update('resume_suite_update', {
+            'user_id': user_id,
+            'suite_data': suite_data,
+            'source_page': 'page_14',
+            'admin_ai_processed': True,
+            'gpt5_orchestrator_enhanced': True,
+            'postgres_version_control': True,
+            'lockstep_sync_complete': True
+        })
+    
+    def sync_page_15_instant_upload(self, user_id: str, upload_data: Dict[str, Any]):
+        """Sync page 15 (Resume Upload Enhanced) instant upload data."""
+        self.logger.info(f"Syncing page 15 instant upload for user {user_id}")
+        
+        # Sync to user portal for instant feedback
+        self.user_portal.push_admin_update('page_15_instant_upload', {
+            'user_id': user_id,
+            'file_id': upload_data.get('file_id', ''),
+            'instant_feedback': upload_data.get('feedback', {}),
+            'processing_status': upload_data.get('status', 'completed'),
+            'quick_analysis': upload_data.get('quick_analysis', {})
+        })
+        
+        # Sync to backend with admin AI enrichment
+        self.backend.push_backend_update('instant_upload_update', {
+            'user_id': user_id,
+            'upload_data': upload_data,
+            'source_page': 'page_15',
+            'admin_ai_enrichment': True,
+            'profile_auto_enriched': True,
+            'postgres_updated': True
+        })
+    
+    def sync_fastapi_orchestrator_result(self, workflow_id: str, result_data: Dict[str, Any]):
+        """Sync GPT-5 Pro orchestrator workflow results across systems."""
+        self.logger.info(f"Syncing FastAPI orchestrator result: {workflow_id}")
+        
+        user_id = result_data.get('user_id', '')
+        
+        # Sync to user portal
+        self.user_portal.push_admin_update('orchestrator_result', {
+            'workflow_id': workflow_id,
+            'user_id': user_id,
+            'success': result_data.get('success', False),
+            'output': result_data.get('output', {}),
+            'execution_time': result_data.get('execution_time', 0)
+        })
+        
+        # Sync to backend
+        self.backend.push_backend_update('orchestrator_workflow_complete', {
+            'workflow_id': workflow_id,
+            'result_data': result_data,
+            'gpt5_enhanced': True
+        })
+    
+    def sync_admin_intelligence_to_pages_10_15(self, intelligence_type: str, data: Dict[str, Any]):
+        """Sync admin portal intelligence (pages 10-12) to user portal pages 10-15."""
+        self.logger.info(f"Syncing admin intelligence: {intelligence_type}")
+        
+        # Market intelligence from admin pages 10-12
+        if intelligence_type == 'market_intelligence':
+            self.user_portal.push_admin_update('admin_market_intelligence', {
+                'source': 'admin_pages_10_11_12',
+                'intelligence_data': data,
+                'target_pages': ['page_11', 'page_13', 'page_14'],
+                'enrichment_enabled': True
+            })
+        
+        # Business intelligence for career analysis
+        elif intelligence_type == 'business_intelligence':
+            self.user_portal.push_admin_update('admin_business_intelligence', {
+                'source': 'admin_pages_12_13',
+                'intelligence_data': data,
+                'target_pages': ['page_11', 'page_14'],
+                'ai_enhanced': True
+            })
+        
+        # Web intelligence for real-time data
+        elif intelligence_type == 'web_intelligence':
+            self.user_portal.push_admin_update('admin_web_intelligence', {
+                'source': 'admin_web_scraper',
+                'intelligence_data': data,
+                'target_pages': ['page_13', 'page_14'],
+                'real_time_updates': True,
+                'redis_cached': True
+            })
+        
+        # Sync to backend
+        self.backend.push_backend_update('admin_intelligence_integration', {
+            'intelligence_type': intelligence_type,
+            'data': data,
+            'admin_source': True,
+            'user_portal_targets': ['page_10', 'page_11', 'page_12', 'page_13', 'page_14', 'page_15']
+        })
+    
+    # Extended Admin Pages Synchronization (Pages 16-26)
+    def sync_logging_and_error_data(self, error_data: Dict[str, Any]):
+        """Sync logging, error screen snapshots (Page 16)."""
+        self.logger.info("Syncing logging and error data")
+        
+        self.backend.push_backend_update('error_logging', {
+            'error_data': error_data,
+            'source': 'admin_page_16',
+            'screenshots_included': True,
+            'timestamp': datetime.now().isoformat()
+        })
+    
+    def sync_backup_management(self, backup_info: Dict[str, Any]):
+        """Sync backup management data (Page 17)."""
+        self.logger.info("Syncing backup management data")
+        
+        self.backend.push_backend_update('backup_sync', {
+            'backup_info': backup_info,
+            'source': 'admin_page_17',
+            'backup_type': backup_info.get('type', 'full')
+        })
+    
+    def sync_job_title_ai_data(self, job_title_data: Dict[str, Any]):
+        """Sync job title AI integration data (Page 20)."""
+        self.logger.info("Syncing job title AI data")
+        
+        self.user_portal.push_admin_update('job_title_ai', {
+            'job_title_data': job_title_data,
+            'source': 'admin_page_20',
+            'ai_enhanced': True,
+            'target_pages': ['page_11', 'page_13', 'page_14']
+        })
+    
+    def sync_software_requirements(self, requirements_data: Dict[str, Any]):
+        """Sync software requirements management (Page 22)."""
+        self.logger.info("Syncing software requirements data")
+        
+        self.backend.push_backend_update('requirements_sync', {
+            'requirements': requirements_data,
+            'source': 'admin_page_22'
+        })
+    
+    def sync_ai_model_training_data(self, training_data: Dict[str, Any]):
+        """Sync AI model training review data (Page 23)."""
+        self.logger.info("Syncing AI model training data")
+        
+        self.backend.push_backend_update('ai_training_sync', {
+            'training_data': training_data,
+            'source': 'admin_page_23',
+            'model_updates': True
+        })
+    
+    def sync_token_management(self, token_data: Dict[str, Any]):
+        """Sync token management data (Page 24)."""
+        self.logger.info("Syncing token management data")
+        
+        self.backend.push_backend_update('token_sync', {
+            'token_data': token_data,
+            'source': 'admin_page_24',
+            'billing_impact': True
+        })
+    
+    def sync_intelligence_hub_data(self, hub_data: Dict[str, Any]):
+        """Sync intelligence hub data (Page 25)."""
+        self.logger.info("Syncing intelligence hub data")
+        
+        self.user_portal.push_admin_update('intelligence_hub', {
+            'hub_data': hub_data,
+            'source': 'admin_page_25',
+            'target_pages': ['page_11', 'page_12', 'page_13', 'page_14']
+        })
+        
+        self.backend.push_backend_update('intelligence_hub_sync', {
+            'hub_data': hub_data,
+            'comprehensive_sync': True
+        })
+    
+    def sync_interface_mapping(self, mapping_data: Dict[str, Any]):
+        """Sync interface mapping hub data (Page 26)."""
+        self.logger.info("Syncing interface mapping data")
+        
+        self.backend.push_backend_update('interface_mapping', {
+            'mapping_data': mapping_data,
+            'source': 'admin_page_26',
+            'integration_updates': True
+        })
+    
+    def sync_job_title_overlap_cloud(self, overlap_data: Dict[str, Any]):
+        """Sync Job Title Overlap Cloud (Page 21) visualization and analysis data.
+        
+        Pushes job title overlap analysis, word cloud data, and skill mappings to:
+        - User Portal Page 10 (UMarketU Suite) - for fit analysis and resume tuning
+        - User Portal Page 13 (Dual Career Suite) - for dual job search and visualization
+        - Backend cache (Redis) - for fast access
+        """
+        self.logger.info("Syncing job title overlap cloud data (Page 21)")
+        
+        # Sync to user portal for UMarketU Suite (Page 10)
+        self.user_portal.push_admin_update('job_title_overlap_umarketu', {
+            'overlap_data': overlap_data,
+            'word_cloud_keywords': overlap_data.get('word_cloud_data', []),
+            'skill_overlaps': overlap_data.get('skill_overlaps', {}),
+            'career_paths': overlap_data.get('career_paths', []),
+            'source': 'admin_page_21',
+            'target_page': 'umarketu_suite_page_10',
+            'features': ['fit_analysis', 'resume_tuning']
+        })
+        
+        # Sync to user portal for Dual Career Suite (Page 13)
+        self.user_portal.push_admin_update('job_title_overlap_dual_career', {
+            'overlap_data': overlap_data,
+            'dual_search_keywords': overlap_data.get('word_cloud_data', []),
+            'industry_overlaps': overlap_data.get('industry_overlaps', {}),
+            'visualization_data': overlap_data.get('visualization', {}),
+            'source': 'admin_page_21',
+            'target_page': 'dual_career_suite_page_13',
+            'features': ['market_visualization', 'partner_search']
+        })
+        
+        # Sync to backend for caching and persistence
+        self.backend.push_backend_update('job_title_overlap_sync', {
+            'overlap_data': overlap_data,
+            'source': 'admin_page_21',
+            'redis_cache': True,
+            'postgres_store': True,
+            'cache_ttl': 3600  # 1 hour cache
+        })
+    
+    # =============================================================================
+    # USER PORTAL CONSOLIDATED PAGES (Updated October 28, 2025)
+    # =============================================================================
+    
+    def sync_umarketu_suite_data(self, user_id: str, suite_data: Dict[str, Any]):
+        """Sync UMarketU Suite (User Portal Page 10) comprehensive data.
+        
+        Consolidates old pages: 12, 20, 21, 24, 25, 27
+        Features: Job Discovery, Fit Analysis, Resume Tuning, Application Tracker, 
+                  Interview Coach, Partner Mode
+        """
+        self.logger.info(f"Syncing UMarketU Suite data for user {user_id}")
+        
+        # Sync to user portal
+        self.user_portal.push_admin_update('umarketu_suite_sync', {
+            'user_id': user_id,
+            'job_discovery': suite_data.get('job_discovery', {}),
+            'fit_analysis': suite_data.get('fit_analysis', {}),  # Uses admin page 20 data
+            'resume_tuning': suite_data.get('resume_tuning', {}),  # Uses admin page 21 overlap data
+            'application_tracker': suite_data.get('applications', []),
+            'interview_prep': suite_data.get('interview_prep', {}),
+            'partner_mode': suite_data.get('partner_mode', {}),
+            'admin_enriched': True
+        })
+        
+        # Sync to backend
+        self.backend.push_backend_update('umarketu_suite_update', {
+            'user_id': user_id,
+            'suite_data': suite_data,
+            'source_page': 'user_page_10',
+            'postgres_db_sync': True,
+            'includes_job_title_ai': True  # From admin page 20 & 21
+        })
+    
+    def sync_dual_career_suite_data(self, user_id: str, partner_data: Dict[str, Any]):
+        """Sync Dual Career Suite (User Portal Page 13) partner optimization data.
+        
+        Premium feature for dual job search with geographic feasibility.
+        Uses job title matching and overlap data from admin pages 20 & 21.
+        """
+        self.logger.info(f"Syncing Dual Career Suite data for user {user_id}")
+        
+        # Sync to user portal
+        self.user_portal.push_admin_update('dual_career_suite_sync', {
+            'user_id': user_id,
+            'partner1_profile': partner_data.get('partner1', {}),
+            'partner2_profile': partner_data.get('partner2', {}),
+            'dual_search_results': partner_data.get('search_results', []),
+            'geographic_analysis': partner_data.get('geographic', {}),
+            'market_visualization': partner_data.get('visualization', {}),  # Uses admin page 21 word cloud
+            'job_title_compatibility': partner_data.get('compatibility', {}),  # Uses admin page 20 & 21
+            'admin_enriched': True
+        })
+        
+        # Sync to backend
+        self.backend.push_backend_update('dual_career_update', {
+            'user_id': user_id,
+            'partner_data': partner_data,
+            'source_page': 'user_page_13',
+            'premium_feature': True,
+            'uses_job_title_ai': True  # From admin page 20 & 21
+        })
+
+    # =========================================================================
+    # EXA WEB INTELLIGENCE INTEGRATION (Admin Page 27)
+    # =========================================================================
+    
+    def sync_exa_company_data(self, domain: str, enrichment_data: Dict[str, Any], target_users: Optional[List[str]] = None):
+        """
+        Sync Exa company enrichment data to user portals and backend.
+        
+        Integrates data from:
+        - Admin Page 27: Exa Web Intelligence (deep web search & enrichment)
+        
+        Pushes to:
+        - User Page 10: UMarketU Suite (company insights in job discovery)
+        - User Page 13: Dual Career Suite (geographic company analysis)
+        - Admin Pages 10-12: Market/Competitive/Web Intelligence
+        
+        Args:
+            domain: Company domain (e.g., 'microsoft.com')
+            enrichment_data: Full enrichment data from Exa
+            target_users: Optional list of user IDs to sync to (None = all users)
+        """
+        self.logger.info(f"Syncing Exa company data for {domain}")
+        
+        # Extract key data
+        careers_pages = enrichment_data.get('careers', {}).get('careers_pages', [])
+        product_pages = enrichment_data.get('products', {}).get('product_pages', [])
+        background_pages = enrichment_data.get('background', {}).get('background_pages', [])
+        
+        # Prepare company insights
+        company_insights = {
+            'domain': domain,
+            'company_name': enrichment_data.get('company_name', domain),
+            'careers_url': careers_pages[0].get('url') if careers_pages else None,
+            'careers_count': len(careers_pages),
+            'products_count': len(product_pages),
+            'background_count': len(background_pages),
+            'total_pages': enrichment_data.get('total_pages', 0),
+            'enriched_at': enrichment_data.get('timestamp'),
+            'exa_sourced': True,
+            'source': 'admin_page_27_exa_intelligence'
+        }
+        
+        # Extract top keywords from product pages
+        product_keywords = []
+        for page in product_pages[:3]:
+            title = page.get('title', '')
+            # Simple keyword extraction from titles
+            if title:
+                product_keywords.extend([w for w in title.split() if len(w) > 3])
+        company_insights['product_keywords'] = list(set(product_keywords))[:10]
+        
+        # Sync to user portal (for job discovery and dual career features)
+        if target_users:
+            for user_id in target_users:
+                self.user_portal.update_user_data(user_id, {
+                    f'company_insights_{domain}': company_insights,
+                    'exa_enhanced': True
+                })
+        else:
+            # Broadcast to all users
+            self.user_portal.push_admin_update('exa_company_insights', {
+                f'company_insights_{domain}': company_insights,
+                'exa_enhanced': True,
+                'broadcast': True
+            })
+        
+        # Sync to backend
+        self.backend.push_backend_update('exa_company_enrichment', {
+            'domain': domain,
+            'enrichment_data': enrichment_data,
+            'company_insights': company_insights,
+            'source_page': 'admin_page_27',
+            'exa_version': '1.0',
+            'integration_timestamp': datetime.now().isoformat()
+        })
+        
+        self.logger.info(f"✅ Exa company data synced for {domain}: {company_insights['total_pages']} pages")
+
+    def sync_exa_market_intelligence(self, market_data: Dict[str, Any]):
+        """
+        Sync Exa market intelligence to Admin Pages 10-12.
+        
+        Integrates Exa deep web data into:
+        - Admin Page 10: Market Intelligence Center
+        - Admin Page 11: Competitive Intelligence
+        - Admin Page 12: Web Company Intelligence
+        
+        Args:
+            market_data: Aggregated market intelligence from Exa searches
+        """
+        self.logger.info("Syncing Exa market intelligence to admin pages")
+        
+        # Sync to backend for admin pages
+        self.backend.push_backend_update('exa_market_intelligence', {
+            'market_data': market_data,
+            'target_pages': ['admin_10', 'admin_11', 'admin_12'],
+            'source': 'admin_page_27_exa_intelligence',
+            'update_type': 'market_intelligence_update',
+            'timestamp': datetime.now().isoformat()
+        })
+        
+        # Update lockstep state for admin pages
+        self.lockstep_manager.acquire_lock('exa_market_update')
+        try:
+            for page in ['admin_10', 'admin_11', 'admin_12']:
+                self.lockstep_manager.sync_state[page] = {
+                    'exa_enhanced': True,
+                    'last_exa_update': datetime.now().isoformat(),
+                    'market_data_available': True
+                }
+        finally:
+            self.lockstep_manager.release_lock('exa_market_update')
+        
+        self.logger.info("✅ Exa market intelligence synced to admin pages 10-12")
+    
+    def sync_exa_batch_enrichment(self, domains: List[str], enrichment_results: List[Dict[str, Any]]):
+        """
+        Sync batch Exa enrichment results (for background workers in Phase 3).
+        
+        Args:
+            domains: List of company domains enriched
+            enrichment_results: List of enrichment data dictionaries
+        """
+        self.logger.info(f"Syncing batch Exa enrichment for {len(domains)} companies")
+        
+        for domain, data in zip(domains, enrichment_results):
+            try:
+                self.sync_exa_company_data(domain, data)
+            except Exception as e:
+                self.logger.error(f"Failed to sync Exa data for {domain}: {e}")
+        
+        # Update batch status
+        self.backend.push_backend_update('exa_batch_complete', {
+            'total_domains': len(domains),
+            'successful_syncs': len([d for d in enrichment_results if d.get('total_pages', 0) > 0]),
+            'timestamp': datetime.now().isoformat()
+        })
+        
+        self.logger.info(f"✅ Batch Exa enrichment sync complete: {len(domains)} companies")
+
     def get_integration_status(self) -> Dict[str, Any]:
         """Get comprehensive integration status."""
         return {

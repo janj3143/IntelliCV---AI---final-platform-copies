@@ -1,0 +1,47 @@
+{
+  "deployment_info": {
+    "version": "1.0.0",
+    "deployed_at": "2025-09-23T15:18:43.522569",
+    "deployed_by": "IntelliCV Security System"
+  },
+  "security_settings": {
+    "rate_limiting": {
+      "login_attempts": {
+        "limit": 5,
+        "window": 300
+      },
+      "api_requests": {
+        "limit": 100,
+        "window": 60
+      },
+      "email_processing": {
+        "limit": 50,
+        "window": 300
+      }
+    },
+    "threat_detection": {
+      "sql_injection": true,
+      "xss_protection": true,
+      "phishing_detection": true,
+      "dos_protection": true
+    },
+    "session_security": {
+      "secure_cookies": true,
+      "csrf_protection": true,
+      "session_timeout": 3600,
+      "ip_binding": true
+    },
+    "logging": {
+      "security_incidents": true,
+      "access_logs": true,
+      "threat_analysis": true
+    }
+  },
+  "protected_endpoints": [
+    "/admin",
+    "/users",
+    "/settings",
+    "/security",
+    "/api"
+  ]
+}
